@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tuaigh" disambig="">
+  <verbalNoun default="tua" />
+  <verbalAdjective default="tuaite" />
+  <tenseForm default="tuaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tuamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tuamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuaiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuaití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuaiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuaití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tuafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tuafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tuafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tuafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tuafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tuafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tuafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tuadh" mood="Imper" person="Base" />
+  <moodForm default="tuaim" mood="Imper" person="Sg1" />
+  <moodForm default="tuaigh" mood="Imper" person="Sg2" />
+  <moodForm default="tuaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tuaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tuaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tuaitear" mood="Imper" person="Auto" />
+  <moodForm default="tua" mood="Subj" person="Base" />
+  <moodForm default="tuaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tuaitear" mood="Subj" person="Auto" />
+</verb>

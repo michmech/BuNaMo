@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="taifead" disambig="">
+  <verbalNoun default="taifeadadh" />
+  <verbalAdjective default="taifeadta" />
+  <tenseForm default="taifead" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="taifeadamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="taifeadadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="taifeadadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="taifead" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="taifeadamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="taifeadadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="taifeadadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="taifeadadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="taifeadainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taifeadtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="taifeadaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taifeadaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="taifeadtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taifeadadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="taifeadainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taifeadtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="taifeadaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taifeadaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="taifeadtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taifeadann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="taifeadaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taifeadaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taifeadtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taifeadann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="taifeadaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taifeadaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taifeadtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taifeadfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="taifeadfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="taifeadfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="taifeadfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="taifeadfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="taifeadfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="taifeadfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="taifeadfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="taifeadfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="taifeadfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="taifeadfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="taifeadfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="taifeadfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="taifeadfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="taifeadfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="taifeadfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="taifeadfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="taifeadfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="taifeadadh" mood="Imper" person="Base" />
+  <moodForm default="taifeadaim" mood="Imper" person="Sg1" />
+  <moodForm default="taifead" mood="Imper" person="Sg2" />
+  <moodForm default="taifeadaimis" mood="Imper" person="Pl1" />
+  <moodForm default="taifeadaigí" mood="Imper" person="Pl2" />
+  <moodForm default="taifeadaidís" mood="Imper" person="Pl3" />
+  <moodForm default="taifeadtar" mood="Imper" person="Auto" />
+  <moodForm default="taifeada" mood="Subj" person="Base" />
+  <moodForm default="taifeadaimid" mood="Subj" person="Pl1" />
+  <moodForm default="taifeadtar" mood="Subj" person="Auto" />
+</verb>

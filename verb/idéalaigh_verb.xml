@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="idéalaigh" disambig="">
+  <verbalNoun default="idéalú" />
+  <verbalAdjective default="idéalaithe" />
+  <tenseForm default="idéalaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="idéalaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="idéalaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="idéalaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="idéalaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="idéalaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="idéalaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="idéalaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="idéalaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="idéalaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idéalaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="idéalaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idéalaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="idéalaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idéalaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="idéalaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idéalaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="idéalaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idéalaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="idéalaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idéalaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="idéalaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idéalaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idéalaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idéalaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="idéalaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idéalaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idéalaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idéalóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="idéalóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="idéalófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="idéalóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="idéalóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="idéalófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="idéalódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="idéalóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="idéalófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="idéalóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="idéalóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="idéalófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="idéalódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="idéalóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="idéalófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="idéalóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="idéalóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="idéalófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="idéalaíodh" mood="Imper" person="Base" />
+  <moodForm default="idéalaím" mood="Imper" person="Sg1" />
+  <moodForm default="idéalaigh" mood="Imper" person="Sg2" />
+  <moodForm default="idéalaímis" mood="Imper" person="Pl1" />
+  <moodForm default="idéalaígí" mood="Imper" person="Pl2" />
+  <moodForm default="idéalaídís" mood="Imper" person="Pl3" />
+  <moodForm default="idéalaítear" mood="Imper" person="Auto" />
+  <moodForm default="idéalaí" mood="Subj" person="Base" />
+  <moodForm default="idéalaímid" mood="Subj" person="Pl1" />
+  <moodForm default="idéalaítear" mood="Subj" person="Auto" />
+</verb>

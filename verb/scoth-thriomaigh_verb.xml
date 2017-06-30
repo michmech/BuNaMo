@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scoth-thriomaigh" disambig="">
+  <verbalNoun default="scoth-thriomú" />
+  <verbalAdjective default="scoth-thriomaithe" />
+  <tenseForm default="scoth-thriomaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scoth-thriomaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoth-thriomaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoth-thriomaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scoth-thriomaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scoth-thriomaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoth-thriomaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoth-thriomaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scoth-thriomaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scoth-thriomaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoth-thriomaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scoth-thriomaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoth-thriomaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoth-thriomaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scoth-thriomaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scoth-thriomaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoth-thriomaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scoth-thriomaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoth-thriomaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoth-thriomaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scoth-thriomaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scoth-thriomaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoth-thriomaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoth-thriomaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scoth-thriomaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scoth-thriomaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoth-thriomaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoth-thriomaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scoth-thriomóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scoth-thriomóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoth-thriomófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scoth-thriomóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scoth-thriomóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoth-thriomófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scoth-thriomódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scoth-thriomóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoth-thriomófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scoth-thriomóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoth-thriomóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoth-thriomófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scoth-thriomódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scoth-thriomóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoth-thriomófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scoth-thriomóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoth-thriomóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoth-thriomófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scoth-thriomaíodh" mood="Imper" person="Base" />
+  <moodForm default="scoth-thriomaím" mood="Imper" person="Sg1" />
+  <moodForm default="scoth-thriomaigh" mood="Imper" person="Sg2" />
+  <moodForm default="scoth-thriomaímis" mood="Imper" person="Pl1" />
+  <moodForm default="scoth-thriomaígí" mood="Imper" person="Pl2" />
+  <moodForm default="scoth-thriomaídís" mood="Imper" person="Pl3" />
+  <moodForm default="scoth-thriomaítear" mood="Imper" person="Auto" />
+  <moodForm default="scoth-thriomaí" mood="Subj" person="Base" />
+  <moodForm default="scoth-thriomaímid" mood="Subj" person="Pl1" />
+  <moodForm default="scoth-thriomaítear" mood="Subj" person="Auto" />
+</verb>

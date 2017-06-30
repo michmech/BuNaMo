@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coc" disambig="">
+  <verbalNoun default="cocadh" />
+  <verbalAdjective default="coctha" />
+  <tenseForm default="coc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cocamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cocadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cocamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cocadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cocadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cocainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cocaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cocaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cocadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cocainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cocaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cocaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cocann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cocaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cocaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cocann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cocaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cocaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cocfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cocfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cocfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cocfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cocfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cocfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cocfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cocfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cocfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cocfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cocfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cocfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cocfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cocfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cocfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cocfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cocfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cocfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cocadh" mood="Imper" person="Base" />
+  <moodForm default="cocaim" mood="Imper" person="Sg1" />
+  <moodForm default="coc" mood="Imper" person="Sg2" />
+  <moodForm default="cocaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cocaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cocaidís" mood="Imper" person="Pl3" />
+  <moodForm default="coctar" mood="Imper" person="Auto" />
+  <moodForm default="coca" mood="Subj" person="Base" />
+  <moodForm default="cocaimid" mood="Subj" person="Pl1" />
+  <moodForm default="coctar" mood="Subj" person="Auto" />
+</verb>

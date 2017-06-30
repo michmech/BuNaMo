@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="meas" disambig="">
+  <verbalNoun default="meas" />
+  <verbalAdjective default="measta" />
+  <tenseForm default="meas" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="measamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="measadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="measadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="meas" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="measamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="measadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="measadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="measadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="measainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="meastá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="measaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="measaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="meastaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="measadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="measainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="meastá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="measaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="measaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="meastaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="measann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="measaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="measaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="meastar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="measann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="measaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="measaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="meastar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="measfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="measfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="measfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="measfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="measfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="measfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="measfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="measfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="measfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="measfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="measfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="measfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="measfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="measfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="measfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="measfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="measfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="measfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="measadh" mood="Imper" person="Base" />
+  <moodForm default="measaim" mood="Imper" person="Sg1" />
+  <moodForm default="meas" mood="Imper" person="Sg2" />
+  <moodForm default="measaimis" mood="Imper" person="Pl1" />
+  <moodForm default="measaigí" mood="Imper" person="Pl2" />
+  <moodForm default="measaidís" mood="Imper" person="Pl3" />
+  <moodForm default="meastar" mood="Imper" person="Auto" />
+  <moodForm default="measa" mood="Subj" person="Base" />
+  <moodForm default="measaimid" mood="Subj" person="Pl1" />
+  <moodForm default="meastar" mood="Subj" person="Auto" />
+</verb>

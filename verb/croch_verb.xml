@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="croch" disambig="">
+  <verbalNoun default="crochadh" />
+  <verbalAdjective default="crochta" />
+  <tenseForm default="croch" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="crochamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="crochadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="crochadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="croch" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="crochamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="crochadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="crochadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="crochadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="crochainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crochtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="crochaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crochaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="crochtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crochadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="crochainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crochtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="crochaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crochaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="crochtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crochann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="crochaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crochaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crochtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crochann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="crochaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crochaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crochtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crochfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="crochfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="crochfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="crochfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="crochfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="crochfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="crochfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="crochfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="crochfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="crochfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="crochfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="crochfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="crochfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="crochfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="crochfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="crochfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="crochfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="crochfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="crochadh" mood="Imper" person="Base" />
+  <moodForm default="crochaim" mood="Imper" person="Sg1" />
+  <moodForm default="croch" mood="Imper" person="Sg2" />
+  <moodForm default="crochaimis" mood="Imper" person="Pl1" />
+  <moodForm default="crochaigí" mood="Imper" person="Pl2" />
+  <moodForm default="crochaidís" mood="Imper" person="Pl3" />
+  <moodForm default="crochtar" mood="Imper" person="Auto" />
+  <moodForm default="crocha" mood="Subj" person="Base" />
+  <moodForm default="crochaimid" mood="Subj" person="Pl1" />
+  <moodForm default="crochtar" mood="Subj" person="Auto" />
+</verb>

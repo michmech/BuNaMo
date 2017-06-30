@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="smear" disambig="">
+  <verbalNoun default="smearadh" />
+  <verbalAdjective default="smeartha" />
+  <tenseForm default="smear" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="smearamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="smearadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="smearadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="smear" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="smearamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="smearadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="smearadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="smearadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="smearainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smeartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="smearaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smearaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="smeartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smearadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="smearainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smeartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="smearaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smearaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="smeartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smearann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="smearaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smearaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smeartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smearann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="smearaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smearaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smeartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smearfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="smearfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="smearfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="smearfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="smearfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="smearfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="smearfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="smearfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="smearfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="smearfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="smearfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="smearfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="smearfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="smearfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="smearfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="smearfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="smearfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="smearfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="smearadh" mood="Imper" person="Base" />
+  <moodForm default="smearaim" mood="Imper" person="Sg1" />
+  <moodForm default="smear" mood="Imper" person="Sg2" />
+  <moodForm default="smearaimis" mood="Imper" person="Pl1" />
+  <moodForm default="smearaigí" mood="Imper" person="Pl2" />
+  <moodForm default="smearaidís" mood="Imper" person="Pl3" />
+  <moodForm default="smeartar" mood="Imper" person="Auto" />
+  <moodForm default="smeara" mood="Subj" person="Base" />
+  <moodForm default="smearaimid" mood="Subj" person="Pl1" />
+  <moodForm default="smeartar" mood="Subj" person="Auto" />
+</verb>

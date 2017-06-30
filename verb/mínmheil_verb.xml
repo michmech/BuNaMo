@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mínmheil" disambig="">
+  <verbalNoun default="mínmheilt" />
+  <verbalAdjective default="mínmheilte" />
+  <tenseForm default="mínmheil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mínmheileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mínmheileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mínmheileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mínmheil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mínmheileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mínmheileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mínmheileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mínmheileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mínmheilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mínmheilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mínmheilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mínmheilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mínmheiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mínmheileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mínmheilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mínmheilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mínmheilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mínmheilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mínmheiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mínmheileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mínmheilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mínmheilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mínmheiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mínmheileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mínmheilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mínmheilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mínmheiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mínmheilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mínmheilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mínmheilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mínmheilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mínmheilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mínmheilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mínmheilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mínmheilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mínmheilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mínmheilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mínmheilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mínmheilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mínmheilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mínmheilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mínmheilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mínmheilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mínmheilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mínmheilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mínmheileadh" mood="Imper" person="Base" />
+  <moodForm default="mínmheilim" mood="Imper" person="Sg1" />
+  <moodForm default="mínmheil" mood="Imper" person="Sg2" />
+  <moodForm default="mínmheilimis" mood="Imper" person="Pl1" />
+  <moodForm default="mínmheiligí" mood="Imper" person="Pl2" />
+  <moodForm default="mínmheilidís" mood="Imper" person="Pl3" />
+  <moodForm default="mínmheiltear" mood="Imper" person="Auto" />
+  <moodForm default="mínmheile" mood="Subj" person="Base" />
+  <moodForm default="mínmheilimid" mood="Subj" person="Pl1" />
+  <moodForm default="mínmheiltear" mood="Subj" person="Auto" />
+</verb>

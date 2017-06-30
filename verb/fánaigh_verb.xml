@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fánaigh" disambig="">
+  <verbalNoun default="fánú" />
+  <verbalAdjective default="fánaithe" />
+  <tenseForm default="fánaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fánaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fánaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fánaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fánaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fánaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fánaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fánaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fánaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fánaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fánaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fánaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fánaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fánaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fánaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fánaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fánaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fánaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fánaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fánaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fánaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fánaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fánaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fánaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fánaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fánaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fánaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fánaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fánóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fánóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fánófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fánóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fánóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fánófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fánódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fánóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fánófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fánóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fánóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fánófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fánódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fánóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fánófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fánóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fánóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fánófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fánaíodh" mood="Imper" person="Base" />
+  <moodForm default="fánaím" mood="Imper" person="Sg1" />
+  <moodForm default="fánaigh" mood="Imper" person="Sg2" />
+  <moodForm default="fánaímis" mood="Imper" person="Pl1" />
+  <moodForm default="fánaígí" mood="Imper" person="Pl2" />
+  <moodForm default="fánaídís" mood="Imper" person="Pl3" />
+  <moodForm default="fánaítear" mood="Imper" person="Auto" />
+  <moodForm default="fánaí" mood="Subj" person="Base" />
+  <moodForm default="fánaímid" mood="Subj" person="Pl1" />
+  <moodForm default="fánaítear" mood="Subj" person="Auto" />
+</verb>

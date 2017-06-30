@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="maolaigh" disambig="">
+  <verbalNoun default="maolú" />
+  <verbalAdjective default="maolaithe" />
+  <tenseForm default="maolaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="maolaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="maolaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="maolaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="maolaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="maolaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="maolaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="maolaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="maolaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="maolaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maolaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="maolaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maolaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="maolaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maolaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="maolaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maolaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="maolaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maolaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="maolaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maolaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="maolaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maolaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maolaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maolaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="maolaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maolaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maolaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maolóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="maolóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="maolófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="maolóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="maolóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="maolófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="maolódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="maolóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="maolófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="maolóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="maolóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="maolófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="maolódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="maolóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="maolófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="maolóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="maolóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="maolófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="maolaíodh" mood="Imper" person="Base" />
+  <moodForm default="maolaím" mood="Imper" person="Sg1" />
+  <moodForm default="maolaigh" mood="Imper" person="Sg2" />
+  <moodForm default="maolaímis" mood="Imper" person="Pl1" />
+  <moodForm default="maolaígí" mood="Imper" person="Pl2" />
+  <moodForm default="maolaídís" mood="Imper" person="Pl3" />
+  <moodForm default="maolaítear" mood="Imper" person="Auto" />
+  <moodForm default="maolaí" mood="Subj" person="Base" />
+  <moodForm default="maolaímid" mood="Subj" person="Pl1" />
+  <moodForm default="maolaítear" mood="Subj" person="Auto" />
+</verb>

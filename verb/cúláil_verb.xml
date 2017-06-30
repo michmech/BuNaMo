@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cúláil" disambig="">
+  <verbalNoun default="cúláil" />
+  <verbalAdjective default="cúláilte" />
+  <tenseForm default="cúláil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cúlálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúláladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúláladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cúláil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cúlálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúláladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúláladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cúláladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúlálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúláilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúlálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúláiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúláladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúlálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúláilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúlálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúláiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúlálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúláiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúlálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúláiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cúlálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cúlálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cúlálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúlálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúlálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cúlálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúlálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúlálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cúláladh" mood="Imper" person="Base" />
+  <moodForm default="cúlálaim" mood="Imper" person="Sg1" />
+  <moodForm default="cúláil" mood="Imper" person="Sg2" />
+  <moodForm default="cúlálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cúlálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cúlálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cúláiltear" mood="Imper" person="Auto" />
+  <moodForm default="cúlála" mood="Subj" person="Base" />
+  <moodForm default="cúlálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cúláiltear" mood="Subj" person="Auto" />
+</verb>

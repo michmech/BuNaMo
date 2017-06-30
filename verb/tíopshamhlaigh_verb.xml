@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tíopshamhlaigh" disambig="">
+  <verbalNoun default="tíopshamhlú" />
+  <verbalAdjective default="tíopshamhlaithe" />
+  <tenseForm default="tíopshamhlaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tíopshamhlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíopshamhlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíopshamhlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tíopshamhlaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tíopshamhlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíopshamhlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíopshamhlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tíopshamhlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíopshamhlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíopshamhlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíopshamhlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíopshamhlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíopshamhlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíopshamhlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíopshamhlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíopshamhlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíopshamhlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíopshamhlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíopshamhlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíopshamhlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíopshamhlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíopshamhlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíopshamhlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíopshamhlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíopshamhlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíopshamhlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíopshamhlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíopshamhlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tíopshamhlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíopshamhlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tíopshamhlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tíopshamhlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíopshamhlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tíopshamhlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tíopshamhlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíopshamhlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíopshamhlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíopshamhlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíopshamhlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tíopshamhlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tíopshamhlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíopshamhlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíopshamhlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíopshamhlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíopshamhlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tíopshamhlaíodh" mood="Imper" person="Base" />
+  <moodForm default="tíopshamhlaím" mood="Imper" person="Sg1" />
+  <moodForm default="tíopshamhlaigh" mood="Imper" person="Sg2" />
+  <moodForm default="tíopshamhlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="tíopshamhlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="tíopshamhlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="tíopshamhlaítear" mood="Imper" person="Auto" />
+  <moodForm default="tíopshamhlaí" mood="Subj" person="Base" />
+  <moodForm default="tíopshamhlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="tíopshamhlaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ceil" disambig="">
+  <verbalNoun default="ceilt" />
+  <verbalAdjective default="ceilte" />
+  <tenseForm default="ceil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ceileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ceil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ceileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ceileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ceilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ceilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ceilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ceilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ceilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ceilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ceilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ceileadh" mood="Imper" person="Base" />
+  <moodForm default="ceilim" mood="Imper" person="Sg1" />
+  <moodForm default="ceil" mood="Imper" person="Sg2" />
+  <moodForm default="ceilimis" mood="Imper" person="Pl1" />
+  <moodForm default="ceiligí" mood="Imper" person="Pl2" />
+  <moodForm default="ceilidís" mood="Imper" person="Pl3" />
+  <moodForm default="ceiltear" mood="Imper" person="Auto" />
+  <moodForm default="ceile" mood="Subj" person="Base" />
+  <moodForm default="ceilimid" mood="Subj" person="Pl1" />
+  <moodForm default="ceiltear" mood="Subj" person="Auto" />
+</verb>

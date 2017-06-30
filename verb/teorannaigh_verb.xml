@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="teorannaigh" disambig="">
+  <verbalNoun default="teorannú" />
+  <verbalAdjective default="teorannaithe" />
+  <tenseForm default="teorannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="teorannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="teorannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="teorannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="teorannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="teorannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="teorannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="teorannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="teorannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="teorannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teorannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="teorannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teorannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="teorannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teorannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="teorannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teorannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="teorannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teorannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="teorannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teorannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="teorannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teorannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teorannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teorannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="teorannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teorannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teorannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teorannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="teorannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="teorannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="teorannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="teorannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="teorannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="teorannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="teorannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="teorannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="teorannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="teorannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="teorannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="teorannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="teorannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="teorannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="teorannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="teorannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="teorannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="teorannaíodh" mood="Imper" person="Base" />
+  <moodForm default="teorannaím" mood="Imper" person="Sg1" />
+  <moodForm default="teorannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="teorannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="teorannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="teorannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="teorannaítear" mood="Imper" person="Auto" />
+  <moodForm default="teorannaí" mood="Subj" person="Base" />
+  <moodForm default="teorannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="teorannaítear" mood="Subj" person="Auto" />
+</verb>

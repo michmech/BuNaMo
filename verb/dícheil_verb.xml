@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dícheil" disambig="">
+  <verbalNoun default="dícheilt" />
+  <verbalAdjective default="dícheilte" />
+  <tenseForm default="dícheil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dícheileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dícheileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dícheileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dícheil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dícheileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dícheileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dícheileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dícheileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dícheilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dícheilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dícheilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dícheilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dícheiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dícheileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dícheilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dícheilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dícheilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dícheilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dícheiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dícheileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dícheilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dícheilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dícheiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dícheileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dícheilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dícheilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dícheiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dícheilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dícheilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dícheilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dícheilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dícheilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dícheilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dícheilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dícheilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dícheilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dícheilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dícheilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dícheilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dícheilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dícheilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dícheilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dícheilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dícheilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dícheilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dícheileadh" mood="Imper" person="Base" />
+  <moodForm default="dícheilim" mood="Imper" person="Sg1" />
+  <moodForm default="dícheil" mood="Imper" person="Sg2" />
+  <moodForm default="dícheilimis" mood="Imper" person="Pl1" />
+  <moodForm default="dícheiligí" mood="Imper" person="Pl2" />
+  <moodForm default="dícheilidís" mood="Imper" person="Pl3" />
+  <moodForm default="dícheiltear" mood="Imper" person="Auto" />
+  <moodForm default="dícheile" mood="Subj" person="Base" />
+  <moodForm default="dícheilimid" mood="Subj" person="Pl1" />
+  <moodForm default="dícheiltear" mood="Subj" person="Auto" />
+</verb>

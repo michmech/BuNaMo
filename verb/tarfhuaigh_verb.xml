@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tarfhuaigh" disambig="">
+  <verbalNoun default="tarfhuáil" />
+  <verbalAdjective default="tarfhuaite" />
+  <tenseForm default="tarfhuaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tarfhuamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarfhuadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarfhuadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tarfhuaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tarfhuamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarfhuadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarfhuadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tarfhuadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarfhuainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarfhuaiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarfhuaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarfhuaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarfhuaití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarfhuadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarfhuainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarfhuaiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarfhuaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarfhuaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarfhuaití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarfhuann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarfhuaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarfhuaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarfhuaitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarfhuann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarfhuaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarfhuaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarfhuaitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarfhuafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tarfhuafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarfhuafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tarfhuafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tarfhuafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarfhuafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tarfhuafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tarfhuafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarfhuafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarfhuafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarfhuafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarfhuafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tarfhuafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tarfhuafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarfhuafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarfhuafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarfhuafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarfhuafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tarfhuadh" mood="Imper" person="Base" />
+  <moodForm default="tarfhuaim" mood="Imper" person="Sg1" />
+  <moodForm default="tarfhuaigh" mood="Imper" person="Sg2" />
+  <moodForm default="tarfhuaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tarfhuaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tarfhuaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tarfhuaitear" mood="Imper" person="Auto" />
+  <moodForm default="tarfhua" mood="Subj" person="Base" />
+  <moodForm default="tarfhuaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tarfhuaitear" mood="Subj" person="Auto" />
+</verb>

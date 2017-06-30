@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="splanc" disambig="">
+  <verbalNoun default="splancadh" />
+  <verbalAdjective default="splanctha" />
+  <tenseForm default="splanc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="splancamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="splancadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="splancadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="splanc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="splancamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="splancadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="splancadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="splancadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="splancainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="splanctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="splancaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="splancaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="splanctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="splancadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="splancainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="splanctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="splancaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="splancaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="splanctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="splancann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="splancaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="splancaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="splanctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="splancann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="splancaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="splancaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="splanctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="splancfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="splancfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="splancfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="splancfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="splancfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="splancfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="splancfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="splancfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="splancfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="splancfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="splancfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="splancfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="splancfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="splancfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="splancfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="splancfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="splancfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="splancfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="splancadh" mood="Imper" person="Base" />
+  <moodForm default="splancaim" mood="Imper" person="Sg1" />
+  <moodForm default="splanc" mood="Imper" person="Sg2" />
+  <moodForm default="splancaimis" mood="Imper" person="Pl1" />
+  <moodForm default="splancaigí" mood="Imper" person="Pl2" />
+  <moodForm default="splancaidís" mood="Imper" person="Pl3" />
+  <moodForm default="splanctar" mood="Imper" person="Auto" />
+  <moodForm default="splanca" mood="Subj" person="Base" />
+  <moodForm default="splancaimid" mood="Subj" person="Pl1" />
+  <moodForm default="splanctar" mood="Subj" person="Auto" />
+</verb>

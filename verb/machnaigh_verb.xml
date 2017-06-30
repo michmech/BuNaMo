@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="machnaigh" disambig="">
+  <verbalNoun default="machnamh" />
+  <verbalAdjective default="machnaithe" />
+  <tenseForm default="machnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="machnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="machnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="machnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="machnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="machnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="machnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="machnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="machnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="machnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="machnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="machnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="machnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="machnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="machnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="machnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="machnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="machnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="machnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="machnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="machnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="machnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="machnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="machnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="machnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="machnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="machnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="machnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="machnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="machnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="machnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="machnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="machnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="machnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="machnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="machnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="machnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="machnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="machnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="machnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="machnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="machnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="machnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="machnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="machnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="machnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="machnaíodh" mood="Imper" person="Base" />
+  <moodForm default="machnaím" mood="Imper" person="Sg1" />
+  <moodForm default="machnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="machnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="machnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="machnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="machnaítear" mood="Imper" person="Auto" />
+  <moodForm default="machnaí" mood="Subj" person="Base" />
+  <moodForm default="machnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="machnaítear" mood="Subj" person="Auto" />
+</verb>

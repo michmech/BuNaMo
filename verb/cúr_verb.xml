@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cúr" disambig="">
+  <verbalNoun default="cúradh" />
+  <verbalAdjective default="cúrtha" />
+  <tenseForm default="cúr" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cúramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúr" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cúramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúrainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúrtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúrtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúrainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúrtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúrtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúrann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúrtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúrann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúrtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúrfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cúrfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúrfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cúrfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cúrfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúrfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cúrfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cúrfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúrfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúrfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúrfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúrfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cúrfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cúrfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúrfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúrfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúrfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúrfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cúradh" mood="Imper" person="Base" />
+  <moodForm default="cúraim" mood="Imper" person="Sg1" />
+  <moodForm default="cúr" mood="Imper" person="Sg2" />
+  <moodForm default="cúraimis" mood="Imper" person="Pl1" />
+  <moodForm default="cúraigí" mood="Imper" person="Pl2" />
+  <moodForm default="cúraidís" mood="Imper" person="Pl3" />
+  <moodForm default="cúrtar" mood="Imper" person="Auto" />
+  <moodForm default="cúra" mood="Subj" person="Base" />
+  <moodForm default="cúraimid" mood="Subj" person="Pl1" />
+  <moodForm default="cúrtar" mood="Subj" person="Auto" />
+</verb>

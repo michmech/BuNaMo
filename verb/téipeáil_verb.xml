@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="téipeáil" disambig="">
+  <verbalNoun default="téipeáil" />
+  <verbalAdjective default="téipeáilte" />
+  <tenseForm default="téipeáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="téipeálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="téipeáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="téipeáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="téipeáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="téipeálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="téipeáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="téipeáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="téipeáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="téipeálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="téipeáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="téipeálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="téipeálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="téipeáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="téipeáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="téipeálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="téipeáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="téipeálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="téipeálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="téipeáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="téipeálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="téipeálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="téipeálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="téipeáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="téipeálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="téipeálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="téipeálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="téipeáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="téipeálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="téipeálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="téipeálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="téipeálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="téipeálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="téipeálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="téipeálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="téipeálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="téipeálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="téipeálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="téipeálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="téipeálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="téipeálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="téipeálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="téipeálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="téipeálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="téipeálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="téipeálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="téipeáladh" mood="Imper" person="Base" />
+  <moodForm default="téipeálaim" mood="Imper" person="Sg1" />
+  <moodForm default="téipeáil" mood="Imper" person="Sg2" />
+  <moodForm default="téipeálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="téipeálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="téipeálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="téipeáiltear" mood="Imper" person="Auto" />
+  <moodForm default="téipeála" mood="Subj" person="Base" />
+  <moodForm default="téipeálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="téipeáiltear" mood="Subj" person="Auto" />
+</verb>

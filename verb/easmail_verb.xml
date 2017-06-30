@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="easmail" disambig="">
+  <verbalNoun default="easmailt" />
+  <verbalAdjective default="easmailte" />
+  <tenseForm default="easmail" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="easmaileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="easmaileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="easmaileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="easmail" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="easmaileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="easmaileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="easmaileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="easmaileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="easmailinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="easmailteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="easmailimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="easmailidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="easmailtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="easmaileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="easmailinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="easmailteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="easmailimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="easmailidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="easmailtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="easmaileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="easmailim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="easmailimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="easmailtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="easmaileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="easmailim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="easmailimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="easmailtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="easmailfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="easmailfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="easmailfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="easmailfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="easmailfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="easmailfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="easmailfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="easmailfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="easmailfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="easmailfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="easmailfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="easmailfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="easmailfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="easmailfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="easmailfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="easmailfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="easmailfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="easmailfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="easmaileadh" mood="Imper" person="Base" />
+  <moodForm default="easmailim" mood="Imper" person="Sg1" />
+  <moodForm default="easmail" mood="Imper" person="Sg2" />
+  <moodForm default="easmailimis" mood="Imper" person="Pl1" />
+  <moodForm default="easmailigí" mood="Imper" person="Pl2" />
+  <moodForm default="easmailidís" mood="Imper" person="Pl3" />
+  <moodForm default="easmailtear" mood="Imper" person="Auto" />
+  <moodForm default="easmaile" mood="Subj" person="Base" />
+  <moodForm default="easmailimid" mood="Subj" person="Pl1" />
+  <moodForm default="easmailtear" mood="Subj" person="Auto" />
+</verb>

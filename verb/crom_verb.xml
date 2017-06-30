@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="crom" disambig="">
+  <verbalNoun default="cromadh" />
+  <verbalAdjective default="cromtha" />
+  <tenseForm default="crom" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cromamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cromadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cromadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="crom" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cromamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cromadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cromadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cromadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cromainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cromtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cromaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cromaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cromtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cromadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cromainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cromtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cromaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cromaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cromtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cromann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cromaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cromaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cromtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cromann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cromaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cromaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cromtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cromfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cromfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cromfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cromfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cromfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cromfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cromfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cromfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cromfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cromfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cromfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cromfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cromfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cromfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cromfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cromfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cromfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cromfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cromadh" mood="Imper" person="Base" />
+  <moodForm default="cromaim" mood="Imper" person="Sg1" />
+  <moodForm default="crom" mood="Imper" person="Sg2" />
+  <moodForm default="cromaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cromaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cromaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cromtar" mood="Imper" person="Auto" />
+  <moodForm default="croma" mood="Subj" person="Base" />
+  <moodForm default="cromaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cromtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,68 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bí" disambig="">
+  <verbalNoun default="bheith" />
+  <tenseForm default="bí" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bíothas" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="raibh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rabhamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rabhadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rabhthas" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tá" tense="Pres" dependency="Indep" person="Base" />
+  <tenseForm default="táim" tense="Pres" dependency="Indep" person="Sg1" />
+  <tenseForm default="táimid" tense="Pres" dependency="Indep" person="Pl1" />
+  <tenseForm default="táthar" tense="Pres" dependency="Indep" person="Auto" />
+  <tenseForm default="fuil" tense="Pres" dependency="Dep" person="Base" />
+  <tenseForm default="fuilim" tense="Pres" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuilimid" tense="Pres" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuiltear" tense="Pres" dependency="Dep" person="Auto" />
+  <tenseForm default="bíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="beimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="beifear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="beidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="beimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="beifear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="beadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="beinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="beifeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="beimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="beidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="beifí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="beadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="beinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="beifeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="beimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="beidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="beifí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bíodh" mood="Imper" person="Base" />
+  <moodForm default="bím" mood="Imper" person="Sg1" />
+  <moodForm default="bí" mood="Imper" person="Sg2" />
+  <moodForm default="bímis" mood="Imper" person="Pl1" />
+  <moodForm default="bígí" mood="Imper" person="Pl2" />
+  <moodForm default="bídís" mood="Imper" person="Pl3" />
+  <moodForm default="bítear" mood="Imper" person="Auto" />
+  <moodForm default="raibh" mood="Subj" person="Base" />
+  <moodForm default="rabhaimid" mood="Subj" person="Pl1" />
+  <moodForm default="rabhtar" mood="Subj" person="Auto" />
+</verb>

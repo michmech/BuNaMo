@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="taobhaigh" disambig="">
+  <verbalNoun default="taobhú" />
+  <verbalAdjective default="taobhaithe" />
+  <tenseForm default="taobhaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="taobhaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="taobhaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="taobhaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="taobhaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="taobhaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="taobhaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="taobhaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="taobhaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="taobhaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taobhaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="taobhaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taobhaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="taobhaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taobhaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="taobhaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taobhaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="taobhaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taobhaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="taobhaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taobhaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="taobhaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taobhaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taobhaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taobhaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="taobhaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taobhaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taobhaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taobhóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="taobhóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="taobhófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="taobhóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="taobhóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="taobhófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="taobhódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="taobhóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="taobhófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="taobhóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="taobhóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="taobhófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="taobhódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="taobhóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="taobhófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="taobhóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="taobhóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="taobhófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="taobhaíodh" mood="Imper" person="Base" />
+  <moodForm default="taobhaím" mood="Imper" person="Sg1" />
+  <moodForm default="taobhaigh" mood="Imper" person="Sg2" />
+  <moodForm default="taobhaímis" mood="Imper" person="Pl1" />
+  <moodForm default="taobhaígí" mood="Imper" person="Pl2" />
+  <moodForm default="taobhaídís" mood="Imper" person="Pl3" />
+  <moodForm default="taobhaítear" mood="Imper" person="Auto" />
+  <moodForm default="taobhaí" mood="Subj" person="Base" />
+  <moodForm default="taobhaímid" mood="Subj" person="Pl1" />
+  <moodForm default="taobhaítear" mood="Subj" person="Auto" />
+</verb>

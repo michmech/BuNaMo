@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="barrchaolaigh" disambig="">
+  <verbalNoun default="barrchaolú" />
+  <verbalAdjective default="barrchaolaithe" />
+  <tenseForm default="barrchaolaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="barrchaolaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrchaolaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="barrchaolaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="barrchaolaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="barrchaolaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrchaolaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="barrchaolaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="barrchaolaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="barrchaolaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="barrchaolaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="barrchaolaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrchaolaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="barrchaolaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="barrchaolaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="barrchaolaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="barrchaolaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="barrchaolaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrchaolaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="barrchaolaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="barrchaolaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="barrchaolaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="barrchaolaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrchaolaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="barrchaolaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="barrchaolaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="barrchaolaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrchaolaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="barrchaolóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="barrchaolóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrchaolófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="barrchaolóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="barrchaolóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrchaolófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="barrchaolódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="barrchaolóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="barrchaolófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="barrchaolóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrchaolóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="barrchaolófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="barrchaolódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="barrchaolóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="barrchaolófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="barrchaolóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrchaolóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="barrchaolófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="barrchaolaíodh" mood="Imper" person="Base" />
+  <moodForm default="barrchaolaím" mood="Imper" person="Sg1" />
+  <moodForm default="barrchaolaigh" mood="Imper" person="Sg2" />
+  <moodForm default="barrchaolaímis" mood="Imper" person="Pl1" />
+  <moodForm default="barrchaolaígí" mood="Imper" person="Pl2" />
+  <moodForm default="barrchaolaídís" mood="Imper" person="Pl3" />
+  <moodForm default="barrchaolaítear" mood="Imper" person="Auto" />
+  <moodForm default="barrchaolaí" mood="Subj" person="Base" />
+  <moodForm default="barrchaolaímid" mood="Subj" person="Pl1" />
+  <moodForm default="barrchaolaítear" mood="Subj" person="Auto" />
+</verb>

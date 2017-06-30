@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="soladaigh" disambig="">
+  <verbalNoun default="soladú" />
+  <verbalAdjective default="soladaithe" />
+  <tenseForm default="soladaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="soladaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="soladaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="soladaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="soladaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="soladaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="soladaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="soladaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="soladaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="soladaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="soladaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="soladaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="soladaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="soladaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="soladaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="soladaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="soladaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="soladaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="soladaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="soladaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="soladaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="soladaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="soladaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="soladaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="soladaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="soladaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="soladaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="soladaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="soladóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="soladóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="soladófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="soladóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="soladóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="soladófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="soladódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="soladóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="soladófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="soladóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="soladóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="soladófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="soladódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="soladóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="soladófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="soladóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="soladóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="soladófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="soladaíodh" mood="Imper" person="Base" />
+  <moodForm default="soladaím" mood="Imper" person="Sg1" />
+  <moodForm default="soladaigh" mood="Imper" person="Sg2" />
+  <moodForm default="soladaímis" mood="Imper" person="Pl1" />
+  <moodForm default="soladaígí" mood="Imper" person="Pl2" />
+  <moodForm default="soladaídís" mood="Imper" person="Pl3" />
+  <moodForm default="soladaítear" mood="Imper" person="Auto" />
+  <moodForm default="soladaí" mood="Subj" person="Base" />
+  <moodForm default="soladaímid" mood="Subj" person="Pl1" />
+  <moodForm default="soladaítear" mood="Subj" person="Auto" />
+</verb>

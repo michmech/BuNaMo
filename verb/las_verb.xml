@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="las" disambig="">
+  <verbalNoun default="lasadh" />
+  <verbalAdjective default="lasta" />
+  <tenseForm default="las" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lasamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="lasadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="lasadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="las" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lasamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="lasadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="lasadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="lasadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="lasainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lastá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="lasaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lasaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="lastaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lasadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="lasainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lastá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="lasaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lasaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="lastaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lasann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="lasaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lasaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lastar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lasann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="lasaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lasaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lastar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lasfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="lasfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="lasfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="lasfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="lasfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="lasfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="lasfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="lasfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="lasfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="lasfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="lasfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="lasfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="lasfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="lasfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="lasfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="lasfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="lasfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="lasfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="lasadh" mood="Imper" person="Base" />
+  <moodForm default="lasaim" mood="Imper" person="Sg1" />
+  <moodForm default="las" mood="Imper" person="Sg2" />
+  <moodForm default="lasaimis" mood="Imper" person="Pl1" />
+  <moodForm default="lasaigí" mood="Imper" person="Pl2" />
+  <moodForm default="lasaidís" mood="Imper" person="Pl3" />
+  <moodForm default="lastar" mood="Imper" person="Auto" />
+  <moodForm default="lasa" mood="Subj" person="Base" />
+  <moodForm default="lasaimid" mood="Subj" person="Pl1" />
+  <moodForm default="lastar" mood="Subj" person="Auto" />
+</verb>

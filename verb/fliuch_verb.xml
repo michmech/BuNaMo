@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fliuch" disambig="">
+  <verbalNoun default="fliuchadh" />
+  <verbalAdjective default="fliuchta" />
+  <tenseForm default="fliuch" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fliuchamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fliuchadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fliuchadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fliuch" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fliuchamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fliuchadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fliuchadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fliuchadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fliuchainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fliuchtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fliuchaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fliuchaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fliuchtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fliuchadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fliuchainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fliuchtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fliuchaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fliuchaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fliuchtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fliuchann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fliuchaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fliuchaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fliuchtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fliuchann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fliuchaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fliuchaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fliuchtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fliuchfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fliuchfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fliuchfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fliuchfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fliuchfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fliuchfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fliuchfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fliuchfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fliuchfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fliuchfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fliuchfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fliuchfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fliuchfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fliuchfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fliuchfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fliuchfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fliuchfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fliuchfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fliuchadh" mood="Imper" person="Base" />
+  <moodForm default="fliuchaim" mood="Imper" person="Sg1" />
+  <moodForm default="fliuch" mood="Imper" person="Sg2" />
+  <moodForm default="fliuchaimis" mood="Imper" person="Pl1" />
+  <moodForm default="fliuchaigí" mood="Imper" person="Pl2" />
+  <moodForm default="fliuchaidís" mood="Imper" person="Pl3" />
+  <moodForm default="fliuchtar" mood="Imper" person="Auto" />
+  <moodForm default="fliucha" mood="Subj" person="Base" />
+  <moodForm default="fliuchaimid" mood="Subj" person="Pl1" />
+  <moodForm default="fliuchtar" mood="Subj" person="Auto" />
+</verb>

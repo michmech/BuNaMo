@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="loisc" disambig="">
+  <verbalNoun default="loscadh" />
+  <verbalAdjective default="loiscthe" />
+  <tenseForm default="loisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="loisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="loisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="loisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="loisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="loisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="loisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="loisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="loisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="loiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="loiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="loiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="loiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="loisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="loisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="loiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="loiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="loiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="loiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="loisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="loisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="loiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="loiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="loisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="loisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="loiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="loiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="loisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="loiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="loiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="loiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="loiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="loiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="loiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="loiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="loiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="loiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="loiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="loiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="loiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="loiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="loiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="loiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="loiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="loiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="loiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="loisceadh" mood="Imper" person="Base" />
+  <moodForm default="loiscim" mood="Imper" person="Sg1" />
+  <moodForm default="loisc" mood="Imper" person="Sg2" />
+  <moodForm default="loiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="loiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="loiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="loisctear" mood="Imper" person="Auto" />
+  <moodForm default="loisce" mood="Subj" person="Base" />
+  <moodForm default="loiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="loisctear" mood="Subj" person="Auto" />
+</verb>

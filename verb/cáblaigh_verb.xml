@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cáblaigh" disambig="">
+  <verbalNoun default="cáblú" />
+  <verbalAdjective default="cáblaithe" />
+  <tenseForm default="cáblaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cáblaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáblaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cáblaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cáblaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cáblaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáblaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cáblaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cáblaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cáblaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cáblaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cáblaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáblaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cáblaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cáblaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cáblaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cáblaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cáblaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáblaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cáblaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cáblaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cáblaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cáblaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáblaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cáblaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cáblaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cáblaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáblaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cáblóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cáblóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáblófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cáblóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cáblóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáblófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cáblódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cáblóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cáblófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cáblóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáblóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cáblófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cáblódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cáblóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cáblófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cáblóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáblóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cáblófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cáblaíodh" mood="Imper" person="Base" />
+  <moodForm default="cáblaím" mood="Imper" person="Sg1" />
+  <moodForm default="cáblaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cáblaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cáblaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cáblaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cáblaítear" mood="Imper" person="Auto" />
+  <moodForm default="cáblaí" mood="Subj" person="Base" />
+  <moodForm default="cáblaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cáblaítear" mood="Subj" person="Auto" />
+</verb>

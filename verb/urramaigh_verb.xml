@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="urramaigh" disambig="">
+  <verbalNoun default="urramú" />
+  <verbalAdjective default="urramaithe" />
+  <tenseForm default="urramaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="urramaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="urramaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="urramaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="urramaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="urramaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="urramaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="urramaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="urramaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="urramaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urramaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="urramaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urramaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="urramaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urramaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="urramaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urramaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="urramaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urramaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="urramaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urramaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="urramaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urramaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urramaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urramaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="urramaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urramaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urramaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urramóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="urramóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="urramófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="urramóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="urramóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="urramófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="urramódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="urramóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="urramófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="urramóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="urramóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="urramófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="urramódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="urramóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="urramófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="urramóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="urramóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="urramófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="urramaíodh" mood="Imper" person="Base" />
+  <moodForm default="urramaím" mood="Imper" person="Sg1" />
+  <moodForm default="urramaigh" mood="Imper" person="Sg2" />
+  <moodForm default="urramaímis" mood="Imper" person="Pl1" />
+  <moodForm default="urramaígí" mood="Imper" person="Pl2" />
+  <moodForm default="urramaídís" mood="Imper" person="Pl3" />
+  <moodForm default="urramaítear" mood="Imper" person="Auto" />
+  <moodForm default="urramaí" mood="Subj" person="Base" />
+  <moodForm default="urramaímid" mood="Subj" person="Pl1" />
+  <moodForm default="urramaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="máchailigh" disambig="">
+  <verbalNoun default="máchailiú" />
+  <verbalAdjective default="máchailithe" />
+  <tenseForm default="máchailigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="máchailíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="máchailíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="máchailíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="máchailigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="máchailíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="máchailíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="máchailíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="máchailíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="máchailínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="máchailíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="máchailímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="máchailídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="máchailítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="máchailíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="máchailínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="máchailíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="máchailímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="máchailídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="máchailítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="máchailíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="máchailím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="máchailímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="máchailítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="máchailíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="máchailím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="máchailímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="máchailítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="máchaileoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="máchaileoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="máchaileofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="máchaileoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="máchaileoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="máchaileofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="máchaileodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="máchaileoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="máchaileofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="máchaileoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="máchaileoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="máchaileofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="máchaileodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="máchaileoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="máchaileofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="máchaileoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="máchaileoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="máchaileofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="máchailíodh" mood="Imper" person="Base" />
+  <moodForm default="máchailím" mood="Imper" person="Sg1" />
+  <moodForm default="máchailigh" mood="Imper" person="Sg2" />
+  <moodForm default="máchailímis" mood="Imper" person="Pl1" />
+  <moodForm default="máchailígí" mood="Imper" person="Pl2" />
+  <moodForm default="máchailídís" mood="Imper" person="Pl3" />
+  <moodForm default="máchailítear" mood="Imper" person="Auto" />
+  <moodForm default="máchailí" mood="Subj" person="Base" />
+  <moodForm default="máchailímid" mood="Subj" person="Pl1" />
+  <moodForm default="máchailítear" mood="Subj" person="Auto" />
+</verb>

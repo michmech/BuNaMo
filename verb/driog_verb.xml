@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="driog" disambig="">
+  <verbalNoun default="driogadh" />
+  <verbalAdjective default="driogtha" />
+  <tenseForm default="driog" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="driogamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="driogadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="driogadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="driog" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="driogamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="driogadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="driogadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="driogadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="driogainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="driogtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="driogaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="driogaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="driogtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="driogadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="driogainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="driogtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="driogaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="driogaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="driogtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="driogann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="driogaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="driogaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="driogtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="driogann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="driogaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="driogaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="driogtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="driogfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="driogfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="driogfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="driogfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="driogfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="driogfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="driogfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="driogfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="driogfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="driogfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="driogfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="driogfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="driogfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="driogfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="driogfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="driogfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="driogfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="driogfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="driogadh" mood="Imper" person="Base" />
+  <moodForm default="driogaim" mood="Imper" person="Sg1" />
+  <moodForm default="driog" mood="Imper" person="Sg2" />
+  <moodForm default="driogaimis" mood="Imper" person="Pl1" />
+  <moodForm default="driogaigí" mood="Imper" person="Pl2" />
+  <moodForm default="driogaidís" mood="Imper" person="Pl3" />
+  <moodForm default="driogtar" mood="Imper" person="Auto" />
+  <moodForm default="drioga" mood="Subj" person="Base" />
+  <moodForm default="driogaimid" mood="Subj" person="Pl1" />
+  <moodForm default="driogtar" mood="Subj" person="Auto" />
+</verb>

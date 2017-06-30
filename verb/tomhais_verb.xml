@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tomhais" disambig="">
+  <verbalNoun default="tomhas" />
+  <verbalAdjective default="tomhaiste" />
+  <tenseForm default="tomhais" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tomhaiseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhaiseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tomhaiseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhais" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tomhaiseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhaiseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tomhaiseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhaiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tomhaisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tomhaisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tomhaisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhaisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tomhaistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhaiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tomhaisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tomhaisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tomhaisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhaisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tomhaistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhaiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tomhaisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tomhaisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhaistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhaiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tomhaisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tomhaisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhaistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhaisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tomhaisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhaisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhaisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tomhaisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhaisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhaisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tomhaisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tomhaisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tomhaisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhaisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tomhaisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhaisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tomhaisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tomhaisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tomhaisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhaisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tomhaisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tomhaiseadh" mood="Imper" person="Base" />
+  <moodForm default="tomhaisim" mood="Imper" person="Sg1" />
+  <moodForm default="tomhais" mood="Imper" person="Sg2" />
+  <moodForm default="tomhaisimis" mood="Imper" person="Pl1" />
+  <moodForm default="tomhaisigí" mood="Imper" person="Pl2" />
+  <moodForm default="tomhaisidís" mood="Imper" person="Pl3" />
+  <moodForm default="tomhaistear" mood="Imper" person="Auto" />
+  <moodForm default="tomhaise" mood="Subj" person="Base" />
+  <moodForm default="tomhaisimid" mood="Subj" person="Pl1" />
+  <moodForm default="tomhaistear" mood="Subj" person="Auto" />
+</verb>

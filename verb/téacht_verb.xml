@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="téacht" disambig="">
+  <verbalNoun default="téachtadh" />
+  <verbalAdjective default="téachta" />
+  <tenseForm default="téacht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="téachtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="téachtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="téachtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="téacht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="téachtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="téachtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="téachtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="téachtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="téachtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="téachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="téachtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="téachtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="téachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="téachtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="téachtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="téachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="téachtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="téachtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="téachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="téachtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="téachtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="téachtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="téachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="téachtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="téachtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="téachtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="téachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="téachtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="téachtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="téachtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="téachtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="téachtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="téachtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="téachtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="téachtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="téachtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="téachtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="téachtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="téachtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="téachtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="téachtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="téachtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="téachtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="téachtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="téachtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="téachtadh" mood="Imper" person="Base" />
+  <moodForm default="téachtaim" mood="Imper" person="Sg1" />
+  <moodForm default="téacht" mood="Imper" person="Sg2" />
+  <moodForm default="téachtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="téachtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="téachtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="téachtar" mood="Imper" person="Auto" />
+  <moodForm default="téachta" mood="Subj" person="Base" />
+  <moodForm default="téachtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="téachtar" mood="Subj" person="Auto" />
+</verb>

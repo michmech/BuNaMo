@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="lasc" disambig="">
+  <verbalNoun default="lascadh" />
+  <verbalAdjective default="lasctha" />
+  <tenseForm default="lasc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="lascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="lascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="lasc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="lascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="lascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="lascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="lascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lasctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="lascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="lasctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="lascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lasctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="lascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="lasctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="lascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lasctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="lascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lasctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="lascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="lascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="lascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="lascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="lascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="lascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="lascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="lascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="lascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="lascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="lascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="lascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="lascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="lascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="lascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="lascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="lascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="lascadh" mood="Imper" person="Base" />
+  <moodForm default="lascaim" mood="Imper" person="Sg1" />
+  <moodForm default="lasc" mood="Imper" person="Sg2" />
+  <moodForm default="lascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="lascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="lascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="lasctar" mood="Imper" person="Auto" />
+  <moodForm default="lasca" mood="Subj" person="Base" />
+  <moodForm default="lascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="lasctar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athleag" disambig="">
+  <verbalNoun default="athleagan" />
+  <verbalAdjective default="athleagtha" />
+  <tenseForm default="athleag" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athleagamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athleagadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athleagadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athleag" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athleagamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athleagadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athleagadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athleagadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athleagainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athleagtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athleagaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athleagaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athleagtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athleagadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athleagainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athleagtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athleagaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athleagaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athleagtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athleagann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athleagaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athleagaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athleagtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athleagann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athleagaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athleagaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athleagtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athleagfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athleagfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athleagfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athleagfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athleagfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athleagfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athleagfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athleagfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athleagfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athleagfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athleagfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athleagfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athleagfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athleagfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athleagfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athleagfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athleagfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athleagfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athleagadh" mood="Imper" person="Base" />
+  <moodForm default="athleagaim" mood="Imper" person="Sg1" />
+  <moodForm default="athleag" mood="Imper" person="Sg2" />
+  <moodForm default="athleagaimis" mood="Imper" person="Pl1" />
+  <moodForm default="athleagaigí" mood="Imper" person="Pl2" />
+  <moodForm default="athleagaidís" mood="Imper" person="Pl3" />
+  <moodForm default="athleagtar" mood="Imper" person="Auto" />
+  <moodForm default="athleaga" mood="Subj" person="Base" />
+  <moodForm default="athleagaimid" mood="Subj" person="Pl1" />
+  <moodForm default="athleagtar" mood="Subj" person="Auto" />
+</verb>

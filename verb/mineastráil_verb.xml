@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mineastráil" disambig="">
+  <verbalNoun default="mineastráil" />
+  <verbalAdjective default="mineastráilte" />
+  <tenseForm default="mineastráil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mineastrálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mineastráladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mineastráladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mineastráil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mineastrálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mineastráladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mineastráladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mineastráladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mineastrálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mineastráilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mineastrálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mineastrálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mineastráiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mineastráladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mineastrálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mineastráilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mineastrálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mineastrálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mineastráiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mineastrálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mineastrálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mineastrálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mineastráiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mineastrálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mineastrálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mineastrálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mineastráiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mineastrálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mineastrálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mineastrálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mineastrálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mineastrálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mineastrálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mineastrálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mineastrálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mineastrálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mineastrálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mineastrálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mineastrálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mineastrálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mineastrálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mineastrálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mineastrálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mineastrálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mineastrálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mineastráladh" mood="Imper" person="Base" />
+  <moodForm default="mineastrálaim" mood="Imper" person="Sg1" />
+  <moodForm default="mineastráil" mood="Imper" person="Sg2" />
+  <moodForm default="mineastrálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="mineastrálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="mineastrálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="mineastráiltear" mood="Imper" person="Auto" />
+  <moodForm default="mineastrála" mood="Subj" person="Base" />
+  <moodForm default="mineastrálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="mineastráiltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="torchair" disambig="">
+  <verbalNoun default="torchra" />
+  <verbalAdjective default="torchartha" />
+  <tenseForm default="torchair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="torchraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="torchraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="torchraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="torchair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="torchraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="torchraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="torchraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="torchraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="torchraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="torchraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="torchraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="torchraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="torchraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="torchraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="torchraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="torchraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="torchraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="torchraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="torchraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="torchraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="torchraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="torchraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="torchraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="torchraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="torchraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="torchraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="torchraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="torchróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="torchróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="torchrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="torchróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="torchróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="torchrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="torchródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="torchróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="torchrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="torchróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="torchróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="torchrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="torchródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="torchróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="torchrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="torchróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="torchróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="torchrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="torchraíodh" mood="Imper" person="Base" />
+  <moodForm default="torchraím" mood="Imper" person="Sg1" />
+  <moodForm default="torchair" mood="Imper" person="Sg2" />
+  <moodForm default="torchraímis" mood="Imper" person="Pl1" />
+  <moodForm default="torchraígí" mood="Imper" person="Pl2" />
+  <moodForm default="torchraídís" mood="Imper" person="Pl3" />
+  <moodForm default="torchraítear" mood="Imper" person="Auto" />
+  <moodForm default="torchraí" mood="Subj" person="Base" />
+  <moodForm default="torchraímid" mood="Subj" person="Pl1" />
+  <moodForm default="torchraítear" mood="Subj" person="Auto" />
+</verb>

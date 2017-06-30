@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="baig" disambig="">
+  <verbalNoun default="baigeadh" />
+  <verbalAdjective default="baigthe" />
+  <tenseForm default="baig" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="baigeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="baigeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="baigeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="baig" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="baigeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="baigeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="baigeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="baigeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="baiginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="baigteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="baigimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="baigidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="baigtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baigeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="baiginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="baigteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="baigimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="baigidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="baigtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="baigeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="baigim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="baigimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="baigtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baigeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="baigim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="baigimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="baigtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="baigfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="baigfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="baigfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="baigfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="baigfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="baigfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="baigfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="baigfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="baigfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="baigfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="baigfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="baigfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="baigfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="baigfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="baigfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="baigfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="baigfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="baigfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="baigeadh" mood="Imper" person="Base" />
+  <moodForm default="baigim" mood="Imper" person="Sg1" />
+  <moodForm default="baig" mood="Imper" person="Sg2" />
+  <moodForm default="baigimis" mood="Imper" person="Pl1" />
+  <moodForm default="baigigí" mood="Imper" person="Pl2" />
+  <moodForm default="baigidís" mood="Imper" person="Pl3" />
+  <moodForm default="baigtear" mood="Imper" person="Auto" />
+  <moodForm default="baige" mood="Subj" person="Base" />
+  <moodForm default="baigimid" mood="Subj" person="Pl1" />
+  <moodForm default="baigtear" mood="Subj" person="Auto" />
+</verb>

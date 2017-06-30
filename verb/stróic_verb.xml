@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stróic" disambig="">
+  <verbalNoun default="stróiceadh" />
+  <verbalAdjective default="stróicthe" />
+  <tenseForm default="stróic" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stróiceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stróiceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stróiceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stróic" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stróiceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stróiceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stróiceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stróiceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stróicinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stróicteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stróicimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stróicidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stróictí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stróiceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stróicinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stróicteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stróicimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stróicidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stróictí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stróiceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stróicim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stróicimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stróictear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stróiceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stróicim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stróicimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stróictear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stróicfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stróicfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stróicfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stróicfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stróicfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stróicfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stróicfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stróicfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stróicfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stróicfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stróicfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stróicfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stróicfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stróicfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stróicfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stróicfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stróicfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stróicfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stróiceadh" mood="Imper" person="Base" />
+  <moodForm default="stróicim" mood="Imper" person="Sg1" />
+  <moodForm default="stróic" mood="Imper" person="Sg2" />
+  <moodForm default="stróicimis" mood="Imper" person="Pl1" />
+  <moodForm default="stróicigí" mood="Imper" person="Pl2" />
+  <moodForm default="stróicidís" mood="Imper" person="Pl3" />
+  <moodForm default="stróictear" mood="Imper" person="Auto" />
+  <moodForm default="stróice" mood="Subj" person="Base" />
+  <moodForm default="stróicimid" mood="Subj" person="Pl1" />
+  <moodForm default="stróictear" mood="Subj" person="Auto" />
+</verb>

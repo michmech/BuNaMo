@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="taisdíon" disambig="">
+  <verbalNoun default="taisdíonadh" />
+  <verbalAdjective default="taisdíonta" />
+  <tenseForm default="taisdíon" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="taisdíonamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="taisdíonadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="taisdíonadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="taisdíon" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="taisdíonamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="taisdíonadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="taisdíonadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="taisdíonadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="taisdíonainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taisdíontá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="taisdíonaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taisdíonaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="taisdíontaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taisdíonadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="taisdíonainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taisdíontá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="taisdíonaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taisdíonaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="taisdíontaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taisdíonann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="taisdíonaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taisdíonaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taisdíontar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taisdíonann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="taisdíonaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taisdíonaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taisdíontar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taisdíonfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="taisdíonfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="taisdíonfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="taisdíonfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="taisdíonfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="taisdíonfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="taisdíonfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="taisdíonfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="taisdíonfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="taisdíonfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="taisdíonfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="taisdíonfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="taisdíonfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="taisdíonfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="taisdíonfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="taisdíonfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="taisdíonfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="taisdíonfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="taisdíonadh" mood="Imper" person="Base" />
+  <moodForm default="taisdíonaim" mood="Imper" person="Sg1" />
+  <moodForm default="taisdíon" mood="Imper" person="Sg2" />
+  <moodForm default="taisdíonaimis" mood="Imper" person="Pl1" />
+  <moodForm default="taisdíonaigí" mood="Imper" person="Pl2" />
+  <moodForm default="taisdíonaidís" mood="Imper" person="Pl3" />
+  <moodForm default="taisdíontar" mood="Imper" person="Auto" />
+  <moodForm default="taisdíona" mood="Subj" person="Base" />
+  <moodForm default="taisdíonaimid" mood="Subj" person="Pl1" />
+  <moodForm default="taisdíontar" mood="Subj" person="Auto" />
+</verb>

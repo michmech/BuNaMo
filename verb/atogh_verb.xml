@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="atogh" disambig="">
+  <verbalNoun default="atoghadh" />
+  <verbalAdjective default="atofa" />
+  <tenseForm default="atogh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="atoghamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="atoghadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="atoghadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="atogh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="atoghamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="atoghadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="atoghadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="atoghadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="atoghainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="atoghtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="atoghaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="atoghaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="atoghtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="atoghadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="atoghainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="atoghtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="atoghaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="atoghaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="atoghtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="atoghann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="atoghaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="atoghaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="atoghtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="atoghann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="atoghaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="atoghaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="atoghtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="atoghfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="atoghfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="atoghfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="atoghfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="atoghfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="atoghfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="atoghfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="atoghfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="atoghfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="atoghfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="atoghfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="atoghfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="atoghfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="atoghfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="atoghfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="atoghfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="atoghfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="atoghfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="atoghadh" mood="Imper" person="Base" />
+  <moodForm default="atoghaim" mood="Imper" person="Sg1" />
+  <moodForm default="atogh" mood="Imper" person="Sg2" />
+  <moodForm default="atoghaimis" mood="Imper" person="Pl1" />
+  <moodForm default="atoghaigí" mood="Imper" person="Pl2" />
+  <moodForm default="atoghaidís" mood="Imper" person="Pl3" />
+  <moodForm default="atoghtar" mood="Imper" person="Auto" />
+  <moodForm default="atogha" mood="Subj" person="Base" />
+  <moodForm default="atoghaimid" mood="Subj" person="Pl1" />
+  <moodForm default="atoghtar" mood="Subj" person="Auto" />
+</verb>

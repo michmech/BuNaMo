@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="toirmisc" disambig="">
+  <verbalNoun default="toirmeasc" />
+  <verbalAdjective default="toirmiscthe" />
+  <tenseForm default="toirmisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="toirmeascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirmeascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="toirmeascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="toirmisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="toirmeascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirmeascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="toirmeascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="toirmeascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="toirmeascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toirmeasctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="toirmeascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirmeascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="toirmeasctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toirmeascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="toirmeascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toirmeasctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="toirmeascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirmeascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="toirmeasctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toirmeascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="toirmeascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toirmeascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirmeasctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toirmeascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="toirmeascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toirmeascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirmeasctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toirmeascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="toirmeascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirmeascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="toirmeascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="toirmeascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirmeascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="toirmeascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="toirmeascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="toirmeascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="toirmeascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirmeascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="toirmeascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="toirmeascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="toirmeascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="toirmeascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="toirmeascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirmeascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="toirmeascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="toirmeascadh" mood="Imper" person="Base" />
+  <moodForm default="toirmeascaim" mood="Imper" person="Sg1" />
+  <moodForm default="toirmisc" mood="Imper" person="Sg2" />
+  <moodForm default="toirmeascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="toirmeascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="toirmeascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="toirmeasctar" mood="Imper" person="Auto" />
+  <moodForm default="toirmeasca" mood="Subj" person="Base" />
+  <moodForm default="toirmeascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="toirmeasctar" mood="Subj" person="Auto" />
+</verb>

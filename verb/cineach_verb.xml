@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cineach" disambig="">
+  <verbalNoun default="cineachadh" />
+  <verbalAdjective default="cineachta" />
+  <tenseForm default="cineach" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cineachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cineachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cineachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cineach" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cineachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cineachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cineachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cineachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cineachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cineachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cineachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cineachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cineachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cineachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cineachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cineachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cineachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cineachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cineachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cineachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cineachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cineachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cineachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cineachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cineachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cineachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cineachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cineachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cineachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cineachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cineachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cineachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cineachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cineachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cineachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cineachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cineachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cineachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cineachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cineachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cineachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cineachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cineachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cineachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cineachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cineachadh" mood="Imper" person="Base" />
+  <moodForm default="cineachaim" mood="Imper" person="Sg1" />
+  <moodForm default="cineach" mood="Imper" person="Sg2" />
+  <moodForm default="cineachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cineachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cineachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cineachtar" mood="Imper" person="Auto" />
+  <moodForm default="cineacha" mood="Subj" person="Base" />
+  <moodForm default="cineachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cineachtar" mood="Subj" person="Auto" />
+</verb>

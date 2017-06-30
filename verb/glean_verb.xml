@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="glean" disambig="">
+  <verbalNoun default="gleanúint" />
+  <verbalAdjective default="gleanta" />
+  <tenseForm default="glean" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gleanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gleanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gleanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="glean" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gleanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gleanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gleanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gleanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gleanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gleantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gleanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gleanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gleantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gleanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gleanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gleantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gleanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gleanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gleantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gleanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gleanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gleanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gleantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gleanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gleanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gleanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gleantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gleanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gleanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gleanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gleanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gleanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gleanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gleanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gleanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gleanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gleanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gleanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gleanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gleanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gleanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gleanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gleanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gleanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gleanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gleanadh" mood="Imper" person="Base" />
+  <moodForm default="gleanaim" mood="Imper" person="Sg1" />
+  <moodForm default="glean" mood="Imper" person="Sg2" />
+  <moodForm default="gleanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="gleanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="gleanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="gleantar" mood="Imper" person="Auto" />
+  <moodForm default="gleana" mood="Subj" person="Base" />
+  <moodForm default="gleanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="gleantar" mood="Subj" person="Auto" />
+</verb>

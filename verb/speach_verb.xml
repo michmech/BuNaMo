@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="speach" disambig="">
+  <verbalNoun default="speachadh" />
+  <verbalAdjective default="speachta" />
+  <tenseForm default="speach" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="speachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="speachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="speachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="speach" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="speachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="speachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="speachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="speachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="speachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="speachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="speachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="speachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="speachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="speachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="speachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="speachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="speachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="speachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="speachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="speachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="speachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="speachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="speachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="speachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="speachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="speachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="speachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="speachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="speachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="speachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="speachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="speachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="speachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="speachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="speachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="speachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="speachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="speachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="speachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="speachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="speachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="speachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="speachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="speachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="speachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="speachadh" mood="Imper" person="Base" />
+  <moodForm default="speachaim" mood="Imper" person="Sg1" />
+  <moodForm default="speach" mood="Imper" person="Sg2" />
+  <moodForm default="speachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="speachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="speachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="speachtar" mood="Imper" person="Auto" />
+  <moodForm default="speacha" mood="Subj" person="Base" />
+  <moodForm default="speachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="speachtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gnéasaithin" disambig="">
+  <verbalNoun default="gnéasaithint" />
+  <verbalAdjective default="gnéasaitheanta" />
+  <tenseForm default="gnéasaithin" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gnéasaithníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gnéasaithníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gnéasaithníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gnéasaithin" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gnéasaithníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gnéasaithníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gnéasaithníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gnéasaithníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gnéasaithnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gnéasaithníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gnéasaithnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gnéasaithnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gnéasaithnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gnéasaithníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gnéasaithnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gnéasaithníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gnéasaithnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gnéasaithnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gnéasaithnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gnéasaithníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gnéasaithním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gnéasaithnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gnéasaithnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gnéasaithníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gnéasaithním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gnéasaithnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gnéasaithnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gnéasaithneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gnéasaithneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gnéasaithneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gnéasaithneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gnéasaithneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gnéasaithneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gnéasaithneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gnéasaithneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gnéasaithneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gnéasaithneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gnéasaithneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gnéasaithneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gnéasaithneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gnéasaithneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gnéasaithneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gnéasaithneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gnéasaithneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gnéasaithneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gnéasaithníodh" mood="Imper" person="Base" />
+  <moodForm default="gnéasaithním" mood="Imper" person="Sg1" />
+  <moodForm default="gnéasaithin" mood="Imper" person="Sg2" />
+  <moodForm default="gnéasaithnímis" mood="Imper" person="Pl1" />
+  <moodForm default="gnéasaithnígí" mood="Imper" person="Pl2" />
+  <moodForm default="gnéasaithnídís" mood="Imper" person="Pl3" />
+  <moodForm default="gnéasaithnítear" mood="Imper" person="Auto" />
+  <moodForm default="gnéasaithní" mood="Subj" person="Base" />
+  <moodForm default="gnéasaithnímid" mood="Subj" person="Pl1" />
+  <moodForm default="gnéasaithnítear" mood="Subj" person="Auto" />
+</verb>

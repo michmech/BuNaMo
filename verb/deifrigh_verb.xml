@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="deifrigh" disambig="">
+  <verbalNoun default="deifriú" />
+  <verbalAdjective default="deifrithe" />
+  <tenseForm default="deifrigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="deifríomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="deifríodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="deifríodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="deifrigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="deifríomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="deifríodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="deifríodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="deifríodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="deifrínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deifríteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="deifrímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deifrídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="deifrítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deifríodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="deifrínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deifríteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="deifrímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deifrídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="deifrítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deifríonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="deifrím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deifrímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deifrítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deifríonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="deifrím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deifrímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deifrítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deifreoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="deifreoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="deifreofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="deifreoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="deifreoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="deifreofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="deifreodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="deifreoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="deifreofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="deifreoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="deifreoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="deifreofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="deifreodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="deifreoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="deifreofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="deifreoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="deifreoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="deifreofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="deifríodh" mood="Imper" person="Base" />
+  <moodForm default="deifrím" mood="Imper" person="Sg1" />
+  <moodForm default="deifrigh" mood="Imper" person="Sg2" />
+  <moodForm default="deifrímis" mood="Imper" person="Pl1" />
+  <moodForm default="deifrígí" mood="Imper" person="Pl2" />
+  <moodForm default="deifrídís" mood="Imper" person="Pl3" />
+  <moodForm default="deifrítear" mood="Imper" person="Auto" />
+  <moodForm default="deifrí" mood="Subj" person="Base" />
+  <moodForm default="deifrímid" mood="Subj" person="Pl1" />
+  <moodForm default="deifrítear" mood="Subj" person="Auto" />
+</verb>

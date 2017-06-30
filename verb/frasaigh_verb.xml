@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="frasaigh" disambig="">
+  <verbalNoun default="frasú" />
+  <verbalAdjective default="frasaithe" />
+  <tenseForm default="frasaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="frasaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="frasaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="frasaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="frasaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="frasaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="frasaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="frasaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="frasaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="frasaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="frasaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="frasaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="frasaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="frasaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="frasaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="frasaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="frasaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="frasaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="frasaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="frasaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="frasaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="frasaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="frasaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="frasaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="frasaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="frasaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="frasaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="frasaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="frasóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="frasóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="frasófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="frasóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="frasóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="frasófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="frasódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="frasóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="frasófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="frasóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="frasóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="frasófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="frasódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="frasóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="frasófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="frasóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="frasóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="frasófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="frasaíodh" mood="Imper" person="Base" />
+  <moodForm default="frasaím" mood="Imper" person="Sg1" />
+  <moodForm default="frasaigh" mood="Imper" person="Sg2" />
+  <moodForm default="frasaímis" mood="Imper" person="Pl1" />
+  <moodForm default="frasaígí" mood="Imper" person="Pl2" />
+  <moodForm default="frasaídís" mood="Imper" person="Pl3" />
+  <moodForm default="frasaítear" mood="Imper" person="Auto" />
+  <moodForm default="frasaí" mood="Subj" person="Base" />
+  <moodForm default="frasaímid" mood="Subj" person="Pl1" />
+  <moodForm default="frasaítear" mood="Subj" person="Auto" />
+</verb>

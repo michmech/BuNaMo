@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scartáil" disambig="">
+  <verbalNoun default="scartáil" />
+  <verbalAdjective default="scartáilte" />
+  <tenseForm default="scartáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scartálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scartáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scartáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scartáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scartálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scartáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scartáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scartáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scartálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scartáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scartálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scartálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scartáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scartáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scartálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scartáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scartálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scartálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scartáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scartálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scartálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scartálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scartáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scartálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scartálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scartálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scartáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scartálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scartálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scartálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scartálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scartálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scartálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scartálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scartálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scartálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scartálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scartálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scartálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scartálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scartálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scartálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scartálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scartálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scartálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scartáladh" mood="Imper" person="Base" />
+  <moodForm default="scartálaim" mood="Imper" person="Sg1" />
+  <moodForm default="scartáil" mood="Imper" person="Sg2" />
+  <moodForm default="scartálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="scartálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="scartálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scartáiltear" mood="Imper" person="Auto" />
+  <moodForm default="scartála" mood="Subj" person="Base" />
+  <moodForm default="scartálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scartáiltear" mood="Subj" person="Auto" />
+</verb>

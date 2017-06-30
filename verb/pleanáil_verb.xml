@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pleanáil" disambig="">
+  <verbalNoun default="pleanáil" />
+  <verbalAdjective default="pleanáilte" />
+  <tenseForm default="pleanáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pleanálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pleanáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="pleanáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pleanáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pleanálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pleanáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pleanáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="pleanáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pleanálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pleanáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pleanálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pleanálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pleanáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pleanáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pleanálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pleanáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pleanálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pleanálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pleanáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pleanálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pleanálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pleanálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pleanáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pleanálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pleanálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pleanálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pleanáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pleanálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pleanálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pleanálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pleanálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pleanálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pleanálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pleanálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pleanálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pleanálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pleanálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pleanálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pleanálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pleanálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pleanálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pleanálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pleanálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pleanálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pleanálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pleanáladh" mood="Imper" person="Base" />
+  <moodForm default="pleanálaim" mood="Imper" person="Sg1" />
+  <moodForm default="pleanáil" mood="Imper" person="Sg2" />
+  <moodForm default="pleanálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="pleanálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="pleanálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="pleanáiltear" mood="Imper" person="Auto" />
+  <moodForm default="pleanála" mood="Subj" person="Base" />
+  <moodForm default="pleanálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="pleanáiltear" mood="Subj" person="Auto" />
+</verb>

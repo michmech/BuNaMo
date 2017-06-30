@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="strumáil" disambig="">
+  <verbalNoun default="strumáil" />
+  <verbalAdjective default="strumáilte" />
+  <tenseForm default="strumáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="strumálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="strumáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="strumáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="strumáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="strumálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="strumáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="strumáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="strumáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="strumálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="strumáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="strumálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="strumálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="strumáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="strumáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="strumálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="strumáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="strumálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="strumálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="strumáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="strumálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="strumálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="strumálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="strumáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="strumálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="strumálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="strumálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="strumáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="strumálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="strumálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="strumálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="strumálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="strumálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="strumálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="strumálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="strumálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="strumálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="strumálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="strumálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="strumálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="strumálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="strumálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="strumálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="strumálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="strumálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="strumálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="strumáladh" mood="Imper" person="Base" />
+  <moodForm default="strumálaim" mood="Imper" person="Sg1" />
+  <moodForm default="strumáil" mood="Imper" person="Sg2" />
+  <moodForm default="strumálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="strumálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="strumálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="strumáiltear" mood="Imper" person="Auto" />
+  <moodForm default="strumála" mood="Subj" person="Base" />
+  <moodForm default="strumálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="strumáiltear" mood="Subj" person="Auto" />
+</verb>

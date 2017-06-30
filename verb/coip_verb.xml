@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coip" disambig="">
+  <verbalNoun default="coipeadh" />
+  <verbalAdjective default="coipthe" />
+  <tenseForm default="coip" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coipeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coipeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coipeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="coip" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coipeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coipeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coipeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="coipeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="coipinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coipteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coipimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coipidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coiptí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coipeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="coipinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coipteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coipimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coipidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coiptí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coipeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coipim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coipimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coiptear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coipeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coipim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coipimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coiptear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coipfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="coipfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="coipfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="coipfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="coipfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="coipfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="coipfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="coipfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="coipfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="coipfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="coipfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="coipfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="coipfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="coipfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="coipfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="coipfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="coipfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="coipfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coipeadh" mood="Imper" person="Base" />
+  <moodForm default="coipim" mood="Imper" person="Sg1" />
+  <moodForm default="coip" mood="Imper" person="Sg2" />
+  <moodForm default="coipimis" mood="Imper" person="Pl1" />
+  <moodForm default="coipigí" mood="Imper" person="Pl2" />
+  <moodForm default="coipidís" mood="Imper" person="Pl3" />
+  <moodForm default="coiptear" mood="Imper" person="Auto" />
+  <moodForm default="coipe" mood="Subj" person="Base" />
+  <moodForm default="coipimid" mood="Subj" person="Pl1" />
+  <moodForm default="coiptear" mood="Subj" person="Auto" />
+</verb>

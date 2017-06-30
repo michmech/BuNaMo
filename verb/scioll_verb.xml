@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scioll" disambig="">
+  <verbalNoun default="sciolladh" />
+  <verbalAdjective default="sciollta" />
+  <tenseForm default="scioll" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sciollamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciolladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciolladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scioll" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sciollamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciolladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciolladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sciolladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciollainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciolltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciollaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciollaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciolltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciolladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciollainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciolltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciollaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciollaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciolltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciollann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciollaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciollaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciolltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciollann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciollaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciollaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciolltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciollfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sciollfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciollfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sciollfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sciollfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciollfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sciollfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sciollfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciollfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciollfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciollfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciollfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sciollfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sciollfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciollfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciollfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciollfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciollfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sciolladh" mood="Imper" person="Base" />
+  <moodForm default="sciollaim" mood="Imper" person="Sg1" />
+  <moodForm default="scioll" mood="Imper" person="Sg2" />
+  <moodForm default="sciollaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sciollaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sciollaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sciolltar" mood="Imper" person="Auto" />
+  <moodForm default="sciolla" mood="Subj" person="Base" />
+  <moodForm default="sciollaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sciolltar" mood="Subj" person="Auto" />
+</verb>

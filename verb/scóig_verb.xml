@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scóig" disambig="">
+  <verbalNoun default="scóigeadh" />
+  <verbalAdjective default="scóigthe" />
+  <tenseForm default="scóig" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scóigeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scóigeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scóigeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scóig" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scóigeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scóigeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scóigeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scóigeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scóiginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scóigteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scóigimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scóigidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scóigtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scóigeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scóiginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scóigteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scóigimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scóigidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scóigtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scóigeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scóigim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scóigimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scóigtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scóigeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scóigim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scóigimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scóigtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scóigfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scóigfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scóigfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scóigfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scóigfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scóigfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scóigfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scóigfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scóigfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scóigfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scóigfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scóigfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scóigfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scóigfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scóigfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scóigfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scóigfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scóigfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scóigeadh" mood="Imper" person="Base" />
+  <moodForm default="scóigim" mood="Imper" person="Sg1" />
+  <moodForm default="scóig" mood="Imper" person="Sg2" />
+  <moodForm default="scóigimis" mood="Imper" person="Pl1" />
+  <moodForm default="scóigigí" mood="Imper" person="Pl2" />
+  <moodForm default="scóigidís" mood="Imper" person="Pl3" />
+  <moodForm default="scóigtear" mood="Imper" person="Auto" />
+  <moodForm default="scóige" mood="Subj" person="Base" />
+  <moodForm default="scóigimid" mood="Subj" person="Pl1" />
+  <moodForm default="scóigtear" mood="Subj" person="Auto" />
+</verb>

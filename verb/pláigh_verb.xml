@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pláigh" disambig="">
+  <verbalNoun default="plá" />
+  <verbalAdjective default="pláite" />
+  <tenseForm default="pláigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="plámar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pládar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="pláigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="plámar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pládar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pládh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pláinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pláiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pláimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pláidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pláití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pládh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pláinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pláiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pláimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pláidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pláití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="plánn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pláim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pláimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pláitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="plánn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pláim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pláimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pláitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pláfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pláfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pláfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pláfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pláfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pláfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pláfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pláfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pláfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pláfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pláfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pláfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pláfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pláfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pláfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pláfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pláfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pláfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pládh" mood="Imper" person="Base" />
+  <moodForm default="pláim" mood="Imper" person="Sg1" />
+  <moodForm default="pláigh" mood="Imper" person="Sg2" />
+  <moodForm default="pláimis" mood="Imper" person="Pl1" />
+  <moodForm default="pláigí" mood="Imper" person="Pl2" />
+  <moodForm default="pláidís" mood="Imper" person="Pl3" />
+  <moodForm default="pláitear" mood="Imper" person="Auto" />
+  <moodForm default="plá" mood="Subj" person="Base" />
+  <moodForm default="pláimid" mood="Subj" person="Pl1" />
+  <moodForm default="pláitear" mood="Subj" person="Auto" />
+</verb>

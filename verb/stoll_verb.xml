@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stoll" disambig="">
+  <verbalNoun default="stolladh" />
+  <verbalAdjective default="stollta" />
+  <tenseForm default="stoll" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stollamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stolladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stolladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stoll" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stollamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stolladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stolladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stolladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stollainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stolltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stollaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stollaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stolltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stolladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stollainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stolltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stollaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stollaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stolltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stollann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stollaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stollaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stolltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stollann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stollaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stollaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stolltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stollfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stollfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stollfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stollfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stollfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stollfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stollfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stollfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stollfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stollfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stollfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stollfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stollfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stollfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stollfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stollfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stollfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stollfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stolladh" mood="Imper" person="Base" />
+  <moodForm default="stollaim" mood="Imper" person="Sg1" />
+  <moodForm default="stoll" mood="Imper" person="Sg2" />
+  <moodForm default="stollaimis" mood="Imper" person="Pl1" />
+  <moodForm default="stollaigí" mood="Imper" person="Pl2" />
+  <moodForm default="stollaidís" mood="Imper" person="Pl3" />
+  <moodForm default="stolltar" mood="Imper" person="Auto" />
+  <moodForm default="stolla" mood="Subj" person="Base" />
+  <moodForm default="stollaimid" mood="Subj" person="Pl1" />
+  <moodForm default="stolltar" mood="Subj" person="Auto" />
+</verb>

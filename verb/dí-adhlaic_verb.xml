@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dí-adhlaic" disambig="">
+  <verbalNoun default="dí-adhlacadh" />
+  <verbalAdjective default="dí-adhlactha" />
+  <tenseForm default="dí-adhlaic" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dí-adhlacamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-adhlacadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dí-adhlacadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-adhlaic" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dí-adhlacamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-adhlacadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dí-adhlacadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-adhlacadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dí-adhlacainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dí-adhlactá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dí-adhlacaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-adhlacaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dí-adhlactaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-adhlacadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dí-adhlacainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dí-adhlactá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dí-adhlacaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-adhlacaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dí-adhlactaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-adhlacann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dí-adhlacaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dí-adhlacaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-adhlactar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-adhlacann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dí-adhlacaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dí-adhlacaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-adhlactar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-adhlacfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dí-adhlacfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-adhlacfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-adhlacfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dí-adhlacfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-adhlacfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-adhlacfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dí-adhlacfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dí-adhlacfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dí-adhlacfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-adhlacfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dí-adhlacfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-adhlacfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dí-adhlacfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dí-adhlacfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dí-adhlacfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-adhlacfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dí-adhlacfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dí-adhlacadh" mood="Imper" person="Base" />
+  <moodForm default="dí-adhlacaim" mood="Imper" person="Sg1" />
+  <moodForm default="dí-adhlaic" mood="Imper" person="Sg2" />
+  <moodForm default="dí-adhlacaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dí-adhlacaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dí-adhlacaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dí-adhlactar" mood="Imper" person="Auto" />
+  <moodForm default="dí-adhlaca" mood="Subj" person="Base" />
+  <moodForm default="dí-adhlacaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dí-adhlactar" mood="Subj" person="Auto" />
+</verb>

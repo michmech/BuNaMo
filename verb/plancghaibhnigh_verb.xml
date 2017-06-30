@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="plancghaibhnigh" disambig="">
+  <verbalNoun default="plancghaibhniú" />
+  <verbalAdjective default="plancghaibhnithe" />
+  <tenseForm default="plancghaibhnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="plancghaibhníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="plancghaibhníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="plancghaibhníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="plancghaibhnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="plancghaibhníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="plancghaibhníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="plancghaibhníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="plancghaibhníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="plancghaibhnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="plancghaibhníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="plancghaibhnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="plancghaibhnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="plancghaibhnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="plancghaibhníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="plancghaibhnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="plancghaibhníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="plancghaibhnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="plancghaibhnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="plancghaibhnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="plancghaibhníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="plancghaibhním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="plancghaibhnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="plancghaibhnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="plancghaibhníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="plancghaibhním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="plancghaibhnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="plancghaibhnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="plancghaibhneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="plancghaibhneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="plancghaibhneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="plancghaibhneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="plancghaibhneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="plancghaibhneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="plancghaibhneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="plancghaibhneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="plancghaibhneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="plancghaibhneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="plancghaibhneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="plancghaibhneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="plancghaibhneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="plancghaibhneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="plancghaibhneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="plancghaibhneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="plancghaibhneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="plancghaibhneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="plancghaibhníodh" mood="Imper" person="Base" />
+  <moodForm default="plancghaibhním" mood="Imper" person="Sg1" />
+  <moodForm default="plancghaibhnigh" mood="Imper" person="Sg2" />
+  <moodForm default="plancghaibhnímis" mood="Imper" person="Pl1" />
+  <moodForm default="plancghaibhnígí" mood="Imper" person="Pl2" />
+  <moodForm default="plancghaibhnídís" mood="Imper" person="Pl3" />
+  <moodForm default="plancghaibhnítear" mood="Imper" person="Auto" />
+  <moodForm default="plancghaibhní" mood="Subj" person="Base" />
+  <moodForm default="plancghaibhnímid" mood="Subj" person="Pl1" />
+  <moodForm default="plancghaibhnítear" mood="Subj" person="Auto" />
+</verb>

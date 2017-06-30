@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="freang" disambig="">
+  <verbalNoun default="freangadh" />
+  <verbalAdjective default="freangtha" />
+  <tenseForm default="freang" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="freangamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="freangadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="freangadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="freang" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="freangamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="freangadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="freangadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="freangadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="freangainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="freangtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="freangaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="freangaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="freangtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="freangadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="freangainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="freangtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="freangaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="freangaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="freangtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="freangann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="freangaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="freangaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="freangtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="freangann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="freangaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="freangaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="freangtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="freangfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="freangfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="freangfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="freangfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="freangfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="freangfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="freangfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="freangfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="freangfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="freangfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="freangfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="freangfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="freangfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="freangfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="freangfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="freangfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="freangfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="freangfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="freangadh" mood="Imper" person="Base" />
+  <moodForm default="freangaim" mood="Imper" person="Sg1" />
+  <moodForm default="freang" mood="Imper" person="Sg2" />
+  <moodForm default="freangaimis" mood="Imper" person="Pl1" />
+  <moodForm default="freangaigí" mood="Imper" person="Pl2" />
+  <moodForm default="freangaidís" mood="Imper" person="Pl3" />
+  <moodForm default="freangtar" mood="Imper" person="Auto" />
+  <moodForm default="freanga" mood="Subj" person="Base" />
+  <moodForm default="freangaimid" mood="Subj" person="Pl1" />
+  <moodForm default="freangtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="réamhcheap" disambig="">
+  <verbalNoun default="réamhcheapadh" />
+  <verbalAdjective default="réamhcheaptha" />
+  <tenseForm default="réamhcheap" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="réamhcheapamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="réamhcheapadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="réamhcheapadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="réamhcheap" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="réamhcheapamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="réamhcheapadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="réamhcheapadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="réamhcheapadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="réamhcheapainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="réamhcheaptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="réamhcheapaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="réamhcheapaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="réamhcheaptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="réamhcheapadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="réamhcheapainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="réamhcheaptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="réamhcheapaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="réamhcheapaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="réamhcheaptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="réamhcheapann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="réamhcheapaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="réamhcheapaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="réamhcheaptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="réamhcheapann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="réamhcheapaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="réamhcheapaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="réamhcheaptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="réamhcheapfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="réamhcheapfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="réamhcheapfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="réamhcheapfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="réamhcheapfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="réamhcheapfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="réamhcheapfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="réamhcheapfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="réamhcheapfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="réamhcheapfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="réamhcheapfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="réamhcheapfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="réamhcheapfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="réamhcheapfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="réamhcheapfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="réamhcheapfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="réamhcheapfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="réamhcheapfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="réamhcheapadh" mood="Imper" person="Base" />
+  <moodForm default="réamhcheapaim" mood="Imper" person="Sg1" />
+  <moodForm default="réamhcheap" mood="Imper" person="Sg2" />
+  <moodForm default="réamhcheapaimis" mood="Imper" person="Pl1" />
+  <moodForm default="réamhcheapaigí" mood="Imper" person="Pl2" />
+  <moodForm default="réamhcheapaidís" mood="Imper" person="Pl3" />
+  <moodForm default="réamhcheaptar" mood="Imper" person="Auto" />
+  <moodForm default="réamhcheapa" mood="Subj" person="Base" />
+  <moodForm default="réamhcheapaimid" mood="Subj" person="Pl1" />
+  <moodForm default="réamhcheaptar" mood="Subj" person="Auto" />
+</verb>

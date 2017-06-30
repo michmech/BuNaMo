@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tonn" disambig="">
+  <verbalNoun default="tonnadh" />
+  <verbalAdjective default="tonnta" />
+  <tenseForm default="tonn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tonnamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tonnadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tonnadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tonn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tonnamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tonnadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tonnadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tonnadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tonnainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tonntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tonnaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tonnaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tonntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tonnadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tonnainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tonntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tonnaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tonnaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tonntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tonnann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tonnaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tonnaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tonntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tonnann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tonnaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tonnaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tonntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tonnfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tonnfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tonnfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tonnfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tonnfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tonnfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tonnfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tonnfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tonnfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tonnfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tonnfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tonnfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tonnfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tonnfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tonnfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tonnfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tonnfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tonnfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tonnadh" mood="Imper" person="Base" />
+  <moodForm default="tonnaim" mood="Imper" person="Sg1" />
+  <moodForm default="tonn" mood="Imper" person="Sg2" />
+  <moodForm default="tonnaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tonnaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tonnaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tonntar" mood="Imper" person="Auto" />
+  <moodForm default="tonna" mood="Subj" person="Base" />
+  <moodForm default="tonnaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tonntar" mood="Subj" person="Auto" />
+</verb>

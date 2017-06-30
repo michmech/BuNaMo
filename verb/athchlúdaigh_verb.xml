@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athchlúdaigh" disambig="">
+  <verbalNoun default="athchlúdach" />
+  <verbalAdjective default="athchlúdaithe" />
+  <tenseForm default="athchlúdaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athchlúdaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athchlúdaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athchlúdaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athchlúdaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athchlúdaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athchlúdaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athchlúdaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athchlúdaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athchlúdaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athchlúdaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athchlúdaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athchlúdaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athchlúdaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athchlúdaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athchlúdaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athchlúdaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athchlúdaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athchlúdaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athchlúdaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athchlúdaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athchlúdaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athchlúdaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athchlúdaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athchlúdaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athchlúdaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athchlúdaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athchlúdaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athchlúdóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athchlúdóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athchlúdófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athchlúdóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athchlúdóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athchlúdófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athchlúdódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athchlúdóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athchlúdófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athchlúdóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athchlúdóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athchlúdófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athchlúdódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athchlúdóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athchlúdófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athchlúdóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athchlúdóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athchlúdófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athchlúdaíodh" mood="Imper" person="Base" />
+  <moodForm default="athchlúdaím" mood="Imper" person="Sg1" />
+  <moodForm default="athchlúdaigh" mood="Imper" person="Sg2" />
+  <moodForm default="athchlúdaímis" mood="Imper" person="Pl1" />
+  <moodForm default="athchlúdaígí" mood="Imper" person="Pl2" />
+  <moodForm default="athchlúdaídís" mood="Imper" person="Pl3" />
+  <moodForm default="athchlúdaítear" mood="Imper" person="Auto" />
+  <moodForm default="athchlúdaí" mood="Subj" person="Base" />
+  <moodForm default="athchlúdaímid" mood="Subj" person="Pl1" />
+  <moodForm default="athchlúdaítear" mood="Subj" person="Auto" />
+</verb>

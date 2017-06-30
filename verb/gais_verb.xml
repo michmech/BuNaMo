@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gais" disambig="">
+  <verbalNoun default="gaiseadh" />
+  <verbalAdjective default="gaiste" />
+  <tenseForm default="gais" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gaiseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaiseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gaiseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gais" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gaiseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaiseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gaiseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gaiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gaisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gaisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gaisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gaistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gaiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gaisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gaisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gaisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gaistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gaiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gaisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gaisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gaiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gaisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gaisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gaisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gaisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gaisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gaisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gaisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gaisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gaisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gaisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gaisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gaisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gaisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gaisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gaisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gaisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gaiseadh" mood="Imper" person="Base" />
+  <moodForm default="gaisim" mood="Imper" person="Sg1" />
+  <moodForm default="gais" mood="Imper" person="Sg2" />
+  <moodForm default="gaisimis" mood="Imper" person="Pl1" />
+  <moodForm default="gaisigí" mood="Imper" person="Pl2" />
+  <moodForm default="gaisidís" mood="Imper" person="Pl3" />
+  <moodForm default="gaistear" mood="Imper" person="Auto" />
+  <moodForm default="gaise" mood="Subj" person="Base" />
+  <moodForm default="gaisimid" mood="Subj" person="Pl1" />
+  <moodForm default="gaistear" mood="Subj" person="Auto" />
+</verb>

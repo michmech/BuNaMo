@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="uchtaigh" disambig="">
+  <verbalNoun default="uchtú" />
+  <verbalAdjective default="uchtaithe" />
+  <tenseForm default="uchtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="uchtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="uchtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="uchtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="uchtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="uchtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="uchtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="uchtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="uchtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="uchtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="uchtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="uchtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="uchtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="uchtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="uchtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="uchtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="uchtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="uchtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="uchtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="uchtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="uchtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="uchtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="uchtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="uchtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="uchtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="uchtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="uchtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="uchtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="uchtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="uchtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="uchtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="uchtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="uchtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="uchtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="uchtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="uchtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="uchtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="uchtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="uchtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="uchtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="uchtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="uchtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="uchtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="uchtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="uchtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="uchtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="uchtaíodh" mood="Imper" person="Base" />
+  <moodForm default="uchtaím" mood="Imper" person="Sg1" />
+  <moodForm default="uchtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="uchtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="uchtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="uchtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="uchtaítear" mood="Imper" person="Auto" />
+  <moodForm default="uchtaí" mood="Subj" person="Base" />
+  <moodForm default="uchtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="uchtaítear" mood="Subj" person="Auto" />
+</verb>

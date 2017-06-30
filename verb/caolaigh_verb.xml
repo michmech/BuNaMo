@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="caolaigh" disambig="">
+  <verbalNoun default="caolú" />
+  <verbalAdjective default="caolaithe" />
+  <tenseForm default="caolaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="caolaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="caolaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="caolaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="caolaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="caolaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="caolaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="caolaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="caolaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="caolaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caolaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="caolaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caolaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="caolaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caolaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="caolaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caolaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="caolaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caolaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="caolaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caolaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="caolaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caolaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caolaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caolaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="caolaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caolaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caolaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caolóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="caolóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="caolófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="caolóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="caolóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="caolófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="caolódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="caolóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="caolófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="caolóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="caolóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="caolófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="caolódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="caolóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="caolófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="caolóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="caolóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="caolófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="caolaíodh" mood="Imper" person="Base" />
+  <moodForm default="caolaím" mood="Imper" person="Sg1" />
+  <moodForm default="caolaigh" mood="Imper" person="Sg2" />
+  <moodForm default="caolaímis" mood="Imper" person="Pl1" />
+  <moodForm default="caolaígí" mood="Imper" person="Pl2" />
+  <moodForm default="caolaídís" mood="Imper" person="Pl3" />
+  <moodForm default="caolaítear" mood="Imper" person="Auto" />
+  <moodForm default="caolaí" mood="Subj" person="Base" />
+  <moodForm default="caolaímid" mood="Subj" person="Pl1" />
+  <moodForm default="caolaítear" mood="Subj" person="Auto" />
+</verb>

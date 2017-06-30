@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="optamaigh" disambig="">
+  <verbalNoun default="optamú" />
+  <verbalAdjective default="optamaithe" />
+  <tenseForm default="optamaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="optamaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="optamaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="optamaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="optamaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="optamaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="optamaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="optamaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="optamaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="optamaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="optamaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="optamaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="optamaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="optamaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="optamaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="optamaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="optamaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="optamaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="optamaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="optamaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="optamaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="optamaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="optamaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="optamaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="optamaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="optamaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="optamaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="optamaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="optamóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="optamóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="optamófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="optamóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="optamóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="optamófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="optamódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="optamóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="optamófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="optamóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="optamóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="optamófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="optamódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="optamóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="optamófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="optamóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="optamóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="optamófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="optamaíodh" mood="Imper" person="Base" />
+  <moodForm default="optamaím" mood="Imper" person="Sg1" />
+  <moodForm default="optamaigh" mood="Imper" person="Sg2" />
+  <moodForm default="optamaímis" mood="Imper" person="Pl1" />
+  <moodForm default="optamaígí" mood="Imper" person="Pl2" />
+  <moodForm default="optamaídís" mood="Imper" person="Pl3" />
+  <moodForm default="optamaítear" mood="Imper" person="Auto" />
+  <moodForm default="optamaí" mood="Subj" person="Base" />
+  <moodForm default="optamaímid" mood="Subj" person="Pl1" />
+  <moodForm default="optamaítear" mood="Subj" person="Auto" />
+</verb>

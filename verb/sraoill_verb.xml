@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sraoill" disambig="">
+  <verbalNoun default="sraoilleadh" />
+  <verbalAdjective default="sraoillte" />
+  <tenseForm default="sraoill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sraoilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sraoilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sraoilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sraoill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sraoilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sraoilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sraoilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sraoilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sraoillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sraoillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sraoillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sraoillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sraoilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sraoilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sraoillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sraoillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sraoillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sraoillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sraoilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sraoilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sraoillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sraoillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sraoilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sraoilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sraoillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sraoillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sraoilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sraoillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sraoillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sraoillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sraoillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sraoillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sraoillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sraoillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sraoillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sraoillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sraoillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sraoillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sraoillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sraoillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sraoillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sraoillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sraoillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sraoillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sraoillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sraoilleadh" mood="Imper" person="Base" />
+  <moodForm default="sraoillim" mood="Imper" person="Sg1" />
+  <moodForm default="sraoill" mood="Imper" person="Sg2" />
+  <moodForm default="sraoillimis" mood="Imper" person="Pl1" />
+  <moodForm default="sraoilligí" mood="Imper" person="Pl2" />
+  <moodForm default="sraoillidís" mood="Imper" person="Pl3" />
+  <moodForm default="sraoilltear" mood="Imper" person="Auto" />
+  <moodForm default="sraoille" mood="Subj" person="Base" />
+  <moodForm default="sraoillimid" mood="Subj" person="Pl1" />
+  <moodForm default="sraoilltear" mood="Subj" person="Auto" />
+</verb>

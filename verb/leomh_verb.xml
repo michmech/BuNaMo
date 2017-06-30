@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="leomh" disambig="">
+  <verbalNoun default="leomhadh" />
+  <verbalAdjective default="leofa" />
+  <tenseForm default="leomh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="leomhamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="leomhadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="leomhadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="leomh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="leomhamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="leomhadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="leomhadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="leomhadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="leomhainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leomhtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="leomhaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leomhaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="leomhtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leomhadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="leomhainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leomhtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="leomhaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leomhaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="leomhtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leomhann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="leomhaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leomhaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leomhtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leomhann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="leomhaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leomhaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leomhtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leomhfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="leomhfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="leomhfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="leomhfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="leomhfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="leomhfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="leomhfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="leomhfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="leomhfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="leomhfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="leomhfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="leomhfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="leomhfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="leomhfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="leomhfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="leomhfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="leomhfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="leomhfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="leomhadh" mood="Imper" person="Base" />
+  <moodForm default="leomhaim" mood="Imper" person="Sg1" />
+  <moodForm default="leomh" mood="Imper" person="Sg2" />
+  <moodForm default="leomhaimis" mood="Imper" person="Pl1" />
+  <moodForm default="leomhaigí" mood="Imper" person="Pl2" />
+  <moodForm default="leomhaidís" mood="Imper" person="Pl3" />
+  <moodForm default="leomhtar" mood="Imper" person="Auto" />
+  <moodForm default="leomha" mood="Subj" person="Base" />
+  <moodForm default="leomhaimid" mood="Subj" person="Pl1" />
+  <moodForm default="leomhtar" mood="Subj" person="Auto" />
+</verb>

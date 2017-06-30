@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="lámhscaoil" disambig="">
+  <verbalNoun default="lámhscaoileadh" />
+  <verbalAdjective default="lámhscaoilte" />
+  <tenseForm default="lámhscaoil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lámhscaoileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="lámhscaoileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="lámhscaoileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="lámhscaoil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lámhscaoileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="lámhscaoileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="lámhscaoileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="lámhscaoileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="lámhscaoilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lámhscaoilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="lámhscaoilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lámhscaoilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="lámhscaoiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lámhscaoileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="lámhscaoilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lámhscaoilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="lámhscaoilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lámhscaoilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="lámhscaoiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lámhscaoileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="lámhscaoilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lámhscaoilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lámhscaoiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lámhscaoileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="lámhscaoilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lámhscaoilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lámhscaoiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lámhscaoilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="lámhscaoilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="lámhscaoilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="lámhscaoilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="lámhscaoilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="lámhscaoilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="lámhscaoilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="lámhscaoilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="lámhscaoilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="lámhscaoilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="lámhscaoilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="lámhscaoilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="lámhscaoilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="lámhscaoilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="lámhscaoilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="lámhscaoilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="lámhscaoilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="lámhscaoilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="lámhscaoileadh" mood="Imper" person="Base" />
+  <moodForm default="lámhscaoilim" mood="Imper" person="Sg1" />
+  <moodForm default="lámhscaoil" mood="Imper" person="Sg2" />
+  <moodForm default="lámhscaoilimis" mood="Imper" person="Pl1" />
+  <moodForm default="lámhscaoiligí" mood="Imper" person="Pl2" />
+  <moodForm default="lámhscaoilidís" mood="Imper" person="Pl3" />
+  <moodForm default="lámhscaoiltear" mood="Imper" person="Auto" />
+  <moodForm default="lámhscaoile" mood="Subj" person="Base" />
+  <moodForm default="lámhscaoilimid" mood="Subj" person="Pl1" />
+  <moodForm default="lámhscaoiltear" mood="Subj" person="Auto" />
+</verb>

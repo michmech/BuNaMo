@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ceardchumannaigh" disambig="">
+  <verbalNoun default="ceardchumannú" />
+  <verbalAdjective default="ceardchumannaithe" />
+  <tenseForm default="ceardchumannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ceardchumannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceardchumannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceardchumannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ceardchumannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ceardchumannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceardchumannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceardchumannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ceardchumannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceardchumannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceardchumannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceardchumannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceardchumannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceardchumannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceardchumannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceardchumannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceardchumannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceardchumannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceardchumannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceardchumannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceardchumannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceardchumannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceardchumannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceardchumannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceardchumannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceardchumannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceardchumannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceardchumannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceardchumannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ceardchumannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceardchumannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ceardchumannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ceardchumannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceardchumannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ceardchumannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ceardchumannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceardchumannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceardchumannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceardchumannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceardchumannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ceardchumannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ceardchumannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceardchumannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceardchumannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceardchumannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceardchumannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ceardchumannaíodh" mood="Imper" person="Base" />
+  <moodForm default="ceardchumannaím" mood="Imper" person="Sg1" />
+  <moodForm default="ceardchumannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ceardchumannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ceardchumannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ceardchumannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ceardchumannaítear" mood="Imper" person="Auto" />
+  <moodForm default="ceardchumannaí" mood="Subj" person="Base" />
+  <moodForm default="ceardchumannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ceardchumannaítear" mood="Subj" person="Auto" />
+</verb>

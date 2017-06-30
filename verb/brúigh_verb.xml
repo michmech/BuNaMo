@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="brúigh" disambig="">
+  <verbalNoun default="brú" />
+  <verbalAdjective default="brúite" />
+  <tenseForm default="brúigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="brúmar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="brúdar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="brúdh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="brúigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="brúmar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="brúdar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="brúdh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="brúdh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="brúinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="brúiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="brúimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="brúidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="brúití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="brúdh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="brúinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="brúiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="brúimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="brúidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="brúití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="brúnn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="brúim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="brúimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="brúitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="brúnn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="brúim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="brúimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="brúitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="brúfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="brúfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="brúfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="brúfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="brúfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="brúfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="brúfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="brúfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="brúfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="brúfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="brúfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="brúfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="brúfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="brúfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="brúfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="brúfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="brúfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="brúfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="brúdh" mood="Imper" person="Base" />
+  <moodForm default="brúim" mood="Imper" person="Sg1" />
+  <moodForm default="brúigh" mood="Imper" person="Sg2" />
+  <moodForm default="brúimis" mood="Imper" person="Pl1" />
+  <moodForm default="brúigí" mood="Imper" person="Pl2" />
+  <moodForm default="brúidís" mood="Imper" person="Pl3" />
+  <moodForm default="brúitear" mood="Imper" person="Auto" />
+  <moodForm default="brú" mood="Subj" person="Base" />
+  <moodForm default="brúimid" mood="Subj" person="Pl1" />
+  <moodForm default="brúitear" mood="Subj" person="Auto" />
+</verb>

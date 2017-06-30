@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rúisc" disambig="">
+  <verbalNoun default="rúscadh" />
+  <verbalAdjective default="rúiscthe" />
+  <tenseForm default="rúisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rúisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rúisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rúisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rúisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rúisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rúisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rúiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rúiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rúiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rúisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rúisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rúiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rúiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rúiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rúisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rúisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rúiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rúiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rúisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rúiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rúiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rúiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rúiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rúiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rúiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rúiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rúiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rúiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rúiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rúiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rúiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rúiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rúiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rúiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rúiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rúisceadh" mood="Imper" person="Base" />
+  <moodForm default="rúiscim" mood="Imper" person="Sg1" />
+  <moodForm default="rúisc" mood="Imper" person="Sg2" />
+  <moodForm default="rúiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="rúiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="rúiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="rúisctear" mood="Imper" person="Auto" />
+  <moodForm default="rúisce" mood="Subj" person="Base" />
+  <moodForm default="rúiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="rúisctear" mood="Subj" person="Auto" />
+</verb>

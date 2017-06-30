@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cartlannaigh" disambig="">
+  <verbalNoun default="cartlannú" />
+  <verbalAdjective default="cartlannaithe" />
+  <tenseForm default="cartlannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cartlannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cartlannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cartlannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cartlannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cartlannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cartlannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cartlannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cartlannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cartlannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cartlannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cartlannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cartlannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cartlannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cartlannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cartlannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cartlannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cartlannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cartlannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cartlannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cartlannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cartlannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cartlannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cartlannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cartlannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cartlannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cartlannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cartlannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cartlannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cartlannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cartlannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cartlannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cartlannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cartlannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cartlannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cartlannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cartlannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cartlannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cartlannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cartlannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cartlannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cartlannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cartlannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cartlannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cartlannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cartlannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cartlannaíodh" mood="Imper" person="Base" />
+  <moodForm default="cartlannaím" mood="Imper" person="Sg1" />
+  <moodForm default="cartlannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cartlannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cartlannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cartlannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cartlannaítear" mood="Imper" person="Auto" />
+  <moodForm default="cartlannaí" mood="Subj" person="Base" />
+  <moodForm default="cartlannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cartlannaítear" mood="Subj" person="Auto" />
+</verb>

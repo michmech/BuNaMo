@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tuairiscigh" disambig="">
+  <verbalNoun default="tuairisciú" />
+  <verbalAdjective default="tuairiscithe" />
+  <tenseForm default="tuairiscigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tuairiscíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuairiscíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuairiscíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tuairiscigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tuairiscíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuairiscíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuairiscíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tuairiscíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuairiscínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuairiscíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuairiscímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuairiscídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuairiscítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuairiscíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuairiscínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuairiscíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuairiscímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuairiscídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuairiscítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuairiscíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuairiscím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuairiscímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuairiscítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuairiscíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuairiscím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuairiscímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuairiscítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuairisceoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tuairisceoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuairisceofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tuairisceoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tuairisceoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuairisceofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tuairisceodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tuairisceoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuairisceofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuairisceoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuairisceoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuairisceofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tuairisceodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tuairisceoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuairisceofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuairisceoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuairisceoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuairisceofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tuairiscíodh" mood="Imper" person="Base" />
+  <moodForm default="tuairiscím" mood="Imper" person="Sg1" />
+  <moodForm default="tuairiscigh" mood="Imper" person="Sg2" />
+  <moodForm default="tuairiscímis" mood="Imper" person="Pl1" />
+  <moodForm default="tuairiscígí" mood="Imper" person="Pl2" />
+  <moodForm default="tuairiscídís" mood="Imper" person="Pl3" />
+  <moodForm default="tuairiscítear" mood="Imper" person="Auto" />
+  <moodForm default="tuairiscí" mood="Subj" person="Base" />
+  <moodForm default="tuairiscímid" mood="Subj" person="Pl1" />
+  <moodForm default="tuairiscítear" mood="Subj" person="Auto" />
+</verb>

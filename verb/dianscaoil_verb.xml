@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dianscaoil" disambig="">
+  <verbalNoun default="dianscaoileadh" />
+  <verbalAdjective default="dianscaoilte" />
+  <tenseForm default="dianscaoil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dianscaoileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dianscaoileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dianscaoileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dianscaoil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dianscaoileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dianscaoileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dianscaoileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dianscaoileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dianscaoilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dianscaoilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dianscaoilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dianscaoilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dianscaoiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dianscaoileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dianscaoilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dianscaoilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dianscaoilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dianscaoilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dianscaoiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dianscaoileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dianscaoilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dianscaoilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dianscaoiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dianscaoileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dianscaoilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dianscaoilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dianscaoiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dianscaoilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dianscaoilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dianscaoilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dianscaoilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dianscaoilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dianscaoilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dianscaoilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dianscaoilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dianscaoilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dianscaoilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dianscaoilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dianscaoilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dianscaoilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dianscaoilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dianscaoilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dianscaoilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dianscaoilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dianscaoilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dianscaoileadh" mood="Imper" person="Base" />
+  <moodForm default="dianscaoilim" mood="Imper" person="Sg1" />
+  <moodForm default="dianscaoil" mood="Imper" person="Sg2" />
+  <moodForm default="dianscaoilimis" mood="Imper" person="Pl1" />
+  <moodForm default="dianscaoiligí" mood="Imper" person="Pl2" />
+  <moodForm default="dianscaoilidís" mood="Imper" person="Pl3" />
+  <moodForm default="dianscaoiltear" mood="Imper" person="Auto" />
+  <moodForm default="dianscaoile" mood="Subj" person="Base" />
+  <moodForm default="dianscaoilimid" mood="Subj" person="Pl1" />
+  <moodForm default="dianscaoiltear" mood="Subj" person="Auto" />
+</verb>

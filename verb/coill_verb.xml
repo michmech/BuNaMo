@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coill" disambig="">
+  <verbalNoun default="coilleadh" />
+  <verbalAdjective default="coillte" />
+  <tenseForm default="coill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="coill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="coilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="coillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="coillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="coillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="coillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="coillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="coillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="coillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="coillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="coillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="coillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="coillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="coillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="coillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="coillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="coillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="coillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="coillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="coillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="coillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coilleadh" mood="Imper" person="Base" />
+  <moodForm default="coillim" mood="Imper" person="Sg1" />
+  <moodForm default="coill" mood="Imper" person="Sg2" />
+  <moodForm default="coillimis" mood="Imper" person="Pl1" />
+  <moodForm default="coilligí" mood="Imper" person="Pl2" />
+  <moodForm default="coillidís" mood="Imper" person="Pl3" />
+  <moodForm default="coilltear" mood="Imper" person="Auto" />
+  <moodForm default="coille" mood="Subj" person="Base" />
+  <moodForm default="coillimid" mood="Subj" person="Pl1" />
+  <moodForm default="coilltear" mood="Subj" person="Auto" />
+</verb>

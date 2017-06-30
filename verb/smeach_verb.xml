@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="smeach" disambig="">
+  <verbalNoun default="smeachadh" />
+  <verbalAdjective default="smeachta" />
+  <tenseForm default="smeach" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="smeachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="smeachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="smeachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="smeach" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="smeachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="smeachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="smeachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="smeachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="smeachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smeachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="smeachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smeachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="smeachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smeachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="smeachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smeachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="smeachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smeachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="smeachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smeachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="smeachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smeachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smeachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smeachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="smeachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smeachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smeachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smeachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="smeachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="smeachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="smeachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="smeachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="smeachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="smeachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="smeachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="smeachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="smeachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="smeachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="smeachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="smeachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="smeachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="smeachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="smeachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="smeachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="smeachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="smeachadh" mood="Imper" person="Base" />
+  <moodForm default="smeachaim" mood="Imper" person="Sg1" />
+  <moodForm default="smeach" mood="Imper" person="Sg2" />
+  <moodForm default="smeachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="smeachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="smeachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="smeachtar" mood="Imper" person="Auto" />
+  <moodForm default="smeacha" mood="Subj" person="Base" />
+  <moodForm default="smeachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="smeachtar" mood="Subj" person="Auto" />
+</verb>

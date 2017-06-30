@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bochtaigh" disambig="">
+  <verbalNoun default="bochtú" />
+  <verbalAdjective default="bochtaithe" />
+  <tenseForm default="bochtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bochtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bochtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bochtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bochtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bochtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bochtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bochtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bochtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bochtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bochtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bochtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bochtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bochtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bochtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bochtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bochtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bochtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bochtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bochtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bochtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bochtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bochtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bochtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bochtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bochtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bochtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bochtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bochtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bochtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bochtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bochtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bochtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bochtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bochtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bochtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bochtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bochtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bochtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bochtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bochtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bochtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bochtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bochtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bochtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bochtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bochtaíodh" mood="Imper" person="Base" />
+  <moodForm default="bochtaím" mood="Imper" person="Sg1" />
+  <moodForm default="bochtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="bochtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="bochtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="bochtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="bochtaítear" mood="Imper" person="Auto" />
+  <moodForm default="bochtaí" mood="Subj" person="Base" />
+  <moodForm default="bochtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="bochtaítear" mood="Subj" person="Auto" />
+</verb>

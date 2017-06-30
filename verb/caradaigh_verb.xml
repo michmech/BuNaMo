@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="caradaigh" disambig="">
+  <verbalNoun default="caradú" />
+  <verbalAdjective default="caradaithe" />
+  <tenseForm default="caradaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="caradaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="caradaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="caradaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="caradaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="caradaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="caradaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="caradaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="caradaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="caradaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caradaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="caradaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caradaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="caradaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caradaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="caradaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caradaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="caradaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caradaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="caradaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caradaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="caradaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caradaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caradaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caradaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="caradaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caradaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caradaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caradóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="caradóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="caradófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="caradóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="caradóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="caradófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="caradódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="caradóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="caradófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="caradóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="caradóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="caradófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="caradódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="caradóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="caradófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="caradóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="caradóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="caradófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="caradaíodh" mood="Imper" person="Base" />
+  <moodForm default="caradaím" mood="Imper" person="Sg1" />
+  <moodForm default="caradaigh" mood="Imper" person="Sg2" />
+  <moodForm default="caradaímis" mood="Imper" person="Pl1" />
+  <moodForm default="caradaígí" mood="Imper" person="Pl2" />
+  <moodForm default="caradaídís" mood="Imper" person="Pl3" />
+  <moodForm default="caradaítear" mood="Imper" person="Auto" />
+  <moodForm default="caradaí" mood="Subj" person="Base" />
+  <moodForm default="caradaímid" mood="Subj" person="Pl1" />
+  <moodForm default="caradaítear" mood="Subj" person="Auto" />
+</verb>

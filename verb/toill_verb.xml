@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="toill" disambig="">
+  <verbalNoun default="toilleadh" />
+  <verbalAdjective default="toillte" />
+  <tenseForm default="toill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="toilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="toilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="toilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="toill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="toilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="toilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="toilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="toilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="toillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="toillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="toilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="toillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="toillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="toilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="toillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="toillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="toillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="toillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="toillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="toillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="toillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="toillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="toillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="toillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="toillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="toillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="toillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="toillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="toillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="toillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="toillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="toillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="toillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="toilleadh" mood="Imper" person="Base" />
+  <moodForm default="toillim" mood="Imper" person="Sg1" />
+  <moodForm default="toill" mood="Imper" person="Sg2" />
+  <moodForm default="toillimis" mood="Imper" person="Pl1" />
+  <moodForm default="toilligí" mood="Imper" person="Pl2" />
+  <moodForm default="toillidís" mood="Imper" person="Pl3" />
+  <moodForm default="toilltear" mood="Imper" person="Auto" />
+  <moodForm default="toille" mood="Subj" person="Base" />
+  <moodForm default="toillimid" mood="Subj" person="Pl1" />
+  <moodForm default="toilltear" mood="Subj" person="Auto" />
+</verb>

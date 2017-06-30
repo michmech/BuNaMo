@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="lannaigh" disambig="">
+  <verbalNoun default="lannú" />
+  <verbalAdjective default="lannaithe" />
+  <tenseForm default="lannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="lannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="lannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="lannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="lannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="lannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="lannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="lannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="lannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="lannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="lannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="lannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="lannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="lannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="lannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="lannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="lannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="lannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="lannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="lannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="lannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="lannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="lannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="lannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="lannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="lannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="lannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="lannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="lannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="lannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="lannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="lannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="lannaíodh" mood="Imper" person="Base" />
+  <moodForm default="lannaím" mood="Imper" person="Sg1" />
+  <moodForm default="lannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="lannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="lannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="lannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="lannaítear" mood="Imper" person="Auto" />
+  <moodForm default="lannaí" mood="Subj" person="Base" />
+  <moodForm default="lannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="lannaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="léasaigh" disambig="">
+  <verbalNoun default="léasú" />
+  <verbalAdjective default="léasaithe" />
+  <tenseForm default="léasaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="léasaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="léasaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="léasaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="léasaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="léasaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="léasaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="léasaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="léasaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="léasaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="léasaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="léasaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="léasaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="léasaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="léasaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="léasaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="léasaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="léasaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="léasaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="léasaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="léasaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="léasaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="léasaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="léasaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="léasaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="léasaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="léasaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="léasaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="léasóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="léasóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="léasófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="léasóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="léasóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="léasófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="léasódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="léasóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="léasófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="léasóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="léasóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="léasófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="léasódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="léasóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="léasófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="léasóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="léasóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="léasófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="léasaíodh" mood="Imper" person="Base" />
+  <moodForm default="léasaím" mood="Imper" person="Sg1" />
+  <moodForm default="léasaigh" mood="Imper" person="Sg2" />
+  <moodForm default="léasaímis" mood="Imper" person="Pl1" />
+  <moodForm default="léasaígí" mood="Imper" person="Pl2" />
+  <moodForm default="léasaídís" mood="Imper" person="Pl3" />
+  <moodForm default="léasaítear" mood="Imper" person="Auto" />
+  <moodForm default="léasaí" mood="Subj" person="Base" />
+  <moodForm default="léasaímid" mood="Subj" person="Pl1" />
+  <moodForm default="léasaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rátáil" disambig="">
+  <verbalNoun default="rátáil" />
+  <verbalAdjective default="rátáilte" />
+  <tenseForm default="rátáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rátálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rátáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rátáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rátáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rátálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rátáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rátáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rátáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rátálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rátáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rátálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rátálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rátáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rátáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rátálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rátáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rátálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rátálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rátáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rátálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rátálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rátálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rátáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rátálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rátálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rátálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rátáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rátálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rátálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rátálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rátálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rátálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rátálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rátálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rátálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rátálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rátálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rátálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rátálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rátálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rátálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rátálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rátálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rátálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rátálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rátáladh" mood="Imper" person="Base" />
+  <moodForm default="rátálaim" mood="Imper" person="Sg1" />
+  <moodForm default="rátáil" mood="Imper" person="Sg2" />
+  <moodForm default="rátálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="rátálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="rátálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="rátáiltear" mood="Imper" person="Auto" />
+  <moodForm default="rátála" mood="Subj" person="Base" />
+  <moodForm default="rátálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="rátáiltear" mood="Subj" person="Auto" />
+</verb>

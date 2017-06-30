@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ling" disambig="">
+  <verbalNoun default="lingeadh" />
+  <verbalAdjective default="lingthe" />
+  <tenseForm default="ling" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lingeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="lingeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="lingeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ling" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lingeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="lingeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="lingeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="lingeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="linginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lingteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="lingimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lingidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="lingtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lingeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="linginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lingteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="lingimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lingidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="lingtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lingeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="lingim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lingimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lingtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lingeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="lingim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lingimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lingtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lingfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="lingfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="lingfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="lingfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="lingfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="lingfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="lingfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="lingfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="lingfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="lingfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="lingfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="lingfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="lingfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="lingfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="lingfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="lingfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="lingfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="lingfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="lingeadh" mood="Imper" person="Base" />
+  <moodForm default="lingim" mood="Imper" person="Sg1" />
+  <moodForm default="ling" mood="Imper" person="Sg2" />
+  <moodForm default="lingimis" mood="Imper" person="Pl1" />
+  <moodForm default="lingigí" mood="Imper" person="Pl2" />
+  <moodForm default="lingidís" mood="Imper" person="Pl3" />
+  <moodForm default="lingtear" mood="Imper" person="Auto" />
+  <moodForm default="linge" mood="Subj" person="Base" />
+  <moodForm default="lingimid" mood="Subj" person="Pl1" />
+  <moodForm default="lingtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dámh" disambig="">
+  <verbalNoun default="dámhachtain" />
+  <verbalAdjective default="dáfa" />
+  <tenseForm default="dámh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dámhamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dámhadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dámhadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dámh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dámhamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dámhadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dámhadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dámhadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dámhainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dámhtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dámhaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dámhaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dámhtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dámhadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dámhainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dámhtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dámhaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dámhaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dámhtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dámhann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dámhaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dámhaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dámhtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dámhann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dámhaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dámhaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dámhtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dámhfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dámhfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dámhfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dámhfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dámhfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dámhfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dámhfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dámhfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dámhfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dámhfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dámhfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dámhfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dámhfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dámhfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dámhfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dámhfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dámhfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dámhfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dámhadh" mood="Imper" person="Base" />
+  <moodForm default="dámhaim" mood="Imper" person="Sg1" />
+  <moodForm default="dámh" mood="Imper" person="Sg2" />
+  <moodForm default="dámhaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dámhaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dámhaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dámhtar" mood="Imper" person="Auto" />
+  <moodForm default="dámha" mood="Subj" person="Base" />
+  <moodForm default="dámhaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dámhtar" mood="Subj" person="Auto" />
+</verb>

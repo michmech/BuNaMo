@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="giollaigh" disambig="">
+  <verbalNoun default="giollacht" />
+  <verbalAdjective default="giollaithe" />
+  <tenseForm default="giollaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="giollaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="giollaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="giollaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="giollaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="giollaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="giollaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="giollaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="giollaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="giollaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="giollaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="giollaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="giollaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="giollaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="giollaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="giollaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="giollaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="giollaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="giollaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="giollaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="giollaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="giollaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="giollaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="giollaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="giollaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="giollaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="giollaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="giollaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="giollóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="giollóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="giollófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="giollóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="giollóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="giollófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="giollódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="giollóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="giollófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="giollóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="giollóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="giollófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="giollódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="giollóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="giollófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="giollóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="giollóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="giollófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="giollaíodh" mood="Imper" person="Base" />
+  <moodForm default="giollaím" mood="Imper" person="Sg1" />
+  <moodForm default="giollaigh" mood="Imper" person="Sg2" />
+  <moodForm default="giollaímis" mood="Imper" person="Pl1" />
+  <moodForm default="giollaígí" mood="Imper" person="Pl2" />
+  <moodForm default="giollaídís" mood="Imper" person="Pl3" />
+  <moodForm default="giollaítear" mood="Imper" person="Auto" />
+  <moodForm default="giollaí" mood="Subj" person="Base" />
+  <moodForm default="giollaímid" mood="Subj" person="Pl1" />
+  <moodForm default="giollaítear" mood="Subj" person="Auto" />
+</verb>

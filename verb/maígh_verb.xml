@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="maígh" disambig="">
+  <verbalNoun default="maíomh" />
+  <verbalAdjective default="maíte" />
+  <tenseForm default="maíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="maíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="maígh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="maíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="maíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="maígh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="maíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="maíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="maíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="maínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="maímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="maítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="maínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="maímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="maítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="maím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="maím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maífidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="maífimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="maífear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="maífidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="maífimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="maífear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="maífeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="maífinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="maífeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="maífimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="maífidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="maífí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="maífeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="maífinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="maífeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="maífimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="maífidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="maífí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="maíodh" mood="Imper" person="Base" />
+  <moodForm default="maím" mood="Imper" person="Sg1" />
+  <moodForm default="maígh" mood="Imper" person="Sg2" />
+  <moodForm default="maímis" mood="Imper" person="Pl1" />
+  <moodForm default="maígí" mood="Imper" person="Pl2" />
+  <moodForm default="maídís" mood="Imper" person="Pl3" />
+  <moodForm default="maítear" mood="Imper" person="Auto" />
+  <moodForm default="maí" mood="Subj" person="Base" />
+  <moodForm default="maímid" mood="Subj" person="Pl1" />
+  <moodForm default="maítear" mood="Subj" person="Auto" />
+</verb>

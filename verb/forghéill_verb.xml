@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="forghéill" disambig="">
+  <verbalNoun default="forghéilleadh" />
+  <verbalAdjective default="forghéillte" />
+  <tenseForm default="forghéill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="forghéilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="forghéilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="forghéilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="forghéill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="forghéilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="forghéilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="forghéilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="forghéilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="forghéillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forghéillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="forghéillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forghéillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="forghéilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forghéilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="forghéillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forghéillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="forghéillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forghéillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="forghéilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forghéilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="forghéillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forghéillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forghéilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forghéilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="forghéillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forghéillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forghéilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forghéillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="forghéillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="forghéillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="forghéillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="forghéillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="forghéillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="forghéillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="forghéillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="forghéillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="forghéillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="forghéillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="forghéillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="forghéillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="forghéillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="forghéillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="forghéillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="forghéillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="forghéillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="forghéilleadh" mood="Imper" person="Base" />
+  <moodForm default="forghéillim" mood="Imper" person="Sg1" />
+  <moodForm default="forghéill" mood="Imper" person="Sg2" />
+  <moodForm default="forghéillimis" mood="Imper" person="Pl1" />
+  <moodForm default="forghéilligí" mood="Imper" person="Pl2" />
+  <moodForm default="forghéillidís" mood="Imper" person="Pl3" />
+  <moodForm default="forghéilltear" mood="Imper" person="Auto" />
+  <moodForm default="forghéille" mood="Subj" person="Base" />
+  <moodForm default="forghéillimid" mood="Subj" person="Pl1" />
+  <moodForm default="forghéilltear" mood="Subj" person="Auto" />
+</verb>

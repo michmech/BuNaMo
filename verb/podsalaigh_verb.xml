@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="podsalaigh" disambig="">
+  <verbalNoun default="podsalú" />
+  <verbalAdjective default="podsalaithe" />
+  <tenseForm default="podsalaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="podsalaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="podsalaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="podsalaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="podsalaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="podsalaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="podsalaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="podsalaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="podsalaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="podsalaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="podsalaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="podsalaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="podsalaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="podsalaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="podsalaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="podsalaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="podsalaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="podsalaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="podsalaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="podsalaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="podsalaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="podsalaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="podsalaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="podsalaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="podsalaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="podsalaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="podsalaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="podsalaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="podsalóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="podsalóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="podsalófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="podsalóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="podsalóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="podsalófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="podsalódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="podsalóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="podsalófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="podsalóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="podsalóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="podsalófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="podsalódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="podsalóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="podsalófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="podsalóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="podsalóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="podsalófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="podsalaíodh" mood="Imper" person="Base" />
+  <moodForm default="podsalaím" mood="Imper" person="Sg1" />
+  <moodForm default="podsalaigh" mood="Imper" person="Sg2" />
+  <moodForm default="podsalaímis" mood="Imper" person="Pl1" />
+  <moodForm default="podsalaígí" mood="Imper" person="Pl2" />
+  <moodForm default="podsalaídís" mood="Imper" person="Pl3" />
+  <moodForm default="podsalaítear" mood="Imper" person="Auto" />
+  <moodForm default="podsalaí" mood="Subj" person="Base" />
+  <moodForm default="podsalaímid" mood="Subj" person="Pl1" />
+  <moodForm default="podsalaítear" mood="Subj" person="Auto" />
+</verb>

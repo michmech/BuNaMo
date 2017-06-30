@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="glúinigh" disambig="">
+  <verbalNoun default="glúiniú" />
+  <verbalAdjective default="glúinithe" />
+  <tenseForm default="glúinigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="glúiníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="glúiníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="glúiníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="glúinigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="glúiníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="glúiníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="glúiníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="glúiníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="glúinínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="glúiníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="glúinímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="glúinídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="glúinítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="glúiníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="glúinínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="glúiníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="glúinímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="glúinídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="glúinítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="glúiníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="glúiním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="glúinímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="glúinítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="glúiníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="glúiním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="glúinímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="glúinítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="glúineoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="glúineoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="glúineofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="glúineoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="glúineoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="glúineofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="glúineodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="glúineoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="glúineofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="glúineoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="glúineoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="glúineofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="glúineodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="glúineoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="glúineofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="glúineoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="glúineoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="glúineofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="glúiníodh" mood="Imper" person="Base" />
+  <moodForm default="glúiním" mood="Imper" person="Sg1" />
+  <moodForm default="glúinigh" mood="Imper" person="Sg2" />
+  <moodForm default="glúinímis" mood="Imper" person="Pl1" />
+  <moodForm default="glúinígí" mood="Imper" person="Pl2" />
+  <moodForm default="glúinídís" mood="Imper" person="Pl3" />
+  <moodForm default="glúinítear" mood="Imper" person="Auto" />
+  <moodForm default="glúiní" mood="Subj" person="Base" />
+  <moodForm default="glúinímid" mood="Subj" person="Pl1" />
+  <moodForm default="glúinítear" mood="Subj" person="Auto" />
+</verb>

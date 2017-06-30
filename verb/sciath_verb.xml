@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sciath" disambig="">
+  <verbalNoun default="sciathadh" />
+  <verbalAdjective default="sciata" />
+  <tenseForm default="sciath" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sciathamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciathadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciathadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sciath" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sciathamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciathadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciathadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sciathadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciathainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciatá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciathaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciathaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciataí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciathadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciathainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciatá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciathaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciathaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciataí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciathann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciathaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciathaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciatar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciathann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciathaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciathaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciatar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciathfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sciathfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciathfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sciathfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sciathfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciathfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sciathfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sciathfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciathfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciathfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciathfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciathfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sciathfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sciathfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciathfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciathfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciathfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciathfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sciathadh" mood="Imper" person="Base" />
+  <moodForm default="sciathaim" mood="Imper" person="Sg1" />
+  <moodForm default="sciath" mood="Imper" person="Sg2" />
+  <moodForm default="sciathaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sciathaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sciathaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sciatar" mood="Imper" person="Auto" />
+  <moodForm default="sciatha" mood="Subj" person="Base" />
+  <moodForm default="sciathaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sciatar" mood="Subj" person="Auto" />
+</verb>

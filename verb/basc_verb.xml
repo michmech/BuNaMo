@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="basc" disambig="">
+  <verbalNoun default="bascadh" />
+  <verbalAdjective default="basctha" />
+  <tenseForm default="basc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="basc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="basctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="basctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="basctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="basctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="basctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="basctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bascadh" mood="Imper" person="Base" />
+  <moodForm default="bascaim" mood="Imper" person="Sg1" />
+  <moodForm default="basc" mood="Imper" person="Sg2" />
+  <moodForm default="bascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="basctar" mood="Imper" person="Auto" />
+  <moodForm default="basca" mood="Subj" person="Base" />
+  <moodForm default="bascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="basctar" mood="Subj" person="Auto" />
+</verb>

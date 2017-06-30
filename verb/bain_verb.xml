@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bain" disambig="">
+  <verbalNoun default="baint" />
+  <verbalAdjective default="bainte" />
+  <tenseForm default="bain" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="baineamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="baineadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="baineadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bain" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="baineamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="baineadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="baineadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="baineadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="baininn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bainteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bainimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bainidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="baintí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baineadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="baininn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bainteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bainimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bainidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="baintí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="baineann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bainim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bainimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="baintear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baineann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bainim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bainimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="baintear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bainfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bainfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bainfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bainfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bainfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bainfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bainfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bainfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bainfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bainfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bainfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bainfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bainfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bainfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bainfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bainfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bainfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bainfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="baineadh" mood="Imper" person="Base" />
+  <moodForm default="bainim" mood="Imper" person="Sg1" />
+  <moodForm default="bain" mood="Imper" person="Sg2" />
+  <moodForm default="bainimis" mood="Imper" person="Pl1" />
+  <moodForm default="bainigí" mood="Imper" person="Pl2" />
+  <moodForm default="bainidís" mood="Imper" person="Pl3" />
+  <moodForm default="baintear" mood="Imper" person="Auto" />
+  <moodForm default="baine" mood="Subj" person="Base" />
+  <moodForm default="bainimid" mood="Subj" person="Pl1" />
+  <moodForm default="baintear" mood="Subj" person="Auto" />
+</verb>

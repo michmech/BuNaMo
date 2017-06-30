@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athéist" disambig="">
+  <verbalNoun default="athéisteacht" />
+  <verbalAdjective default="athéiste" />
+  <tenseForm default="athéist" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athéisteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athéisteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athéisteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athéist" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athéisteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athéisteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athéisteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athéisteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athéistinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athéisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athéistimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athéistidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athéistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athéisteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athéistinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athéisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athéistimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athéistidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athéistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athéisteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athéistim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athéistimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athéistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athéisteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athéistim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athéistimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athéistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athéistfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athéistfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athéistfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athéistfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athéistfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athéistfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athéistfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athéistfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athéistfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athéistfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athéistfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athéistfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athéistfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athéistfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athéistfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athéistfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athéistfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athéistfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athéisteadh" mood="Imper" person="Base" />
+  <moodForm default="athéistim" mood="Imper" person="Sg1" />
+  <moodForm default="athéist" mood="Imper" person="Sg2" />
+  <moodForm default="athéistimis" mood="Imper" person="Pl1" />
+  <moodForm default="athéistigí" mood="Imper" person="Pl2" />
+  <moodForm default="athéistidís" mood="Imper" person="Pl3" />
+  <moodForm default="athéistear" mood="Imper" person="Auto" />
+  <moodForm default="athéiste" mood="Subj" person="Base" />
+  <moodForm default="athéistimid" mood="Subj" person="Pl1" />
+  <moodForm default="athéistear" mood="Subj" person="Auto" />
+</verb>

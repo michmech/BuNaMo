@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="codánaigh" disambig="">
+  <verbalNoun default="codánú" />
+  <verbalAdjective default="codánaithe" />
+  <tenseForm default="codánaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="codánaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="codánaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="codánaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="codánaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="codánaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="codánaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="codánaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="codánaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="codánaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="codánaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="codánaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="codánaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="codánaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="codánaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="codánaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="codánaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="codánaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="codánaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="codánaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="codánaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="codánaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="codánaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="codánaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="codánaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="codánaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="codánaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="codánaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="codánóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="codánóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="codánófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="codánóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="codánóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="codánófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="codánódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="codánóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="codánófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="codánóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="codánóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="codánófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="codánódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="codánóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="codánófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="codánóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="codánóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="codánófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="codánaíodh" mood="Imper" person="Base" />
+  <moodForm default="codánaím" mood="Imper" person="Sg1" />
+  <moodForm default="codánaigh" mood="Imper" person="Sg2" />
+  <moodForm default="codánaímis" mood="Imper" person="Pl1" />
+  <moodForm default="codánaígí" mood="Imper" person="Pl2" />
+  <moodForm default="codánaídís" mood="Imper" person="Pl3" />
+  <moodForm default="codánaítear" mood="Imper" person="Auto" />
+  <moodForm default="codánaí" mood="Subj" person="Base" />
+  <moodForm default="codánaímid" mood="Subj" person="Pl1" />
+  <moodForm default="codánaítear" mood="Subj" person="Auto" />
+</verb>

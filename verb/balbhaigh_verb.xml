@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="balbhaigh" disambig="">
+  <verbalNoun default="balbhú" />
+  <verbalAdjective default="balbhaithe" />
+  <tenseForm default="balbhaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="balbhaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="balbhaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="balbhaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="balbhaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="balbhaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="balbhaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="balbhaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="balbhaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="balbhaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="balbhaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="balbhaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="balbhaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="balbhaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="balbhaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="balbhaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="balbhaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="balbhaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="balbhaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="balbhaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="balbhaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="balbhaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="balbhaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="balbhaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="balbhaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="balbhaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="balbhaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="balbhaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="balbhóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="balbhóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="balbhófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="balbhóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="balbhóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="balbhófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="balbhódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="balbhóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="balbhófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="balbhóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="balbhóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="balbhófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="balbhódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="balbhóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="balbhófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="balbhóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="balbhóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="balbhófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="balbhaíodh" mood="Imper" person="Base" />
+  <moodForm default="balbhaím" mood="Imper" person="Sg1" />
+  <moodForm default="balbhaigh" mood="Imper" person="Sg2" />
+  <moodForm default="balbhaímis" mood="Imper" person="Pl1" />
+  <moodForm default="balbhaígí" mood="Imper" person="Pl2" />
+  <moodForm default="balbhaídís" mood="Imper" person="Pl3" />
+  <moodForm default="balbhaítear" mood="Imper" person="Auto" />
+  <moodForm default="balbhaí" mood="Subj" person="Base" />
+  <moodForm default="balbhaímid" mood="Subj" person="Pl1" />
+  <moodForm default="balbhaítear" mood="Subj" person="Auto" />
+</verb>

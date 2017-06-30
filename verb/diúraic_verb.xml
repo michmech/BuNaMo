@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="diúraic" disambig="">
+  <verbalNoun default="diúracadh" />
+  <verbalAdjective default="diúractha" />
+  <tenseForm default="diúraic" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="diúracamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúracadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="diúracadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="diúraic" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="diúracamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúracadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="diúracadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="diúracadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="diúracainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diúractá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="diúracaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúracaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="diúractaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diúracadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="diúracainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diúractá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="diúracaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúracaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="diúractaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diúracann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="diúracaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diúracaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúractar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diúracann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="diúracaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diúracaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúractar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diúracfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="diúracfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúracfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="diúracfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="diúracfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúracfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="diúracfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="diúracfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="diúracfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="diúracfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúracfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="diúracfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="diúracfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="diúracfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="diúracfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="diúracfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúracfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="diúracfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="diúracadh" mood="Imper" person="Base" />
+  <moodForm default="diúracaim" mood="Imper" person="Sg1" />
+  <moodForm default="diúraic" mood="Imper" person="Sg2" />
+  <moodForm default="diúracaimis" mood="Imper" person="Pl1" />
+  <moodForm default="diúracaigí" mood="Imper" person="Pl2" />
+  <moodForm default="diúracaidís" mood="Imper" person="Pl3" />
+  <moodForm default="diúractar" mood="Imper" person="Auto" />
+  <moodForm default="diúraca" mood="Subj" person="Base" />
+  <moodForm default="diúracaimid" mood="Subj" person="Pl1" />
+  <moodForm default="diúractar" mood="Subj" person="Auto" />
+</verb>

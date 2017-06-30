@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="taosc" disambig="">
+  <verbalNoun default="taoscadh" />
+  <verbalAdjective default="taosctha" />
+  <tenseForm default="taosc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="taoscamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="taoscadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="taoscadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="taosc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="taoscamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="taoscadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="taoscadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="taoscadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="taoscainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taosctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="taoscaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taoscaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="taosctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taoscadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="taoscainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taosctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="taoscaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taoscaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="taosctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taoscann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="taoscaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="taoscaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="taosctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="taoscann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="taoscaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="taoscaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="taosctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="taoscfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="taoscfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="taoscfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="taoscfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="taoscfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="taoscfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="taoscfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="taoscfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="taoscfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="taoscfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="taoscfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="taoscfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="taoscfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="taoscfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="taoscfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="taoscfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="taoscfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="taoscfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="taoscadh" mood="Imper" person="Base" />
+  <moodForm default="taoscaim" mood="Imper" person="Sg1" />
+  <moodForm default="taosc" mood="Imper" person="Sg2" />
+  <moodForm default="taoscaimis" mood="Imper" person="Pl1" />
+  <moodForm default="taoscaigí" mood="Imper" person="Pl2" />
+  <moodForm default="taoscaidís" mood="Imper" person="Pl3" />
+  <moodForm default="taosctar" mood="Imper" person="Auto" />
+  <moodForm default="taosca" mood="Subj" person="Base" />
+  <moodForm default="taoscaimid" mood="Subj" person="Pl1" />
+  <moodForm default="taosctar" mood="Subj" person="Auto" />
+</verb>

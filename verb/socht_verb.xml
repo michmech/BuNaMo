@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="socht" disambig="">
+  <verbalNoun default="sochtadh" />
+  <verbalAdjective default="sochta" />
+  <tenseForm default="socht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sochtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sochtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sochtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="socht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sochtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sochtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sochtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sochtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sochtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sochtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sochtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sochtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sochtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sochtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sochtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sochtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sochtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sochtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sochtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sochtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sochtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sochtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sochtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sochtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sochtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sochtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sochtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sochtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sochtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sochtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sochtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sochtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sochtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sochtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sochtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sochtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sochtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sochtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sochtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sochtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sochtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sochtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sochtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sochtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sochtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sochtadh" mood="Imper" person="Base" />
+  <moodForm default="sochtaim" mood="Imper" person="Sg1" />
+  <moodForm default="socht" mood="Imper" person="Sg2" />
+  <moodForm default="sochtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sochtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sochtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sochtar" mood="Imper" person="Auto" />
+  <moodForm default="sochta" mood="Subj" person="Base" />
+  <moodForm default="sochtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sochtar" mood="Subj" person="Auto" />
+</verb>

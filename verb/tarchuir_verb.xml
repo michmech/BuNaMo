@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tarchuir" disambig="">
+  <verbalNoun default="tarchur" />
+  <verbalAdjective default="tarchurtha" />
+  <tenseForm default="tarchuir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tarchuireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarchuireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarchuireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tarchuir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tarchuireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarchuireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarchuireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tarchuireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarchuirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarchuirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarchuirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarchuiridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarchuirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarchuireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarchuirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarchuirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarchuirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarchuiridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarchuirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarchuireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarchuirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarchuirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarchuirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarchuireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarchuirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarchuirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarchuirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarchuirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tarchuirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarchuirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tarchuirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tarchuirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarchuirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tarchuirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tarchuirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarchuirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarchuirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarchuirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarchuirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tarchuirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tarchuirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarchuirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarchuirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarchuirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarchuirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tarchuireadh" mood="Imper" person="Base" />
+  <moodForm default="tarchuirim" mood="Imper" person="Sg1" />
+  <moodForm default="tarchuir" mood="Imper" person="Sg2" />
+  <moodForm default="tarchuirimis" mood="Imper" person="Pl1" />
+  <moodForm default="tarchuirigí" mood="Imper" person="Pl2" />
+  <moodForm default="tarchuiridís" mood="Imper" person="Pl3" />
+  <moodForm default="tarchuirtear" mood="Imper" person="Auto" />
+  <moodForm default="tarchuire" mood="Subj" person="Base" />
+  <moodForm default="tarchuirimid" mood="Subj" person="Pl1" />
+  <moodForm default="tarchuirtear" mood="Subj" person="Auto" />
+</verb>

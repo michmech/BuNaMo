@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="locair" disambig="">
+  <verbalNoun default="locrú" />
+  <verbalAdjective default="locraithe" />
+  <tenseForm default="locair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="locraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="locraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="locraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="locair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="locraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="locraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="locraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="locraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="locraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="locraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="locraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="locraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="locraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="locraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="locraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="locraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="locraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="locraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="locraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="locraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="locraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="locraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="locraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="locraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="locraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="locraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="locraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="locróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="locróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="locrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="locróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="locróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="locrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="locródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="locróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="locrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="locróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="locróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="locrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="locródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="locróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="locrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="locróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="locróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="locrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="locraíodh" mood="Imper" person="Base" />
+  <moodForm default="locraím" mood="Imper" person="Sg1" />
+  <moodForm default="locair" mood="Imper" person="Sg2" />
+  <moodForm default="locraímis" mood="Imper" person="Pl1" />
+  <moodForm default="locraígí" mood="Imper" person="Pl2" />
+  <moodForm default="locraídís" mood="Imper" person="Pl3" />
+  <moodForm default="locraítear" mood="Imper" person="Auto" />
+  <moodForm default="locraí" mood="Subj" person="Base" />
+  <moodForm default="locraímid" mood="Subj" person="Pl1" />
+  <moodForm default="locraítear" mood="Subj" person="Auto" />
+</verb>

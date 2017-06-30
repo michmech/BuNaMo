@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="feir" disambig="">
+  <verbalNoun default="feireadh" />
+  <verbalAdjective default="feirthe" />
+  <tenseForm default="feir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="feireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="feireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="feireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="feir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="feireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="feireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="feireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="feireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="feirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="feirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feiridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="feirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="feirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="feirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feiridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="feirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="feirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="feirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="feirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="feirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="feirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="feirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="feirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="feirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="feirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="feirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="feirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="feirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="feirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="feirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="feirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="feirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="feirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="feirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="feirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="feireadh" mood="Imper" person="Base" />
+  <moodForm default="feirim" mood="Imper" person="Sg1" />
+  <moodForm default="feir" mood="Imper" person="Sg2" />
+  <moodForm default="feirimis" mood="Imper" person="Pl1" />
+  <moodForm default="feirigí" mood="Imper" person="Pl2" />
+  <moodForm default="feiridís" mood="Imper" person="Pl3" />
+  <moodForm default="feirtear" mood="Imper" person="Auto" />
+  <moodForm default="feire" mood="Subj" person="Base" />
+  <moodForm default="feirimid" mood="Subj" person="Pl1" />
+  <moodForm default="feirtear" mood="Subj" person="Auto" />
+</verb>

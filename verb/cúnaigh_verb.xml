@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cúnaigh" disambig="">
+  <verbalNoun default="cúnamh" />
+  <verbalAdjective default="cúnaithe" />
+  <tenseForm default="cúnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cúnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cúnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cúnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cúnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cúnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cúnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cúnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cúnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cúnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cúnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cúnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cúnaíodh" mood="Imper" person="Base" />
+  <moodForm default="cúnaím" mood="Imper" person="Sg1" />
+  <moodForm default="cúnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cúnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cúnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cúnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cúnaítear" mood="Imper" person="Auto" />
+  <moodForm default="cúnaí" mood="Subj" person="Base" />
+  <moodForm default="cúnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cúnaítear" mood="Subj" person="Auto" />
+</verb>

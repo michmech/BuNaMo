@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="géill" disambig="">
+  <verbalNoun default="géilleadh" />
+  <verbalAdjective default="géillte" />
+  <tenseForm default="géill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="géilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="géilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="géilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="géill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="géilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="géilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="géilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="géilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="géillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="géillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="géillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="géillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="géilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="géilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="géillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="géillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="géillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="géillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="géilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="géilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="géillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="géillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="géilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="géilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="géillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="géillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="géilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="géillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="géillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="géillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="géillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="géillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="géillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="géillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="géillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="géillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="géillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="géillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="géillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="géillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="géillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="géillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="géillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="géillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="géillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="géilleadh" mood="Imper" person="Base" />
+  <moodForm default="géillim" mood="Imper" person="Sg1" />
+  <moodForm default="géill" mood="Imper" person="Sg2" />
+  <moodForm default="géillimis" mood="Imper" person="Pl1" />
+  <moodForm default="géilligí" mood="Imper" person="Pl2" />
+  <moodForm default="géillidís" mood="Imper" person="Pl3" />
+  <moodForm default="géilltear" mood="Imper" person="Auto" />
+  <moodForm default="géille" mood="Subj" person="Base" />
+  <moodForm default="géillimid" mood="Subj" person="Pl1" />
+  <moodForm default="géilltear" mood="Subj" person="Auto" />
+</verb>

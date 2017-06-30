@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tabhair" disambig="">
+  <verbalNoun default="tabhairt" />
+  <verbalAdjective default="tugtha" />
+  <tenseForm default="tug" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tugamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tugadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tugadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tug" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tugamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tugadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tugadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tugadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tugainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tugtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tugaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tugaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tugtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tugadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tugainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tugtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tugaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tugaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tugtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tugann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tugaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tugaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tugtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tugann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tugaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tugaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tugtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tabharfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tabharfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tabharfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tabharfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tabharfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tabharfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tabharfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tabharfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tabharfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tabharfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tabharfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tabharfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tabharfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tabharfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tabharfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tabharfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tabharfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tabharfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tugadh" mood="Imper" person="Base" />
+  <moodForm default="tugaim" mood="Imper" person="Sg1" />
+  <moodForm default="tabhair" mood="Imper" person="Sg2" />
+  <moodForm default="tugaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tugaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tugaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tugtar" mood="Imper" person="Auto" />
+  <moodForm default="tuga" mood="Subj" person="Base" />
+  <moodForm default="tugaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tugtar" mood="Subj" person="Auto" />
+</verb>

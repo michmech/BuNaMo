@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="croith" disambig="">
+  <verbalNoun default="croitheadh" />
+  <verbalAdjective default="croite" />
+  <tenseForm default="croith" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="croitheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="croitheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="croitheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="croith" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="croitheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="croitheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="croitheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="croitheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="croithinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="croiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="croithimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="croithidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="croití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="croitheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="croithinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="croiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="croithimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="croithidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="croití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="croitheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="croithim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="croithimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="croitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="croitheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="croithim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="croithimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="croitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="croithfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="croithfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="croithfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="croithfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="croithfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="croithfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="croithfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="croithfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="croithfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="croithfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="croithfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="croithfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="croithfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="croithfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="croithfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="croithfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="croithfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="croithfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="croitheadh" mood="Imper" person="Base" />
+  <moodForm default="croithim" mood="Imper" person="Sg1" />
+  <moodForm default="croith" mood="Imper" person="Sg2" />
+  <moodForm default="croithimis" mood="Imper" person="Pl1" />
+  <moodForm default="croithigí" mood="Imper" person="Pl2" />
+  <moodForm default="croithidís" mood="Imper" person="Pl3" />
+  <moodForm default="croitear" mood="Imper" person="Auto" />
+  <moodForm default="croithe" mood="Subj" person="Base" />
+  <moodForm default="croithimid" mood="Subj" person="Pl1" />
+  <moodForm default="croitear" mood="Subj" person="Auto" />
+</verb>

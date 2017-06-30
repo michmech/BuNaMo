@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sprúill" disambig="">
+  <verbalNoun default="sprúilleadh" />
+  <verbalAdjective default="sprúillte" />
+  <tenseForm default="sprúill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sprúilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sprúilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sprúilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sprúill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sprúilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sprúilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sprúilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sprúilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sprúillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sprúillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sprúillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sprúillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sprúilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sprúilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sprúillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sprúillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sprúillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sprúillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sprúilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sprúilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sprúillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sprúillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sprúilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sprúilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sprúillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sprúillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sprúilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sprúillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sprúillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sprúillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sprúillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sprúillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sprúillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sprúillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sprúillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sprúillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sprúillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sprúillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sprúillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sprúillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sprúillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sprúillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sprúillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sprúillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sprúillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sprúilleadh" mood="Imper" person="Base" />
+  <moodForm default="sprúillim" mood="Imper" person="Sg1" />
+  <moodForm default="sprúill" mood="Imper" person="Sg2" />
+  <moodForm default="sprúillimis" mood="Imper" person="Pl1" />
+  <moodForm default="sprúilligí" mood="Imper" person="Pl2" />
+  <moodForm default="sprúillidís" mood="Imper" person="Pl3" />
+  <moodForm default="sprúilltear" mood="Imper" person="Auto" />
+  <moodForm default="sprúille" mood="Subj" person="Base" />
+  <moodForm default="sprúillimid" mood="Subj" person="Pl1" />
+  <moodForm default="sprúilltear" mood="Subj" person="Auto" />
+</verb>

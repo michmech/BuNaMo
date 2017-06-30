@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="infheistigh" disambig="">
+  <verbalNoun default="infheistiú" />
+  <verbalAdjective default="infheistithe" />
+  <tenseForm default="infheistigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="infheistíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="infheistíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="infheistíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="infheistigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="infheistíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="infheistíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="infheistíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="infheistíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="infheistínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="infheistíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="infheistímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="infheistídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="infheistítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="infheistíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="infheistínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="infheistíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="infheistímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="infheistídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="infheistítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="infheistíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="infheistím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="infheistímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="infheistítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="infheistíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="infheistím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="infheistímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="infheistítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="infheisteoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="infheisteoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="infheisteofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="infheisteoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="infheisteoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="infheisteofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="infheisteodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="infheisteoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="infheisteofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="infheisteoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="infheisteoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="infheisteofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="infheisteodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="infheisteoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="infheisteofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="infheisteoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="infheisteoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="infheisteofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="infheistíodh" mood="Imper" person="Base" />
+  <moodForm default="infheistím" mood="Imper" person="Sg1" />
+  <moodForm default="infheistigh" mood="Imper" person="Sg2" />
+  <moodForm default="infheistímis" mood="Imper" person="Pl1" />
+  <moodForm default="infheistígí" mood="Imper" person="Pl2" />
+  <moodForm default="infheistídís" mood="Imper" person="Pl3" />
+  <moodForm default="infheistítear" mood="Imper" person="Auto" />
+  <moodForm default="infheistí" mood="Subj" person="Base" />
+  <moodForm default="infheistímid" mood="Subj" person="Pl1" />
+  <moodForm default="infheistítear" mood="Subj" person="Auto" />
+</verb>

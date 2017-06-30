@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="urghairdigh" disambig="">
+  <verbalNoun default="urghairdiú" />
+  <verbalAdjective default="urghairdithe" />
+  <tenseForm default="urghairdigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="urghairdíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="urghairdíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="urghairdíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="urghairdigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="urghairdíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="urghairdíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="urghairdíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="urghairdíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="urghairdínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urghairdíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="urghairdímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urghairdídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="urghairdítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urghairdíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="urghairdínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urghairdíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="urghairdímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urghairdídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="urghairdítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urghairdíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="urghairdím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urghairdímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urghairdítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urghairdíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="urghairdím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urghairdímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urghairdítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urghairdeoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="urghairdeoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="urghairdeofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="urghairdeoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="urghairdeoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="urghairdeofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="urghairdeodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="urghairdeoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="urghairdeofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="urghairdeoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="urghairdeoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="urghairdeofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="urghairdeodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="urghairdeoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="urghairdeofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="urghairdeoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="urghairdeoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="urghairdeofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="urghairdíodh" mood="Imper" person="Base" />
+  <moodForm default="urghairdím" mood="Imper" person="Sg1" />
+  <moodForm default="urghairdigh" mood="Imper" person="Sg2" />
+  <moodForm default="urghairdímis" mood="Imper" person="Pl1" />
+  <moodForm default="urghairdígí" mood="Imper" person="Pl2" />
+  <moodForm default="urghairdídís" mood="Imper" person="Pl3" />
+  <moodForm default="urghairdítear" mood="Imper" person="Auto" />
+  <moodForm default="urghairdí" mood="Subj" person="Base" />
+  <moodForm default="urghairdímid" mood="Subj" person="Pl1" />
+  <moodForm default="urghairdítear" mood="Subj" person="Auto" />
+</verb>

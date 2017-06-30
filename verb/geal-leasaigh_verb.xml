@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="geal-leasaigh" disambig="">
+  <verbalNoun default="geal-leasú" />
+  <verbalAdjective default="geal-leasaithe" />
+  <tenseForm default="geal-leasaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="geal-leasaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="geal-leasaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="geal-leasaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="geal-leasaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="geal-leasaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="geal-leasaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="geal-leasaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="geal-leasaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="geal-leasaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="geal-leasaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="geal-leasaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="geal-leasaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="geal-leasaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="geal-leasaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="geal-leasaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="geal-leasaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="geal-leasaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="geal-leasaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="geal-leasaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="geal-leasaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="geal-leasaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="geal-leasaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="geal-leasaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="geal-leasaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="geal-leasaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="geal-leasaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="geal-leasaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="geal-leasóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="geal-leasóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="geal-leasófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="geal-leasóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="geal-leasóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="geal-leasófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="geal-leasódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="geal-leasóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="geal-leasófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="geal-leasóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="geal-leasóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="geal-leasófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="geal-leasódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="geal-leasóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="geal-leasófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="geal-leasóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="geal-leasóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="geal-leasófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="geal-leasaíodh" mood="Imper" person="Base" />
+  <moodForm default="geal-leasaím" mood="Imper" person="Sg1" />
+  <moodForm default="geal-leasaigh" mood="Imper" person="Sg2" />
+  <moodForm default="geal-leasaímis" mood="Imper" person="Pl1" />
+  <moodForm default="geal-leasaígí" mood="Imper" person="Pl2" />
+  <moodForm default="geal-leasaídís" mood="Imper" person="Pl3" />
+  <moodForm default="geal-leasaítear" mood="Imper" person="Auto" />
+  <moodForm default="geal-leasaí" mood="Subj" person="Base" />
+  <moodForm default="geal-leasaímid" mood="Subj" person="Pl1" />
+  <moodForm default="geal-leasaítear" mood="Subj" person="Auto" />
+</verb>

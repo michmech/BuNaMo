@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rill" disambig="">
+  <verbalNoun default="rilleadh" />
+  <verbalAdjective default="rillte" />
+  <tenseForm default="rill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rilleadh" mood="Imper" person="Base" />
+  <moodForm default="rillim" mood="Imper" person="Sg1" />
+  <moodForm default="rill" mood="Imper" person="Sg2" />
+  <moodForm default="rillimis" mood="Imper" person="Pl1" />
+  <moodForm default="rilligí" mood="Imper" person="Pl2" />
+  <moodForm default="rillidís" mood="Imper" person="Pl3" />
+  <moodForm default="rilltear" mood="Imper" person="Auto" />
+  <moodForm default="rille" mood="Subj" person="Base" />
+  <moodForm default="rillimid" mood="Subj" person="Pl1" />
+  <moodForm default="rilltear" mood="Subj" person="Auto" />
+</verb>

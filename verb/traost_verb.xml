@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="traost" disambig="">
+  <verbalNoun default="traostadh" />
+  <verbalAdjective default="traosta" />
+  <tenseForm default="traost" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="traostamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="traostadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="traostadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="traost" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="traostamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="traostadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="traostadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="traostadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="traostainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="traostá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="traostaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="traostaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="traostaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="traostadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="traostainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="traostá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="traostaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="traostaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="traostaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="traostann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="traostaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="traostaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="traostar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="traostann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="traostaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="traostaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="traostar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="traostfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="traostfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="traostfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="traostfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="traostfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="traostfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="traostfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="traostfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="traostfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="traostfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="traostfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="traostfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="traostfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="traostfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="traostfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="traostfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="traostfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="traostfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="traostadh" mood="Imper" person="Base" />
+  <moodForm default="traostaim" mood="Imper" person="Sg1" />
+  <moodForm default="traost" mood="Imper" person="Sg2" />
+  <moodForm default="traostaimis" mood="Imper" person="Pl1" />
+  <moodForm default="traostaigí" mood="Imper" person="Pl2" />
+  <moodForm default="traostaidís" mood="Imper" person="Pl3" />
+  <moodForm default="traostar" mood="Imper" person="Auto" />
+  <moodForm default="traosta" mood="Subj" person="Base" />
+  <moodForm default="traostaimid" mood="Subj" person="Pl1" />
+  <moodForm default="traostar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="diosc" disambig="">
+  <verbalNoun default="dioscadh" />
+  <verbalAdjective default="diosctha" />
+  <tenseForm default="diosc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dioscamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dioscadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dioscadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="diosc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dioscamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dioscadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dioscadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dioscadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dioscainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diosctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dioscaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dioscaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="diosctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dioscadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dioscainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diosctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dioscaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dioscaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="diosctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dioscann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dioscaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dioscaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diosctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dioscann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dioscaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dioscaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diosctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dioscfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dioscfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dioscfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dioscfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dioscfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dioscfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dioscfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dioscfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dioscfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dioscfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dioscfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dioscfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dioscfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dioscfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dioscfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dioscfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dioscfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dioscfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dioscadh" mood="Imper" person="Base" />
+  <moodForm default="dioscaim" mood="Imper" person="Sg1" />
+  <moodForm default="diosc" mood="Imper" person="Sg2" />
+  <moodForm default="dioscaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dioscaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dioscaidís" mood="Imper" person="Pl3" />
+  <moodForm default="diosctar" mood="Imper" person="Auto" />
+  <moodForm default="diosca" mood="Subj" person="Base" />
+  <moodForm default="dioscaimid" mood="Subj" person="Pl1" />
+  <moodForm default="diosctar" mood="Subj" person="Auto" />
+</verb>

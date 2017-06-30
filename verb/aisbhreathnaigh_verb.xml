@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="aisbhreathnaigh" disambig="">
+  <verbalNoun default="aisbhreathnú" />
+  <verbalAdjective default="aisbhreathnaithe" />
+  <tenseForm default="aisbhreathnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="aisbhreathnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="aisbhreathnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="aisbhreathnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="aisbhreathnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="aisbhreathnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="aisbhreathnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="aisbhreathnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="aisbhreathnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="aisbhreathnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="aisbhreathnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="aisbhreathnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="aisbhreathnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="aisbhreathnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="aisbhreathnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="aisbhreathnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="aisbhreathnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="aisbhreathnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="aisbhreathnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="aisbhreathnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="aisbhreathnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="aisbhreathnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="aisbhreathnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="aisbhreathnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="aisbhreathnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="aisbhreathnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="aisbhreathnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="aisbhreathnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="aisbhreathnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="aisbhreathnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="aisbhreathnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="aisbhreathnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="aisbhreathnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="aisbhreathnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="aisbhreathnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="aisbhreathnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="aisbhreathnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="aisbhreathnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="aisbhreathnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="aisbhreathnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="aisbhreathnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="aisbhreathnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="aisbhreathnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="aisbhreathnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="aisbhreathnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="aisbhreathnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="aisbhreathnaíodh" mood="Imper" person="Base" />
+  <moodForm default="aisbhreathnaím" mood="Imper" person="Sg1" />
+  <moodForm default="aisbhreathnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="aisbhreathnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="aisbhreathnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="aisbhreathnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="aisbhreathnaítear" mood="Imper" person="Auto" />
+  <moodForm default="aisbhreathnaí" mood="Subj" person="Base" />
+  <moodForm default="aisbhreathnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="aisbhreathnaítear" mood="Subj" person="Auto" />
+</verb>

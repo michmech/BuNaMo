@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="léirbhreithnigh" disambig="">
+  <verbalNoun default="léirbhreithniú" />
+  <verbalAdjective default="léirbhreithnithe" />
+  <tenseForm default="léirbhreithnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="léirbhreithníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="léirbhreithníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="léirbhreithníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="léirbhreithnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="léirbhreithníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="léirbhreithníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="léirbhreithníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="léirbhreithníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="léirbhreithnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="léirbhreithníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="léirbhreithnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="léirbhreithnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="léirbhreithnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="léirbhreithníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="léirbhreithnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="léirbhreithníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="léirbhreithnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="léirbhreithnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="léirbhreithnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="léirbhreithníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="léirbhreithním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="léirbhreithnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="léirbhreithnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="léirbhreithníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="léirbhreithním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="léirbhreithnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="léirbhreithnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="léirbhreithneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="léirbhreithneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="léirbhreithneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="léirbhreithneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="léirbhreithneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="léirbhreithneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="léirbhreithneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="léirbhreithneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="léirbhreithneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="léirbhreithneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="léirbhreithneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="léirbhreithneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="léirbhreithneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="léirbhreithneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="léirbhreithneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="léirbhreithneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="léirbhreithneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="léirbhreithneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="léirbhreithníodh" mood="Imper" person="Base" />
+  <moodForm default="léirbhreithním" mood="Imper" person="Sg1" />
+  <moodForm default="léirbhreithnigh" mood="Imper" person="Sg2" />
+  <moodForm default="léirbhreithnímis" mood="Imper" person="Pl1" />
+  <moodForm default="léirbhreithnígí" mood="Imper" person="Pl2" />
+  <moodForm default="léirbhreithnídís" mood="Imper" person="Pl3" />
+  <moodForm default="léirbhreithnítear" mood="Imper" person="Auto" />
+  <moodForm default="léirbhreithní" mood="Subj" person="Base" />
+  <moodForm default="léirbhreithnímid" mood="Subj" person="Pl1" />
+  <moodForm default="léirbhreithnítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="domhandaigh" disambig="">
+  <verbalNoun default="domhandú" />
+  <verbalAdjective default="domhandaithe" />
+  <tenseForm default="domhandaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="domhandaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="domhandaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="domhandaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="domhandaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="domhandaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="domhandaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="domhandaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="domhandaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="domhandaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="domhandaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="domhandaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="domhandaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="domhandaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="domhandaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="domhandaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="domhandaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="domhandaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="domhandaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="domhandaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="domhandaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="domhandaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="domhandaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="domhandaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="domhandaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="domhandaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="domhandaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="domhandaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="domhandóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="domhandóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="domhandófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="domhandóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="domhandóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="domhandófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="domhandódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="domhandóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="domhandófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="domhandóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="domhandóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="domhandófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="domhandódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="domhandóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="domhandófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="domhandóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="domhandóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="domhandófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="domhandaíodh" mood="Imper" person="Base" />
+  <moodForm default="domhandaím" mood="Imper" person="Sg1" />
+  <moodForm default="domhandaigh" mood="Imper" person="Sg2" />
+  <moodForm default="domhandaímis" mood="Imper" person="Pl1" />
+  <moodForm default="domhandaígí" mood="Imper" person="Pl2" />
+  <moodForm default="domhandaídís" mood="Imper" person="Pl3" />
+  <moodForm default="domhandaítear" mood="Imper" person="Auto" />
+  <moodForm default="domhandaí" mood="Subj" person="Base" />
+  <moodForm default="domhandaímid" mood="Subj" person="Pl1" />
+  <moodForm default="domhandaítear" mood="Subj" person="Auto" />
+</verb>

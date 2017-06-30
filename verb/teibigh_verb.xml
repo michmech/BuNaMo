@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="teibigh" disambig="">
+  <verbalNoun default="teibiú" />
+  <verbalAdjective default="teibithe" />
+  <tenseForm default="teibigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="teibíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="teibíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="teibíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="teibigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="teibíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="teibíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="teibíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="teibíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="teibínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teibíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="teibímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teibídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="teibítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teibíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="teibínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teibíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="teibímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teibídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="teibítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teibíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="teibím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teibímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teibítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teibíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="teibím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teibímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teibítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teibeoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="teibeoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="teibeofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="teibeoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="teibeoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="teibeofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="teibeodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="teibeoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="teibeofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="teibeoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="teibeoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="teibeofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="teibeodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="teibeoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="teibeofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="teibeoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="teibeoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="teibeofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="teibíodh" mood="Imper" person="Base" />
+  <moodForm default="teibím" mood="Imper" person="Sg1" />
+  <moodForm default="teibigh" mood="Imper" person="Sg2" />
+  <moodForm default="teibímis" mood="Imper" person="Pl1" />
+  <moodForm default="teibígí" mood="Imper" person="Pl2" />
+  <moodForm default="teibídís" mood="Imper" person="Pl3" />
+  <moodForm default="teibítear" mood="Imper" person="Auto" />
+  <moodForm default="teibí" mood="Subj" person="Base" />
+  <moodForm default="teibímid" mood="Subj" person="Pl1" />
+  <moodForm default="teibítear" mood="Subj" person="Auto" />
+</verb>

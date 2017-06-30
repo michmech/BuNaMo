@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="foroinn" disambig="">
+  <verbalNoun default="foroinnt" />
+  <verbalAdjective default="foroinnte" />
+  <tenseForm default="foroinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="foroinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="foroinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="foroinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="foroinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="foroinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="foroinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="foroinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="foroinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="foroinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foroinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="foroinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foroinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="foroinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foroinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="foroinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foroinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="foroinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foroinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="foroinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foroinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="foroinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foroinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foroinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foroinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="foroinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foroinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foroinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foroinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="foroinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="foroinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="foroinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="foroinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="foroinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="foroinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="foroinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="foroinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="foroinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="foroinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="foroinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="foroinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="foroinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="foroinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="foroinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="foroinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="foroinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="foroinneadh" mood="Imper" person="Base" />
+  <moodForm default="foroinnim" mood="Imper" person="Sg1" />
+  <moodForm default="foroinn" mood="Imper" person="Sg2" />
+  <moodForm default="foroinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="foroinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="foroinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="foroinntear" mood="Imper" person="Auto" />
+  <moodForm default="foroinne" mood="Subj" person="Base" />
+  <moodForm default="foroinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="foroinntear" mood="Subj" person="Auto" />
+</verb>

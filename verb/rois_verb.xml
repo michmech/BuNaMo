@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rois" disambig="">
+  <verbalNoun default="roiseadh" />
+  <verbalAdjective default="roiste" />
+  <tenseForm default="rois" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="roiseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="roiseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="roiseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rois" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="roiseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="roiseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="roiseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="roiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="roisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="roisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="roistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="roiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="roisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="roisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="roistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="roiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="roisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="roiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="roisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="roisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="roisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="roisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="roisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="roisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="roisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="roisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="roisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="roisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="roisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="roisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="roisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="roisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="roisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="roisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="roisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="roisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="roisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="roiseadh" mood="Imper" person="Base" />
+  <moodForm default="roisim" mood="Imper" person="Sg1" />
+  <moodForm default="rois" mood="Imper" person="Sg2" />
+  <moodForm default="roisimis" mood="Imper" person="Pl1" />
+  <moodForm default="roisigí" mood="Imper" person="Pl2" />
+  <moodForm default="roisidís" mood="Imper" person="Pl3" />
+  <moodForm default="roistear" mood="Imper" person="Auto" />
+  <moodForm default="roise" mood="Subj" person="Base" />
+  <moodForm default="roisimid" mood="Subj" person="Pl1" />
+  <moodForm default="roistear" mood="Subj" person="Auto" />
+</verb>

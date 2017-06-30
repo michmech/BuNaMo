@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cum" disambig="">
+  <verbalNoun default="cumadh" />
+  <verbalAdjective default="cumtha" />
+  <tenseForm default="cum" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cumamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cum" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cumamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cumadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cumainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cumaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cumadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cumainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cumaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cumann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cumaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cumann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cumaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cumfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cumfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cumfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cumfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cumfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cumfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cumfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cumfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cumfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cumfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cumadh" mood="Imper" person="Base" />
+  <moodForm default="cumaim" mood="Imper" person="Sg1" />
+  <moodForm default="cum" mood="Imper" person="Sg2" />
+  <moodForm default="cumaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cumaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cumaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cumtar" mood="Imper" person="Auto" />
+  <moodForm default="cuma" mood="Subj" person="Base" />
+  <moodForm default="cumaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cumtar" mood="Subj" person="Auto" />
+</verb>

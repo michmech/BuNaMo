@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cam" disambig="">
+  <verbalNoun default="camadh" />
+  <verbalAdjective default="camtha" />
+  <tenseForm default="cam" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="camamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="camadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="camadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cam" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="camamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="camadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="camadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="camadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="camainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="camtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="camaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="camaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="camtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="camadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="camainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="camtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="camaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="camaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="camtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="camann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="camaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="camaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="camtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="camann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="camaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="camaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="camtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="camfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="camfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="camfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="camfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="camfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="camfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="camfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="camfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="camfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="camfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="camfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="camfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="camfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="camfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="camfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="camfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="camfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="camfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="camadh" mood="Imper" person="Base" />
+  <moodForm default="camaim" mood="Imper" person="Sg1" />
+  <moodForm default="cam" mood="Imper" person="Sg2" />
+  <moodForm default="camaimis" mood="Imper" person="Pl1" />
+  <moodForm default="camaigí" mood="Imper" person="Pl2" />
+  <moodForm default="camaidís" mood="Imper" person="Pl3" />
+  <moodForm default="camtar" mood="Imper" person="Auto" />
+  <moodForm default="cama" mood="Subj" person="Base" />
+  <moodForm default="camaimid" mood="Subj" person="Pl1" />
+  <moodForm default="camtar" mood="Subj" person="Auto" />
+</verb>

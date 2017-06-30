@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gad" disambig="">
+  <verbalNoun default="gad" />
+  <verbalAdjective default="gadta" />
+  <tenseForm default="gad" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gadamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gadadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gad" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gadamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gadadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gadadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gadainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gadtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gadaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gadaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gadtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gadadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gadainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gadtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gadaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gadaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gadtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gadann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gadaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gadaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gadtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gadann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gadaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gadaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gadtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gadfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gadfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gadfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gadfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gadfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gadfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gadfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gadfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gadfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gadfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gadfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gadfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gadfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gadfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gadfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gadfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gadfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gadfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gadadh" mood="Imper" person="Base" />
+  <moodForm default="gadaim" mood="Imper" person="Sg1" />
+  <moodForm default="gad" mood="Imper" person="Sg2" />
+  <moodForm default="gadaimis" mood="Imper" person="Pl1" />
+  <moodForm default="gadaigí" mood="Imper" person="Pl2" />
+  <moodForm default="gadaidís" mood="Imper" person="Pl3" />
+  <moodForm default="gadtar" mood="Imper" person="Auto" />
+  <moodForm default="gada" mood="Subj" person="Base" />
+  <moodForm default="gadaimid" mood="Subj" person="Pl1" />
+  <moodForm default="gadtar" mood="Subj" person="Auto" />
+</verb>

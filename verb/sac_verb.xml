@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sac" disambig="">
+  <verbalNoun default="sacadh" />
+  <verbalAdjective default="sactha" />
+  <tenseForm default="sac" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sacamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sacadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sacadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sac" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sacamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sacadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sacadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sacadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sacainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sactá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sacaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sacaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sactaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sacadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sacainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sactá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sacaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sacaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sactaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sacann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sacaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sacaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sactar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sacann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sacaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sacaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sactar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sacfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sacfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sacfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sacfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sacfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sacfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sacfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sacfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sacfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sacfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sacfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sacfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sacfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sacfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sacfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sacfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sacfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sacfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sacadh" mood="Imper" person="Base" />
+  <moodForm default="sacaim" mood="Imper" person="Sg1" />
+  <moodForm default="sac" mood="Imper" person="Sg2" />
+  <moodForm default="sacaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sacaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sacaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sactar" mood="Imper" person="Auto" />
+  <moodForm default="saca" mood="Subj" person="Base" />
+  <moodForm default="sacaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sactar" mood="Subj" person="Auto" />
+</verb>

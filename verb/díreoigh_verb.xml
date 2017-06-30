@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="díreoigh" disambig="">
+  <verbalNoun default="díreo" />
+  <verbalAdjective default="díreoite" />
+  <tenseForm default="díreoigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="díreomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="díreodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="díreodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="díreoigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="díreomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="díreodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="díreodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="díreodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="díreoinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díreoiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="díreoimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díreoidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="díreoití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díreodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="díreoinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díreoiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="díreoimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díreoidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="díreoití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díreonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="díreoim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díreoimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díreoitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díreonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="díreoim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díreoimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díreoitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díreofaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="díreofaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="díreofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="díreofaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="díreofaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="díreofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="díreofadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="díreofainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="díreofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="díreofaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="díreofaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="díreofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="díreofadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="díreofainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="díreofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="díreofaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="díreofaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="díreofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="díreodh" mood="Imper" person="Base" />
+  <moodForm default="díreoim" mood="Imper" person="Sg1" />
+  <moodForm default="díreoigh" mood="Imper" person="Sg2" />
+  <moodForm default="díreoimis" mood="Imper" person="Pl1" />
+  <moodForm default="díreoigí" mood="Imper" person="Pl2" />
+  <moodForm default="díreoidís" mood="Imper" person="Pl3" />
+  <moodForm default="díreoitear" mood="Imper" person="Auto" />
+  <moodForm default="díreo" mood="Subj" person="Base" />
+  <moodForm default="díreoimid" mood="Subj" person="Pl1" />
+  <moodForm default="díreoitear" mood="Subj" person="Auto" />
+</verb>

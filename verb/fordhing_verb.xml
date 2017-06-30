@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fordhing" disambig="">
+  <verbalNoun default="fordhingeadh" />
+  <verbalAdjective default="fordhingthe" />
+  <tenseForm default="fordhing" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fordhingeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordhingeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fordhingeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fordhing" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fordhingeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordhingeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fordhingeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fordhingeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fordhinginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fordhingteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fordhingimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordhingidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fordhingtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fordhingeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fordhinginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fordhingteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fordhingimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordhingidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fordhingtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fordhingeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fordhingim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fordhingimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordhingtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fordhingeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fordhingim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fordhingimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordhingtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fordhingfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fordhingfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordhingfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fordhingfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fordhingfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordhingfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fordhingfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fordhingfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fordhingfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fordhingfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordhingfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fordhingfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fordhingfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fordhingfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fordhingfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fordhingfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordhingfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fordhingfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fordhingeadh" mood="Imper" person="Base" />
+  <moodForm default="fordhingim" mood="Imper" person="Sg1" />
+  <moodForm default="fordhing" mood="Imper" person="Sg2" />
+  <moodForm default="fordhingimis" mood="Imper" person="Pl1" />
+  <moodForm default="fordhingigí" mood="Imper" person="Pl2" />
+  <moodForm default="fordhingidís" mood="Imper" person="Pl3" />
+  <moodForm default="fordhingtear" mood="Imper" person="Auto" />
+  <moodForm default="fordhinge" mood="Subj" person="Base" />
+  <moodForm default="fordhingimid" mood="Subj" person="Pl1" />
+  <moodForm default="fordhingtear" mood="Subj" person="Auto" />
+</verb>

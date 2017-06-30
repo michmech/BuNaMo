@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="déroinn" disambig="">
+  <verbalNoun default="déroinnt" />
+  <verbalAdjective default="déroinnte" />
+  <tenseForm default="déroinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="déroinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="déroinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="déroinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="déroinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="déroinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="déroinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="déroinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="déroinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="déroinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="déroinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="déroinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="déroinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="déroinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="déroinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="déroinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="déroinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="déroinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="déroinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="déroinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="déroinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="déroinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="déroinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="déroinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="déroinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="déroinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="déroinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="déroinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="déroinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="déroinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="déroinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="déroinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="déroinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="déroinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="déroinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="déroinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="déroinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="déroinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="déroinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="déroinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="déroinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="déroinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="déroinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="déroinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="déroinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="déroinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="déroinneadh" mood="Imper" person="Base" />
+  <moodForm default="déroinnim" mood="Imper" person="Sg1" />
+  <moodForm default="déroinn" mood="Imper" person="Sg2" />
+  <moodForm default="déroinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="déroinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="déroinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="déroinntear" mood="Imper" person="Auto" />
+  <moodForm default="déroinne" mood="Subj" person="Base" />
+  <moodForm default="déroinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="déroinntear" mood="Subj" person="Auto" />
+</verb>

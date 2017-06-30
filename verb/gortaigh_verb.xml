@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gortaigh" disambig="">
+  <verbalNoun default="gortú" />
+  <verbalAdjective default="gortaithe" />
+  <tenseForm default="gortaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gortaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gortaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gortaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gortaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gortaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gortaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gortaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gortaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gortaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gortaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gortaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gortaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gortaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gortaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gortaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gortaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gortaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gortaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gortaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gortaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gortaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gortaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gortaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gortaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gortaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gortaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gortaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gortóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gortóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gortófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gortóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gortóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gortófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gortódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gortóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gortófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gortóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gortóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gortófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gortódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gortóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gortófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gortóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gortóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gortófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gortaíodh" mood="Imper" person="Base" />
+  <moodForm default="gortaím" mood="Imper" person="Sg1" />
+  <moodForm default="gortaigh" mood="Imper" person="Sg2" />
+  <moodForm default="gortaímis" mood="Imper" person="Pl1" />
+  <moodForm default="gortaígí" mood="Imper" person="Pl2" />
+  <moodForm default="gortaídís" mood="Imper" person="Pl3" />
+  <moodForm default="gortaítear" mood="Imper" person="Auto" />
+  <moodForm default="gortaí" mood="Subj" person="Base" />
+  <moodForm default="gortaímid" mood="Subj" person="Pl1" />
+  <moodForm default="gortaítear" mood="Subj" person="Auto" />
+</verb>

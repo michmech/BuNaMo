@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="spréach" disambig="">
+  <verbalNoun default="spréachadh" />
+  <verbalAdjective default="spréachta" />
+  <tenseForm default="spréach" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="spréachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="spréachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="spréachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="spréach" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="spréachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="spréachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="spréachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="spréachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="spréachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spréachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="spréachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spréachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="spréachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spréachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="spréachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spréachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="spréachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spréachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="spréachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spréachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="spréachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spréachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spréachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spréachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="spréachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spréachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spréachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spréachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="spréachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="spréachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="spréachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="spréachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="spréachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="spréachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="spréachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="spréachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="spréachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="spréachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="spréachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="spréachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="spréachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="spréachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="spréachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="spréachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="spréachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="spréachadh" mood="Imper" person="Base" />
+  <moodForm default="spréachaim" mood="Imper" person="Sg1" />
+  <moodForm default="spréach" mood="Imper" person="Sg2" />
+  <moodForm default="spréachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="spréachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="spréachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="spréachtar" mood="Imper" person="Auto" />
+  <moodForm default="spréacha" mood="Subj" person="Base" />
+  <moodForm default="spréachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="spréachtar" mood="Subj" person="Auto" />
+</verb>

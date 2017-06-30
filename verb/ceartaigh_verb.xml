@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ceartaigh" disambig="">
+  <verbalNoun default="ceartú" />
+  <verbalAdjective default="ceartaithe" />
+  <tenseForm default="ceartaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ceartaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceartaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceartaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ceartaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ceartaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceartaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceartaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ceartaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceartaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceartaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceartaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceartaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceartaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceartaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceartaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceartaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceartaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceartaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceartaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceartaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceartaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceartaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceartaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceartaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceartaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceartaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceartaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceartóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ceartóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceartófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ceartóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ceartóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceartófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ceartódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ceartóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceartófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceartóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceartóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceartófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ceartódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ceartóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceartófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceartóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceartóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceartófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ceartaíodh" mood="Imper" person="Base" />
+  <moodForm default="ceartaím" mood="Imper" person="Sg1" />
+  <moodForm default="ceartaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ceartaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ceartaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ceartaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ceartaítear" mood="Imper" person="Auto" />
+  <moodForm default="ceartaí" mood="Subj" person="Base" />
+  <moodForm default="ceartaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ceartaítear" mood="Subj" person="Auto" />
+</verb>

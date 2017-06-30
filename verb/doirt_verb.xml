@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="doirt" disambig="">
+  <verbalNoun default="doirteadh" />
+  <verbalAdjective default="doirte" />
+  <tenseForm default="doirt" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="doirteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="doirteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="doirteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="doirt" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="doirteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="doirteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="doirteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="doirteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="doirtinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="doirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="doirtimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="doirtidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="doirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="doirteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="doirtinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="doirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="doirtimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="doirtidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="doirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="doirteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="doirtim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="doirtimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="doirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="doirteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="doirtim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="doirtimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="doirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="doirtfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="doirtfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="doirtfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="doirtfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="doirtfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="doirtfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="doirtfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="doirtfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="doirtfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="doirtfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="doirtfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="doirtfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="doirtfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="doirtfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="doirtfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="doirtfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="doirtfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="doirtfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="doirteadh" mood="Imper" person="Base" />
+  <moodForm default="doirtim" mood="Imper" person="Sg1" />
+  <moodForm default="doirt" mood="Imper" person="Sg2" />
+  <moodForm default="doirtimis" mood="Imper" person="Pl1" />
+  <moodForm default="doirtigí" mood="Imper" person="Pl2" />
+  <moodForm default="doirtidís" mood="Imper" person="Pl3" />
+  <moodForm default="doirtear" mood="Imper" person="Auto" />
+  <moodForm default="doirte" mood="Subj" person="Base" />
+  <moodForm default="doirtimid" mood="Subj" person="Pl1" />
+  <moodForm default="doirtear" mood="Subj" person="Auto" />
+</verb>

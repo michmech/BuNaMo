@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ceannaigh" disambig="">
+  <verbalNoun default="ceannach" />
+  <verbalAdjective default="ceannaithe" />
+  <tenseForm default="ceannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ceannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ceannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ceannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ceannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ceannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ceannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ceannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ceannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ceannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ceannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ceannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ceannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ceannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ceannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ceannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ceannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ceannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ceannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ceannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ceannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ceannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ceannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ceannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ceannaíodh" mood="Imper" person="Base" />
+  <moodForm default="ceannaím" mood="Imper" person="Sg1" />
+  <moodForm default="ceannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ceannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ceannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ceannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ceannaítear" mood="Imper" person="Auto" />
+  <moodForm default="ceannaí" mood="Subj" person="Base" />
+  <moodForm default="ceannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ceannaítear" mood="Subj" person="Auto" />
+</verb>

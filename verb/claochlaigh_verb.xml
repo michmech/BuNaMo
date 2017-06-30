@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="claochlaigh" disambig="">
+  <verbalNoun default="claochlú" />
+  <verbalAdjective default="claochlaithe" />
+  <tenseForm default="claochlaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="claochlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="claochlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="claochlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="claochlaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="claochlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="claochlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="claochlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="claochlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="claochlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="claochlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="claochlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="claochlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="claochlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="claochlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="claochlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="claochlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="claochlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="claochlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="claochlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="claochlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="claochlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="claochlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="claochlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="claochlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="claochlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="claochlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="claochlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="claochlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="claochlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="claochlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="claochlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="claochlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="claochlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="claochlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="claochlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="claochlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="claochlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="claochlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="claochlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="claochlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="claochlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="claochlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="claochlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="claochlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="claochlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="claochlaíodh" mood="Imper" person="Base" />
+  <moodForm default="claochlaím" mood="Imper" person="Sg1" />
+  <moodForm default="claochlaigh" mood="Imper" person="Sg2" />
+  <moodForm default="claochlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="claochlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="claochlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="claochlaítear" mood="Imper" person="Auto" />
+  <moodForm default="claochlaí" mood="Subj" person="Base" />
+  <moodForm default="claochlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="claochlaítear" mood="Subj" person="Auto" />
+</verb>

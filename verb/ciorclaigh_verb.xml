@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ciorclaigh" disambig="">
+  <verbalNoun default="ciorclú" />
+  <verbalAdjective default="ciorclaithe" />
+  <tenseForm default="ciorclaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ciorclaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciorclaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciorclaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ciorclaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ciorclaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciorclaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciorclaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ciorclaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciorclaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciorclaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciorclaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciorclaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciorclaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciorclaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciorclaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciorclaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciorclaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciorclaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciorclaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciorclaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciorclaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciorclaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciorclaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciorclaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciorclaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciorclaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciorclaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciorclóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ciorclóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciorclófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ciorclóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ciorclóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciorclófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ciorclódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ciorclóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciorclófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciorclóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciorclóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciorclófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ciorclódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ciorclóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciorclófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciorclóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciorclóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciorclófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ciorclaíodh" mood="Imper" person="Base" />
+  <moodForm default="ciorclaím" mood="Imper" person="Sg1" />
+  <moodForm default="ciorclaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ciorclaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ciorclaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ciorclaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ciorclaítear" mood="Imper" person="Auto" />
+  <moodForm default="ciorclaí" mood="Subj" person="Base" />
+  <moodForm default="ciorclaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ciorclaítear" mood="Subj" person="Auto" />
+</verb>

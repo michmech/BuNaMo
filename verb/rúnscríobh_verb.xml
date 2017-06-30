@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rúnscríobh" disambig="">
+  <verbalNoun default="rúnscríobh" />
+  <verbalAdjective default="rúnscríofa" />
+  <tenseForm default="rúnscríobh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rúnscríobhamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúnscríobhadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rúnscríobhadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rúnscríobh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rúnscríobhamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúnscríobhadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rúnscríobhadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rúnscríobhadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rúnscríobhainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rúnscríobhtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rúnscríobhaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúnscríobhaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rúnscríobhtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rúnscríobhadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rúnscríobhainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rúnscríobhtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rúnscríobhaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúnscríobhaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rúnscríobhtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rúnscríobhann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rúnscríobhaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rúnscríobhaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúnscríobhtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rúnscríobhann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rúnscríobhaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rúnscríobhaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúnscríobhtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rúnscríobhfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rúnscríobhfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúnscríobhfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rúnscríobhfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rúnscríobhfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúnscríobhfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rúnscríobhfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rúnscríobhfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rúnscríobhfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rúnscríobhfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rúnscríobhfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rúnscríobhfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rúnscríobhfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rúnscríobhfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rúnscríobhfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rúnscríobhfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rúnscríobhfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rúnscríobhfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rúnscríobhadh" mood="Imper" person="Base" />
+  <moodForm default="rúnscríobhaim" mood="Imper" person="Sg1" />
+  <moodForm default="rúnscríobh" mood="Imper" person="Sg2" />
+  <moodForm default="rúnscríobhaimis" mood="Imper" person="Pl1" />
+  <moodForm default="rúnscríobhaigí" mood="Imper" person="Pl2" />
+  <moodForm default="rúnscríobhaidís" mood="Imper" person="Pl3" />
+  <moodForm default="rúnscríobhtar" mood="Imper" person="Auto" />
+  <moodForm default="rúnscríobha" mood="Subj" person="Base" />
+  <moodForm default="rúnscríobhaimid" mood="Subj" person="Pl1" />
+  <moodForm default="rúnscríobhtar" mood="Subj" person="Auto" />
+</verb>

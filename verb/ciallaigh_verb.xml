@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ciallaigh" disambig="">
+  <verbalNoun default="ciallú" />
+  <verbalAdjective default="ciallaithe" />
+  <tenseForm default="ciallaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ciallaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciallaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciallaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ciallaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ciallaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciallaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciallaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ciallaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciallaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciallaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciallaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciallaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciallaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciallaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciallaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciallaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciallaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciallaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciallaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciallaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciallaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciallaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciallaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciallaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciallaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciallaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciallaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciallóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ciallóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciallófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ciallóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ciallóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciallófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ciallódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ciallóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciallófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciallóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciallóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciallófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ciallódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ciallóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciallófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciallóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciallóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciallófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ciallaíodh" mood="Imper" person="Base" />
+  <moodForm default="ciallaím" mood="Imper" person="Sg1" />
+  <moodForm default="ciallaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ciallaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ciallaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ciallaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ciallaítear" mood="Imper" person="Auto" />
+  <moodForm default="ciallaí" mood="Subj" person="Base" />
+  <moodForm default="ciallaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ciallaítear" mood="Subj" person="Auto" />
+</verb>

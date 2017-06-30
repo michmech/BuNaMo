@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fuirsigh" disambig="">
+  <verbalNoun default="fuirseadh" />
+  <verbalAdjective default="fuirste" />
+  <tenseForm default="fuirsigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fuirseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuirseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuirseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fuirsigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fuirseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuirseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuirseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fuirseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fuirsinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuirsteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fuirsimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuirsidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuirstí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fuirseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fuirsinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuirsteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fuirsimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuirsidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuirstí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fuirseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fuirsim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuirsimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuirstear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fuirseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fuirsim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuirsimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuirstear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fuirsfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fuirsfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuirsfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fuirsfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fuirsfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuirsfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fuirsfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fuirsfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuirsfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fuirsfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuirsfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuirsfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fuirsfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fuirsfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuirsfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fuirsfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuirsfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuirsfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fuirseadh" mood="Imper" person="Base" />
+  <moodForm default="fuirsim" mood="Imper" person="Sg1" />
+  <moodForm default="fuirsigh" mood="Imper" person="Sg2" />
+  <moodForm default="fuirsimis" mood="Imper" person="Pl1" />
+  <moodForm default="fuirsigí" mood="Imper" person="Pl2" />
+  <moodForm default="fuirsidís" mood="Imper" person="Pl3" />
+  <moodForm default="fuirstear" mood="Imper" person="Auto" />
+  <moodForm default="fuirse" mood="Subj" person="Base" />
+  <moodForm default="fuirsimid" mood="Subj" person="Pl1" />
+  <moodForm default="fuirstear" mood="Subj" person="Auto" />
+</verb>

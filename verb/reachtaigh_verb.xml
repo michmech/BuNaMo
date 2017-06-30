@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="reachtaigh" disambig="">
+  <verbalNoun default="reachtú" />
+  <verbalAdjective default="reachtaithe" />
+  <tenseForm default="reachtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="reachtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="reachtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="reachtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="reachtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="reachtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="reachtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="reachtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="reachtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="reachtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="reachtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="reachtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="reachtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="reachtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="reachtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="reachtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="reachtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="reachtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="reachtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="reachtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="reachtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="reachtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="reachtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="reachtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="reachtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="reachtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="reachtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="reachtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="reachtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="reachtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="reachtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="reachtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="reachtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="reachtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="reachtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="reachtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="reachtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="reachtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="reachtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="reachtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="reachtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="reachtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="reachtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="reachtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="reachtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="reachtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="reachtaíodh" mood="Imper" person="Base" />
+  <moodForm default="reachtaím" mood="Imper" person="Sg1" />
+  <moodForm default="reachtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="reachtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="reachtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="reachtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="reachtaítear" mood="Imper" person="Auto" />
+  <moodForm default="reachtaí" mood="Subj" person="Base" />
+  <moodForm default="reachtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="reachtaítear" mood="Subj" person="Auto" />
+</verb>

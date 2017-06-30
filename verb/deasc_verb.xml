@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="deasc" disambig="">
+  <verbalNoun default="deascadh" />
+  <verbalAdjective default="deasctha" />
+  <tenseForm default="deasc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="deascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="deascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="deascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="deasc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="deascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="deascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="deascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="deascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="deascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deasctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="deascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="deasctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="deascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deasctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="deascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="deasctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="deascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deasctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="deascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deasctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="deascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="deascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="deascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="deascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="deascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="deascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="deascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="deascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="deascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="deascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="deascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="deascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="deascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="deascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="deascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="deascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="deascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="deascadh" mood="Imper" person="Base" />
+  <moodForm default="deascaim" mood="Imper" person="Sg1" />
+  <moodForm default="deasc" mood="Imper" person="Sg2" />
+  <moodForm default="deascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="deascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="deascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="deasctar" mood="Imper" person="Auto" />
+  <moodForm default="deasca" mood="Subj" person="Base" />
+  <moodForm default="deascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="deasctar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mionscrúdaigh" disambig="">
+  <verbalNoun default="mionscrúdú" />
+  <verbalAdjective default="mionscrúdaithe" />
+  <tenseForm default="mionscrúdaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mionscrúdaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionscrúdaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionscrúdaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mionscrúdaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mionscrúdaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionscrúdaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionscrúdaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mionscrúdaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mionscrúdaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionscrúdaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mionscrúdaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionscrúdaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionscrúdaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mionscrúdaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mionscrúdaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionscrúdaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mionscrúdaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionscrúdaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionscrúdaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mionscrúdaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mionscrúdaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionscrúdaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionscrúdaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mionscrúdaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mionscrúdaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionscrúdaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionscrúdaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mionscrúdóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mionscrúdóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionscrúdófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mionscrúdóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mionscrúdóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionscrúdófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mionscrúdódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mionscrúdóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionscrúdófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mionscrúdóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionscrúdóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionscrúdófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mionscrúdódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mionscrúdóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionscrúdófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mionscrúdóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionscrúdóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionscrúdófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mionscrúdaíodh" mood="Imper" person="Base" />
+  <moodForm default="mionscrúdaím" mood="Imper" person="Sg1" />
+  <moodForm default="mionscrúdaigh" mood="Imper" person="Sg2" />
+  <moodForm default="mionscrúdaímis" mood="Imper" person="Pl1" />
+  <moodForm default="mionscrúdaígí" mood="Imper" person="Pl2" />
+  <moodForm default="mionscrúdaídís" mood="Imper" person="Pl3" />
+  <moodForm default="mionscrúdaítear" mood="Imper" person="Auto" />
+  <moodForm default="mionscrúdaí" mood="Subj" person="Base" />
+  <moodForm default="mionscrúdaímid" mood="Subj" person="Pl1" />
+  <moodForm default="mionscrúdaítear" mood="Subj" person="Auto" />
+</verb>

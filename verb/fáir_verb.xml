@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fáir" disambig="">
+  <verbalNoun default="fáireadh" />
+  <verbalAdjective default="fáirthe" />
+  <tenseForm default="fáir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fáireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fáireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fáireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fáir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fáireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fáireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fáireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fáireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fáirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fáirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fáirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fáiridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fáirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fáireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fáirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fáirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fáirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fáiridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fáirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fáireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fáirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fáirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fáirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fáireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fáirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fáirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fáirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fáirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fáirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fáirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fáirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fáirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fáirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fáirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fáirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fáirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fáirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fáirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fáirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fáirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fáirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fáirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fáirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fáirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fáirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fáireadh" mood="Imper" person="Base" />
+  <moodForm default="fáirim" mood="Imper" person="Sg1" />
+  <moodForm default="fáir" mood="Imper" person="Sg2" />
+  <moodForm default="fáirimis" mood="Imper" person="Pl1" />
+  <moodForm default="fáirigí" mood="Imper" person="Pl2" />
+  <moodForm default="fáiridís" mood="Imper" person="Pl3" />
+  <moodForm default="fáirtear" mood="Imper" person="Auto" />
+  <moodForm default="fáire" mood="Subj" person="Base" />
+  <moodForm default="fáirimid" mood="Subj" person="Pl1" />
+  <moodForm default="fáirtear" mood="Subj" person="Auto" />
+</verb>

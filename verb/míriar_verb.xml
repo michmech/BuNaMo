@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="míriar" disambig="">
+  <verbalNoun default="míriaradh" />
+  <verbalAdjective default="míriartha" />
+  <tenseForm default="míriar" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="míriaramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="míriaradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="míriaradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="míriar" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="míriaramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="míriaradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="míriaradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="míriaradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="míriarainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="míriartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="míriaraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="míriaraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="míriartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="míriaradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="míriarainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="míriartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="míriaraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="míriaraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="míriartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="míriarann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="míriaraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="míriaraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="míriartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="míriarann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="míriaraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="míriaraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="míriartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="míriarfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="míriarfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="míriarfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="míriarfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="míriarfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="míriarfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="míriarfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="míriarfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="míriarfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="míriarfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="míriarfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="míriarfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="míriarfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="míriarfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="míriarfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="míriarfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="míriarfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="míriarfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="míriaradh" mood="Imper" person="Base" />
+  <moodForm default="míriaraim" mood="Imper" person="Sg1" />
+  <moodForm default="míriar" mood="Imper" person="Sg2" />
+  <moodForm default="míriaraimis" mood="Imper" person="Pl1" />
+  <moodForm default="míriaraigí" mood="Imper" person="Pl2" />
+  <moodForm default="míriaraidís" mood="Imper" person="Pl3" />
+  <moodForm default="míriartar" mood="Imper" person="Auto" />
+  <moodForm default="míriara" mood="Subj" person="Base" />
+  <moodForm default="míriaraimid" mood="Subj" person="Pl1" />
+  <moodForm default="míriartar" mood="Subj" person="Auto" />
+</verb>

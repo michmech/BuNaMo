@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="eadarbhuasaigh" disambig="">
+  <verbalNoun default="eadarbhuasú" />
+  <verbalAdjective default="eadarbhuasaithe" />
+  <tenseForm default="eadarbhuasaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="eadarbhuasaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="eadarbhuasaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="eadarbhuasaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="eadarbhuasaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="eadarbhuasaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="eadarbhuasaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="eadarbhuasaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="eadarbhuasaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="eadarbhuasaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="eadarbhuasaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="eadarbhuasaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="eadarbhuasaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="eadarbhuasaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="eadarbhuasaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="eadarbhuasaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="eadarbhuasaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="eadarbhuasaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="eadarbhuasaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="eadarbhuasaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="eadarbhuasaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="eadarbhuasaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="eadarbhuasaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="eadarbhuasaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="eadarbhuasaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="eadarbhuasaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="eadarbhuasaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="eadarbhuasaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="eadarbhuasóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="eadarbhuasóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="eadarbhuasófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="eadarbhuasóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="eadarbhuasóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="eadarbhuasófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="eadarbhuasódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="eadarbhuasóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="eadarbhuasófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="eadarbhuasóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="eadarbhuasóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="eadarbhuasófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="eadarbhuasódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="eadarbhuasóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="eadarbhuasófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="eadarbhuasóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="eadarbhuasóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="eadarbhuasófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="eadarbhuasaíodh" mood="Imper" person="Base" />
+  <moodForm default="eadarbhuasaím" mood="Imper" person="Sg1" />
+  <moodForm default="eadarbhuasaigh" mood="Imper" person="Sg2" />
+  <moodForm default="eadarbhuasaímis" mood="Imper" person="Pl1" />
+  <moodForm default="eadarbhuasaígí" mood="Imper" person="Pl2" />
+  <moodForm default="eadarbhuasaídís" mood="Imper" person="Pl3" />
+  <moodForm default="eadarbhuasaítear" mood="Imper" person="Auto" />
+  <moodForm default="eadarbhuasaí" mood="Subj" person="Base" />
+  <moodForm default="eadarbhuasaímid" mood="Subj" person="Pl1" />
+  <moodForm default="eadarbhuasaítear" mood="Subj" person="Auto" />
+</verb>

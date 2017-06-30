@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="siortaigh" disambig="">
+  <verbalNoun default="siortú" />
+  <verbalAdjective default="siortaithe" />
+  <tenseForm default="siortaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="siortaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="siortaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="siortaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="siortaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="siortaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="siortaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="siortaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="siortaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="siortaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siortaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="siortaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siortaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="siortaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siortaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="siortaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siortaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="siortaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siortaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="siortaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siortaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="siortaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siortaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siortaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siortaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="siortaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siortaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siortaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siortóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="siortóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="siortófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="siortóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="siortóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="siortófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="siortódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="siortóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="siortófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="siortóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="siortóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="siortófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="siortódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="siortóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="siortófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="siortóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="siortóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="siortófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="siortaíodh" mood="Imper" person="Base" />
+  <moodForm default="siortaím" mood="Imper" person="Sg1" />
+  <moodForm default="siortaigh" mood="Imper" person="Sg2" />
+  <moodForm default="siortaímis" mood="Imper" person="Pl1" />
+  <moodForm default="siortaígí" mood="Imper" person="Pl2" />
+  <moodForm default="siortaídís" mood="Imper" person="Pl3" />
+  <moodForm default="siortaítear" mood="Imper" person="Auto" />
+  <moodForm default="siortaí" mood="Subj" person="Base" />
+  <moodForm default="siortaímid" mood="Subj" person="Pl1" />
+  <moodForm default="siortaítear" mood="Subj" person="Auto" />
+</verb>

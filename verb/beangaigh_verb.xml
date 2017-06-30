@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="beangaigh" disambig="">
+  <verbalNoun default="beangú" />
+  <verbalAdjective default="beangaithe" />
+  <tenseForm default="beangaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="beangaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="beangaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="beangaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="beangaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="beangaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="beangaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="beangaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="beangaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="beangaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beangaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="beangaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beangaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="beangaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beangaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="beangaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beangaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="beangaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beangaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="beangaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beangaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="beangaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beangaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beangaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beangaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="beangaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beangaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beangaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beangóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="beangóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="beangófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="beangóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="beangóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="beangófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="beangódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="beangóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="beangófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="beangóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="beangóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="beangófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="beangódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="beangóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="beangófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="beangóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="beangóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="beangófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="beangaíodh" mood="Imper" person="Base" />
+  <moodForm default="beangaím" mood="Imper" person="Sg1" />
+  <moodForm default="beangaigh" mood="Imper" person="Sg2" />
+  <moodForm default="beangaímis" mood="Imper" person="Pl1" />
+  <moodForm default="beangaígí" mood="Imper" person="Pl2" />
+  <moodForm default="beangaídís" mood="Imper" person="Pl3" />
+  <moodForm default="beangaítear" mood="Imper" person="Auto" />
+  <moodForm default="beangaí" mood="Subj" person="Base" />
+  <moodForm default="beangaímid" mood="Subj" person="Pl1" />
+  <moodForm default="beangaítear" mood="Subj" person="Auto" />
+</verb>

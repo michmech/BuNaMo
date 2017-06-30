@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ciúnaigh" disambig="">
+  <verbalNoun default="ciúnú" />
+  <verbalAdjective default="ciúnaithe" />
+  <tenseForm default="ciúnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ciúnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciúnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciúnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ciúnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ciúnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciúnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciúnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ciúnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciúnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciúnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciúnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciúnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciúnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciúnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciúnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciúnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciúnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciúnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciúnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciúnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciúnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciúnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciúnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciúnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciúnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciúnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciúnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciúnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ciúnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciúnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ciúnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ciúnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciúnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ciúnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ciúnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciúnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciúnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciúnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciúnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ciúnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ciúnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciúnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciúnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciúnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciúnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ciúnaíodh" mood="Imper" person="Base" />
+  <moodForm default="ciúnaím" mood="Imper" person="Sg1" />
+  <moodForm default="ciúnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ciúnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ciúnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ciúnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ciúnaítear" mood="Imper" person="Auto" />
+  <moodForm default="ciúnaí" mood="Subj" person="Base" />
+  <moodForm default="ciúnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ciúnaítear" mood="Subj" person="Auto" />
+</verb>

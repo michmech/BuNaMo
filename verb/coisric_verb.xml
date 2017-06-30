@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coisric" disambig="">
+  <verbalNoun default="coisreacan" />
+  <verbalAdjective default="coisricthe" />
+  <tenseForm default="coisric" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coisriceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coisriceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coisriceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="coisric" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coisriceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coisriceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coisriceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="coisriceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="coisricinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coisricteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coisricimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coisricidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coisrictí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coisriceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="coisricinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coisricteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coisricimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coisricidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coisrictí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coisriceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coisricim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coisricimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coisrictear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coisriceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coisricim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coisricimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coisrictear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coisricfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="coisricfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="coisricfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="coisricfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="coisricfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="coisricfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="coisricfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="coisricfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="coisricfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="coisricfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="coisricfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="coisricfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="coisricfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="coisricfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="coisricfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="coisricfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="coisricfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="coisricfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coisriceadh" mood="Imper" person="Base" />
+  <moodForm default="coisricim" mood="Imper" person="Sg1" />
+  <moodForm default="coisric" mood="Imper" person="Sg2" />
+  <moodForm default="coisricimis" mood="Imper" person="Pl1" />
+  <moodForm default="coisricigí" mood="Imper" person="Pl2" />
+  <moodForm default="coisricidís" mood="Imper" person="Pl3" />
+  <moodForm default="coisrictear" mood="Imper" person="Auto" />
+  <moodForm default="coisrice" mood="Subj" person="Base" />
+  <moodForm default="coisricimid" mood="Subj" person="Pl1" />
+  <moodForm default="coisrictear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mísheol" disambig="">
+  <verbalNoun default="mísheoladh" />
+  <verbalAdjective default="mísheolta" />
+  <tenseForm default="mísheol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mísheolamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mísheoladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mísheoladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mísheol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mísheolamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mísheoladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mísheoladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mísheoladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mísheolainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mísheoltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mísheolaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mísheolaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mísheoltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mísheoladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mísheolainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mísheoltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mísheolaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mísheolaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mísheoltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mísheolann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mísheolaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mísheolaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mísheoltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mísheolann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mísheolaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mísheolaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mísheoltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mísheolfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mísheolfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mísheolfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mísheolfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mísheolfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mísheolfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mísheolfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mísheolfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mísheolfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mísheolfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mísheolfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mísheolfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mísheolfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mísheolfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mísheolfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mísheolfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mísheolfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mísheolfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mísheoladh" mood="Imper" person="Base" />
+  <moodForm default="mísheolaim" mood="Imper" person="Sg1" />
+  <moodForm default="mísheol" mood="Imper" person="Sg2" />
+  <moodForm default="mísheolaimis" mood="Imper" person="Pl1" />
+  <moodForm default="mísheolaigí" mood="Imper" person="Pl2" />
+  <moodForm default="mísheolaidís" mood="Imper" person="Pl3" />
+  <moodForm default="mísheoltar" mood="Imper" person="Auto" />
+  <moodForm default="mísheola" mood="Subj" person="Base" />
+  <moodForm default="mísheolaimid" mood="Subj" person="Pl1" />
+  <moodForm default="mísheoltar" mood="Subj" person="Auto" />
+</verb>

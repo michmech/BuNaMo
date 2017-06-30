@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stríoc" disambig="">
+  <verbalNoun default="stríocadh" />
+  <verbalAdjective default="stríoctha" />
+  <tenseForm default="stríoc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stríocamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stríocadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stríocadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stríoc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stríocamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stríocadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stríocadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stríocadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stríocainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stríoctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stríocaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stríocaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stríoctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stríocadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stríocainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stríoctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stríocaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stríocaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stríoctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stríocann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stríocaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stríocaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stríoctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stríocann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stríocaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stríocaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stríoctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stríocfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stríocfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stríocfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stríocfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stríocfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stríocfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stríocfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stríocfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stríocfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stríocfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stríocfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stríocfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stríocfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stríocfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stríocfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stríocfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stríocfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stríocfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stríocadh" mood="Imper" person="Base" />
+  <moodForm default="stríocaim" mood="Imper" person="Sg1" />
+  <moodForm default="stríoc" mood="Imper" person="Sg2" />
+  <moodForm default="stríocaimis" mood="Imper" person="Pl1" />
+  <moodForm default="stríocaigí" mood="Imper" person="Pl2" />
+  <moodForm default="stríocaidís" mood="Imper" person="Pl3" />
+  <moodForm default="stríoctar" mood="Imper" person="Auto" />
+  <moodForm default="stríoca" mood="Subj" person="Base" />
+  <moodForm default="stríocaimid" mood="Subj" person="Pl1" />
+  <moodForm default="stríoctar" mood="Subj" person="Auto" />
+</verb>

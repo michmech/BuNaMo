@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="imscrúdaigh" disambig="">
+  <verbalNoun default="imscrúdú" />
+  <verbalAdjective default="imscrúdaithe" />
+  <tenseForm default="imscrúdaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="imscrúdaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="imscrúdaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="imscrúdaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="imscrúdaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="imscrúdaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="imscrúdaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="imscrúdaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="imscrúdaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="imscrúdaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imscrúdaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="imscrúdaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imscrúdaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="imscrúdaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imscrúdaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="imscrúdaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imscrúdaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="imscrúdaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imscrúdaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="imscrúdaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imscrúdaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="imscrúdaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imscrúdaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imscrúdaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imscrúdaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="imscrúdaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imscrúdaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imscrúdaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imscrúdóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="imscrúdóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="imscrúdófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="imscrúdóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="imscrúdóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="imscrúdófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="imscrúdódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="imscrúdóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="imscrúdófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="imscrúdóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="imscrúdóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="imscrúdófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="imscrúdódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="imscrúdóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="imscrúdófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="imscrúdóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="imscrúdóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="imscrúdófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="imscrúdaíodh" mood="Imper" person="Base" />
+  <moodForm default="imscrúdaím" mood="Imper" person="Sg1" />
+  <moodForm default="imscrúdaigh" mood="Imper" person="Sg2" />
+  <moodForm default="imscrúdaímis" mood="Imper" person="Pl1" />
+  <moodForm default="imscrúdaígí" mood="Imper" person="Pl2" />
+  <moodForm default="imscrúdaídís" mood="Imper" person="Pl3" />
+  <moodForm default="imscrúdaítear" mood="Imper" person="Auto" />
+  <moodForm default="imscrúdaí" mood="Subj" person="Base" />
+  <moodForm default="imscrúdaímid" mood="Subj" person="Pl1" />
+  <moodForm default="imscrúdaítear" mood="Subj" person="Auto" />
+</verb>

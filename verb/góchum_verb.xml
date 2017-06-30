@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="góchum" disambig="">
+  <verbalNoun default="góchumadh" />
+  <verbalAdjective default="góchumtha" />
+  <tenseForm default="góchum" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="góchumamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="góchumadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="góchumadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="góchum" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="góchumamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="góchumadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="góchumadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="góchumadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="góchumainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="góchumtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="góchumaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="góchumaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="góchumtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="góchumadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="góchumainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="góchumtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="góchumaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="góchumaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="góchumtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="góchumann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="góchumaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="góchumaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="góchumtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="góchumann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="góchumaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="góchumaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="góchumtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="góchumfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="góchumfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="góchumfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="góchumfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="góchumfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="góchumfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="góchumfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="góchumfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="góchumfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="góchumfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="góchumfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="góchumfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="góchumfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="góchumfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="góchumfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="góchumfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="góchumfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="góchumfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="góchumadh" mood="Imper" person="Base" />
+  <moodForm default="góchumaim" mood="Imper" person="Sg1" />
+  <moodForm default="góchum" mood="Imper" person="Sg2" />
+  <moodForm default="góchumaimis" mood="Imper" person="Pl1" />
+  <moodForm default="góchumaigí" mood="Imper" person="Pl2" />
+  <moodForm default="góchumaidís" mood="Imper" person="Pl3" />
+  <moodForm default="góchumtar" mood="Imper" person="Auto" />
+  <moodForm default="góchuma" mood="Subj" person="Base" />
+  <moodForm default="góchumaimid" mood="Subj" person="Pl1" />
+  <moodForm default="góchumtar" mood="Subj" person="Auto" />
+</verb>

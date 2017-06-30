@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="creim" disambig="">
+  <verbalNoun default="creimeadh" />
+  <verbalAdjective default="creimthe" />
+  <tenseForm default="creim" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="creimeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="creimeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="creimeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="creim" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="creimeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="creimeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="creimeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="creimeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="creiminn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creimteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="creimimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creimidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="creimtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creimeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="creiminn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creimteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="creimimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creimidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="creimtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creimeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="creimim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creimimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creimtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creimeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="creimim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creimimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creimtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creimfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="creimfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="creimfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="creimfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="creimfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="creimfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="creimfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="creimfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="creimfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="creimfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="creimfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="creimfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="creimfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="creimfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="creimfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="creimfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="creimfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="creimfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="creimeadh" mood="Imper" person="Base" />
+  <moodForm default="creimim" mood="Imper" person="Sg1" />
+  <moodForm default="creim" mood="Imper" person="Sg2" />
+  <moodForm default="creimimis" mood="Imper" person="Pl1" />
+  <moodForm default="creimigí" mood="Imper" person="Pl2" />
+  <moodForm default="creimidís" mood="Imper" person="Pl3" />
+  <moodForm default="creimtear" mood="Imper" person="Auto" />
+  <moodForm default="creime" mood="Subj" person="Base" />
+  <moodForm default="creimimid" mood="Subj" person="Pl1" />
+  <moodForm default="creimtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="caisnigh" disambig="">
+  <verbalNoun default="caisniú" />
+  <verbalAdjective default="caisnithe" />
+  <tenseForm default="caisnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="caisníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="caisníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="caisníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="caisnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="caisníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="caisníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="caisníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="caisníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="caisnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caisníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="caisnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caisnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="caisnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caisníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="caisnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caisníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="caisnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caisnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="caisnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caisníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="caisním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caisnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caisnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caisníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="caisním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caisnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caisnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caisneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="caisneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="caisneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="caisneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="caisneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="caisneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="caisneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="caisneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="caisneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="caisneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="caisneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="caisneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="caisneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="caisneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="caisneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="caisneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="caisneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="caisneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="caisníodh" mood="Imper" person="Base" />
+  <moodForm default="caisním" mood="Imper" person="Sg1" />
+  <moodForm default="caisnigh" mood="Imper" person="Sg2" />
+  <moodForm default="caisnímis" mood="Imper" person="Pl1" />
+  <moodForm default="caisnígí" mood="Imper" person="Pl2" />
+  <moodForm default="caisnídís" mood="Imper" person="Pl3" />
+  <moodForm default="caisnítear" mood="Imper" person="Auto" />
+  <moodForm default="caisní" mood="Subj" person="Base" />
+  <moodForm default="caisnímid" mood="Subj" person="Pl1" />
+  <moodForm default="caisnítear" mood="Subj" person="Auto" />
+</verb>

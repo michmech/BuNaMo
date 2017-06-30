@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ob" disambig="">
+  <verbalNoun default="obadh" />
+  <verbalAdjective default="obtha" />
+  <tenseForm default="ob" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="obamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="obadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="obadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ob" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="obamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="obadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="obadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="obadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="obainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="obtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="obaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="obaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="obtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="obadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="obainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="obtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="obaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="obaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="obtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="obann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="obaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="obaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="obtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="obann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="obaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="obaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="obtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="obfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="obfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="obfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="obfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="obfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="obfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="obfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="obfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="obfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="obfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="obfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="obfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="obfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="obfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="obfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="obfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="obfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="obfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="obadh" mood="Imper" person="Base" />
+  <moodForm default="obaim" mood="Imper" person="Sg1" />
+  <moodForm default="ob" mood="Imper" person="Sg2" />
+  <moodForm default="obaimis" mood="Imper" person="Pl1" />
+  <moodForm default="obaigí" mood="Imper" person="Pl2" />
+  <moodForm default="obaidís" mood="Imper" person="Pl3" />
+  <moodForm default="obtar" mood="Imper" person="Auto" />
+  <moodForm default="oba" mood="Subj" person="Base" />
+  <moodForm default="obaimid" mood="Subj" person="Pl1" />
+  <moodForm default="obtar" mood="Subj" person="Auto" />
+</verb>

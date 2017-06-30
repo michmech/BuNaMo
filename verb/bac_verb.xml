@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bac" disambig="">
+  <verbalNoun default="bacadh" />
+  <verbalAdjective default="bactha" />
+  <tenseForm default="bac" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bacamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bacadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bacadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bac" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bacamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bacadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bacadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bacadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bacainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bactá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bacaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bacaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bactaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bacadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bacainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bactá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bacaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bacaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bactaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bacann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bacaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bacaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bactar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bacann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bacaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bacaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bactar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bacfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bacfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bacfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bacfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bacfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bacfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bacfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bacfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bacfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bacfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bacfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bacfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bacfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bacfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bacfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bacfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bacfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bacfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bacadh" mood="Imper" person="Base" />
+  <moodForm default="bacaim" mood="Imper" person="Sg1" />
+  <moodForm default="bac" mood="Imper" person="Sg2" />
+  <moodForm default="bacaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bacaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bacaidís" mood="Imper" person="Pl3" />
+  <moodForm default="bactar" mood="Imper" person="Auto" />
+  <moodForm default="baca" mood="Subj" person="Base" />
+  <moodForm default="bacaimid" mood="Subj" person="Pl1" />
+  <moodForm default="bactar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ruaigh" disambig="">
+  <verbalNoun default="ruachan" />
+  <verbalAdjective default="ruaite" />
+  <tenseForm default="ruaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ruamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ruadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ruaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ruamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ruadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ruadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ruainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ruaiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ruaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ruaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ruaití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ruadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ruainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ruaiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ruaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ruaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ruaití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ruann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ruaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ruaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ruaitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ruann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ruaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ruaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ruaitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ruafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ruafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ruafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ruafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ruafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ruafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ruafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ruafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ruafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ruafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ruafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ruafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ruafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ruafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ruafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ruafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ruafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ruafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ruadh" mood="Imper" person="Base" />
+  <moodForm default="ruaim" mood="Imper" person="Sg1" />
+  <moodForm default="ruaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ruaimis" mood="Imper" person="Pl1" />
+  <moodForm default="ruaigí" mood="Imper" person="Pl2" />
+  <moodForm default="ruaidís" mood="Imper" person="Pl3" />
+  <moodForm default="ruaitear" mood="Imper" person="Auto" />
+  <moodForm default="rua" mood="Subj" person="Base" />
+  <moodForm default="ruaimid" mood="Subj" person="Pl1" />
+  <moodForm default="ruaitear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="donnaigh" disambig="">
+  <verbalNoun default="donnú" />
+  <verbalAdjective default="donnaithe" />
+  <tenseForm default="donnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="donnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="donnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="donnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="donnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="donnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="donnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="donnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="donnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="donnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="donnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="donnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="donnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="donnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="donnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="donnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="donnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="donnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="donnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="donnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="donnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="donnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="donnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="donnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="donnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="donnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="donnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="donnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="donnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="donnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="donnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="donnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="donnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="donnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="donnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="donnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="donnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="donnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="donnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="donnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="donnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="donnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="donnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="donnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="donnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="donnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="donnaíodh" mood="Imper" person="Base" />
+  <moodForm default="donnaím" mood="Imper" person="Sg1" />
+  <moodForm default="donnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="donnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="donnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="donnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="donnaítear" mood="Imper" person="Auto" />
+  <moodForm default="donnaí" mood="Subj" person="Base" />
+  <moodForm default="donnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="donnaítear" mood="Subj" person="Auto" />
+</verb>

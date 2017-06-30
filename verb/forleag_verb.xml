@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="forleag" disambig="">
+  <verbalNoun default="forleagan" />
+  <verbalAdjective default="forleagtha" />
+  <tenseForm default="forleag" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="forleagamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="forleagadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="forleagadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="forleag" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="forleagamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="forleagadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="forleagadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="forleagadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="forleagainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forleagtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="forleagaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forleagaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="forleagtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forleagadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="forleagainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forleagtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="forleagaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forleagaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="forleagtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forleagann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="forleagaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forleagaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forleagtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forleagann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="forleagaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forleagaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forleagtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forleagfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="forleagfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="forleagfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="forleagfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="forleagfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="forleagfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="forleagfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="forleagfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="forleagfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="forleagfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="forleagfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="forleagfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="forleagfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="forleagfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="forleagfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="forleagfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="forleagfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="forleagfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="forleagadh" mood="Imper" person="Base" />
+  <moodForm default="forleagaim" mood="Imper" person="Sg1" />
+  <moodForm default="forleag" mood="Imper" person="Sg2" />
+  <moodForm default="forleagaimis" mood="Imper" person="Pl1" />
+  <moodForm default="forleagaigí" mood="Imper" person="Pl2" />
+  <moodForm default="forleagaidís" mood="Imper" person="Pl3" />
+  <moodForm default="forleagtar" mood="Imper" person="Auto" />
+  <moodForm default="forleaga" mood="Subj" person="Base" />
+  <moodForm default="forleagaimid" mood="Subj" person="Pl1" />
+  <moodForm default="forleagtar" mood="Subj" person="Auto" />
+</verb>

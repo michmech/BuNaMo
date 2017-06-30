@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tarraing" disambig="">
+  <verbalNoun default="tarraingt" />
+  <verbalAdjective default="tarraingthe" />
+  <tenseForm default="tarraing" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tarraingíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarraingíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarraingíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tarraing" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tarraingíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarraingíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarraingíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tarraingíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarraingínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarraingíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarraingímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarraingídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarraingítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarraingíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarraingínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarraingíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarraingímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarraingídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarraingítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarraingíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarraingím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarraingímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarraingítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarraingíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarraingím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarraingímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarraingítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarraingeoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tarraingeoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarraingeofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tarraingeoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tarraingeoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarraingeofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tarraingeodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tarraingeoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarraingeofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarraingeoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarraingeoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarraingeofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tarraingeodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tarraingeoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarraingeofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarraingeoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarraingeoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarraingeofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tarraingíodh" mood="Imper" person="Base" />
+  <moodForm default="tarraingím" mood="Imper" person="Sg1" />
+  <moodForm default="tarraing" mood="Imper" person="Sg2" />
+  <moodForm default="tarraingímis" mood="Imper" person="Pl1" />
+  <moodForm default="tarraingígí" mood="Imper" person="Pl2" />
+  <moodForm default="tarraingídís" mood="Imper" person="Pl3" />
+  <moodForm default="tarraingítear" mood="Imper" person="Auto" />
+  <moodForm default="tarraingí" mood="Subj" person="Base" />
+  <moodForm default="tarraingímid" mood="Subj" person="Pl1" />
+  <moodForm default="tarraingítear" mood="Subj" person="Auto" />
+</verb>

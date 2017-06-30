@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="áscaigh" disambig="">
+  <verbalNoun default="áscú" />
+  <verbalAdjective default="áscaithe" />
+  <tenseForm default="áscaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="áscaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="áscaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="áscaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="áscaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="áscaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="áscaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="áscaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="áscaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="áscaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="áscaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="áscaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="áscaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="áscaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="áscaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="áscaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="áscaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="áscaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="áscaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="áscaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="áscaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="áscaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="áscaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="áscaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="áscaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="áscaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="áscaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="áscaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="áscóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="áscóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="áscófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="áscóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="áscóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="áscófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="áscódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="áscóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="áscófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="áscóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="áscóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="áscófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="áscódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="áscóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="áscófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="áscóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="áscóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="áscófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="áscaíodh" mood="Imper" person="Base" />
+  <moodForm default="áscaím" mood="Imper" person="Sg1" />
+  <moodForm default="áscaigh" mood="Imper" person="Sg2" />
+  <moodForm default="áscaímis" mood="Imper" person="Pl1" />
+  <moodForm default="áscaígí" mood="Imper" person="Pl2" />
+  <moodForm default="áscaídís" mood="Imper" person="Pl3" />
+  <moodForm default="áscaítear" mood="Imper" person="Auto" />
+  <moodForm default="áscaí" mood="Subj" person="Base" />
+  <moodForm default="áscaímid" mood="Subj" person="Pl1" />
+  <moodForm default="áscaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="giob" disambig="">
+  <verbalNoun default="giobadh" />
+  <verbalAdjective default="giobtha" />
+  <tenseForm default="giob" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="giobamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="giobadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="giobadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="giob" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="giobamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="giobadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="giobadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="giobadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="giobainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="giobtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="giobaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="giobaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="giobtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="giobadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="giobainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="giobtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="giobaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="giobaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="giobtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="giobann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="giobaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="giobaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="giobtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="giobann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="giobaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="giobaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="giobtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="giobfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="giobfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="giobfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="giobfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="giobfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="giobfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="giobfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="giobfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="giobfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="giobfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="giobfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="giobfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="giobfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="giobfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="giobfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="giobfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="giobfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="giobfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="giobadh" mood="Imper" person="Base" />
+  <moodForm default="giobaim" mood="Imper" person="Sg1" />
+  <moodForm default="giob" mood="Imper" person="Sg2" />
+  <moodForm default="giobaimis" mood="Imper" person="Pl1" />
+  <moodForm default="giobaigí" mood="Imper" person="Pl2" />
+  <moodForm default="giobaidís" mood="Imper" person="Pl3" />
+  <moodForm default="giobtar" mood="Imper" person="Auto" />
+  <moodForm default="gioba" mood="Subj" person="Base" />
+  <moodForm default="giobaimid" mood="Subj" person="Pl1" />
+  <moodForm default="giobtar" mood="Subj" person="Auto" />
+</verb>

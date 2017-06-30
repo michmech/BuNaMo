@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="smachtaigh" disambig="">
+  <verbalNoun default="smachtú" />
+  <verbalAdjective default="smachtaithe" />
+  <tenseForm default="smachtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="smachtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="smachtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="smachtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="smachtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="smachtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="smachtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="smachtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="smachtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="smachtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smachtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="smachtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smachtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="smachtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smachtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="smachtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smachtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="smachtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smachtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="smachtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smachtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="smachtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smachtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smachtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smachtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="smachtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smachtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smachtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smachtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="smachtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="smachtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="smachtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="smachtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="smachtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="smachtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="smachtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="smachtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="smachtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="smachtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="smachtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="smachtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="smachtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="smachtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="smachtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="smachtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="smachtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="smachtaíodh" mood="Imper" person="Base" />
+  <moodForm default="smachtaím" mood="Imper" person="Sg1" />
+  <moodForm default="smachtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="smachtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="smachtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="smachtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="smachtaítear" mood="Imper" person="Auto" />
+  <moodForm default="smachtaí" mood="Subj" person="Base" />
+  <moodForm default="smachtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="smachtaítear" mood="Subj" person="Auto" />
+</verb>

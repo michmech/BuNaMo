@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sonn" disambig="">
+  <verbalNoun default="sonnadh" />
+  <verbalAdjective default="sonnta" />
+  <tenseForm default="sonn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sonnamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonnadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonnadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sonn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sonnamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonnadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonnadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sonnadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sonnainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sonnaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonnaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sonnadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sonnainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sonnaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonnaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sonnann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sonnaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonnaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sonnann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sonnaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonnaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sonnfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sonnfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonnfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sonnfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sonnfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonnfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sonnfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sonnfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonnfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sonnfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonnfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonnfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sonnfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sonnfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonnfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sonnfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonnfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonnfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sonnadh" mood="Imper" person="Base" />
+  <moodForm default="sonnaim" mood="Imper" person="Sg1" />
+  <moodForm default="sonn" mood="Imper" person="Sg2" />
+  <moodForm default="sonnaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sonnaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sonnaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sonntar" mood="Imper" person="Auto" />
+  <moodForm default="sonna" mood="Subj" person="Base" />
+  <moodForm default="sonnaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sonntar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="imloisc" disambig="">
+  <verbalNoun default="imloscadh" />
+  <verbalAdjective default="imloiscthe" />
+  <tenseForm default="imloisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="imloisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="imloisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="imloisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="imloisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="imloisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="imloisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="imloisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="imloisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="imloiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imloiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="imloiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imloiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="imloisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imloisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="imloiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imloiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="imloiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imloiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="imloisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imloisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="imloiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imloiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imloisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imloisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="imloiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imloiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imloisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imloiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="imloiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="imloiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="imloiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="imloiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="imloiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="imloiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="imloiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="imloiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="imloiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="imloiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="imloiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="imloiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="imloiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="imloiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="imloiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="imloiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="imloiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="imloisceadh" mood="Imper" person="Base" />
+  <moodForm default="imloiscim" mood="Imper" person="Sg1" />
+  <moodForm default="imloisc" mood="Imper" person="Sg2" />
+  <moodForm default="imloiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="imloiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="imloiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="imloisctear" mood="Imper" person="Auto" />
+  <moodForm default="imloisce" mood="Subj" person="Base" />
+  <moodForm default="imloiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="imloisctear" mood="Subj" person="Auto" />
+</verb>

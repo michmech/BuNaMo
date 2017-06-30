@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mionbhreac" disambig="">
+  <verbalNoun default="mionbhreacadh" />
+  <verbalAdjective default="mionbhreactha" />
+  <tenseForm default="mionbhreac" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mionbhreacamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionbhreacadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionbhreacadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mionbhreac" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mionbhreacamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionbhreacadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionbhreacadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mionbhreacadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mionbhreacainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionbhreactá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mionbhreacaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionbhreacaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionbhreactaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mionbhreacadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mionbhreacainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionbhreactá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mionbhreacaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionbhreacaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionbhreactaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mionbhreacann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mionbhreacaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionbhreacaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionbhreactar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mionbhreacann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mionbhreacaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionbhreacaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionbhreactar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mionbhreacfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mionbhreacfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionbhreacfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mionbhreacfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mionbhreacfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionbhreacfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mionbhreacfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mionbhreacfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionbhreacfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mionbhreacfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionbhreacfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionbhreacfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mionbhreacfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mionbhreacfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionbhreacfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mionbhreacfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionbhreacfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionbhreacfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mionbhreacadh" mood="Imper" person="Base" />
+  <moodForm default="mionbhreacaim" mood="Imper" person="Sg1" />
+  <moodForm default="mionbhreac" mood="Imper" person="Sg2" />
+  <moodForm default="mionbhreacaimis" mood="Imper" person="Pl1" />
+  <moodForm default="mionbhreacaigí" mood="Imper" person="Pl2" />
+  <moodForm default="mionbhreacaidís" mood="Imper" person="Pl3" />
+  <moodForm default="mionbhreactar" mood="Imper" person="Auto" />
+  <moodForm default="mionbhreaca" mood="Subj" person="Base" />
+  <moodForm default="mionbhreacaimid" mood="Subj" person="Pl1" />
+  <moodForm default="mionbhreactar" mood="Subj" person="Auto" />
+</verb>

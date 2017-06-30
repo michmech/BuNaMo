@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="clannaigh" disambig="">
+  <verbalNoun default="clannú" />
+  <verbalAdjective default="clannaithe" />
+  <tenseForm default="clannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="clannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="clannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="clannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="clannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="clannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="clannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="clannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="clannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="clannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="clannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="clannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="clannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="clannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="clannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="clannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="clannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="clannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="clannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="clannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="clannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="clannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="clannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="clannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="clannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="clannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="clannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="clannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="clannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="clannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="clannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="clannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="clannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="clannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="clannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="clannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="clannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="clannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="clannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="clannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="clannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="clannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="clannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="clannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="clannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="clannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="clannaíodh" mood="Imper" person="Base" />
+  <moodForm default="clannaím" mood="Imper" person="Sg1" />
+  <moodForm default="clannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="clannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="clannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="clannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="clannaítear" mood="Imper" person="Auto" />
+  <moodForm default="clannaí" mood="Subj" person="Base" />
+  <moodForm default="clannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="clannaítear" mood="Subj" person="Auto" />
+</verb>

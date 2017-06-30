@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sil-leag" disambig="">
+  <verbalNoun default="sil-leagan" />
+  <verbalAdjective default="sil-leagtha" />
+  <tenseForm default="sil-leag" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sil-leagamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sil-leagadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sil-leagadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sil-leag" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sil-leagamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sil-leagadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sil-leagadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sil-leagadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sil-leagainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sil-leagtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sil-leagaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sil-leagaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sil-leagtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sil-leagadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sil-leagainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sil-leagtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sil-leagaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sil-leagaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sil-leagtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sil-leagann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sil-leagaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sil-leagaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sil-leagtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sil-leagann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sil-leagaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sil-leagaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sil-leagtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sil-leagfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sil-leagfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sil-leagfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sil-leagfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sil-leagfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sil-leagfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sil-leagfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sil-leagfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sil-leagfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sil-leagfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sil-leagfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sil-leagfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sil-leagfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sil-leagfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sil-leagfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sil-leagfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sil-leagfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sil-leagfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sil-leagadh" mood="Imper" person="Base" />
+  <moodForm default="sil-leagaim" mood="Imper" person="Sg1" />
+  <moodForm default="sil-leag" mood="Imper" person="Sg2" />
+  <moodForm default="sil-leagaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sil-leagaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sil-leagaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sil-leagtar" mood="Imper" person="Auto" />
+  <moodForm default="sil-leaga" mood="Subj" person="Base" />
+  <moodForm default="sil-leagaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sil-leagtar" mood="Subj" person="Auto" />
+</verb>

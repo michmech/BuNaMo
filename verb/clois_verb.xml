@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="clois" disambig="">
+  <verbalNoun default="cloisteáil" />
+  <verbalAdjective default="cloiste" />
+  <tenseForm default="cuala" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cualamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cualadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cualathas" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cuala" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cualamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cualadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cualathas" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cloiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cloisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cloisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cloisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cloisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cloistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cloiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cloisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cloisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cloisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cloisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cloistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cloiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cloisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cloisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cloistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cloiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cloisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cloisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cloistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cloisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cloisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cloisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cloisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cloisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cloisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cloisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cloisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cloisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cloisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cloisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cloisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cloisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cloisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cloisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cloisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cloisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cloisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cloiseadh" mood="Imper" person="Base" />
+  <moodForm default="cloisim" mood="Imper" person="Sg1" />
+  <moodForm default="clois" mood="Imper" person="Sg2" />
+  <moodForm default="cloisimis" mood="Imper" person="Pl1" />
+  <moodForm default="cloisigí" mood="Imper" person="Pl2" />
+  <moodForm default="cloisidís" mood="Imper" person="Pl3" />
+  <moodForm default="cloistear" mood="Imper" person="Auto" />
+  <moodForm default="cloise" mood="Subj" person="Base" />
+  <moodForm default="cloisimid" mood="Subj" person="Pl1" />
+  <moodForm default="cloistear" mood="Subj" person="Auto" />
+</verb>

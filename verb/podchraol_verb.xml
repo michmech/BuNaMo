@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="podchraol" disambig="">
+  <verbalNoun default="podchraoladh" />
+  <verbalAdjective default="podchraolta" />
+  <tenseForm default="podchraol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="podchraolamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="podchraoladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="podchraoladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="podchraol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="podchraolamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="podchraoladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="podchraoladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="podchraoladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="podchraolainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="podchraoltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="podchraolaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="podchraolaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="podchraoltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="podchraoladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="podchraolainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="podchraoltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="podchraolaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="podchraolaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="podchraoltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="podchraolann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="podchraolaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="podchraolaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="podchraoltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="podchraolann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="podchraolaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="podchraolaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="podchraoltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="podchraolfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="podchraolfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="podchraolfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="podchraolfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="podchraolfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="podchraolfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="podchraolfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="podchraolfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="podchraolfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="podchraolfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="podchraolfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="podchraolfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="podchraolfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="podchraolfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="podchraolfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="podchraolfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="podchraolfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="podchraolfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="podchraoladh" mood="Imper" person="Base" />
+  <moodForm default="podchraolaim" mood="Imper" person="Sg1" />
+  <moodForm default="podchraol" mood="Imper" person="Sg2" />
+  <moodForm default="podchraolaimis" mood="Imper" person="Pl1" />
+  <moodForm default="podchraolaigí" mood="Imper" person="Pl2" />
+  <moodForm default="podchraolaidís" mood="Imper" person="Pl3" />
+  <moodForm default="podchraoltar" mood="Imper" person="Auto" />
+  <moodForm default="podchraola" mood="Subj" person="Base" />
+  <moodForm default="podchraolaimid" mood="Subj" person="Pl1" />
+  <moodForm default="podchraoltar" mood="Subj" person="Auto" />
+</verb>

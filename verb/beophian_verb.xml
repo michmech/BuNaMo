@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="beophian" disambig="">
+  <verbalNoun default="beophianadh" />
+  <verbalAdjective default="beophianta" />
+  <tenseForm default="beophian" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="beophianamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="beophianadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="beophianadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="beophian" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="beophianamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="beophianadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="beophianadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="beophianadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="beophianainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beophiantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="beophianaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beophianaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="beophiantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beophianadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="beophianainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beophiantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="beophianaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beophianaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="beophiantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beophianann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="beophianaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beophianaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beophiantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beophianann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="beophianaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beophianaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beophiantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beophianfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="beophianfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="beophianfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="beophianfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="beophianfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="beophianfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="beophianfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="beophianfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="beophianfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="beophianfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="beophianfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="beophianfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="beophianfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="beophianfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="beophianfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="beophianfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="beophianfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="beophianfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="beophianadh" mood="Imper" person="Base" />
+  <moodForm default="beophianaim" mood="Imper" person="Sg1" />
+  <moodForm default="beophian" mood="Imper" person="Sg2" />
+  <moodForm default="beophianaimis" mood="Imper" person="Pl1" />
+  <moodForm default="beophianaigí" mood="Imper" person="Pl2" />
+  <moodForm default="beophianaidís" mood="Imper" person="Pl3" />
+  <moodForm default="beophiantar" mood="Imper" person="Auto" />
+  <moodForm default="beophiana" mood="Subj" person="Base" />
+  <moodForm default="beophianaimid" mood="Subj" person="Pl1" />
+  <moodForm default="beophiantar" mood="Subj" person="Auto" />
+</verb>

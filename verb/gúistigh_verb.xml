@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gúistigh" disambig="">
+  <verbalNoun default="gúistiú" />
+  <verbalAdjective default="gúistithe" />
+  <tenseForm default="gúistigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gúistíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gúistíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gúistíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gúistigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gúistíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gúistíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gúistíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gúistíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gúistínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gúistíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gúistímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gúistídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gúistítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gúistíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gúistínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gúistíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gúistímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gúistídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gúistítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gúistíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gúistím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gúistímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gúistítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gúistíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gúistím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gúistímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gúistítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gúisteoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gúisteoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gúisteofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gúisteoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gúisteoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gúisteofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gúisteodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gúisteoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gúisteofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gúisteoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gúisteoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gúisteofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gúisteodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gúisteoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gúisteofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gúisteoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gúisteoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gúisteofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gúistíodh" mood="Imper" person="Base" />
+  <moodForm default="gúistím" mood="Imper" person="Sg1" />
+  <moodForm default="gúistigh" mood="Imper" person="Sg2" />
+  <moodForm default="gúistímis" mood="Imper" person="Pl1" />
+  <moodForm default="gúistígí" mood="Imper" person="Pl2" />
+  <moodForm default="gúistídís" mood="Imper" person="Pl3" />
+  <moodForm default="gúistítear" mood="Imper" person="Auto" />
+  <moodForm default="gúistí" mood="Subj" person="Base" />
+  <moodForm default="gúistímid" mood="Subj" person="Pl1" />
+  <moodForm default="gúistítear" mood="Subj" person="Auto" />
+</verb>

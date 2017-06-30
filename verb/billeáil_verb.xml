@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="billeáil" disambig="">
+  <verbalNoun default="billeáil" />
+  <verbalAdjective default="billeáilte" />
+  <tenseForm default="billeáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="billeálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="billeáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="billeáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="billeáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="billeálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="billeáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="billeáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="billeáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="billeálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="billeáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="billeálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="billeálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="billeáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="billeáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="billeálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="billeáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="billeálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="billeálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="billeáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="billeálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="billeálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="billeálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="billeáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="billeálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="billeálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="billeálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="billeáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="billeálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="billeálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="billeálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="billeálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="billeálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="billeálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="billeálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="billeálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="billeálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="billeálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="billeálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="billeálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="billeálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="billeálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="billeálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="billeálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="billeálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="billeálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="billeáladh" mood="Imper" person="Base" />
+  <moodForm default="billeálaim" mood="Imper" person="Sg1" />
+  <moodForm default="billeáil" mood="Imper" person="Sg2" />
+  <moodForm default="billeálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="billeálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="billeálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="billeáiltear" mood="Imper" person="Auto" />
+  <moodForm default="billeála" mood="Subj" person="Base" />
+  <moodForm default="billeálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="billeáiltear" mood="Subj" person="Auto" />
+</verb>

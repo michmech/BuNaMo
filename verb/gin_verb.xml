@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gin" disambig="">
+  <verbalNoun default="giniúint" />
+  <verbalAdjective default="ginte" />
+  <tenseForm default="gin" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gineamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gineadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gineadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gin" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gineamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gineadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gineadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gineadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gininn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ginteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ginimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ginidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gintí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gineadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gininn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ginteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ginimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ginidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gintí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gineann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ginim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ginimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gintear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gineann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ginim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ginimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gintear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ginfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ginfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ginfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ginfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ginfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ginfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ginfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ginfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ginfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ginfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ginfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ginfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ginfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ginfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ginfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ginfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ginfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ginfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gineadh" mood="Imper" person="Base" />
+  <moodForm default="ginim" mood="Imper" person="Sg1" />
+  <moodForm default="gin" mood="Imper" person="Sg2" />
+  <moodForm default="ginimis" mood="Imper" person="Pl1" />
+  <moodForm default="ginigí" mood="Imper" person="Pl2" />
+  <moodForm default="ginidís" mood="Imper" person="Pl3" />
+  <moodForm default="gintear" mood="Imper" person="Auto" />
+  <moodForm default="gine" mood="Subj" person="Base" />
+  <moodForm default="ginimid" mood="Subj" person="Pl1" />
+  <moodForm default="gintear" mood="Subj" person="Auto" />
+</verb>

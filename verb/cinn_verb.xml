@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cinn" disambig="">
+  <verbalNoun default="cinneadh" />
+  <verbalAdjective default="cinnte" />
+  <tenseForm default="cinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cinneadh" mood="Imper" person="Base" />
+  <moodForm default="cinnim" mood="Imper" person="Sg1" />
+  <moodForm default="cinn" mood="Imper" person="Sg2" />
+  <moodForm default="cinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="cinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="cinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="cinntear" mood="Imper" person="Auto" />
+  <moodForm default="cinne" mood="Subj" person="Base" />
+  <moodForm default="cinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="cinntear" mood="Subj" person="Auto" />
+</verb>

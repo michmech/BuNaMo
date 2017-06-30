@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="iadaigh" disambig="">
+  <verbalNoun default="iadú" />
+  <verbalAdjective default="iadaithe" />
+  <tenseForm default="iadaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="iadaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="iadaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="iadaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="iadaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="iadaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="iadaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="iadaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="iadaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="iadaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="iadaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="iadaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="iadaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="iadaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="iadaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="iadaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="iadaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="iadaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="iadaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="iadaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="iadaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="iadaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="iadaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="iadaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="iadaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="iadaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="iadaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="iadaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="iadóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="iadóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="iadófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="iadóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="iadóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="iadófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="iadódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="iadóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="iadófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="iadóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="iadóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="iadófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="iadódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="iadóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="iadófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="iadóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="iadóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="iadófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="iadaíodh" mood="Imper" person="Base" />
+  <moodForm default="iadaím" mood="Imper" person="Sg1" />
+  <moodForm default="iadaigh" mood="Imper" person="Sg2" />
+  <moodForm default="iadaímis" mood="Imper" person="Pl1" />
+  <moodForm default="iadaígí" mood="Imper" person="Pl2" />
+  <moodForm default="iadaídís" mood="Imper" person="Pl3" />
+  <moodForm default="iadaítear" mood="Imper" person="Auto" />
+  <moodForm default="iadaí" mood="Subj" person="Base" />
+  <moodForm default="iadaímid" mood="Subj" person="Pl1" />
+  <moodForm default="iadaítear" mood="Subj" person="Auto" />
+</verb>

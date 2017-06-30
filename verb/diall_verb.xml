@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="diall" disambig="">
+  <verbalNoun default="diall" />
+  <verbalAdjective default="diallta" />
+  <tenseForm default="diall" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="diallamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dialladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dialladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="diall" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="diallamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dialladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dialladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dialladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="diallainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dialltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="diallaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diallaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dialltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dialladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="diallainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dialltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="diallaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diallaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dialltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diallann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="diallaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diallaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dialltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diallann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="diallaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diallaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dialltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diallfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="diallfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="diallfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="diallfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="diallfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="diallfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="diallfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="diallfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="diallfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="diallfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="diallfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="diallfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="diallfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="diallfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="diallfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="diallfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="diallfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="diallfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dialladh" mood="Imper" person="Base" />
+  <moodForm default="diallaim" mood="Imper" person="Sg1" />
+  <moodForm default="diall" mood="Imper" person="Sg2" />
+  <moodForm default="diallaimis" mood="Imper" person="Pl1" />
+  <moodForm default="diallaigí" mood="Imper" person="Pl2" />
+  <moodForm default="diallaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dialltar" mood="Imper" person="Auto" />
+  <moodForm default="dialla" mood="Subj" person="Base" />
+  <moodForm default="diallaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dialltar" mood="Subj" person="Auto" />
+</verb>

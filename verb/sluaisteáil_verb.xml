@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sluaisteáil" disambig="">
+  <verbalNoun default="sluaisteáil" />
+  <verbalAdjective default="sluaisteáilte" />
+  <tenseForm default="sluaisteáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sluaisteálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sluaisteáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sluaisteáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sluaisteáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sluaisteálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sluaisteáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sluaisteáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sluaisteáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sluaisteálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sluaisteáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sluaisteálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sluaisteálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sluaisteáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sluaisteáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sluaisteálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sluaisteáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sluaisteálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sluaisteálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sluaisteáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sluaisteálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sluaisteálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sluaisteálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sluaisteáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sluaisteálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sluaisteálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sluaisteálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sluaisteáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sluaisteálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sluaisteálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sluaisteálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sluaisteálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sluaisteálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sluaisteálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sluaisteálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sluaisteálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sluaisteálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sluaisteálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sluaisteálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sluaisteálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sluaisteálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sluaisteálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sluaisteálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sluaisteálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sluaisteálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sluaisteálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sluaisteáladh" mood="Imper" person="Base" />
+  <moodForm default="sluaisteálaim" mood="Imper" person="Sg1" />
+  <moodForm default="sluaisteáil" mood="Imper" person="Sg2" />
+  <moodForm default="sluaisteálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sluaisteálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sluaisteálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sluaisteáiltear" mood="Imper" person="Auto" />
+  <moodForm default="sluaisteála" mood="Subj" person="Base" />
+  <moodForm default="sluaisteálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sluaisteáiltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fear" disambig="">
+  <verbalNoun default="fearadh" />
+  <verbalAdjective default="feartha" />
+  <tenseForm default="fear" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fearamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fearadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fearadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fear" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fearamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fearadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fearadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fearadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fearainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fearaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fearaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="feartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fearadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fearainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fearaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fearaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="feartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fearann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fearaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fearaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fearann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fearaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fearaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fearfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fearfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fearfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fearfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fearfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fearfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fearfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fearfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fearfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fearfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fearfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fearfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fearfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fearfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fearfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fearfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fearfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fearfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fearadh" mood="Imper" person="Base" />
+  <moodForm default="fearaim" mood="Imper" person="Sg1" />
+  <moodForm default="fear" mood="Imper" person="Sg2" />
+  <moodForm default="fearaimis" mood="Imper" person="Pl1" />
+  <moodForm default="fearaigí" mood="Imper" person="Pl2" />
+  <moodForm default="fearaidís" mood="Imper" person="Pl3" />
+  <moodForm default="feartar" mood="Imper" person="Auto" />
+  <moodForm default="feara" mood="Subj" person="Base" />
+  <moodForm default="fearaimid" mood="Subj" person="Pl1" />
+  <moodForm default="feartar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="graf" disambig="">
+  <verbalNoun default="grafadh" />
+  <verbalAdjective default="grafa" />
+  <tenseForm default="graf" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="grafamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="grafadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="grafadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="graf" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="grafamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="grafadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="grafadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="grafadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="grafainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="graftá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="grafaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="grafaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="graftaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="grafadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="grafainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="graftá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="grafaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="grafaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="graftaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="grafann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="grafaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="grafaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="graftar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="grafann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="grafaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="grafaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="graftar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="grafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="grafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="grafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="grafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="grafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="grafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="grafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="grafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="grafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="grafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="grafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="grafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="grafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="grafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="grafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="grafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="grafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="grafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="grafadh" mood="Imper" person="Base" />
+  <moodForm default="grafaim" mood="Imper" person="Sg1" />
+  <moodForm default="graf" mood="Imper" person="Sg2" />
+  <moodForm default="grafaimis" mood="Imper" person="Pl1" />
+  <moodForm default="grafaigí" mood="Imper" person="Pl2" />
+  <moodForm default="grafaidís" mood="Imper" person="Pl3" />
+  <moodForm default="grafatar" mood="Imper" person="Auto" />
+  <moodForm default="grafa" mood="Subj" person="Base" />
+  <moodForm default="grafaimid" mood="Subj" person="Pl1" />
+  <moodForm default="graftar" mood="Subj" person="Auto" />
+</verb>

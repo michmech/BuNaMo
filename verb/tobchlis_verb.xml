@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tobchlis" disambig="">
+  <verbalNoun default="tobchliseadh" />
+  <verbalAdjective default="tobchliste" />
+  <tenseForm default="tobchlis" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tobchliseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tobchliseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tobchliseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tobchlis" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tobchliseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tobchliseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tobchliseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tobchliseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tobchlisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tobchlisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tobchlisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tobchlisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tobchlistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tobchliseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tobchlisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tobchlisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tobchlisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tobchlisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tobchlistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tobchliseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tobchlisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tobchlisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tobchlistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tobchliseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tobchlisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tobchlisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tobchlistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tobchlisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tobchlisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tobchlisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tobchlisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tobchlisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tobchlisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tobchlisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tobchlisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tobchlisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tobchlisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tobchlisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tobchlisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tobchlisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tobchlisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tobchlisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tobchlisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tobchlisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tobchlisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tobchliseadh" mood="Imper" person="Base" />
+  <moodForm default="tobchlisim" mood="Imper" person="Sg1" />
+  <moodForm default="tobchlis" mood="Imper" person="Sg2" />
+  <moodForm default="tobchlisimis" mood="Imper" person="Pl1" />
+  <moodForm default="tobchlisigí" mood="Imper" person="Pl2" />
+  <moodForm default="tobchlisidís" mood="Imper" person="Pl3" />
+  <moodForm default="tobchlistear" mood="Imper" person="Auto" />
+  <moodForm default="tobchlise" mood="Subj" person="Base" />
+  <moodForm default="tobchlisimid" mood="Subj" person="Pl1" />
+  <moodForm default="tobchlistear" mood="Subj" person="Auto" />
+</verb>

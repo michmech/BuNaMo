@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fiar" disambig="">
+  <verbalNoun default="fiaradh" />
+  <verbalAdjective default="fiartha" />
+  <tenseForm default="fiar" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fiaramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiaradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fiaradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fiar" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fiaramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiaradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fiaradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fiaradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fiarainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fiartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fiaraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiaraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fiartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fiaradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fiarainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fiartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fiaraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiaraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fiartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fiarann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fiaraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fiaraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fiarann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fiaraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fiaraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fiarfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fiarfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiarfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fiarfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fiarfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiarfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fiarfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fiarfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fiarfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fiarfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiarfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fiarfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fiarfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fiarfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fiarfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fiarfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiarfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fiarfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fiaradh" mood="Imper" person="Base" />
+  <moodForm default="fiaraim" mood="Imper" person="Sg1" />
+  <moodForm default="fiar" mood="Imper" person="Sg2" />
+  <moodForm default="fiaraimis" mood="Imper" person="Pl1" />
+  <moodForm default="fiaraigí" mood="Imper" person="Pl2" />
+  <moodForm default="fiaraidís" mood="Imper" person="Pl3" />
+  <moodForm default="fiartar" mood="Imper" person="Auto" />
+  <moodForm default="fiara" mood="Subj" person="Base" />
+  <moodForm default="fiaraimid" mood="Subj" person="Pl1" />
+  <moodForm default="fiartar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="trátháil" disambig="">
+  <verbalNoun default="trátháil" />
+  <verbalAdjective default="trátháilte" />
+  <tenseForm default="trátháil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tráthálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="trátháladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="trátháladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="trátháil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tráthálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="trátháladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="trátháladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="trátháladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tráthálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="trátháilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tráthálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tráthálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="trátháiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="trátháladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tráthálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="trátháilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tráthálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tráthálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="trátháiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tráthálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tráthálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tráthálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="trátháiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tráthálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tráthálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tráthálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="trátháiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tráthálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tráthálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tráthálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tráthálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tráthálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tráthálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tráthálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tráthálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tráthálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tráthálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tráthálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tráthálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tráthálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tráthálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tráthálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tráthálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tráthálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tráthálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="trátháladh" mood="Imper" person="Base" />
+  <moodForm default="tráthálaim" mood="Imper" person="Sg1" />
+  <moodForm default="trátháil" mood="Imper" person="Sg2" />
+  <moodForm default="tráthálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tráthálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tráthálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="trátháiltear" mood="Imper" person="Auto" />
+  <moodForm default="tráthála" mood="Subj" person="Base" />
+  <moodForm default="tráthálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="trátháiltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tréthál" disambig="">
+  <verbalNoun default="tréthál" />
+  <verbalAdjective default="tréthálta" />
+  <tenseForm default="tréthál" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tréthálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="trétháladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="trétháladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tréthál" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tréthálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="trétháladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="trétháladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="trétháladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tréthálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="trétháltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tréthálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréthálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="trétháltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="trétháladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tréthálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="trétháltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tréthálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréthálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="trétháltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tréthálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tréthálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tréthálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="trétháltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tréthálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tréthálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tréthálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="trétháltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tréthálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tréthálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréthálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tréthálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tréthálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréthálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tréthálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tréthálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tréthálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tréthálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréthálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tréthálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tréthálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tréthálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tréthálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tréthálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréthálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tréthálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="trétháladh" mood="Imper" person="Base" />
+  <moodForm default="tréthálaim" mood="Imper" person="Sg1" />
+  <moodForm default="tréthál" mood="Imper" person="Sg2" />
+  <moodForm default="tréthálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tréthálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tréthálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="trétháltar" mood="Imper" person="Auto" />
+  <moodForm default="tréthála" mood="Subj" person="Base" />
+  <moodForm default="tréthálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="trétháltar" mood="Subj" person="Auto" />
+</verb>

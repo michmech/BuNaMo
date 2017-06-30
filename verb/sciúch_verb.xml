@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sciúch" disambig="">
+  <verbalNoun default="sciúchadh" />
+  <verbalAdjective default="sciúchta" />
+  <tenseForm default="sciúch" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sciúchamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciúchadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciúchadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sciúch" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sciúchamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciúchadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciúchadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sciúchadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciúchainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciúchtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciúchaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciúchaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciúchtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciúchadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciúchainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciúchtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciúchaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciúchaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciúchtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciúchann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciúchaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciúchaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciúchtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciúchann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciúchaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciúchaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciúchtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciúchfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sciúchfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciúchfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sciúchfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sciúchfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciúchfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sciúchfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sciúchfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciúchfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciúchfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciúchfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciúchfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sciúchfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sciúchfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciúchfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciúchfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciúchfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciúchfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sciúchadh" mood="Imper" person="Base" />
+  <moodForm default="sciúchaim" mood="Imper" person="Sg1" />
+  <moodForm default="sciúch" mood="Imper" person="Sg2" />
+  <moodForm default="sciúchaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sciúchaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sciúchaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sciúchtar" mood="Imper" person="Auto" />
+  <moodForm default="sciúcha" mood="Subj" person="Base" />
+  <moodForm default="sciúchaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sciúchtar" mood="Subj" person="Auto" />
+</verb>

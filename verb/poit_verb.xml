@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="poit" disambig="">
+  <verbalNoun default="poiteadh" />
+  <verbalAdjective default="poite" />
+  <tenseForm default="poit" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="poiteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="poiteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="poiteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="poit" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="poiteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="poiteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="poiteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="poiteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="poitinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="poiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="poitimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="poitidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="poití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="poiteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="poitinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="poiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="poitimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="poitidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="poití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="poiteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="poitim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="poitimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="poitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="poiteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="poitim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="poitimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="poitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="poitfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="poitfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="poitfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="poitfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="poitfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="poitfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="poitfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="poitfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="poitfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="poitfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="poitfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="poitfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="poitfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="poitfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="poitfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="poitfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="poitfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="poitfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="poiteadh" mood="Imper" person="Base" />
+  <moodForm default="poitim" mood="Imper" person="Sg1" />
+  <moodForm default="poit" mood="Imper" person="Sg2" />
+  <moodForm default="poitimis" mood="Imper" person="Pl1" />
+  <moodForm default="poitigí" mood="Imper" person="Pl2" />
+  <moodForm default="poitidís" mood="Imper" person="Pl3" />
+  <moodForm default="poitear" mood="Imper" person="Auto" />
+  <moodForm default="poite" mood="Subj" person="Base" />
+  <moodForm default="poitimid" mood="Subj" person="Pl1" />
+  <moodForm default="poitear" mood="Subj" person="Auto" />
+</verb>

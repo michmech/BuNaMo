@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="seansáil" disambig="">
+  <verbalNoun default="seansáil" />
+  <verbalAdjective default="seansáilte" />
+  <tenseForm default="seansáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="seansálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="seansáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="seansáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="seansáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="seansálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="seansáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="seansáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="seansáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="seansálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seansáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="seansálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seansálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="seansáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seansáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="seansálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seansáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="seansálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seansálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="seansáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seansálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="seansálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seansálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seansáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seansálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="seansálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seansálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seansáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seansálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="seansálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="seansálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="seansálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="seansálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="seansálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="seansálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="seansálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="seansálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="seansálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="seansálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="seansálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="seansálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="seansálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="seansálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="seansálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="seansálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="seansálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="seansáladh" mood="Imper" person="Base" />
+  <moodForm default="seansálaim" mood="Imper" person="Sg1" />
+  <moodForm default="seansáil" mood="Imper" person="Sg2" />
+  <moodForm default="seansálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="seansálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="seansálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="seansáiltear" mood="Imper" person="Auto" />
+  <moodForm default="seansála" mood="Subj" person="Base" />
+  <moodForm default="seansálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="seansáiltear" mood="Subj" person="Auto" />
+</verb>

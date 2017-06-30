@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="slócht" disambig="">
+  <verbalNoun default="slóchtadh" />
+  <verbalAdjective default="slóchta" />
+  <tenseForm default="slócht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="slóchtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="slóchtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="slóchtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="slócht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="slóchtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="slóchtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="slóchtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="slóchtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="slóchtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="slóchtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="slóchtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="slóchtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="slóchtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="slóchtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="slóchtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="slóchtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="slóchtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="slóchtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="slóchtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="slóchtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="slóchtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="slóchtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="slóchtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="slóchtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="slóchtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="slóchtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="slóchtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="slóchtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="slóchtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="slóchtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="slóchtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="slóchtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="slóchtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="slóchtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="slóchtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="slóchtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="slóchtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="slóchtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="slóchtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="slóchtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="slóchtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="slóchtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="slóchtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="slóchtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="slóchtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="slóchtadh" mood="Imper" person="Base" />
+  <moodForm default="slóchtaim" mood="Imper" person="Sg1" />
+  <moodForm default="slócht" mood="Imper" person="Sg2" />
+  <moodForm default="slóchtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="slóchtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="slóchtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="slóchtar" mood="Imper" person="Auto" />
+  <moodForm default="slóchta" mood="Subj" person="Base" />
+  <moodForm default="slóchtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="slóchtar" mood="Subj" person="Auto" />
+</verb>

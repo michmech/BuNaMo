@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rannpháirtigh" disambig="">
+  <verbalNoun default="rannpháirtiú" />
+  <verbalAdjective default="rannpháirtithe" />
+  <tenseForm default="rannpháirtigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rannpháirtíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rannpháirtíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rannpháirtíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rannpháirtigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rannpháirtíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rannpháirtíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rannpháirtíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rannpháirtíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rannpháirtínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rannpháirtíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rannpháirtímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rannpháirtídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rannpháirtítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rannpháirtíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rannpháirtínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rannpháirtíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rannpháirtímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rannpháirtídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rannpháirtítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rannpháirtíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rannpháirtím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rannpháirtímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rannpháirtítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rannpháirtíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rannpháirtím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rannpháirtímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rannpháirtítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rannpháirteoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rannpháirteoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rannpháirteofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rannpháirteoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rannpháirteoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rannpháirteofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rannpháirteodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rannpháirteoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rannpháirteofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rannpháirteoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rannpháirteoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rannpháirteofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rannpháirteodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rannpháirteoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rannpháirteofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rannpháirteoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rannpháirteoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rannpháirteofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rannpháirtíodh" mood="Imper" person="Base" />
+  <moodForm default="rannpháirtím" mood="Imper" person="Sg1" />
+  <moodForm default="rannpháirtigh" mood="Imper" person="Sg2" />
+  <moodForm default="rannpháirtímis" mood="Imper" person="Pl1" />
+  <moodForm default="rannpháirtígí" mood="Imper" person="Pl2" />
+  <moodForm default="rannpháirtídís" mood="Imper" person="Pl3" />
+  <moodForm default="rannpháirtítear" mood="Imper" person="Auto" />
+  <moodForm default="rannpháirtí" mood="Subj" person="Base" />
+  <moodForm default="rannpháirtímid" mood="Subj" person="Pl1" />
+  <moodForm default="rannpháirtítear" mood="Subj" person="Auto" />
+</verb>

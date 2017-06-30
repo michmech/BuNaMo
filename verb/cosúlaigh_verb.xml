@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cosúlaigh" disambig="">
+  <verbalNoun default="cosúlú" />
+  <verbalAdjective default="cosúlaithe" />
+  <tenseForm default="cosúlaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cosúlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cosúlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cosúlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cosúlaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cosúlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cosúlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cosúlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cosúlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cosúlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cosúlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cosúlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cosúlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cosúlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cosúlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cosúlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cosúlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cosúlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cosúlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cosúlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cosúlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cosúlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cosúlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cosúlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cosúlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cosúlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cosúlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cosúlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cosúlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cosúlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cosúlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cosúlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cosúlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cosúlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cosúlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cosúlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cosúlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cosúlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cosúlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cosúlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cosúlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cosúlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cosúlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cosúlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cosúlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cosúlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cosúlaíodh" mood="Imper" person="Base" />
+  <moodForm default="cosúlaím" mood="Imper" person="Sg1" />
+  <moodForm default="cosúlaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cosúlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cosúlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cosúlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cosúlaítear" mood="Imper" person="Auto" />
+  <moodForm default="cosúlaí" mood="Subj" person="Base" />
+  <moodForm default="cosúlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cosúlaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="saincheadaigh" disambig="">
+  <verbalNoun default="saincheadú" />
+  <verbalAdjective default="saincheadaithe" />
+  <tenseForm default="saincheadaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="saincheadaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="saincheadaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="saincheadaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="saincheadaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="saincheadaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="saincheadaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="saincheadaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="saincheadaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="saincheadaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saincheadaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="saincheadaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="saincheadaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="saincheadaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="saincheadaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="saincheadaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saincheadaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="saincheadaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="saincheadaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="saincheadaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="saincheadaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="saincheadaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saincheadaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="saincheadaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="saincheadaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="saincheadaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saincheadaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="saincheadaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="saincheadóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="saincheadóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="saincheadófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="saincheadóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="saincheadóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="saincheadófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="saincheadódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="saincheadóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="saincheadófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="saincheadóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="saincheadóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="saincheadófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="saincheadódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="saincheadóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="saincheadófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="saincheadóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="saincheadóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="saincheadófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="saincheadaíodh" mood="Imper" person="Base" />
+  <moodForm default="saincheadaím" mood="Imper" person="Sg1" />
+  <moodForm default="saincheadaigh" mood="Imper" person="Sg2" />
+  <moodForm default="saincheadaímis" mood="Imper" person="Pl1" />
+  <moodForm default="saincheadaígí" mood="Imper" person="Pl2" />
+  <moodForm default="saincheadaídís" mood="Imper" person="Pl3" />
+  <moodForm default="saincheadaítear" mood="Imper" person="Auto" />
+  <moodForm default="saincheadaí" mood="Subj" person="Base" />
+  <moodForm default="saincheadaímid" mood="Subj" person="Pl1" />
+  <moodForm default="saincheadaítear" mood="Subj" person="Auto" />
+</verb>

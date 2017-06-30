@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="seithigh" disambig="">
+  <verbalNoun default="seithiú" />
+  <verbalAdjective default="seithithe" />
+  <tenseForm default="seithigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="seithíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="seithíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="seithíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="seithigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="seithíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="seithíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="seithíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="seithíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="seithínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seithíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="seithímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seithídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="seithítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seithíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="seithínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seithíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="seithímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seithídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="seithítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seithíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="seithím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seithímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seithítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seithíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="seithím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seithímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seithítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seitheoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="seitheoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="seitheofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="seitheoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="seitheoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="seitheofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="seitheodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="seitheoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="seitheofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="seitheoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="seitheoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="seitheofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="seitheodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="seitheoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="seitheofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="seitheoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="seitheoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="seitheofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="seithíodh" mood="Imper" person="Base" />
+  <moodForm default="seithím" mood="Imper" person="Sg1" />
+  <moodForm default="seithigh" mood="Imper" person="Sg2" />
+  <moodForm default="seithímis" mood="Imper" person="Pl1" />
+  <moodForm default="seithígí" mood="Imper" person="Pl2" />
+  <moodForm default="seithídís" mood="Imper" person="Pl3" />
+  <moodForm default="seithítear" mood="Imper" person="Auto" />
+  <moodForm default="seithí" mood="Subj" person="Base" />
+  <moodForm default="seithímid" mood="Subj" person="Pl1" />
+  <moodForm default="seithítear" mood="Subj" person="Auto" />
+</verb>

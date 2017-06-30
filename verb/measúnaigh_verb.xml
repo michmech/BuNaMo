@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="measúnaigh" disambig="">
+  <verbalNoun default="measúnú" />
+  <verbalAdjective default="measúnaithe" />
+  <tenseForm default="measúnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="measúnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="measúnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="measúnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="measúnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="measúnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="measúnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="measúnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="measúnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="measúnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="measúnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="measúnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="measúnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="measúnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="measúnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="measúnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="measúnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="measúnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="measúnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="measúnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="measúnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="measúnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="measúnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="measúnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="measúnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="measúnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="measúnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="measúnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="measúnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="measúnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="measúnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="measúnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="measúnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="measúnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="measúnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="measúnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="measúnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="measúnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="measúnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="measúnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="measúnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="measúnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="measúnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="measúnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="measúnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="measúnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="measúnaíodh" mood="Imper" person="Base" />
+  <moodForm default="measúnaím" mood="Imper" person="Sg1" />
+  <moodForm default="measúnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="measúnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="measúnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="measúnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="measúnaítear" mood="Imper" person="Auto" />
+  <moodForm default="measúnaí" mood="Subj" person="Base" />
+  <moodForm default="measúnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="measúnaítear" mood="Subj" person="Auto" />
+</verb>

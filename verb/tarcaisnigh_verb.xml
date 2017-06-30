@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tarcaisnigh" disambig="">
+  <verbalNoun default="tarcaisniú" />
+  <verbalAdjective default="tarcaisnithe" />
+  <tenseForm default="tarcaisnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tarcaisníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarcaisníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarcaisníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tarcaisnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tarcaisníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarcaisníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarcaisníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tarcaisníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarcaisnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarcaisníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarcaisnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarcaisnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarcaisnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarcaisníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarcaisnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarcaisníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarcaisnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarcaisnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarcaisnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarcaisníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarcaisním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarcaisnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarcaisnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarcaisníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarcaisním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarcaisnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarcaisnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarcaisneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tarcaisneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarcaisneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tarcaisneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tarcaisneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarcaisneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tarcaisneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tarcaisneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarcaisneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarcaisneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarcaisneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarcaisneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tarcaisneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tarcaisneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarcaisneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarcaisneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarcaisneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarcaisneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tarcaisníodh" mood="Imper" person="Base" />
+  <moodForm default="tarcaisním" mood="Imper" person="Sg1" />
+  <moodForm default="tarcaisnigh" mood="Imper" person="Sg2" />
+  <moodForm default="tarcaisnímis" mood="Imper" person="Pl1" />
+  <moodForm default="tarcaisnígí" mood="Imper" person="Pl2" />
+  <moodForm default="tarcaisnídís" mood="Imper" person="Pl3" />
+  <moodForm default="tarcaisnítear" mood="Imper" person="Auto" />
+  <moodForm default="tarcaisní" mood="Subj" person="Base" />
+  <moodForm default="tarcaisnímid" mood="Subj" person="Pl1" />
+  <moodForm default="tarcaisnítear" mood="Subj" person="Auto" />
+</verb>

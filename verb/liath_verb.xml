@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="liath" disambig="">
+  <verbalNoun default="liathadh" />
+  <verbalAdjective default="liata" />
+  <tenseForm default="liath" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="liathamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="liathadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="liathadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="liath" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="liathamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="liathadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="liathadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="liathadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="liathainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="liatá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="liathaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="liathaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="liataí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="liathadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="liathainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="liatá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="liathaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="liathaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="liataí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="liathann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="liathaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="liathaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="liatar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="liathann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="liathaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="liathaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="liatar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="liathfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="liathfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="liathfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="liathfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="liathfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="liathfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="liathfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="liathfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="liathfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="liathfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="liathfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="liathfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="liathfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="liathfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="liathfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="liathfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="liathfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="liathfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="liathadh" mood="Imper" person="Base" />
+  <moodForm default="liathaim" mood="Imper" person="Sg1" />
+  <moodForm default="liath" mood="Imper" person="Sg2" />
+  <moodForm default="liathaimis" mood="Imper" person="Pl1" />
+  <moodForm default="liathaigí" mood="Imper" person="Pl2" />
+  <moodForm default="liathaidís" mood="Imper" person="Pl3" />
+  <moodForm default="liatar" mood="Imper" person="Auto" />
+  <moodForm default="liatha" mood="Subj" person="Base" />
+  <moodForm default="liathaimid" mood="Subj" person="Pl1" />
+  <moodForm default="liatar" mood="Subj" person="Auto" />
+</verb>

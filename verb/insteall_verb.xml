@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="insteall" disambig="">
+  <verbalNoun default="instealladh" />
+  <verbalAdjective default="insteallta" />
+  <tenseForm default="insteall" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="insteallamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="instealladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="instealladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="insteall" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="insteallamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="instealladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="instealladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="instealladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="insteallainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="instealltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="insteallaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="insteallaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="instealltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="instealladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="insteallainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="instealltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="insteallaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="insteallaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="instealltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="insteallann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="insteallaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="insteallaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="instealltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="insteallann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="insteallaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="insteallaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="instealltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="insteallfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="insteallfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="insteallfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="insteallfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="insteallfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="insteallfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="insteallfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="insteallfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="insteallfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="insteallfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="insteallfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="insteallfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="insteallfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="insteallfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="insteallfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="insteallfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="insteallfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="insteallfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="instealladh" mood="Imper" person="Base" />
+  <moodForm default="insteallaim" mood="Imper" person="Sg1" />
+  <moodForm default="insteall" mood="Imper" person="Sg2" />
+  <moodForm default="insteallaimis" mood="Imper" person="Pl1" />
+  <moodForm default="insteallaigí" mood="Imper" person="Pl2" />
+  <moodForm default="insteallaidís" mood="Imper" person="Pl3" />
+  <moodForm default="instealltar" mood="Imper" person="Auto" />
+  <moodForm default="instealla" mood="Subj" person="Base" />
+  <moodForm default="insteallaimid" mood="Subj" person="Pl1" />
+  <moodForm default="instealltar" mood="Subj" person="Auto" />
+</verb>

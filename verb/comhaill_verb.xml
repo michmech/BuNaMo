@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="comhaill" disambig="">
+  <verbalNoun default="comhall" />
+  <verbalAdjective default="comhalta" />
+  <tenseForm default="comhaill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="comhallamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhalladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhalladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="comhaill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="comhallamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhalladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhalladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="comhalladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhallainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhalltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhallaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhallaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhalltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhalladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhallainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhalltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhallaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhallaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhalltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhallann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhallaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhallaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhalltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhallann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhallaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhallaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhalltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhallfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="comhallfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhallfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="comhallfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="comhallfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhallfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="comhallfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="comhallfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhallfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhallfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhallfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhallfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="comhallfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="comhallfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhallfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhallfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhallfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhallfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="comhalladh" mood="Imper" person="Base" />
+  <moodForm default="comhallaim" mood="Imper" person="Sg1" />
+  <moodForm default="comhaill" mood="Imper" person="Sg2" />
+  <moodForm default="comhallaimis" mood="Imper" person="Pl1" />
+  <moodForm default="comhallaigí" mood="Imper" person="Pl2" />
+  <moodForm default="comhallaidís" mood="Imper" person="Pl3" />
+  <moodForm default="comhalltar" mood="Imper" person="Auto" />
+  <moodForm default="comhalla" mood="Subj" person="Base" />
+  <moodForm default="comhallaimid" mood="Subj" person="Pl1" />
+  <moodForm default="comhalltar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scoir" disambig="">
+  <verbalNoun default="scor" />
+  <verbalAdjective default="scortha" />
+  <tenseForm default="scoir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scoireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scoir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scoireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scoireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scoirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scoirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoiridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scoireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scoirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scoirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoiridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scoireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scoirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scoireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scoirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scoirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scoirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scoirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scoirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scoirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scoirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scoirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scoirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scoirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scoirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scoireadh" mood="Imper" person="Base" />
+  <moodForm default="scoirim" mood="Imper" person="Sg1" />
+  <moodForm default="scoir" mood="Imper" person="Sg2" />
+  <moodForm default="scoirimis" mood="Imper" person="Pl1" />
+  <moodForm default="scoirigí" mood="Imper" person="Pl2" />
+  <moodForm default="scoiridís" mood="Imper" person="Pl3" />
+  <moodForm default="scoirtear" mood="Imper" person="Auto" />
+  <moodForm default="scoire" mood="Subj" person="Base" />
+  <moodForm default="scoirimid" mood="Subj" person="Pl1" />
+  <moodForm default="scoirtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="toirchigh" disambig="">
+  <verbalNoun default="toirchiú" />
+  <verbalAdjective default="toirchithe" />
+  <tenseForm default="toirchigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="toirchíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirchíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="toirchíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="toirchigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="toirchíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirchíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="toirchíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="toirchíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="toirchínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toirchíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="toirchímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirchídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="toirchítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toirchíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="toirchínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toirchíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="toirchímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirchídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="toirchítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toirchíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="toirchím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toirchímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toirchítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toirchíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="toirchím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toirchímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toirchítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toircheoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="toircheoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="toircheofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="toircheoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="toircheoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="toircheofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="toircheodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="toircheoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="toircheofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="toircheoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="toircheoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="toircheofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="toircheodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="toircheoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="toircheofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="toircheoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="toircheoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="toircheofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="toirchíodh" mood="Imper" person="Base" />
+  <moodForm default="toirchím" mood="Imper" person="Sg1" />
+  <moodForm default="toirchigh" mood="Imper" person="Sg2" />
+  <moodForm default="toirchímis" mood="Imper" person="Pl1" />
+  <moodForm default="toirchígí" mood="Imper" person="Pl2" />
+  <moodForm default="toirchídís" mood="Imper" person="Pl3" />
+  <moodForm default="toirchítear" mood="Imper" person="Auto" />
+  <moodForm default="toirchí" mood="Subj" person="Base" />
+  <moodForm default="toirchímid" mood="Subj" person="Pl1" />
+  <moodForm default="toirchítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dall" disambig="">
+  <verbalNoun default="dalladh" />
+  <verbalAdjective default="dallta" />
+  <tenseForm default="dall" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dallamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dalladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dalladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dall" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dallamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dalladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dalladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dalladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dallainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dalltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dallaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dallaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dalltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dalladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dallainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dalltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dallaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dallaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dalltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dallann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dallaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dallaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dalltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dallann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dallaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dallaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dalltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dallfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dallfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dallfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dallfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dallfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dallfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dallfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dallfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dallfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dallfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dallfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dallfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dallfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dallfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dallfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dallfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dallfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dallfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dalladh" mood="Imper" person="Base" />
+  <moodForm default="dallaim" mood="Imper" person="Sg1" />
+  <moodForm default="dall" mood="Imper" person="Sg2" />
+  <moodForm default="dallaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dallaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dallaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dalltar" mood="Imper" person="Auto" />
+  <moodForm default="dalla" mood="Subj" person="Base" />
+  <moodForm default="dallaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dalltar" mood="Subj" person="Auto" />
+</verb>

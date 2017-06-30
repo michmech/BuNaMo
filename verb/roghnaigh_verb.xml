@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="roghnaigh" disambig="">
+  <verbalNoun default="roghnú" />
+  <verbalAdjective default="roghnaithe" />
+  <tenseForm default="roghnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="roghnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="roghnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="roghnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="roghnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="roghnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="roghnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="roghnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="roghnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="roghnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roghnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="roghnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roghnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="roghnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="roghnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="roghnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roghnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="roghnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roghnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="roghnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="roghnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="roghnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roghnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roghnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="roghnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="roghnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roghnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roghnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="roghnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="roghnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="roghnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="roghnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="roghnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="roghnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="roghnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="roghnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="roghnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="roghnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="roghnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="roghnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="roghnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="roghnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="roghnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="roghnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="roghnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="roghnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="roghnaíodh" mood="Imper" person="Base" />
+  <moodForm default="roghnaím" mood="Imper" person="Sg1" />
+  <moodForm default="roghnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="roghnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="roghnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="roghnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="roghnaítear" mood="Imper" person="Auto" />
+  <moodForm default="roghnaí" mood="Subj" person="Base" />
+  <moodForm default="roghnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="roghnaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="feochraigh" disambig="">
+  <verbalNoun default="feochrú" />
+  <verbalAdjective default="feochraithe" />
+  <tenseForm default="feochraigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="feochraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="feochraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="feochraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="feochraigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="feochraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="feochraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="feochraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="feochraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="feochraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feochraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="feochraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feochraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="feochraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feochraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="feochraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feochraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="feochraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feochraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="feochraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feochraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="feochraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feochraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feochraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feochraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="feochraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feochraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feochraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feochróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="feochróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="feochrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="feochróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="feochróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="feochrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="feochródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="feochróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="feochrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="feochróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="feochróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="feochrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="feochródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="feochróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="feochrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="feochróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="feochróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="feochrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="feochraíodh" mood="Imper" person="Base" />
+  <moodForm default="feochraím" mood="Imper" person="Sg1" />
+  <moodForm default="feochraigh" mood="Imper" person="Sg2" />
+  <moodForm default="feochraímis" mood="Imper" person="Pl1" />
+  <moodForm default="feochraígí" mood="Imper" person="Pl2" />
+  <moodForm default="feochraídís" mood="Imper" person="Pl3" />
+  <moodForm default="feochraítear" mood="Imper" person="Auto" />
+  <moodForm default="feochraí" mood="Subj" person="Base" />
+  <moodForm default="feochraímid" mood="Subj" person="Pl1" />
+  <moodForm default="feochraítear" mood="Subj" person="Auto" />
+</verb>

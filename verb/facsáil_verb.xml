@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="facsáil" disambig="">
+  <verbalNoun default="facsáil" />
+  <verbalAdjective default="facsáilte" />
+  <tenseForm default="facsáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="facsálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="facsáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="facsáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="facsáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="facsálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="facsáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="facsáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="facsáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="facsálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="facsáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="facsálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="facsálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="facsáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="facsáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="facsálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="facsáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="facsálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="facsálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="facsáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="facsálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="facsálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="facsálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="facsáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="facsálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="facsálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="facsálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="facsáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="facsálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="facsálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="facsálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="facsálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="facsálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="facsálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="facsálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="facsálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="facsálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="facsálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="facsálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="facsálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="facsálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="facsálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="facsálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="facsálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="facsálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="facsálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="facsáladh" mood="Imper" person="Base" />
+  <moodForm default="facsálaim" mood="Imper" person="Sg1" />
+  <moodForm default="facsáil" mood="Imper" person="Sg2" />
+  <moodForm default="facsálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="facsálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="facsálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="facsáiltear" mood="Imper" person="Auto" />
+  <moodForm default="facsála" mood="Subj" person="Base" />
+  <moodForm default="facsálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="facsáiltear" mood="Subj" person="Auto" />
+</verb>

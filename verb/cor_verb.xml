@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cor" disambig="">
+  <verbalNoun default="coradh" />
+  <verbalAdjective default="cortha" />
+  <tenseForm default="cor" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cor" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="corainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cortá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cortaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="corainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cortá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cortaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cortar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="corann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cortar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="corfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="corfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="corfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="corfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="corfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="corfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="corfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="corfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="corfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="corfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="corfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="corfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="corfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="corfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="corfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="corfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="corfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coradh" mood="Imper" person="Base" />
+  <moodForm default="coraim" mood="Imper" person="Sg1" />
+  <moodForm default="cor" mood="Imper" person="Sg2" />
+  <moodForm default="coraimis" mood="Imper" person="Pl1" />
+  <moodForm default="coraigí" mood="Imper" person="Pl2" />
+  <moodForm default="coraidís" mood="Imper" person="Pl3" />
+  <moodForm default="cortar" mood="Imper" person="Auto" />
+  <moodForm default="cora" mood="Subj" person="Base" />
+  <moodForm default="coraimid" mood="Subj" person="Pl1" />
+  <moodForm default="cortar" mood="Subj" person="Auto" />
+</verb>

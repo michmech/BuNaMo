@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fíordheimhnigh" disambig="">
+  <verbalNoun default="fíordheimhniú" />
+  <verbalAdjective default="fíordheimhnithe" />
+  <tenseForm default="fíordheimhnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fíordheimhníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fíordheimhníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fíordheimhníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fíordheimhnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fíordheimhníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fíordheimhníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fíordheimhníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fíordheimhníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fíordheimhnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fíordheimhníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fíordheimhnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fíordheimhnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fíordheimhnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fíordheimhníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fíordheimhnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fíordheimhníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fíordheimhnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fíordheimhnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fíordheimhnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fíordheimhníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fíordheimhním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fíordheimhnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fíordheimhnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fíordheimhníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fíordheimhním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fíordheimhnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fíordheimhnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fíordheimhneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fíordheimhneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fíordheimhneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fíordheimhneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fíordheimhneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fíordheimhneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fíordheimhneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fíordheimhneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fíordheimhneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fíordheimhneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fíordheimhneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fíordheimhneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fíordheimhneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fíordheimhneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fíordheimhneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fíordheimhneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fíordheimhneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fíordheimhneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fíordheimhníodh" mood="Imper" person="Base" />
+  <moodForm default="fíordheimhním" mood="Imper" person="Sg1" />
+  <moodForm default="fíordheimhnigh" mood="Imper" person="Sg2" />
+  <moodForm default="fíordheimhnímis" mood="Imper" person="Pl1" />
+  <moodForm default="fíordheimhnígí" mood="Imper" person="Pl2" />
+  <moodForm default="fíordheimhnídís" mood="Imper" person="Pl3" />
+  <moodForm default="fíordheimhnítear" mood="Imper" person="Auto" />
+  <moodForm default="fíordheimhní" mood="Subj" person="Base" />
+  <moodForm default="fíordheimhnímid" mood="Subj" person="Pl1" />
+  <moodForm default="fíordheimhnítear" mood="Subj" person="Auto" />
+</verb>

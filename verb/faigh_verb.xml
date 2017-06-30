@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="faigh" disambig="">
+  <verbalNoun default="fáil" />
+  <verbalAdjective default="faighte" />
+  <tenseForm default="fuair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fuaireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuaireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuarthas" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fuair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fuaireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuaireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuarthas" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="faigheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="faighinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faighteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="faighimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faighidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="faightí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faigheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="faighinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faighteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="faighimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faighidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="faightí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="faigheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="faighim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faighimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faightear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faigheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="faighim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faighimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faightear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="geobhaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="geobhaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="geofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="faighidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="faighimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="faighfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="geobhadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="geobhainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="geofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="geobhaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="geobhaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="geofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="faigheadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="faighinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="faighfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="faighimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="faighidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="faighfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="faigheadh" mood="Imper" person="Base" />
+  <moodForm default="faighim" mood="Imper" person="Sg1" />
+  <moodForm default="faigh" mood="Imper" person="Sg2" />
+  <moodForm default="faighimis" mood="Imper" person="Pl1" />
+  <moodForm default="faighigí" mood="Imper" person="Pl2" />
+  <moodForm default="faighidís" mood="Imper" person="Pl3" />
+  <moodForm default="faightear" mood="Imper" person="Auto" />
+  <moodForm default="faighe" mood="Subj" person="Base" />
+  <moodForm default="faighimid" mood="Subj" person="Pl1" />
+  <moodForm default="faightear" mood="Subj" person="Auto" />
+</verb>

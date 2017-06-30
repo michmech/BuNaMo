@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="inseamhnaigh" disambig="">
+  <verbalNoun default="inseamhnú" />
+  <verbalAdjective default="inseamhnaithe" />
+  <tenseForm default="inseamhnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="inseamhnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="inseamhnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="inseamhnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="inseamhnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="inseamhnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="inseamhnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="inseamhnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="inseamhnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="inseamhnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="inseamhnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="inseamhnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="inseamhnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="inseamhnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="inseamhnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="inseamhnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="inseamhnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="inseamhnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="inseamhnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="inseamhnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="inseamhnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="inseamhnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="inseamhnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="inseamhnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="inseamhnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="inseamhnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="inseamhnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="inseamhnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="inseamhnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="inseamhnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="inseamhnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="inseamhnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="inseamhnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="inseamhnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="inseamhnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="inseamhnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="inseamhnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="inseamhnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="inseamhnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="inseamhnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="inseamhnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="inseamhnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="inseamhnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="inseamhnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="inseamhnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="inseamhnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="inseamhnaíodh" mood="Imper" person="Base" />
+  <moodForm default="inseamhnaím" mood="Imper" person="Sg1" />
+  <moodForm default="inseamhnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="inseamhnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="inseamhnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="inseamhnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="inseamhnaítear" mood="Imper" person="Auto" />
+  <moodForm default="inseamhnaí" mood="Subj" person="Base" />
+  <moodForm default="inseamhnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="inseamhnaítear" mood="Subj" person="Auto" />
+</verb>

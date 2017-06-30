@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sceith" disambig="">
+  <verbalNoun default="sceitheadh" />
+  <verbalAdjective default="sceite" />
+  <tenseForm default="sceith" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sceitheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceitheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sceitheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sceith" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sceitheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceitheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sceitheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sceitheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sceithinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sceiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sceithimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceithidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sceití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sceitheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sceithinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sceiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sceithimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceithidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sceití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sceitheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sceithim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sceithimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sceitheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sceithim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sceithimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sceithfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sceithfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceithfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sceithfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sceithfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceithfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sceithfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sceithfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sceithfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sceithfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceithfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sceithfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sceithfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sceithfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sceithfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sceithfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceithfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sceithfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sceitheadh" mood="Imper" person="Base" />
+  <moodForm default="sceithim" mood="Imper" person="Sg1" />
+  <moodForm default="sceith" mood="Imper" person="Sg2" />
+  <moodForm default="sceithimis" mood="Imper" person="Pl1" />
+  <moodForm default="sceithigí" mood="Imper" person="Pl2" />
+  <moodForm default="sceithidís" mood="Imper" person="Pl3" />
+  <moodForm default="sceitear" mood="Imper" person="Auto" />
+  <moodForm default="sceithe" mood="Subj" person="Base" />
+  <moodForm default="sceithimid" mood="Subj" person="Pl1" />
+  <moodForm default="sceitear" mood="Subj" person="Auto" />
+</verb>

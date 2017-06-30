@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pic" disambig="">
+  <verbalNoun default="piceadh" />
+  <verbalAdjective default="picthe" />
+  <tenseForm default="pic" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="piceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="piceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="piceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pic" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="piceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="piceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="piceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="piceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="picinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="picteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="picimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="picidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pictí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="piceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="picinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="picteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="picimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="picidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pictí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="piceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="picim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="picimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pictear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="piceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="picim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="picimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pictear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="picfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="picfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="picfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="picfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="picfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="picfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="picfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="picfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="picfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="picfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="picfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="picfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="picfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="picfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="picfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="picfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="picfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="picfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="piceadh" mood="Imper" person="Base" />
+  <moodForm default="picim" mood="Imper" person="Sg1" />
+  <moodForm default="pic" mood="Imper" person="Sg2" />
+  <moodForm default="picimis" mood="Imper" person="Pl1" />
+  <moodForm default="picigí" mood="Imper" person="Pl2" />
+  <moodForm default="picidís" mood="Imper" person="Pl3" />
+  <moodForm default="pictear" mood="Imper" person="Auto" />
+  <moodForm default="pice" mood="Subj" person="Base" />
+  <moodForm default="picimid" mood="Subj" person="Pl1" />
+  <moodForm default="pictear" mood="Subj" person="Auto" />
+</verb>

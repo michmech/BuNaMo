@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="láigh" disambig="">
+  <verbalNoun default="láchan" />
+  <verbalAdjective default="láite" />
+  <tenseForm default="láigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lámar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ládar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="láigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lámar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ládar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ládh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="láinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="láiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="láimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="láidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="láití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ládh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="láinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="láiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="láimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="láidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="láití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lánn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="láim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="láimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="láitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lánn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="láim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="láimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="láitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="láfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="láfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="láfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="láfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="láfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="láfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="láfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="láfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="láfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="láfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="láfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="láfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="láfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="láfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="láfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="láfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="láfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="láfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ládh" mood="Imper" person="Base" />
+  <moodForm default="láim" mood="Imper" person="Sg1" />
+  <moodForm default="láigh" mood="Imper" person="Sg2" />
+  <moodForm default="láimis" mood="Imper" person="Pl1" />
+  <moodForm default="láigí" mood="Imper" person="Pl2" />
+  <moodForm default="láidís" mood="Imper" person="Pl3" />
+  <moodForm default="láitear" mood="Imper" person="Auto" />
+  <moodForm default="lá" mood="Subj" person="Base" />
+  <moodForm default="láimid" mood="Subj" person="Pl1" />
+  <moodForm default="láitear" mood="Subj" person="Auto" />
+</verb>

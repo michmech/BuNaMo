@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="lagaigh" disambig="">
+  <verbalNoun default="lagú" />
+  <verbalAdjective default="lagaithe" />
+  <tenseForm default="lagaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lagaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="lagaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="lagaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="lagaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lagaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="lagaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="lagaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="lagaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="lagaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lagaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="lagaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lagaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="lagaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lagaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="lagaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lagaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="lagaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lagaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="lagaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lagaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="lagaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lagaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lagaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lagaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="lagaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lagaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lagaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lagóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="lagóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="lagófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="lagóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="lagóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="lagófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="lagódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="lagóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="lagófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="lagóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="lagóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="lagófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="lagódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="lagóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="lagófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="lagóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="lagóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="lagófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="lagaíodh" mood="Imper" person="Base" />
+  <moodForm default="lagaím" mood="Imper" person="Sg1" />
+  <moodForm default="lagaigh" mood="Imper" person="Sg2" />
+  <moodForm default="lagaímis" mood="Imper" person="Pl1" />
+  <moodForm default="lagaígí" mood="Imper" person="Pl2" />
+  <moodForm default="lagaídís" mood="Imper" person="Pl3" />
+  <moodForm default="lagaítear" mood="Imper" person="Auto" />
+  <moodForm default="lagaí" mood="Subj" person="Base" />
+  <moodForm default="lagaímid" mood="Subj" person="Pl1" />
+  <moodForm default="lagaítear" mood="Subj" person="Auto" />
+</verb>

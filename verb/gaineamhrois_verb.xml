@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gaineamhrois" disambig="">
+  <verbalNoun default="gaineamhroiseadh" />
+  <verbalAdjective default="gaineamhroiste" />
+  <tenseForm default="gaineamhrois" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gaineamhroiseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaineamhroiseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gaineamhroiseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gaineamhrois" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gaineamhroiseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaineamhroiseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gaineamhroiseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gaineamhroiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gaineamhroisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gaineamhroisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gaineamhroisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaineamhroisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gaineamhroistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gaineamhroiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gaineamhroisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gaineamhroisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gaineamhroisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaineamhroisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gaineamhroistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gaineamhroiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gaineamhroisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gaineamhroisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaineamhroistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gaineamhroiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gaineamhroisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gaineamhroisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaineamhroistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gaineamhroisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gaineamhroisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaineamhroisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gaineamhroisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gaineamhroisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaineamhroisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gaineamhroisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gaineamhroisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gaineamhroisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gaineamhroisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gaineamhroisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gaineamhroisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gaineamhroisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gaineamhroisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gaineamhroisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gaineamhroisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gaineamhroisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gaineamhroisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gaineamhroiseadh" mood="Imper" person="Base" />
+  <moodForm default="gaineamhroisim" mood="Imper" person="Sg1" />
+  <moodForm default="gaineamhrois" mood="Imper" person="Sg2" />
+  <moodForm default="gaineamhroisimis" mood="Imper" person="Pl1" />
+  <moodForm default="gaineamhroisigí" mood="Imper" person="Pl2" />
+  <moodForm default="gaineamhroisidís" mood="Imper" person="Pl3" />
+  <moodForm default="gaineamhroistear" mood="Imper" person="Auto" />
+  <moodForm default="gaineamhroise" mood="Subj" person="Base" />
+  <moodForm default="gaineamhroisimid" mood="Subj" person="Pl1" />
+  <moodForm default="gaineamhroistear" mood="Subj" person="Auto" />
+</verb>

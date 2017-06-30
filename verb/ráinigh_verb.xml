@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ráinigh" disambig="">
+  <verbalNoun default="ráiniú" />
+  <verbalAdjective default="ráinithe" />
+  <tenseForm default="ráinigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ráiníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráiníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ráinigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ráiníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráiníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ráiníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ráinínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ráiníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ráinímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráinídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ráinítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ráiníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ráinínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ráiníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ráinímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráinídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ráinítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ráiníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ráiním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ráinímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráiníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ráiním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ráinímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráineoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ráineoidhmíd" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráineoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ráineoidhmíd" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráineodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ráineoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ráineofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ráineoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráineodís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ráineodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ráineoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ráineofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ráineoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráineodís" tense="Cond" dependency="Dep" person="Pl3" />
+  <moodForm default="ráiníodh" mood="Imper" person="Base" />
+  <moodForm default="ráiním" mood="Imper" person="Sg1" />
+  <moodForm default="ráinigh" mood="Imper" person="Sg2" />
+  <moodForm default="ráinímis" mood="Imper" person="Pl1" />
+  <moodForm default="ráinígí" mood="Imper" person="Pl2" />
+  <moodForm default="ráinídís" mood="Imper" person="Pl3" />
+  <moodForm default="ráinítear" mood="Imper" person="Auto" />
+  <moodForm default="ráiní" mood="Subj" person="Base" />
+  <moodForm default="ráinímid" mood="Subj" person="Pl1" />
+  <moodForm default="ráinítear" mood="Subj" person="Auto" />
+</verb>

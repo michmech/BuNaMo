@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fleadhaigh" disambig="">
+  <verbalNoun default="fleadhú" />
+  <verbalAdjective default="fleadhaithe" />
+  <tenseForm default="fleadhaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fleadhaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fleadhaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fleadhaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fleadhaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fleadhaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fleadhaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fleadhaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fleadhaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fleadhaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fleadhaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fleadhaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fleadhaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fleadhaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fleadhaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fleadhaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fleadhaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fleadhaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fleadhaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fleadhaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fleadhaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fleadhaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fleadhaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fleadhaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fleadhaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fleadhaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fleadhaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fleadhaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fleadhóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fleadhóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fleadhófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fleadhóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fleadhóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fleadhófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fleadhódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fleadhóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fleadhófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fleadhóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fleadhóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fleadhófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fleadhódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fleadhóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fleadhófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fleadhóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fleadhóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fleadhófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fleadhaíodh" mood="Imper" person="Base" />
+  <moodForm default="fleadhaím" mood="Imper" person="Sg1" />
+  <moodForm default="fleadhaigh" mood="Imper" person="Sg2" />
+  <moodForm default="fleadhaímis" mood="Imper" person="Pl1" />
+  <moodForm default="fleadhaígí" mood="Imper" person="Pl2" />
+  <moodForm default="fleadhaídís" mood="Imper" person="Pl3" />
+  <moodForm default="fleadhaítear" mood="Imper" person="Auto" />
+  <moodForm default="fleadhaí" mood="Subj" person="Base" />
+  <moodForm default="fleadhaímid" mood="Subj" person="Pl1" />
+  <moodForm default="fleadhaítear" mood="Subj" person="Auto" />
+</verb>

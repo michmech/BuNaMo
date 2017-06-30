@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cniog" disambig="">
+  <verbalNoun default="cniogadh" />
+  <verbalAdjective default="cniogtha" />
+  <tenseForm default="cniog" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cniogamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cniogadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cniogadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cniog" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cniogamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cniogadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cniogadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cniogadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cniogainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cniogtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cniogaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cniogaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cniogtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cniogadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cniogainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cniogtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cniogaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cniogaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cniogtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cniogann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cniogaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cniogaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cniogtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cniogann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cniogaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cniogaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cniogtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cniogfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cniogfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cniogfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cniogfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cniogfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cniogfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cniogfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cniogfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cniogfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cniogfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cniogfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cniogfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cniogfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cniogfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cniogfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cniogfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cniogfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cniogfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cniogadh" mood="Imper" person="Base" />
+  <moodForm default="cniogaim" mood="Imper" person="Sg1" />
+  <moodForm default="cniog" mood="Imper" person="Sg2" />
+  <moodForm default="cniogaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cniogaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cniogaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cniogtar" mood="Imper" person="Auto" />
+  <moodForm default="cnioga" mood="Subj" person="Base" />
+  <moodForm default="cniogaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cniogtar" mood="Subj" person="Auto" />
+</verb>

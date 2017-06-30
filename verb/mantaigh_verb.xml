@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mantaigh" disambig="">
+  <verbalNoun default="mantú" />
+  <verbalAdjective default="mantaithe" />
+  <tenseForm default="mantaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mantaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mantaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mantaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mantaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mantaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mantaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mantaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mantaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mantaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mantaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mantaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mantaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mantaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mantaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mantaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mantaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mantaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mantaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mantaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mantaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mantaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mantaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mantaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mantaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mantaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mantaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mantaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mantóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mantóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mantófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mantóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mantóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mantófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mantódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mantóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mantófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mantóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mantóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mantófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mantódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mantóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mantófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mantóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mantóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mantófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mantaíodh" mood="Imper" person="Base" />
+  <moodForm default="mantaím" mood="Imper" person="Sg1" />
+  <moodForm default="mantaigh" mood="Imper" person="Sg2" />
+  <moodForm default="mantaímis" mood="Imper" person="Pl1" />
+  <moodForm default="mantaígí" mood="Imper" person="Pl2" />
+  <moodForm default="mantaídís" mood="Imper" person="Pl3" />
+  <moodForm default="mantaítear" mood="Imper" person="Auto" />
+  <moodForm default="mantaí" mood="Subj" person="Base" />
+  <moodForm default="mantaímid" mood="Subj" person="Pl1" />
+  <moodForm default="mantaítear" mood="Subj" person="Auto" />
+</verb>

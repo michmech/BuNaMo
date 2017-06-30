@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="triomaigh" disambig="">
+  <verbalNoun default="triomú" />
+  <verbalAdjective default="triomaithe" />
+  <tenseForm default="triomaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="triomaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="triomaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="triomaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="triomaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="triomaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="triomaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="triomaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="triomaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="triomaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="triomaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="triomaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="triomaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="triomaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="triomaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="triomaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="triomaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="triomaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="triomaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="triomaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="triomaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="triomaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="triomaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="triomaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="triomaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="triomaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="triomaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="triomaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="triomóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="triomóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="triomófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="triomóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="triomóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="triomófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="triomódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="triomóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="triomófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="triomóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="triomóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="triomófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="triomódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="triomóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="triomófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="triomóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="triomóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="triomófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="triomaíodh" mood="Imper" person="Base" />
+  <moodForm default="triomaím" mood="Imper" person="Sg1" />
+  <moodForm default="triomaigh" mood="Imper" person="Sg2" />
+  <moodForm default="triomaímis" mood="Imper" person="Pl1" />
+  <moodForm default="triomaígí" mood="Imper" person="Pl2" />
+  <moodForm default="triomaídís" mood="Imper" person="Pl3" />
+  <moodForm default="triomaítear" mood="Imper" person="Auto" />
+  <moodForm default="triomaí" mood="Subj" person="Base" />
+  <moodForm default="triomaímid" mood="Subj" person="Pl1" />
+  <moodForm default="triomaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="teagasc" disambig="">
+  <verbalNoun default="teagasc" />
+  <verbalAdjective default="teagasctha" />
+  <tenseForm default="teagasc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="teagascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="teagascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="teagascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="teagasc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="teagascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="teagascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="teagascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="teagascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="teagascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teagasctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="teagascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teagascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="teagasctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teagascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="teagascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teagasctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="teagascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teagascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="teagasctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teagascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="teagascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teagascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teagasctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teagascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="teagascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teagascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teagasctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teagascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="teagascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="teagascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="teagascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="teagascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="teagascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="teagascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="teagascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="teagascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="teagascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="teagascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="teagascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="teagascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="teagascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="teagascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="teagascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="teagascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="teagascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="teagascadh" mood="Imper" person="Base" />
+  <moodForm default="teagascaim" mood="Imper" person="Sg1" />
+  <moodForm default="teagasc" mood="Imper" person="Sg2" />
+  <moodForm default="teagascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="teagascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="teagascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="teagasctar" mood="Imper" person="Auto" />
+  <moodForm default="teagasca" mood="Subj" person="Base" />
+  <moodForm default="teagascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="teagasctar" mood="Subj" person="Auto" />
+</verb>

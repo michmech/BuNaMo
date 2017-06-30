@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gluais" disambig="">
+  <verbalNoun default="gluaiseacht" />
+  <verbalAdjective default="gluaiste" />
+  <tenseForm default="gluais" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gluaiseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gluaiseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gluaiseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gluais" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gluaiseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gluaiseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gluaiseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gluaiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gluaisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gluaisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gluaisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gluaisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gluaistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gluaiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gluaisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gluaisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gluaisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gluaisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gluaistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gluaiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gluaisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gluaisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gluaistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gluaiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gluaisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gluaisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gluaistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gluaisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gluaisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gluaisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gluaisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gluaisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gluaisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gluaisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gluaisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gluaisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gluaisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gluaisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gluaisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gluaisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gluaisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gluaisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gluaisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gluaisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gluaisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gluaiseadh" mood="Imper" person="Base" />
+  <moodForm default="gluaisim" mood="Imper" person="Sg1" />
+  <moodForm default="gluais" mood="Imper" person="Sg2" />
+  <moodForm default="gluaisimis" mood="Imper" person="Pl1" />
+  <moodForm default="gluaisigí" mood="Imper" person="Pl2" />
+  <moodForm default="gluaisidís" mood="Imper" person="Pl3" />
+  <moodForm default="gluaistear" mood="Imper" person="Auto" />
+  <moodForm default="gluaise" mood="Subj" person="Base" />
+  <moodForm default="gluaisimid" mood="Subj" person="Pl1" />
+  <moodForm default="gluaistear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stang" disambig="">
+  <verbalNoun default="stangadh" />
+  <verbalAdjective default="stangtha" />
+  <tenseForm default="stang" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stangamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stangadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stangadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stang" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stangamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stangadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stangadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stangadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stangainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stangtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stangaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stangaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stangtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stangadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stangainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stangtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stangaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stangaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stangtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stangann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stangaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stangaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stangtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stangann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stangaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stangaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stangtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stangfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stangfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stangfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stangfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stangfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stangfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stangfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stangfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stangfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stangfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stangfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stangfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stangfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stangfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stangfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stangfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stangfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stangfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stangadh" mood="Imper" person="Base" />
+  <moodForm default="stangaim" mood="Imper" person="Sg1" />
+  <moodForm default="stang" mood="Imper" person="Sg2" />
+  <moodForm default="stangaimis" mood="Imper" person="Pl1" />
+  <moodForm default="stangaigí" mood="Imper" person="Pl2" />
+  <moodForm default="stangaidís" mood="Imper" person="Pl3" />
+  <moodForm default="stangtar" mood="Imper" person="Auto" />
+  <moodForm default="stanga" mood="Subj" person="Base" />
+  <moodForm default="stangaimid" mood="Subj" person="Pl1" />
+  <moodForm default="stangtar" mood="Subj" person="Auto" />
+</verb>

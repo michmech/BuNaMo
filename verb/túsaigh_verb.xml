@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="túsaigh" disambig="">
+  <verbalNoun default="túsú" />
+  <verbalAdjective default="túsaithe" />
+  <tenseForm default="túsaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="túsaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="túsaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="túsaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="túsaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="túsaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="túsaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="túsaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="túsaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="túsaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="túsaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="túsaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="túsaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="túsaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="túsaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="túsaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="túsaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="túsaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="túsaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="túsaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="túsaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="túsaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="túsaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="túsaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="túsaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="túsaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="túsaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="túsaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="túsóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="túsóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="túsófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="túsóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="túsóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="túsófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="túsódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="túsóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="túsófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="túsóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="túsóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="túsófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="túsódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="túsóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="túsófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="túsóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="túsóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="túsófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="túsaíodh" mood="Imper" person="Base" />
+  <moodForm default="túsaím" mood="Imper" person="Sg1" />
+  <moodForm default="túsaigh" mood="Imper" person="Sg2" />
+  <moodForm default="túsaímis" mood="Imper" person="Pl1" />
+  <moodForm default="túsaígí" mood="Imper" person="Pl2" />
+  <moodForm default="túsaídís" mood="Imper" person="Pl3" />
+  <moodForm default="túsaítear" mood="Imper" person="Auto" />
+  <moodForm default="túsaí" mood="Subj" person="Base" />
+  <moodForm default="túsaímid" mood="Subj" person="Pl1" />
+  <moodForm default="túsaítear" mood="Subj" person="Auto" />
+</verb>

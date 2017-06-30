@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="toghair" disambig="">
+  <verbalNoun default="toghairm" />
+  <verbalAdjective default="toghairthe" />
+  <tenseForm default="toghair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="toghaireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghaireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="toghaireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="toghair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="toghaireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghaireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="toghaireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="toghaireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="toghairinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toghairteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="toghairimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghairidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="toghairtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toghaireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="toghairinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toghairteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="toghairimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghairidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="toghairtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toghaireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="toghairim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toghairimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghairtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toghaireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="toghairim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toghairimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghairtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toghairfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="toghairfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghairfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="toghairfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="toghairfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghairfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="toghairfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="toghairfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="toghairfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="toghairfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghairfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="toghairfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="toghairfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="toghairfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="toghairfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="toghairfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghairfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="toghairfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="toghaireadh" mood="Imper" person="Base" />
+  <moodForm default="toghairim" mood="Imper" person="Sg1" />
+  <moodForm default="toghair" mood="Imper" person="Sg2" />
+  <moodForm default="toghairimis" mood="Imper" person="Pl1" />
+  <moodForm default="toghairigí" mood="Imper" person="Pl2" />
+  <moodForm default="toghairidís" mood="Imper" person="Pl3" />
+  <moodForm default="toghairtear" mood="Imper" person="Auto" />
+  <moodForm default="toghaire" mood="Subj" person="Base" />
+  <moodForm default="toghairimid" mood="Subj" person="Pl1" />
+  <moodForm default="toghairtear" mood="Subj" person="Auto" />
+</verb>

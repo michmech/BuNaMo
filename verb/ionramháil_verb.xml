@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ionramháil" disambig="">
+  <verbalNoun default="ionramháil" />
+  <verbalAdjective default="ionramháilte" />
+  <tenseForm default="ionramháil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ionramhálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionramháladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionramháladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ionramháil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ionramhálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionramháladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionramháladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ionramháladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ionramhálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionramháilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ionramhálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionramhálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionramháiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ionramháladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ionramhálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionramháilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ionramhálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionramhálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionramháiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ionramhálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ionramhálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionramhálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionramháiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ionramhálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ionramhálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionramhálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionramháiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ionramhálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ionramhálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionramhálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ionramhálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ionramhálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionramhálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ionramhálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ionramhálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionramhálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ionramhálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionramhálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionramhálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ionramhálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ionramhálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionramhálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ionramhálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionramhálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionramhálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ionramháladh" mood="Imper" person="Base" />
+  <moodForm default="ionramhálaim" mood="Imper" person="Sg1" />
+  <moodForm default="ionramháil" mood="Imper" person="Sg2" />
+  <moodForm default="ionramhálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="ionramhálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="ionramhálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="ionramháiltear" mood="Imper" person="Auto" />
+  <moodForm default="ionramhála" mood="Subj" person="Base" />
+  <moodForm default="ionramhálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="ionramháiltear" mood="Subj" person="Auto" />
+</verb>

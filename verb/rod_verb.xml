@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rod" disambig="">
+  <verbalNoun default="rodadh" />
+  <verbalAdjective default="rodta" />
+  <tenseForm default="rod" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rodamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rodadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rod" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rodamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rodadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rodadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rodainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rodtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rodaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rodaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rodtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rodadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rodainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rodtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rodaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rodaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rodtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rodann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rodaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rodaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rodtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rodann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rodaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rodaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rodtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rodfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rodfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rodfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rodfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rodfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rodfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rodfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rodfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rodfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rodfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rodfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rodfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rodfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rodfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rodfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rodfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rodfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rodfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rodadh" mood="Imper" person="Base" />
+  <moodForm default="rodaim" mood="Imper" person="Sg1" />
+  <moodForm default="rod" mood="Imper" person="Sg2" />
+  <moodForm default="rodaimis" mood="Imper" person="Pl1" />
+  <moodForm default="rodaigí" mood="Imper" person="Pl2" />
+  <moodForm default="rodaidís" mood="Imper" person="Pl3" />
+  <moodForm default="rodtar" mood="Imper" person="Auto" />
+  <moodForm default="roda" mood="Subj" person="Base" />
+  <moodForm default="rodaimid" mood="Subj" person="Pl1" />
+  <moodForm default="rodtar" mood="Subj" person="Auto" />
+</verb>

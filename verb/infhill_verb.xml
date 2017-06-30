@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="infhill" disambig="">
+  <verbalNoun default="infhilleadh" />
+  <verbalAdjective default="infhillte" />
+  <tenseForm default="infhill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="infhilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="infhilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="infhilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="infhill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="infhilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="infhilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="infhilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="infhilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="infhillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="infhillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="infhillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="infhillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="infhilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="infhilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="infhillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="infhillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="infhillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="infhillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="infhilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="infhilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="infhillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="infhillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="infhilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="infhilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="infhillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="infhillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="infhilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="infhillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="infhillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="infhillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="infhillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="infhillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="infhillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="infhillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="infhillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="infhillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="infhillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="infhillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="infhillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="infhillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="infhillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="infhillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="infhillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="infhillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="infhillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="infhilleadh" mood="Imper" person="Base" />
+  <moodForm default="infhillim" mood="Imper" person="Sg1" />
+  <moodForm default="infhill" mood="Imper" person="Sg2" />
+  <moodForm default="infhillimis" mood="Imper" person="Pl1" />
+  <moodForm default="infhilligí" mood="Imper" person="Pl2" />
+  <moodForm default="infhillidís" mood="Imper" person="Pl3" />
+  <moodForm default="infhilltear" mood="Imper" person="Auto" />
+  <moodForm default="infhille" mood="Subj" person="Base" />
+  <moodForm default="infhillimid" mood="Subj" person="Pl1" />
+  <moodForm default="infhilltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="loit" disambig="">
+  <verbalNoun default="lot" />
+  <verbalAdjective default="loite" />
+  <tenseForm default="loit" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="loiteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="loiteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="loiteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="loit" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="loiteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="loiteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="loiteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="loiteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="loitinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="loiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="loitimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="loitidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="loití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="loiteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="loitinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="loiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="loitimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="loitidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="loití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="loiteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="loitim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="loitimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="loitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="loiteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="loitim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="loitimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="loitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="loitfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="loitfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="loitfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="loitfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="loitfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="loitfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="loitfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="loitfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="loitfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="loitfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="loitfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="loitfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="loitfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="loitfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="loitfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="loitfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="loitfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="loitfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="loiteadh" mood="Imper" person="Base" />
+  <moodForm default="loitim" mood="Imper" person="Sg1" />
+  <moodForm default="loit" mood="Imper" person="Sg2" />
+  <moodForm default="loitimis" mood="Imper" person="Pl1" />
+  <moodForm default="loitigí" mood="Imper" person="Pl2" />
+  <moodForm default="loitidís" mood="Imper" person="Pl3" />
+  <moodForm default="loitear" mood="Imper" person="Auto" />
+  <moodForm default="loite" mood="Subj" person="Base" />
+  <moodForm default="loitimid" mood="Subj" person="Pl1" />
+  <moodForm default="loitear" mood="Subj" person="Auto" />
+</verb>

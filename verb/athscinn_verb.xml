@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athscinn" disambig="">
+  <verbalNoun default="athscinneadh" />
+  <verbalAdjective default="athscinnte" />
+  <tenseForm default="athscinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athscinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athscinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athscinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athscinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athscinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athscinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athscinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athscinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athscinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athscinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athscinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athscinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athscinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athscinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athscinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athscinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athscinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athscinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athscinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athscinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athscinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athscinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athscinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athscinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athscinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athscinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athscinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athscinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athscinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athscinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athscinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athscinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athscinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athscinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athscinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athscinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athscinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athscinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athscinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athscinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athscinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athscinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athscinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athscinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athscinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athscinneadh" mood="Imper" person="Base" />
+  <moodForm default="athscinnim" mood="Imper" person="Sg1" />
+  <moodForm default="athscinn" mood="Imper" person="Sg2" />
+  <moodForm default="athscinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="athscinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="athscinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="athscinntear" mood="Imper" person="Auto" />
+  <moodForm default="athscinne" mood="Subj" person="Base" />
+  <moodForm default="athscinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="athscinntear" mood="Subj" person="Auto" />
+</verb>

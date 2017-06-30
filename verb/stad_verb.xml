@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stad" disambig="">
+  <verbalNoun default="stad" />
+  <verbalAdjective default="stadta" />
+  <tenseForm default="stad" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stadamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stadadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stadadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stad" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stadamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stadadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stadadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stadadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stadainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stadtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stadaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stadaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stadtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stadadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stadainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stadtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stadaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stadaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stadtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stadann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stadaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stadaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stadtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stadann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stadaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stadaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stadtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stadfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stadfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stadfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stadfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stadfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stadfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stadfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stadfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stadfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stadfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stadfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stadfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stadfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stadfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stadfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stadfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stadfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stadfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stadadh" mood="Imper" person="Base" />
+  <moodForm default="stadaim" mood="Imper" person="Sg1" />
+  <moodForm default="stad" mood="Imper" person="Sg2" />
+  <moodForm default="stadaimis" mood="Imper" person="Pl1" />
+  <moodForm default="stadaigí" mood="Imper" person="Pl2" />
+  <moodForm default="stadaidís" mood="Imper" person="Pl3" />
+  <moodForm default="stadtar" mood="Imper" person="Auto" />
+  <moodForm default="stada" mood="Subj" person="Base" />
+  <moodForm default="stadaimid" mood="Subj" person="Pl1" />
+  <moodForm default="stadtar" mood="Subj" person="Auto" />
+</verb>

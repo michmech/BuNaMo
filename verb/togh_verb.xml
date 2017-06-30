@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="togh" disambig="">
+  <verbalNoun default="toghadh" />
+  <verbalAdjective default="tofa" />
+  <tenseForm default="togh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="toghamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="toghadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="togh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="toghamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="toghadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="toghadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="toghainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toghtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="toghaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="toghtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toghadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="toghainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toghtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="toghaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="toghtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toghann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="toghaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toghaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toghann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="toghaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toghaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toghfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="toghfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="toghfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="toghfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="toghfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="toghfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="toghfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="toghfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="toghfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="toghfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="toghfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="toghfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="toghfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="toghfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="toghfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="toghfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="toghadh" mood="Imper" person="Base" />
+  <moodForm default="toghaim" mood="Imper" person="Sg1" />
+  <moodForm default="togh" mood="Imper" person="Sg2" />
+  <moodForm default="toghaimis" mood="Imper" person="Pl1" />
+  <moodForm default="toghaigí" mood="Imper" person="Pl2" />
+  <moodForm default="toghaidís" mood="Imper" person="Pl3" />
+  <moodForm default="toghtar" mood="Imper" person="Auto" />
+  <moodForm default="togha" mood="Subj" person="Base" />
+  <moodForm default="toghaimid" mood="Subj" person="Pl1" />
+  <moodForm default="toghtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="beoigh" disambig="">
+  <verbalNoun default="beochan" />
+  <verbalAdjective default="beoite" />
+  <tenseForm default="beoigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="beomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="beodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="beoigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="beomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="beodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="beodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="beoinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beoiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="beoimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beoidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="beoití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="beoinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beoiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="beoimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beoidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="beoití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="beoim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beoimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beoitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="beoim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beoimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beoitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beofaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="beofaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="beofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="beofaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="beofaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="beofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="beofadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="beofainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="beofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="beofaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="beofaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="beofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="beofadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="beofainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="beofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="beofaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="beofaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="beofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="beodh" mood="Imper" person="Base" />
+  <moodForm default="beoim" mood="Imper" person="Sg1" />
+  <moodForm default="beoigh" mood="Imper" person="Sg2" />
+  <moodForm default="beoimis" mood="Imper" person="Pl1" />
+  <moodForm default="beoigí" mood="Imper" person="Pl2" />
+  <moodForm default="beoidís" mood="Imper" person="Pl3" />
+  <moodForm default="beoitear" mood="Imper" person="Auto" />
+  <moodForm default="beo" mood="Subj" person="Base" />
+  <moodForm default="beoimid" mood="Subj" person="Pl1" />
+  <moodForm default="beoitear" mood="Subj" person="Auto" />
+</verb>

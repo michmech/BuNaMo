@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bachlaigh" disambig="">
+  <verbalNoun default="bachlú" />
+  <verbalAdjective default="bachlaithe" />
+  <tenseForm default="bachlaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bachlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bachlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bachlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bachlaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bachlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bachlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bachlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bachlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bachlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bachlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bachlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bachlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bachlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bachlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bachlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bachlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bachlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bachlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bachlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bachlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bachlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bachlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bachlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bachlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bachlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bachlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bachlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bachlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bachlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bachlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bachlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bachlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bachlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bachlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bachlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bachlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bachlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bachlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bachlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bachlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bachlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bachlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bachlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bachlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bachlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bachlaíodh" mood="Imper" person="Base" />
+  <moodForm default="bachlaím" mood="Imper" person="Sg1" />
+  <moodForm default="bachlaigh" mood="Imper" person="Sg2" />
+  <moodForm default="bachlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="bachlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="bachlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="bachlaítear" mood="Imper" person="Auto" />
+  <moodForm default="bachlaí" mood="Subj" person="Base" />
+  <moodForm default="bachlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="bachlaítear" mood="Subj" person="Auto" />
+</verb>

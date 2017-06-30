@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rib" disambig="">
+  <verbalNoun default="ribeadh" />
+  <verbalAdjective default="ribthe" />
+  <tenseForm default="rib" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ribeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ribeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ribeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rib" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ribeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ribeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ribeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ribeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ribinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ribteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ribimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ribidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ribtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ribeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ribinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ribteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ribimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ribidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ribtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ribeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ribim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ribimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ribtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ribeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ribim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ribimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ribtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ribfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ribfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ribfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ribfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ribfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ribfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ribfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ribfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ribfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ribfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ribfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ribfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ribfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ribfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ribfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ribfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ribfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ribfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ribeadh" mood="Imper" person="Base" />
+  <moodForm default="ribim" mood="Imper" person="Sg1" />
+  <moodForm default="rib" mood="Imper" person="Sg2" />
+  <moodForm default="ribimis" mood="Imper" person="Pl1" />
+  <moodForm default="ribigí" mood="Imper" person="Pl2" />
+  <moodForm default="ribidís" mood="Imper" person="Pl3" />
+  <moodForm default="ribtear" mood="Imper" person="Auto" />
+  <moodForm default="ribe" mood="Subj" person="Base" />
+  <moodForm default="ribimid" mood="Subj" person="Pl1" />
+  <moodForm default="ribtear" mood="Subj" person="Auto" />
+</verb>

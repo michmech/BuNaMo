@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="treaghd" disambig="">
+  <verbalNoun default="treaghdadh" />
+  <verbalAdjective default="treaghdta" />
+  <tenseForm default="treaghd" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="treaghdamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="treaghdadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="treaghdadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="treaghd" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="treaghdamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="treaghdadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="treaghdadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="treaghdadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="treaghdainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="treaghdtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="treaghdaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="treaghdaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="treaghdtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="treaghdadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="treaghdainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="treaghdtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="treaghdaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="treaghdaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="treaghdtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="treaghdann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="treaghdaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="treaghdaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="treaghdtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="treaghdann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="treaghdaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="treaghdaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="treaghdtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="treaghdfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="treaghdfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="treaghdfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="treaghdfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="treaghdfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="treaghdfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="treaghdfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="treaghdfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="treaghdfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="treaghdfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="treaghdfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="treaghdfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="treaghdfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="treaghdfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="treaghdfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="treaghdfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="treaghdfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="treaghdfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="treaghdadh" mood="Imper" person="Base" />
+  <moodForm default="treaghdaim" mood="Imper" person="Sg1" />
+  <moodForm default="treaghd" mood="Imper" person="Sg2" />
+  <moodForm default="treaghdaimis" mood="Imper" person="Pl1" />
+  <moodForm default="treaghdaigí" mood="Imper" person="Pl2" />
+  <moodForm default="treaghdaidís" mood="Imper" person="Pl3" />
+  <moodForm default="treaghdtar" mood="Imper" person="Auto" />
+  <moodForm default="treaghda" mood="Subj" person="Base" />
+  <moodForm default="treaghdaimid" mood="Subj" person="Pl1" />
+  <moodForm default="treaghdtar" mood="Subj" person="Auto" />
+</verb>

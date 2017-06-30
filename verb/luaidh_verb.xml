@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="luaidh" disambig="">
+  <verbalNoun default="luadh" />
+  <verbalAdjective default="luaidhte" />
+  <tenseForm default="luaidh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="luaidheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="luaidheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="luaidheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="luaidh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="luaidheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="luaidheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="luaidheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="luaidheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="luaidhinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="luaidhteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="luaidhimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="luaidhidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="luaidhtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="luaidheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="luaidhinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="luaidhteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="luaidhimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="luaidhidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="luaidhtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="luaidheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="luaidhim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="luaidhimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="luaidhtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="luaidheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="luaidhim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="luaidhimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="luaidhtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="luaidhfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="luaidhfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="luaidhfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="luaidhfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="luaidhfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="luaidhfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="luaidhfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="luaidhfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="luaidhfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="luaidhfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="luaidhfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="luaidhfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="luaidhfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="luaidhfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="luaidhfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="luaidhfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="luaidhfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="luaidhfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="luaidheadh" mood="Imper" person="Base" />
+  <moodForm default="luaidhim" mood="Imper" person="Sg1" />
+  <moodForm default="luaidh" mood="Imper" person="Sg2" />
+  <moodForm default="luaidhimis" mood="Imper" person="Pl1" />
+  <moodForm default="luaidhigí" mood="Imper" person="Pl2" />
+  <moodForm default="luaidhidís" mood="Imper" person="Pl3" />
+  <moodForm default="luaidhtear" mood="Imper" person="Auto" />
+  <moodForm default="luaidhe" mood="Subj" person="Base" />
+  <moodForm default="luaidhimid" mood="Subj" person="Pl1" />
+  <moodForm default="luaidhtear" mood="Subj" person="Auto" />
+</verb>

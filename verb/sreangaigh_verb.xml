@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sreangaigh" disambig="">
+  <verbalNoun default="sreangú" />
+  <verbalAdjective default="sreangaithe" />
+  <tenseForm default="sreangaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sreangaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sreangaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sreangaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sreangaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sreangaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sreangaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sreangaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sreangaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sreangaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sreangaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sreangaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sreangaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sreangaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sreangaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sreangaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sreangaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sreangaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sreangaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sreangaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sreangaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sreangaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sreangaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sreangaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sreangaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sreangaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sreangaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sreangaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sreangóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sreangóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sreangófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sreangóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sreangóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sreangófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sreangódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sreangóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sreangófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sreangóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sreangóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sreangófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sreangódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sreangóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sreangófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sreangóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sreangóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sreangófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sreangaíodh" mood="Imper" person="Base" />
+  <moodForm default="sreangaím" mood="Imper" person="Sg1" />
+  <moodForm default="sreangaigh" mood="Imper" person="Sg2" />
+  <moodForm default="sreangaímis" mood="Imper" person="Pl1" />
+  <moodForm default="sreangaígí" mood="Imper" person="Pl2" />
+  <moodForm default="sreangaídís" mood="Imper" person="Pl3" />
+  <moodForm default="sreangaítear" mood="Imper" person="Auto" />
+  <moodForm default="sreangaí" mood="Subj" person="Base" />
+  <moodForm default="sreangaímid" mood="Subj" person="Pl1" />
+  <moodForm default="sreangaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="foighnigh" disambig="">
+  <verbalNoun default="foighneamh" />
+  <verbalAdjective default="foighnithe" />
+  <tenseForm default="foighnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="foighníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="foighníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="foighníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="foighnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="foighníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="foighníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="foighníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="foighníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="foighnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foighníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="foighnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foighnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="foighnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foighníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="foighnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foighníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="foighnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foighnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="foighnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foighníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="foighním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foighnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foighnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foighníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="foighním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foighnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foighnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foighneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="foighneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="foighneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="foighneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="foighneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="foighneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="foighneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="foighneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="foighneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="foighneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="foighneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="foighneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="foighneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="foighneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="foighneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="foighneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="foighneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="foighneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="foighníodh" mood="Imper" person="Base" />
+  <moodForm default="foighním" mood="Imper" person="Sg1" />
+  <moodForm default="foighnigh" mood="Imper" person="Sg2" />
+  <moodForm default="foighnímis" mood="Imper" person="Pl1" />
+  <moodForm default="foighnígí" mood="Imper" person="Pl2" />
+  <moodForm default="foighnídís" mood="Imper" person="Pl3" />
+  <moodForm default="foighnítear" mood="Imper" person="Auto" />
+  <moodForm default="foighní" mood="Subj" person="Base" />
+  <moodForm default="foighnímid" mood="Subj" person="Pl1" />
+  <moodForm default="foighnítear" mood="Subj" person="Auto" />
+</verb>

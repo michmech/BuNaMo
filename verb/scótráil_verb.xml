@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scótráil" disambig="">
+  <verbalNoun default="scótráil" />
+  <verbalAdjective default="scótráilte" />
+  <tenseForm default="scótráil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scótrálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scótráladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scótráladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scótráil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scótrálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scótráladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scótráladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scótráladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scótrálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scótráilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scótrálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scótrálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scótráiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scótráladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scótrálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scótráilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scótrálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scótrálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scótráiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scótrálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scótrálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scótrálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scótráiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scótrálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scótrálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scótrálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scótráiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scótrálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scótrálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scótrálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scótrálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scótrálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scótrálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scótrálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scótrálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scótrálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scótrálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scótrálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scótrálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scótrálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scótrálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scótrálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scótrálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scótrálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scótrálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scótráladh" mood="Imper" person="Base" />
+  <moodForm default="scótrálaim" mood="Imper" person="Sg1" />
+  <moodForm default="scótráil" mood="Imper" person="Sg2" />
+  <moodForm default="scótrálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="scótrálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="scótrálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scótráiltear" mood="Imper" person="Auto" />
+  <moodForm default="scótrála" mood="Subj" person="Base" />
+  <moodForm default="scótrálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scótráiltear" mood="Subj" person="Auto" />
+</verb>

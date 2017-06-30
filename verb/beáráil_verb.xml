@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="beáráil" disambig="">
+  <verbalNoun default="beáráil" />
+  <verbalAdjective default="beáráilte" />
+  <tenseForm default="beáráil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="beárálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="beáráladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="beáráladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="beáráil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="beárálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="beáráladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="beáráladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="beáráladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="beárálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beáráilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="beárálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beárálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="beáráiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beáráladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="beárálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beáráilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="beárálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beárálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="beáráiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beárálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="beárálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="beárálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="beáráiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="beárálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="beárálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="beárálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="beáráiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="beárálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="beárálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="beárálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="beárálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="beárálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="beárálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="beárálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="beárálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="beárálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="beárálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="beárálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="beárálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="beárálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="beárálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="beárálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="beárálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="beárálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="beárálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="beáráladh" mood="Imper" person="Base" />
+  <moodForm default="beárálaim" mood="Imper" person="Sg1" />
+  <moodForm default="beáráil" mood="Imper" person="Sg2" />
+  <moodForm default="beárálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="beárálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="beárálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="beáráiltear" mood="Imper" person="Auto" />
+  <moodForm default="beárála" mood="Subj" person="Base" />
+  <moodForm default="beárálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="beáráiltear" mood="Subj" person="Auto" />
+</verb>

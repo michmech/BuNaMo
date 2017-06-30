@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="teileachraol" disambig="">
+  <verbalNoun default="teileachraoladh" />
+  <verbalAdjective default="teileachraolta" />
+  <tenseForm default="teileachraol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="teileachraolamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="teileachraoladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="teileachraoladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="teileachraol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="teileachraolamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="teileachraoladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="teileachraoladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="teileachraoladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="teileachraolainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teileachraoltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="teileachraolaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teileachraolaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="teileachraoltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teileachraoladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="teileachraolainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teileachraoltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="teileachraolaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teileachraolaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="teileachraoltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teileachraolann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="teileachraolaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="teileachraolaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="teileachraoltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="teileachraolann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="teileachraolaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="teileachraolaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="teileachraoltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="teileachraolfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="teileachraolfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="teileachraolfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="teileachraolfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="teileachraolfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="teileachraolfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="teileachraolfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="teileachraolfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="teileachraolfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="teileachraolfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="teileachraolfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="teileachraolfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="teileachraolfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="teileachraolfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="teileachraolfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="teileachraolfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="teileachraolfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="teileachraolfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="teileachraoladh" mood="Imper" person="Base" />
+  <moodForm default="teileachraolaim" mood="Imper" person="Sg1" />
+  <moodForm default="teileachraol" mood="Imper" person="Sg2" />
+  <moodForm default="teileachraolaimis" mood="Imper" person="Pl1" />
+  <moodForm default="teileachraolaigí" mood="Imper" person="Pl2" />
+  <moodForm default="teileachraolaidís" mood="Imper" person="Pl3" />
+  <moodForm default="teileachraoltar" mood="Imper" person="Auto" />
+  <moodForm default="teileachraola" mood="Subj" person="Base" />
+  <moodForm default="teileachraolaimid" mood="Subj" person="Pl1" />
+  <moodForm default="teileachraoltar" mood="Subj" person="Auto" />
+</verb>

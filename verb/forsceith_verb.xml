@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="forsceith" disambig="">
+  <verbalNoun default="forsceitheadh" />
+  <verbalAdjective default="forsceite" />
+  <tenseForm default="forsceith" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="forsceitheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="forsceitheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="forsceitheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="forsceith" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="forsceitheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="forsceitheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="forsceitheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="forsceitheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="forsceithinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forsceiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="forsceithimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forsceithidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="forsceití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forsceitheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="forsceithinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forsceiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="forsceithimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forsceithidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="forsceití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forsceitheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="forsceithim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forsceithimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forsceitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forsceitheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="forsceithim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forsceithimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forsceitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forsceithfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="forsceithfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="forsceithfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="forsceithfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="forsceithfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="forsceithfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="forsceithfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="forsceithfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="forsceithfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="forsceithfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="forsceithfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="forsceithfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="forsceithfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="forsceithfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="forsceithfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="forsceithfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="forsceithfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="forsceithfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="forsceitheadh" mood="Imper" person="Base" />
+  <moodForm default="forsceithim" mood="Imper" person="Sg1" />
+  <moodForm default="forsceith" mood="Imper" person="Sg2" />
+  <moodForm default="forsceithimis" mood="Imper" person="Pl1" />
+  <moodForm default="forsceithigí" mood="Imper" person="Pl2" />
+  <moodForm default="forsceithidís" mood="Imper" person="Pl3" />
+  <moodForm default="forsceitear" mood="Imper" person="Auto" />
+  <moodForm default="forsceithe" mood="Subj" person="Base" />
+  <moodForm default="forsceithimid" mood="Subj" person="Pl1" />
+  <moodForm default="forsceitear" mood="Subj" person="Auto" />
+</verb>

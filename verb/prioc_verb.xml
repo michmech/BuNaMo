@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="prioc" disambig="">
+  <verbalNoun default="priocadh" />
+  <verbalAdjective default="prioctha" />
+  <tenseForm default="prioc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="priocamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="priocadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="priocadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="prioc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="priocamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="priocadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="priocadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="priocadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="priocainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="prioctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="priocaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="priocaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="prioctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="priocadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="priocainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="prioctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="priocaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="priocaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="prioctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="priocann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="priocaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="priocaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="prioctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="priocann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="priocaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="priocaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="prioctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="priocfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="priocfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="priocfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="priocfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="priocfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="priocfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="priocfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="priocfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="priocfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="priocfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="priocfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="priocfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="priocfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="priocfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="priocfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="priocfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="priocfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="priocfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="priocadh" mood="Imper" person="Base" />
+  <moodForm default="priocaim" mood="Imper" person="Sg1" />
+  <moodForm default="prioc" mood="Imper" person="Sg2" />
+  <moodForm default="priocaimis" mood="Imper" person="Pl1" />
+  <moodForm default="priocaigí" mood="Imper" person="Pl2" />
+  <moodForm default="priocaidís" mood="Imper" person="Pl3" />
+  <moodForm default="prioctar" mood="Imper" person="Auto" />
+  <moodForm default="prioca" mood="Subj" person="Base" />
+  <moodForm default="priocaimid" mood="Subj" person="Pl1" />
+  <moodForm default="prioctar" mood="Subj" person="Auto" />
+</verb>

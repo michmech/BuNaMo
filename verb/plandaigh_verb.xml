@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="plandaigh" disambig="">
+  <verbalNoun default="plandú" />
+  <verbalAdjective default="plandaithe" />
+  <tenseForm default="plandaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="plandaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="plandaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="plandaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="plandaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="plandaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="plandaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="plandaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="plandaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="plandaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="plandaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="plandaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="plandaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="plandaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="plandaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="plandaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="plandaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="plandaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="plandaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="plandaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="plandaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="plandaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="plandaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="plandaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="plandaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="plandaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="plandaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="plandaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="plandóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="plandóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="plandófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="plandóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="plandóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="plandófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="plandódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="plandóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="plandófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="plandóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="plandóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="plandófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="plandódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="plandóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="plandófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="plandóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="plandóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="plandófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="plandaíodh" mood="Imper" person="Base" />
+  <moodForm default="plandaím" mood="Imper" person="Sg1" />
+  <moodForm default="plandaigh" mood="Imper" person="Sg2" />
+  <moodForm default="plandaímis" mood="Imper" person="Pl1" />
+  <moodForm default="plandaígí" mood="Imper" person="Pl2" />
+  <moodForm default="plandaídís" mood="Imper" person="Pl3" />
+  <moodForm default="plandaítear" mood="Imper" person="Auto" />
+  <moodForm default="plandaí" mood="Subj" person="Base" />
+  <moodForm default="plandaímid" mood="Subj" person="Pl1" />
+  <moodForm default="plandaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gannaigh" disambig="">
+  <verbalNoun default="gannú" />
+  <verbalAdjective default="gannaithe" />
+  <tenseForm default="gannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gannaíodh" mood="Imper" person="Base" />
+  <moodForm default="gannaím" mood="Imper" person="Sg1" />
+  <moodForm default="gannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="gannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="gannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="gannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="gannaítear" mood="Imper" person="Auto" />
+  <moodForm default="gannaí" mood="Subj" person="Base" />
+  <moodForm default="gannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="gannaítear" mood="Subj" person="Auto" />
+</verb>

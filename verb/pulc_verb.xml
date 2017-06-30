@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pulc" disambig="">
+  <verbalNoun default="pulcadh" />
+  <verbalAdjective default="pulctha" />
+  <tenseForm default="pulc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pulcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pulcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="pulcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pulc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pulcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pulcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pulcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="pulcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pulcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pulctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pulcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pulcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pulctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pulcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pulcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pulctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pulcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pulcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pulctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pulcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pulcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pulcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pulctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pulcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pulcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pulcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pulctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pulcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pulcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pulcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pulcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pulcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pulcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pulcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pulcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pulcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pulcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pulcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pulcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pulcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pulcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pulcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pulcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pulcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pulcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pulcadh" mood="Imper" person="Base" />
+  <moodForm default="pulcaim" mood="Imper" person="Sg1" />
+  <moodForm default="pulc" mood="Imper" person="Sg2" />
+  <moodForm default="pulcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="pulcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="pulcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="pulctar" mood="Imper" person="Auto" />
+  <moodForm default="pulca" mood="Subj" person="Base" />
+  <moodForm default="pulcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="pulctar" mood="Subj" person="Auto" />
+</verb>

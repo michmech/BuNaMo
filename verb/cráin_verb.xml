@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cráin" disambig="">
+  <verbalNoun default="cráineadh" />
+  <verbalAdjective default="cráinte" />
+  <tenseForm default="cráin" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cráineamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cráineadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cráineadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cráin" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cráineamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cráineadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cráineadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cráineadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cráininn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cráinteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cráinimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cráinidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cráintí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cráineadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cráininn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cráinteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cráinimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cráinidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cráintí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cráineann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cráinim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cráinimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cráintear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cráineann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cráinim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cráinimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cráintear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cráinfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cráinfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cráinfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cráinfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cráinfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cráinfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cráinfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cráinfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cráinfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cráinfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cráinfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cráinfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cráinfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cráinfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cráinfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cráinfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cráinfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cráinfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cráineadh" mood="Imper" person="Base" />
+  <moodForm default="cráinim" mood="Imper" person="Sg1" />
+  <moodForm default="cráin" mood="Imper" person="Sg2" />
+  <moodForm default="cráinimis" mood="Imper" person="Pl1" />
+  <moodForm default="cráinigí" mood="Imper" person="Pl2" />
+  <moodForm default="cráinidís" mood="Imper" person="Pl3" />
+  <moodForm default="cráintear" mood="Imper" person="Auto" />
+  <moodForm default="cráine" mood="Subj" person="Base" />
+  <moodForm default="cráinimid" mood="Subj" person="Pl1" />
+  <moodForm default="cráintear" mood="Subj" person="Auto" />
+</verb>

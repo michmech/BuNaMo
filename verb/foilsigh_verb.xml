@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="foilsigh" disambig="">
+  <verbalNoun default="foilsiú" />
+  <verbalAdjective default="foilsithe" />
+  <tenseForm default="foilsigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="foilsíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="foilsíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="foilsíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="foilsigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="foilsíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="foilsíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="foilsíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="foilsíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="foilsínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foilsíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="foilsímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foilsídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="foilsítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foilsíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="foilsínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foilsíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="foilsímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foilsídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="foilsítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foilsíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="foilsím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foilsímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foilsítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foilsíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="foilsím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foilsímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foilsítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foilseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="foilseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="foilseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="foilseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="foilseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="foilseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="foilseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="foilseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="foilseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="foilseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="foilseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="foilseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="foilseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="foilseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="foilseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="foilseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="foilseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="foilseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="foilsíodh" mood="Imper" person="Base" />
+  <moodForm default="foilsím" mood="Imper" person="Sg1" />
+  <moodForm default="foilsigh" mood="Imper" person="Sg2" />
+  <moodForm default="foilsímis" mood="Imper" person="Pl1" />
+  <moodForm default="foilsígí" mood="Imper" person="Pl2" />
+  <moodForm default="foilsídís" mood="Imper" person="Pl3" />
+  <moodForm default="foilsítear" mood="Imper" person="Auto" />
+  <moodForm default="foilsí" mood="Subj" person="Base" />
+  <moodForm default="foilsímid" mood="Subj" person="Pl1" />
+  <moodForm default="foilsítear" mood="Subj" person="Auto" />
+</verb>

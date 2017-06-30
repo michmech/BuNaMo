@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athbheoigh" disambig="">
+  <verbalNoun default="athbheochan" />
+  <verbalAdjective default="athbheoite" />
+  <tenseForm default="athbheoigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athbheomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athbheodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athbheodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athbheoigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athbheomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athbheodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athbheodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athbheodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athbheoinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athbheoiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athbheoimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athbheoidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athbheoití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athbheodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athbheoinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athbheoiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athbheoimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athbheoidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athbheoití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athbheonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athbheoim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athbheoimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athbheoitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athbheonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athbheoim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athbheoimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athbheoitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athbheofaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athbheofaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athbheofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athbheofaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athbheofaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athbheofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athbheofadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athbheofainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athbheofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athbheofaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athbheofaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athbheofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athbheofadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athbheofainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athbheofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athbheofaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athbheofaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athbheofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athbheodh" mood="Imper" person="Base" />
+  <moodForm default="athbheoim" mood="Imper" person="Sg1" />
+  <moodForm default="athbheoigh" mood="Imper" person="Sg2" />
+  <moodForm default="athbheoimis" mood="Imper" person="Pl1" />
+  <moodForm default="athbheoigí" mood="Imper" person="Pl2" />
+  <moodForm default="athbheoidís" mood="Imper" person="Pl3" />
+  <moodForm default="athbheoitear" mood="Imper" person="Auto" />
+  <moodForm default="athbheo" mood="Subj" person="Base" />
+  <moodForm default="athbheoimid" mood="Subj" person="Pl1" />
+  <moodForm default="athbheoitear" mood="Subj" person="Auto" />
+</verb>

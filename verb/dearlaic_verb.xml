@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dearlaic" disambig="">
+  <verbalNoun default="dearlacadh" />
+  <verbalAdjective default="dearlaicthe" />
+  <tenseForm default="dearlaic" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dearlacamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dearlacadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dearlacadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dearlaic" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dearlacamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dearlacadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dearlacadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dearlacadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dearlacainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dearlactá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dearlacaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dearlacaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dearlactaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dearlacadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dearlacainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dearlactá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dearlacaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dearlacaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dearlactaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dearlacann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dearlacaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dearlacaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dearlactar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dearlacann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dearlacaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dearlacaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dearlactar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dearlacfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dearlacfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dearlacfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dearlacfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dearlacfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dearlacfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dearlacfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dearlacfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dearlacfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dearlacfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dearlacfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dearlacfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dearlacfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dearlacfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dearlacfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dearlacfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dearlacfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dearlacfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dearlacadh" mood="Imper" person="Base" />
+  <moodForm default="dearlacaim" mood="Imper" person="Sg1" />
+  <moodForm default="dearlaic" mood="Imper" person="Sg2" />
+  <moodForm default="dearlacaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dearlacaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dearlacaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dearlactar" mood="Imper" person="Auto" />
+  <moodForm default="dearlaca" mood="Subj" person="Base" />
+  <moodForm default="dearlacaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dearlactar" mood="Subj" person="Auto" />
+</verb>

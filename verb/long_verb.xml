@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="long" disambig="">
+  <verbalNoun default="longadh" />
+  <verbalAdjective default="longtha" />
+  <tenseForm default="long" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="longamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="longadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="longadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="long" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="longamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="longadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="longadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="longadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="longainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="longtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="longaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="longaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="longtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="longadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="longainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="longtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="longaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="longaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="longtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="longann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="longaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="longaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="longtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="longann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="longaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="longaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="longtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="longfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="longfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="longfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="longfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="longfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="longfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="longfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="longfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="longfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="longfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="longfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="longfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="longfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="longfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="longfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="longfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="longfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="longfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="longadh" mood="Imper" person="Base" />
+  <moodForm default="longaim" mood="Imper" person="Sg1" />
+  <moodForm default="long" mood="Imper" person="Sg2" />
+  <moodForm default="longaimis" mood="Imper" person="Pl1" />
+  <moodForm default="longaigí" mood="Imper" person="Pl2" />
+  <moodForm default="longaidís" mood="Imper" person="Pl3" />
+  <moodForm default="longtar" mood="Imper" person="Auto" />
+  <moodForm default="longa" mood="Subj" person="Base" />
+  <moodForm default="longaimid" mood="Subj" person="Pl1" />
+  <moodForm default="longtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="díchorn" disambig="">
+  <verbalNoun default="díchornadh" />
+  <verbalAdjective default="díchorntha" />
+  <tenseForm default="díchorn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="díchornamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchornadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="díchornadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="díchorn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="díchornamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchornadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="díchornadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="díchornadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="díchornainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díchorntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="díchornaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchornaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="díchorntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díchornadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="díchornainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díchorntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="díchornaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchornaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="díchorntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díchornann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="díchornaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díchornaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchorntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díchornann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="díchornaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díchornaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchorntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díchornfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="díchornfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchornfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="díchornfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="díchornfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchornfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="díchornfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="díchornfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="díchornfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="díchornfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchornfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="díchornfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="díchornfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="díchornfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="díchornfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="díchornfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchornfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="díchornfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="díchornadh" mood="Imper" person="Base" />
+  <moodForm default="díchornaim" mood="Imper" person="Sg1" />
+  <moodForm default="díchorn" mood="Imper" person="Sg2" />
+  <moodForm default="díchornaimis" mood="Imper" person="Pl1" />
+  <moodForm default="díchornaigí" mood="Imper" person="Pl2" />
+  <moodForm default="díchornaidís" mood="Imper" person="Pl3" />
+  <moodForm default="díchorntar" mood="Imper" person="Auto" />
+  <moodForm default="díchorna" mood="Subj" person="Base" />
+  <moodForm default="díchornaimid" mood="Subj" person="Pl1" />
+  <moodForm default="díchorntar" mood="Subj" person="Auto" />
+</verb>

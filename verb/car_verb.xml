@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="car" disambig="">
+  <verbalNoun default="carthain" />
+  <verbalAdjective default="cartha" />
+  <tenseForm default="car" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="caramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="caradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="car" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="caramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="caradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="caradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="carainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="caraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="carainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="caraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="carann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="caraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="carann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="caraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="carfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="carfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="carfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="carfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="carfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="carfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="carfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="carfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="carfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="carfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="carfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="carfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="carfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="carfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="carfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="carfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="carfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="carfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="caradh" mood="Imper" person="Base" />
+  <moodForm default="caraim" mood="Imper" person="Sg1" />
+  <moodForm default="car" mood="Imper" person="Sg2" />
+  <moodForm default="caraimis" mood="Imper" person="Pl1" />
+  <moodForm default="caraigí" mood="Imper" person="Pl2" />
+  <moodForm default="caraidís" mood="Imper" person="Pl3" />
+  <moodForm default="cartar" mood="Imper" person="Auto" />
+  <moodForm default="cara" mood="Subj" person="Base" />
+  <moodForm default="caraimid" mood="Subj" person="Pl1" />
+  <moodForm default="cartar" mood="Subj" person="Auto" />
+</verb>

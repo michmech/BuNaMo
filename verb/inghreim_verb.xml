@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="inghreim" disambig="">
+  <verbalNoun default="inghreim" />
+  <verbalAdjective default="inghreimthe" />
+  <tenseForm default="inghreim" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="inghreimeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="inghreimeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="inghreimeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="inghreim" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="inghreimeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="inghreimeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="inghreimeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="inghreimeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="inghreiminn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="inghreimteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="inghreimimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="inghreimidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="inghreimtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="inghreimeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="inghreiminn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="inghreimteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="inghreimimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="inghreimidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="inghreimtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="inghreimeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="inghreimim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="inghreimimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="inghreimtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="inghreimeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="inghreimim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="inghreimimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="inghreimtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="inghreimfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="inghreimfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="inghreimfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="inghreimfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="inghreimfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="inghreimfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="inghreimfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="inghreimfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="inghreimfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="inghreimfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="inghreimfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="inghreimfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="inghreimfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="inghreimfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="inghreimfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="inghreimfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="inghreimfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="inghreimfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="inghreimeadh" mood="Imper" person="Base" />
+  <moodForm default="inghreimim" mood="Imper" person="Sg1" />
+  <moodForm default="inghreim" mood="Imper" person="Sg2" />
+  <moodForm default="inghreimimis" mood="Imper" person="Pl1" />
+  <moodForm default="inghreimigí" mood="Imper" person="Pl2" />
+  <moodForm default="inghreimidís" mood="Imper" person="Pl3" />
+  <moodForm default="inghreimtear" mood="Imper" person="Auto" />
+  <moodForm default="inghreime" mood="Subj" person="Base" />
+  <moodForm default="inghreimimid" mood="Subj" person="Pl1" />
+  <moodForm default="inghreimtear" mood="Subj" person="Auto" />
+</verb>

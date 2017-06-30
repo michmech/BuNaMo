@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="masc" disambig="">
+  <verbalNoun default="mascadh" />
+  <verbalAdjective default="masctha" />
+  <tenseForm default="masc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="masc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="masctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="masctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="masctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="masctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="masctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="masctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mascadh" mood="Imper" person="Base" />
+  <moodForm default="mascaim" mood="Imper" person="Sg1" />
+  <moodForm default="masc" mood="Imper" person="Sg2" />
+  <moodForm default="mascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="mascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="mascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="masctar" mood="Imper" person="Auto" />
+  <moodForm default="masca" mood="Subj" person="Base" />
+  <moodForm default="mascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="masctar" mood="Subj" person="Auto" />
+</verb>

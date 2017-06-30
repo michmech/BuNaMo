@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tál" disambig="">
+  <verbalNoun default="tál" />
+  <verbalAdjective default="tálta" />
+  <tenseForm default="tál" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="táladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="táladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tál" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="táladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="táladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="táladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="táltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="táltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="táladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="táltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="táltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="táltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="táltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="táladh" mood="Imper" person="Base" />
+  <moodForm default="tálaim" mood="Imper" person="Sg1" />
+  <moodForm default="tál" mood="Imper" person="Sg2" />
+  <moodForm default="tálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="táltar" mood="Imper" person="Auto" />
+  <moodForm default="tála" mood="Subj" person="Base" />
+  <moodForm default="tálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="táltar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dochraigh" disambig="">
+  <verbalNoun default="dochrú" />
+  <verbalAdjective default="dochraithe" />
+  <tenseForm default="dochraigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dochraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dochraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dochraigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dochraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dochraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dochraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dochraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dochraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dochraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dochraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dochraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dochraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dochraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dochraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dochraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dochraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dochraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dochraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dochraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dochraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dochraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dochróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dochróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dochróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dochróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dochródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dochróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dochrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dochróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dochrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dochródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dochróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dochrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dochróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dochrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dochraíodh" mood="Imper" person="Base" />
+  <moodForm default="dochraím" mood="Imper" person="Sg1" />
+  <moodForm default="dochraigh" mood="Imper" person="Sg2" />
+  <moodForm default="dochraímis" mood="Imper" person="Pl1" />
+  <moodForm default="dochraígí" mood="Imper" person="Pl2" />
+  <moodForm default="dochraídís" mood="Imper" person="Pl3" />
+  <moodForm default="dochraítear" mood="Imper" person="Auto" />
+  <moodForm default="dochraí" mood="Subj" person="Base" />
+  <moodForm default="dochraímid" mood="Subj" person="Pl1" />
+  <moodForm default="dochraítear" mood="Subj" person="Auto" />
+</verb>

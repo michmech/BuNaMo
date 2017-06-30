@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ateilg" disambig="">
+  <verbalNoun default="ateilgean" />
+  <verbalAdjective default="ateilgthe" />
+  <tenseForm default="ateilg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ateilgeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ateilgeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ateilgeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ateilg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ateilgeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ateilgeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ateilgeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ateilgeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ateilginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ateilgteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ateilgimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ateilgidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ateilgtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ateilgeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ateilginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ateilgteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ateilgimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ateilgidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ateilgtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ateilgeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ateilgim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ateilgimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ateilgtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ateilgeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ateilgim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ateilgimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ateilgtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ateilgfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ateilgfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ateilgfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ateilgfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ateilgfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ateilgfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ateilgfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ateilgfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ateilgfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ateilgfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ateilgfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ateilgfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ateilgfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ateilgfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ateilgfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ateilgfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ateilgfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ateilgfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ateilgeadh" mood="Imper" person="Base" />
+  <moodForm default="ateilgim" mood="Imper" person="Sg1" />
+  <moodForm default="ateilg" mood="Imper" person="Sg2" />
+  <moodForm default="ateilgimis" mood="Imper" person="Pl1" />
+  <moodForm default="ateilgigí" mood="Imper" person="Pl2" />
+  <moodForm default="ateilgidís" mood="Imper" person="Pl3" />
+  <moodForm default="ateilgtear" mood="Imper" person="Auto" />
+  <moodForm default="ateilge" mood="Subj" person="Base" />
+  <moodForm default="ateilgimid" mood="Subj" person="Pl1" />
+  <moodForm default="ateilgtear" mood="Subj" person="Auto" />
+</verb>

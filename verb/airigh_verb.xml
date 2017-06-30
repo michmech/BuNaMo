@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="airigh" disambig="">
+  <verbalNoun default="aireachtáil" />
+  <verbalAdjective default="airithe" />
+  <tenseForm default="airigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="airíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="airíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="airíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="airigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="airíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="airíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="airíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="airíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="airínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="airíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="airímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="airídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="airítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="airíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="airínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="airíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="airímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="airídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="airítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="airíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="airím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="airímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="airítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="airíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="airím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="airímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="airítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="aireoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="aireoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="aireofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="aireoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="aireoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="aireofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="aireodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="aireoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="aireofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="aireoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="aireoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="aireofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="aireodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="aireoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="aireofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="aireoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="aireoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="aireofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="airíodh" mood="Imper" person="Base" />
+  <moodForm default="airím" mood="Imper" person="Sg1" />
+  <moodForm default="airigh" mood="Imper" person="Sg2" />
+  <moodForm default="airímis" mood="Imper" person="Pl1" />
+  <moodForm default="airígí" mood="Imper" person="Pl2" />
+  <moodForm default="airídís" mood="Imper" person="Pl3" />
+  <moodForm default="airítear" mood="Imper" person="Auto" />
+  <moodForm default="airí" mood="Subj" person="Base" />
+  <moodForm default="airímid" mood="Subj" person="Pl1" />
+  <moodForm default="airítear" mood="Subj" person="Auto" />
+</verb>

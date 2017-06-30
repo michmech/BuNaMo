@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="seilg" disambig="">
+  <verbalNoun default="seilg" />
+  <verbalAdjective default="seilgthe" />
+  <tenseForm default="seilg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="seilgeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="seilgeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="seilgeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="seilg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="seilgeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="seilgeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="seilgeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="seilgeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="seilginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seilgteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="seilgimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seilgidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="seilgtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seilgeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="seilginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seilgteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="seilgimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seilgidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="seilgtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seilgeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="seilgim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seilgimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seilgtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seilgeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="seilgim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seilgimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seilgtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seilgfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="seilgfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="seilgfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="seilgfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="seilgfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="seilgfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="seilgfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="seilgfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="seilgfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="seilgfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="seilgfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="seilgfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="seilgfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="seilgfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="seilgfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="seilgfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="seilgfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="seilgfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="seilgeadh" mood="Imper" person="Base" />
+  <moodForm default="seilgim" mood="Imper" person="Sg1" />
+  <moodForm default="seilg" mood="Imper" person="Sg2" />
+  <moodForm default="seilgimis" mood="Imper" person="Pl1" />
+  <moodForm default="seilgigí" mood="Imper" person="Pl2" />
+  <moodForm default="seilgidís" mood="Imper" person="Pl3" />
+  <moodForm default="seilgtear" mood="Imper" person="Auto" />
+  <moodForm default="seilge" mood="Subj" person="Base" />
+  <moodForm default="seilgimid" mood="Subj" person="Pl1" />
+  <moodForm default="seilgtear" mood="Subj" person="Auto" />
+</verb>

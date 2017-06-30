@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="greanrois" disambig="">
+  <verbalNoun default="greanroiseadh" />
+  <verbalAdjective default="greanroiste" />
+  <tenseForm default="greanrois" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="greanroiseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="greanroiseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="greanroiseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="greanrois" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="greanroiseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="greanroiseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="greanroiseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="greanroiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="greanroisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="greanroisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="greanroisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="greanroisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="greanroistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="greanroiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="greanroisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="greanroisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="greanroisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="greanroisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="greanroistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="greanroiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="greanroisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="greanroisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="greanroistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="greanroiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="greanroisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="greanroisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="greanroistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="greanroisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="greanroisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="greanroisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="greanroisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="greanroisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="greanroisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="greanroisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="greanroisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="greanroisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="greanroisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="greanroisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="greanroisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="greanroisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="greanroisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="greanroisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="greanroisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="greanroisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="greanroisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="greanroiseadh" mood="Imper" person="Base" />
+  <moodForm default="greanroisim" mood="Imper" person="Sg1" />
+  <moodForm default="greanrois" mood="Imper" person="Sg2" />
+  <moodForm default="greanroisimis" mood="Imper" person="Pl1" />
+  <moodForm default="greanroisigí" mood="Imper" person="Pl2" />
+  <moodForm default="greanroisidís" mood="Imper" person="Pl3" />
+  <moodForm default="greanroistear" mood="Imper" person="Auto" />
+  <moodForm default="greanroise" mood="Subj" person="Base" />
+  <moodForm default="greanroisimid" mood="Subj" person="Pl1" />
+  <moodForm default="greanroistear" mood="Subj" person="Auto" />
+</verb>

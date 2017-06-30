@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="siofón" disambig="">
+  <verbalNoun default="siofónadh" />
+  <verbalAdjective default="siofónta" />
+  <tenseForm default="siofón" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="siofónamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="siofónadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="siofónadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="siofón" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="siofónamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="siofónadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="siofónadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="siofónadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="siofónainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siofóntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="siofónaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siofónaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="siofóntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siofónadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="siofónainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siofóntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="siofónaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siofónaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="siofóntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siofónann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="siofónaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siofónaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siofóntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siofónann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="siofónaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siofónaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siofóntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siofónfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="siofónfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="siofónfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="siofónfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="siofónfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="siofónfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="siofónfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="siofónfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="siofónfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="siofónfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="siofónfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="siofónfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="siofónfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="siofónfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="siofónfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="siofónfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="siofónfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="siofónfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="siofónadh" mood="Imper" person="Base" />
+  <moodForm default="siofónaim" mood="Imper" person="Sg1" />
+  <moodForm default="siofón" mood="Imper" person="Sg2" />
+  <moodForm default="siofónaimis" mood="Imper" person="Pl1" />
+  <moodForm default="siofónaigí" mood="Imper" person="Pl2" />
+  <moodForm default="siofónaidís" mood="Imper" person="Pl3" />
+  <moodForm default="siofóntar" mood="Imper" person="Auto" />
+  <moodForm default="siofóna" mood="Subj" person="Base" />
+  <moodForm default="siofónaimid" mood="Subj" person="Pl1" />
+  <moodForm default="siofóntar" mood="Subj" person="Auto" />
+</verb>

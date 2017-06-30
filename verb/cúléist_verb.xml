@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cúléist" disambig="">
+  <verbalNoun default="cúléisteacht" />
+  <verbalAdjective default="cúléiste" />
+  <tenseForm default="cúléist" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cúléisteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúléisteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúléisteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cúléist" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cúléisteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúléisteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúléisteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cúléisteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúléistinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúléisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúléistimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúléistidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúléistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúléisteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúléistinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúléisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúléistimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúléistidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúléistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúléisteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúléistim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúléistimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúléistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúléisteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúléistim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúléistimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúléistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúléistfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cúléistfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúléistfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cúléistfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cúléistfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúléistfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cúléistfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cúléistfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúléistfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúléistfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúléistfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúléistfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cúléistfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cúléistfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúléistfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúléistfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúléistfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúléistfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cúléisteadh" mood="Imper" person="Base" />
+  <moodForm default="cúléistim" mood="Imper" person="Sg1" />
+  <moodForm default="cúléist" mood="Imper" person="Sg2" />
+  <moodForm default="cúléistimis" mood="Imper" person="Pl1" />
+  <moodForm default="cúléistigí" mood="Imper" person="Pl2" />
+  <moodForm default="cúléistidís" mood="Imper" person="Pl3" />
+  <moodForm default="cúléistear" mood="Imper" person="Auto" />
+  <moodForm default="cúléiste" mood="Subj" person="Base" />
+  <moodForm default="cúléistimid" mood="Subj" person="Pl1" />
+  <moodForm default="cúléistear" mood="Subj" person="Auto" />
+</verb>

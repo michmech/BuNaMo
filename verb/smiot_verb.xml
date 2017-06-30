@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="smiot" disambig="">
+  <verbalNoun default="smiotadh" />
+  <verbalAdjective default="smiota" />
+  <tenseForm default="smiot" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="smiotamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="smiotadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="smiotadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="smiot" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="smiotamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="smiotadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="smiotadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="smiotadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="smiotainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smiotá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="smiotaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smiotaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="smiotaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smiotadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="smiotainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smiotá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="smiotaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smiotaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="smiotaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smiotann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="smiotaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smiotaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smiotar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smiotann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="smiotaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smiotaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smiotar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smiotfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="smiotfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="smiotfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="smiotfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="smiotfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="smiotfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="smiotfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="smiotfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="smiotfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="smiotfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="smiotfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="smiotfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="smiotfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="smiotfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="smiotfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="smiotfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="smiotfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="smiotfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="smiotadh" mood="Imper" person="Base" />
+  <moodForm default="smiotaim" mood="Imper" person="Sg1" />
+  <moodForm default="smiot" mood="Imper" person="Sg2" />
+  <moodForm default="smiotaimis" mood="Imper" person="Pl1" />
+  <moodForm default="smiotaigí" mood="Imper" person="Pl2" />
+  <moodForm default="smiotaidís" mood="Imper" person="Pl3" />
+  <moodForm default="smiotar" mood="Imper" person="Auto" />
+  <moodForm default="smiota" mood="Subj" person="Base" />
+  <moodForm default="smiotaimid" mood="Subj" person="Pl1" />
+  <moodForm default="smiotar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="súigh" disambig="">
+  <verbalNoun default="sú" />
+  <verbalAdjective default="súite" />
+  <tenseForm default="súigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="súmar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="súdar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="súdh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="súigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="súmar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="súdar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="súdh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="súdh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="súinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="súiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="súimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="súidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="súití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="súdh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="súinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="súiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="súimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="súidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="súití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="súnn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="súim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="súimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="súitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="súnn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="súim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="súimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="súitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="súfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="súfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="súfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="súfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="súfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="súfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="súfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="súfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="súfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="súfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="súfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="súfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="súfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="súfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="súfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="súfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="súfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="súfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="súdh" mood="Imper" person="Base" />
+  <moodForm default="súim" mood="Imper" person="Sg1" />
+  <moodForm default="súigh" mood="Imper" person="Sg2" />
+  <moodForm default="súimis" mood="Imper" person="Pl1" />
+  <moodForm default="súigí" mood="Imper" person="Pl2" />
+  <moodForm default="súidís" mood="Imper" person="Pl3" />
+  <moodForm default="súitear" mood="Imper" person="Auto" />
+  <moodForm default="sú" mood="Subj" person="Base" />
+  <moodForm default="súimid" mood="Subj" person="Pl1" />
+  <moodForm default="súitear" mood="Subj" person="Auto" />
+</verb>

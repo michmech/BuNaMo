@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scrúd" disambig="">
+  <verbalNoun default="scrúdadh" />
+  <verbalAdjective default="scrúdta" />
+  <tenseForm default="scrúd" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scrúdamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrúdadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scrúdadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scrúd" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scrúdamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrúdadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scrúdadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scrúdadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scrúdainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scrúdtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scrúdaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrúdaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scrúdtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scrúdadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scrúdainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scrúdtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scrúdaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrúdaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scrúdtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scrúdann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scrúdaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scrúdaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrúdtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scrúdann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scrúdaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scrúdaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrúdtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scrúdfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scrúdfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrúdfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scrúdfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scrúdfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrúdfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scrúdfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scrúdfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scrúdfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scrúdfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrúdfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scrúdfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scrúdfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scrúdfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scrúdfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scrúdfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrúdfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scrúdfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scrúdadh" mood="Imper" person="Base" />
+  <moodForm default="scrúdaim" mood="Imper" person="Sg1" />
+  <moodForm default="scrúd" mood="Imper" person="Sg2" />
+  <moodForm default="scrúdaimis" mood="Imper" person="Pl1" />
+  <moodForm default="scrúdaigí" mood="Imper" person="Pl2" />
+  <moodForm default="scrúdaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scrúdtar" mood="Imper" person="Auto" />
+  <moodForm default="scrúda" mood="Subj" person="Base" />
+  <moodForm default="scrúdaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scrúdtar" mood="Subj" person="Auto" />
+</verb>

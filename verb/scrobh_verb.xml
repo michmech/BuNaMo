@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scrobh" disambig="">
+  <verbalNoun default="scrobhadh" />
+  <verbalAdjective default="scrofa" />
+  <tenseForm default="scrobh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scrobhamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrobhadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scrobhadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scrobh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scrobhamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrobhadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scrobhadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scrobhadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scrobhainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scrobhtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scrobhaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrobhaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scrobhtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scrobhadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scrobhainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scrobhtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scrobhaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrobhaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scrobhtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scrobhann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scrobhaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scrobhaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrobhtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scrobhann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scrobhaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scrobhaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrobhtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scrobhfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scrobhfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrobhfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scrobhfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scrobhfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrobhfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scrobhfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scrobhfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scrobhfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scrobhfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scrobhfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scrobhfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scrobhfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scrobhfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scrobhfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scrobhfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scrobhfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scrobhfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scrobhadh" mood="Imper" person="Base" />
+  <moodForm default="scrobhaim" mood="Imper" person="Sg1" />
+  <moodForm default="scrobh" mood="Imper" person="Sg2" />
+  <moodForm default="scrobhaimis" mood="Imper" person="Pl1" />
+  <moodForm default="scrobhaigí" mood="Imper" person="Pl2" />
+  <moodForm default="scrobhaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scrobhtar" mood="Imper" person="Auto" />
+  <moodForm default="scrobha" mood="Subj" person="Base" />
+  <moodForm default="scrobhaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scrobhtar" mood="Subj" person="Auto" />
+</verb>

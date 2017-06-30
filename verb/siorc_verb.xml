@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="siorc" disambig="">
+  <verbalNoun default="siorcadh" />
+  <verbalAdjective default="siorctha" />
+  <tenseForm default="siorc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="siorcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="siorcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="siorcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="siorc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="siorcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="siorcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="siorcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="siorcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="siorcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siorctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="siorcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siorcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="siorctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siorcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="siorcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siorctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="siorcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siorcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="siorctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siorcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="siorcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siorcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siorctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siorcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="siorcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siorcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siorctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siorcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="siorcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="siorcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="siorcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="siorcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="siorcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="siorcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="siorcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="siorcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="siorcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="siorcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="siorcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="siorcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="siorcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="siorcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="siorcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="siorcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="siorcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="siorcadh" mood="Imper" person="Base" />
+  <moodForm default="siorcaim" mood="Imper" person="Sg1" />
+  <moodForm default="siorc" mood="Imper" person="Sg2" />
+  <moodForm default="siorcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="siorcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="siorcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="siorctar" mood="Imper" person="Auto" />
+  <moodForm default="siorca" mood="Subj" person="Base" />
+  <moodForm default="siorcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="siorctar" mood="Subj" person="Auto" />
+</verb>

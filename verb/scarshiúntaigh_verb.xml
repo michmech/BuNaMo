@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scarshiúntaigh" disambig="">
+  <verbalNoun default="scarshiúntú" />
+  <verbalAdjective default="scarshiúntaithe" />
+  <tenseForm default="scarshiúntaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scarshiúntaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scarshiúntaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scarshiúntaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scarshiúntaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scarshiúntaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scarshiúntaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scarshiúntaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scarshiúntaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scarshiúntaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scarshiúntaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scarshiúntaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scarshiúntaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scarshiúntaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scarshiúntaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scarshiúntaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scarshiúntaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scarshiúntaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scarshiúntaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scarshiúntaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scarshiúntaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scarshiúntaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scarshiúntaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scarshiúntaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scarshiúntaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scarshiúntaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scarshiúntaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scarshiúntaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scarshiúntóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scarshiúntóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scarshiúntófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scarshiúntóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scarshiúntóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scarshiúntófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scarshiúntódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scarshiúntóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scarshiúntófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scarshiúntóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scarshiúntóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scarshiúntófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scarshiúntódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scarshiúntóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scarshiúntófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scarshiúntóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scarshiúntóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scarshiúntófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scarshiúntaíodh" mood="Imper" person="Base" />
+  <moodForm default="scarshiúntaím" mood="Imper" person="Sg1" />
+  <moodForm default="scarshiúntaigh" mood="Imper" person="Sg2" />
+  <moodForm default="scarshiúntaímis" mood="Imper" person="Pl1" />
+  <moodForm default="scarshiúntaígí" mood="Imper" person="Pl2" />
+  <moodForm default="scarshiúntaídís" mood="Imper" person="Pl3" />
+  <moodForm default="scarshiúntaítear" mood="Imper" person="Auto" />
+  <moodForm default="scarshiúntaí" mood="Subj" person="Base" />
+  <moodForm default="scarshiúntaímid" mood="Subj" person="Pl1" />
+  <moodForm default="scarshiúntaítear" mood="Subj" person="Auto" />
+</verb>

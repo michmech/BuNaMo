@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sciurd" disambig="">
+  <verbalNoun default="sciurdadh" />
+  <verbalAdjective default="sciurdta" />
+  <tenseForm default="sciurd" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sciurdamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciurdadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciurdadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sciurd" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sciurdamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciurdadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciurdadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sciurdadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciurdainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciurdtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciurdaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciurdaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciurdtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciurdadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciurdainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciurdtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciurdaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciurdaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciurdtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciurdann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sciurdaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciurdaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciurdtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sciurdann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sciurdaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciurdaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciurdtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sciurdfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sciurdfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciurdfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sciurdfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sciurdfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciurdfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sciurdfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sciurdfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sciurdfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sciurdfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sciurdfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sciurdfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sciurdfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sciurdfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sciurdfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sciurdfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sciurdfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sciurdfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sciurdadh" mood="Imper" person="Base" />
+  <moodForm default="sciurdaim" mood="Imper" person="Sg1" />
+  <moodForm default="sciurd" mood="Imper" person="Sg2" />
+  <moodForm default="sciurdaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sciurdaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sciurdaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sciurdtar" mood="Imper" person="Auto" />
+  <moodForm default="sciurda" mood="Subj" person="Base" />
+  <moodForm default="sciurdaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sciurdtar" mood="Subj" person="Auto" />
+</verb>

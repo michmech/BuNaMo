@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="failp" disambig="">
+  <verbalNoun default="failpeadh" />
+  <verbalAdjective default="failpthe" />
+  <tenseForm default="failp" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="failpeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="failpeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="failpeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="failp" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="failpeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="failpeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="failpeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="failpeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="failpinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="failpteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="failpimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="failpidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="failptí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="failpeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="failpinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="failpteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="failpimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="failpidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="failptí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="failpeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="failpim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="failpimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="failptear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="failpeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="failpim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="failpimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="failptear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="failpfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="failpfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="failpfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="failpfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="failpfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="failpfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="failpfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="failpfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="failpfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="failpfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="failpfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="failpfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="failpfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="failpfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="failpfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="failpfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="failpfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="failpfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="failpeadh" mood="Imper" person="Base" />
+  <moodForm default="failpim" mood="Imper" person="Sg1" />
+  <moodForm default="failp" mood="Imper" person="Sg2" />
+  <moodForm default="failpimis" mood="Imper" person="Pl1" />
+  <moodForm default="failpigí" mood="Imper" person="Pl2" />
+  <moodForm default="failpidís" mood="Imper" person="Pl3" />
+  <moodForm default="failptear" mood="Imper" person="Auto" />
+  <moodForm default="failpe" mood="Subj" person="Base" />
+  <moodForm default="failpimid" mood="Subj" person="Pl1" />
+  <moodForm default="failptear" mood="Subj" person="Auto" />
+</verb>

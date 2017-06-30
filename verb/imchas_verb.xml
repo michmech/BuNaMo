@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="imchas" disambig="">
+  <verbalNoun default="imchasadh" />
+  <verbalAdjective default="imchasta" />
+  <tenseForm default="imchas" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="imchasamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="imchasadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="imchasadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="imchas" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="imchasamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="imchasadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="imchasadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="imchasadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="imchasainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imchastá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="imchasaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imchasaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="imchastaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imchasadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="imchasainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imchastá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="imchasaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imchasaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="imchastaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imchasann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="imchasaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imchasaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imchastar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imchasann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="imchasaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imchasaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imchastar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imchasfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="imchasfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="imchasfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="imchasfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="imchasfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="imchasfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="imchasfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="imchasfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="imchasfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="imchasfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="imchasfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="imchasfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="imchasfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="imchasfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="imchasfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="imchasfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="imchasfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="imchasfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="imchasadh" mood="Imper" person="Base" />
+  <moodForm default="imchasaim" mood="Imper" person="Sg1" />
+  <moodForm default="imchas" mood="Imper" person="Sg2" />
+  <moodForm default="imchasaimis" mood="Imper" person="Pl1" />
+  <moodForm default="imchasaigí" mood="Imper" person="Pl2" />
+  <moodForm default="imchasaidís" mood="Imper" person="Pl3" />
+  <moodForm default="imchastar" mood="Imper" person="Auto" />
+  <moodForm default="imchasa" mood="Subj" person="Base" />
+  <moodForm default="imchasaimid" mood="Subj" person="Pl1" />
+  <moodForm default="imchastar" mood="Subj" person="Auto" />
+</verb>

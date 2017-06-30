@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="deighil" disambig="">
+  <verbalNoun default="deighilt" />
+  <verbalAdjective default="deighilte" />
+  <tenseForm default="deighil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="deighleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="deighleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="deighleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="deighil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="deighleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="deighleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="deighleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="deighleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="deighlinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deighlteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="deighlimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deighlidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="deighltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deighleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="deighlinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deighlteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="deighlimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deighlidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="deighltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deighleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="deighlim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deighlimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deighltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deighleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="deighlim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deighlimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deighltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deighlfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="deighlfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="deighlfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="deighlfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="deighlfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="deighlfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="deighlfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="deighlfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="deighlfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="deighlfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="deighlfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="deighlfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="deighlfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="deighlfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="deighlfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="deighlfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="deighlfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="deighlfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="deighleadh" mood="Imper" person="Base" />
+  <moodForm default="deighlim" mood="Imper" person="Sg1" />
+  <moodForm default="deighil" mood="Imper" person="Sg2" />
+  <moodForm default="deighlimis" mood="Imper" person="Pl1" />
+  <moodForm default="deighligí" mood="Imper" person="Pl2" />
+  <moodForm default="deighlidís" mood="Imper" person="Pl3" />
+  <moodForm default="deighltear" mood="Imper" person="Auto" />
+  <moodForm default="deighle" mood="Subj" person="Base" />
+  <moodForm default="deighlimid" mood="Subj" person="Pl1" />
+  <moodForm default="deighltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bannaigh" disambig="">
+  <verbalNoun default="bannú" />
+  <verbalAdjective default="bannaithe" />
+  <tenseForm default="bannaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bannaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bannaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bannaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bannaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bannaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bannaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bannaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bannaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bannaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bannaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bannaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bannaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bannaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bannaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bannaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bannaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bannaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bannaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bannaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bannaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bannaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bannaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bannaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bannaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bannaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bannaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bannaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bannóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bannóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bannófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bannóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bannóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bannófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bannódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bannóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bannófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bannóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bannóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bannófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bannódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bannóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bannófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bannóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bannóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bannófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bannaíodh" mood="Imper" person="Base" />
+  <moodForm default="bannaím" mood="Imper" person="Sg1" />
+  <moodForm default="bannaigh" mood="Imper" person="Sg2" />
+  <moodForm default="bannaímis" mood="Imper" person="Pl1" />
+  <moodForm default="bannaígí" mood="Imper" person="Pl2" />
+  <moodForm default="bannaídís" mood="Imper" person="Pl3" />
+  <moodForm default="bannaítear" mood="Imper" person="Auto" />
+  <moodForm default="bannaí" mood="Subj" person="Base" />
+  <moodForm default="bannaímid" mood="Subj" person="Pl1" />
+  <moodForm default="bannaítear" mood="Subj" person="Auto" />
+</verb>

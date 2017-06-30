@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="steanc" disambig="">
+  <verbalNoun default="steancadh" />
+  <verbalAdjective default="steanctha" />
+  <tenseForm default="steanc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="steancamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="steancadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="steancadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="steanc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="steancamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="steancadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="steancadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="steancadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="steancainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="steanctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="steancaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="steancaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="steanctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="steancadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="steancainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="steanctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="steancaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="steancaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="steanctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="steancann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="steancaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="steancaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="steanctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="steancann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="steancaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="steancaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="steanctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="steancfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="steancfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="steancfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="steancfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="steancfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="steancfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="steancfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="steancfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="steancfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="steancfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="steancfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="steancfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="steancfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="steancfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="steancfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="steancfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="steancfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="steancfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="steancadh" mood="Imper" person="Base" />
+  <moodForm default="steancaim" mood="Imper" person="Sg1" />
+  <moodForm default="steanc" mood="Imper" person="Sg2" />
+  <moodForm default="steancaimis" mood="Imper" person="Pl1" />
+  <moodForm default="steancaigí" mood="Imper" person="Pl2" />
+  <moodForm default="steancaidís" mood="Imper" person="Pl3" />
+  <moodForm default="steanctar" mood="Imper" person="Auto" />
+  <moodForm default="steanca" mood="Subj" person="Base" />
+  <moodForm default="steancaimid" mood="Subj" person="Pl1" />
+  <moodForm default="steanctar" mood="Subj" person="Auto" />
+</verb>

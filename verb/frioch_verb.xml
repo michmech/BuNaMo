@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="frioch" disambig="">
+  <verbalNoun default="friochadh" />
+  <verbalAdjective default="friochta" />
+  <tenseForm default="frioch" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="friochamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="friochadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="friochadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="frioch" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="friochamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="friochadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="friochadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="friochadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="friochainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="friochtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="friochaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="friochaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="friochtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="friochadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="friochainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="friochtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="friochaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="friochaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="friochtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="friochann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="friochaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="friochaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="friochtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="friochann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="friochaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="friochaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="friochtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="friochfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="friochfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="friochfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="friochfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="friochfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="friochfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="friochfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="friochfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="friochfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="friochfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="friochfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="friochfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="friochfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="friochfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="friochfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="friochfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="friochfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="friochfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="friochadh" mood="Imper" person="Base" />
+  <moodForm default="friochaim" mood="Imper" person="Sg1" />
+  <moodForm default="frioch" mood="Imper" person="Sg2" />
+  <moodForm default="friochaimis" mood="Imper" person="Pl1" />
+  <moodForm default="friochaigí" mood="Imper" person="Pl2" />
+  <moodForm default="friochaidís" mood="Imper" person="Pl3" />
+  <moodForm default="friochtar" mood="Imper" person="Auto" />
+  <moodForm default="friocha" mood="Subj" person="Base" />
+  <moodForm default="friochaimid" mood="Subj" person="Pl1" />
+  <moodForm default="friochtar" mood="Subj" person="Auto" />
+</verb>

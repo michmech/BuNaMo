@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="comhbheartaigh" disambig="">
+  <verbalNoun default="comhbheartú" />
+  <verbalAdjective default="comhbheartaithe" />
+  <tenseForm default="comhbheartaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="comhbheartaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhbheartaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhbheartaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="comhbheartaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="comhbheartaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhbheartaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhbheartaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="comhbheartaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhbheartaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhbheartaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhbheartaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhbheartaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhbheartaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhbheartaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhbheartaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhbheartaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhbheartaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhbheartaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhbheartaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhbheartaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhbheartaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhbheartaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhbheartaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhbheartaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhbheartaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhbheartaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhbheartaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhbheartóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="comhbheartóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhbheartófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="comhbheartóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="comhbheartóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhbheartófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="comhbheartódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="comhbheartóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhbheartófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhbheartóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhbheartóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhbheartófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="comhbheartódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="comhbheartóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhbheartófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhbheartóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhbheartóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhbheartófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="comhbheartaíodh" mood="Imper" person="Base" />
+  <moodForm default="comhbheartaím" mood="Imper" person="Sg1" />
+  <moodForm default="comhbheartaigh" mood="Imper" person="Sg2" />
+  <moodForm default="comhbheartaímis" mood="Imper" person="Pl1" />
+  <moodForm default="comhbheartaígí" mood="Imper" person="Pl2" />
+  <moodForm default="comhbheartaídís" mood="Imper" person="Pl3" />
+  <moodForm default="comhbheartaítear" mood="Imper" person="Auto" />
+  <moodForm default="comhbheartaí" mood="Subj" person="Base" />
+  <moodForm default="comhbheartaímid" mood="Subj" person="Pl1" />
+  <moodForm default="comhbheartaítear" mood="Subj" person="Auto" />
+</verb>

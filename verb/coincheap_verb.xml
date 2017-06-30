@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coincheap" disambig="">
+  <verbalNoun default="coincheapadh" />
+  <verbalAdjective default="coincheaptha" />
+  <tenseForm default="coincheap" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coincheapamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coincheapadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coincheapadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="coincheap" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coincheapamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coincheapadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coincheapadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="coincheapadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="coincheapainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coincheaptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coincheapaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coincheapaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coincheaptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coincheapadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="coincheapainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coincheaptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coincheapaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coincheapaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coincheaptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coincheapann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coincheapaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coincheapaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coincheaptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coincheapann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coincheapaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coincheapaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coincheaptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coincheapfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="coincheapfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="coincheapfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="coincheapfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="coincheapfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="coincheapfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="coincheapfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="coincheapfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="coincheapfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="coincheapfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="coincheapfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="coincheapfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="coincheapfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="coincheapfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="coincheapfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="coincheapfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="coincheapfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="coincheapfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coincheapadh" mood="Imper" person="Base" />
+  <moodForm default="coincheapaim" mood="Imper" person="Sg1" />
+  <moodForm default="coincheap" mood="Imper" person="Sg2" />
+  <moodForm default="coincheapaimis" mood="Imper" person="Pl1" />
+  <moodForm default="coincheapaigí" mood="Imper" person="Pl2" />
+  <moodForm default="coincheapaidís" mood="Imper" person="Pl3" />
+  <moodForm default="coincheaptar" mood="Imper" person="Auto" />
+  <moodForm default="coincheapa" mood="Subj" person="Base" />
+  <moodForm default="coincheapaimid" mood="Subj" person="Pl1" />
+  <moodForm default="coincheaptar" mood="Subj" person="Auto" />
+</verb>

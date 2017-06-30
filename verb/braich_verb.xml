@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="braich" disambig="">
+  <verbalNoun default="brachadh" />
+  <verbalAdjective default="brachta" />
+  <tenseForm default="braich" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="brachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="brachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="brachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="braich" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="brachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="brachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="brachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="brachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="brachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="brachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="brachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="brachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="brachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="brachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="brachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="brachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="brachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="brachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="brachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="brachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="brachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="brachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="brachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="brachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="brachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="brachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="brachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="brachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="brachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="brachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="brachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="brachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="brachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="brachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="brachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="brachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="brachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="brachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="brachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="brachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="brachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="brachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="brachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="brachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="brachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="brachadh" mood="Imper" person="Base" />
+  <moodForm default="brachaim" mood="Imper" person="Sg1" />
+  <moodForm default="braich" mood="Imper" person="Sg2" />
+  <moodForm default="brachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="brachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="brachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="brachtar" mood="Imper" person="Auto" />
+  <moodForm default="bracha" mood="Subj" person="Base" />
+  <moodForm default="brachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="brachtar" mood="Subj" person="Auto" />
+</verb>

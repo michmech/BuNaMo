@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scáin" disambig="">
+  <verbalNoun default="scáineadh" />
+  <verbalAdjective default="scáinte" />
+  <tenseForm default="scáin" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scáineamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáineadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scáineadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scáin" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scáineamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáineadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scáineadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scáineadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scáininn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scáinteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scáinimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáinidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scáintí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scáineadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scáininn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scáinteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scáinimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáinidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scáintí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scáineann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scáinim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scáinimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáintear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scáineann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scáinim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scáinimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáintear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scáinfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scáinfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáinfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scáinfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scáinfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáinfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scáinfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scáinfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scáinfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scáinfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáinfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scáinfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scáinfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scáinfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scáinfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scáinfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáinfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scáinfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scáineadh" mood="Imper" person="Base" />
+  <moodForm default="scáinim" mood="Imper" person="Sg1" />
+  <moodForm default="scáin" mood="Imper" person="Sg2" />
+  <moodForm default="scáinimis" mood="Imper" person="Pl1" />
+  <moodForm default="scáinigí" mood="Imper" person="Pl2" />
+  <moodForm default="scáinidís" mood="Imper" person="Pl3" />
+  <moodForm default="scáintear" mood="Imper" person="Auto" />
+  <moodForm default="scáine" mood="Subj" person="Base" />
+  <moodForm default="scáinimid" mood="Subj" person="Pl1" />
+  <moodForm default="scáintear" mood="Subj" person="Auto" />
+</verb>

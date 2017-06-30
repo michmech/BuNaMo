@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="saorghlan" disambig="">
+  <verbalNoun default="saorghlanadh" />
+  <verbalAdjective default="saorghlanta" />
+  <tenseForm default="saorghlan" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="saorghlanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorghlanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="saorghlanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="saorghlan" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="saorghlanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorghlanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="saorghlanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="saorghlanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="saorghlanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saorghlantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="saorghlanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorghlanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="saorghlantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="saorghlanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="saorghlanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saorghlantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="saorghlanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorghlanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="saorghlantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="saorghlanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="saorghlanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saorghlanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorghlantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="saorghlanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="saorghlanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saorghlanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorghlantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="saorghlanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="saorghlanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorghlanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="saorghlanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="saorghlanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorghlanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="saorghlanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="saorghlanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="saorghlanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="saorghlanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorghlanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="saorghlanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="saorghlanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="saorghlanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="saorghlanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="saorghlanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorghlanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="saorghlanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="saorghlanadh" mood="Imper" person="Base" />
+  <moodForm default="saorghlanaim" mood="Imper" person="Sg1" />
+  <moodForm default="saorghlan" mood="Imper" person="Sg2" />
+  <moodForm default="saorghlanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="saorghlanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="saorghlanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="saorghlantar" mood="Imper" person="Auto" />
+  <moodForm default="saorghlana" mood="Subj" person="Base" />
+  <moodForm default="saorghlanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="saorghlantar" mood="Subj" person="Auto" />
+</verb>

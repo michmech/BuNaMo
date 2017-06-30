@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="painéal" disambig="">
+  <verbalNoun default="painéaladh" />
+  <verbalAdjective default="painéalta" />
+  <tenseForm default="painéal" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="painéalamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="painéaladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="painéaladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="painéal" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="painéalamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="painéaladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="painéaladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="painéaladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="painéalainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="painéaltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="painéalaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="painéalaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="painéaltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="painéaladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="painéalainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="painéaltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="painéalaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="painéalaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="painéaltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="painéalann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="painéalaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="painéalaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="painéaltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="painéalann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="painéalaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="painéalaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="painéaltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="painéalfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="painéalfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="painéalfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="painéalfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="painéalfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="painéalfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="painéalfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="painéalfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="painéalfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="painéalfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="painéalfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="painéalfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="painéalfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="painéalfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="painéalfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="painéalfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="painéalfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="painéalfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="painéaladh" mood="Imper" person="Base" />
+  <moodForm default="painéalaim" mood="Imper" person="Sg1" />
+  <moodForm default="painéal" mood="Imper" person="Sg2" />
+  <moodForm default="painéalaimis" mood="Imper" person="Pl1" />
+  <moodForm default="painéalaigí" mood="Imper" person="Pl2" />
+  <moodForm default="painéalaidís" mood="Imper" person="Pl3" />
+  <moodForm default="painéaltar" mood="Imper" person="Auto" />
+  <moodForm default="painéala" mood="Subj" person="Base" />
+  <moodForm default="painéalaimid" mood="Subj" person="Pl1" />
+  <moodForm default="painéaltar" mood="Subj" person="Auto" />
+</verb>

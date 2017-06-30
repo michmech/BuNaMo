@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="faoisc" disambig="">
+  <verbalNoun default="faoisceadh" />
+  <verbalAdjective default="faoiscthe" />
+  <tenseForm default="faoisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="faoisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="faoisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="faoisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="faoisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="faoisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="faoisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="faoisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="faoisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="faoiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faoiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="faoiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faoiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="faoisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faoisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="faoiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faoiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="faoiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faoiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="faoisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="faoisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="faoiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faoiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faoisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faoisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="faoiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faoiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faoisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="faoiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="faoiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="faoiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="faoiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="faoiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="faoiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="faoiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="faoiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="faoiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="faoiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="faoiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="faoiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="faoiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="faoiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="faoiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="faoiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="faoiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="faoiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="faoisceadh" mood="Imper" person="Base" />
+  <moodForm default="faoiscim" mood="Imper" person="Sg1" />
+  <moodForm default="faoisc" mood="Imper" person="Sg2" />
+  <moodForm default="faoiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="faoiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="faoiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="faoisctear" mood="Imper" person="Auto" />
+  <moodForm default="faoisce" mood="Subj" person="Base" />
+  <moodForm default="faoiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="faoisctear" mood="Subj" person="Auto" />
+</verb>

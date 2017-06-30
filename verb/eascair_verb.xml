@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="eascair" disambig="">
+  <verbalNoun default="eascairt" />
+  <verbalAdjective default="eascartha" />
+  <tenseForm default="eascair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="eascraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="eascraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="eascraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="eascair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="eascraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="eascraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="eascraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="eascraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="eascraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="eascraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="eascraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="eascraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="eascraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="eascraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="eascraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="eascraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="eascraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="eascraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="eascraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="eascraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="eascraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="eascraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="eascraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="eascraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="eascraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="eascraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="eascraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="eascróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="eascróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="eascrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="eascróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="eascróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="eascrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="eascródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="eascróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="eascrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="eascróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="eascróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="eascrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="eascródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="eascróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="eascrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="eascróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="eascróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="eascrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="eascraíodh" mood="Imper" person="Base" />
+  <moodForm default="eascraím" mood="Imper" person="Sg1" />
+  <moodForm default="eascair" mood="Imper" person="Sg2" />
+  <moodForm default="eascraímis" mood="Imper" person="Pl1" />
+  <moodForm default="eascraígí" mood="Imper" person="Pl2" />
+  <moodForm default="eascraídís" mood="Imper" person="Pl3" />
+  <moodForm default="eascraítear" mood="Imper" person="Auto" />
+  <moodForm default="eascraí" mood="Subj" person="Base" />
+  <moodForm default="eascraímid" mood="Subj" person="Pl1" />
+  <moodForm default="eascraítear" mood="Subj" person="Auto" />
+</verb>

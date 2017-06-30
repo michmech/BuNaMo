@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="luacháil" disambig="">
+  <verbalNoun default="luacháil" />
+  <verbalAdjective default="luacháilte" />
+  <tenseForm default="luacháil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="luachálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="luacháladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="luacháladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="luacháil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="luachálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="luacháladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="luacháladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="luacháladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="luachálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="luacháilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="luachálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="luachálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="luacháiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="luacháladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="luachálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="luacháilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="luachálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="luachálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="luacháiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="luachálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="luachálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="luachálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="luacháiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="luachálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="luachálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="luachálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="luacháiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="luachálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="luachálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="luachálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="luachálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="luachálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="luachálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="luachálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="luachálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="luachálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="luachálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="luachálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="luachálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="luachálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="luachálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="luachálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="luachálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="luachálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="luachálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="luacháladh" mood="Imper" person="Base" />
+  <moodForm default="luachálaim" mood="Imper" person="Sg1" />
+  <moodForm default="luacháil" mood="Imper" person="Sg2" />
+  <moodForm default="luachálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="luachálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="luachálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="luacháiltear" mood="Imper" person="Auto" />
+  <moodForm default="luachála" mood="Subj" person="Base" />
+  <moodForm default="luachálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="luacháiltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scéalaigh" disambig="">
+  <verbalNoun default="scéalú" />
+  <verbalAdjective default="scéalaithe" />
+  <tenseForm default="scéalaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scéalaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scéalaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scéalaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scéalaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scéalaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scéalaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scéalaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scéalaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scéalaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scéalaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scéalaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scéalaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scéalaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scéalaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scéalaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scéalaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scéalaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scéalaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scéalaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scéalaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scéalaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scéalaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scéalaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scéalaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scéalaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scéalaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scéalaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scéalóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scéalóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scéalófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scéalóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scéalóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scéalófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scéalódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scéalóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scéalófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scéalóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scéalóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scéalófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scéalódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scéalóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scéalófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scéalóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scéalóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scéalófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scéalaíodh" mood="Imper" person="Base" />
+  <moodForm default="scéalaím" mood="Imper" person="Sg1" />
+  <moodForm default="scéalaigh" mood="Imper" person="Sg2" />
+  <moodForm default="scéalaímis" mood="Imper" person="Pl1" />
+  <moodForm default="scéalaígí" mood="Imper" person="Pl2" />
+  <moodForm default="scéalaídís" mood="Imper" person="Pl3" />
+  <moodForm default="scéalaítear" mood="Imper" person="Auto" />
+  <moodForm default="scéalaí" mood="Subj" person="Base" />
+  <moodForm default="scéalaímid" mood="Subj" person="Pl1" />
+  <moodForm default="scéalaítear" mood="Subj" person="Auto" />
+</verb>

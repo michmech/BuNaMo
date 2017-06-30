@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gob" disambig="">
+  <verbalNoun default="gobadh" />
+  <verbalAdjective default="gobtha" />
+  <tenseForm default="gob" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gobamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gobadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gob" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gobamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gobadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gobadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gobainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gobtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gobaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gobaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gobtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gobadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gobainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gobtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gobaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gobaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gobtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gobann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gobaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gobaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gobtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gobann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gobaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gobaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gobtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gobfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gobfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gobfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gobfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gobfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gobfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gobfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gobfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gobfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gobfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gobfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gobfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gobfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gobfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gobfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gobfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gobfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gobfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gobadh" mood="Imper" person="Base" />
+  <moodForm default="gobaim" mood="Imper" person="Sg1" />
+  <moodForm default="gob" mood="Imper" person="Sg2" />
+  <moodForm default="gobaimis" mood="Imper" person="Pl1" />
+  <moodForm default="gobaigí" mood="Imper" person="Pl2" />
+  <moodForm default="gobaidís" mood="Imper" person="Pl3" />
+  <moodForm default="gobtar" mood="Imper" person="Auto" />
+  <moodForm default="goba" mood="Subj" person="Base" />
+  <moodForm default="gobaimid" mood="Subj" person="Pl1" />
+  <moodForm default="gobtar" mood="Subj" person="Auto" />
+</verb>

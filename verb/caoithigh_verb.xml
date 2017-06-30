@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="caoithigh" disambig="">
+  <verbalNoun default="caoithiú" />
+  <verbalAdjective default="caoithithe" />
+  <tenseForm default="caoithigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="caoithíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="caoithíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="caoithíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="caoithigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="caoithíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="caoithíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="caoithíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="caoithíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="caoithínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caoithíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="caoithímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caoithídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="caoithítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caoithíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="caoithínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caoithíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="caoithímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caoithídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="caoithítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caoithíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="caoithím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caoithímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caoithítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caoithíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="caoithím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caoithímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caoithítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caoitheoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="caoitheoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="caoitheofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="caoitheoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="caoitheoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="caoitheofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="caoitheodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="caoitheoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="caoitheofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="caoitheoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="caoitheoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="caoitheofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="caoitheodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="caoitheoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="caoitheofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="caoitheoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="caoitheoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="caoitheofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="caoithíodh" mood="Imper" person="Base" />
+  <moodForm default="caoithím" mood="Imper" person="Sg1" />
+  <moodForm default="caoithigh" mood="Imper" person="Sg2" />
+  <moodForm default="caoithímis" mood="Imper" person="Pl1" />
+  <moodForm default="caoithígí" mood="Imper" person="Pl2" />
+  <moodForm default="caoithídís" mood="Imper" person="Pl3" />
+  <moodForm default="caoithítear" mood="Imper" person="Auto" />
+  <moodForm default="caoithí" mood="Subj" person="Base" />
+  <moodForm default="caoithímid" mood="Subj" person="Pl1" />
+  <moodForm default="caoithítear" mood="Subj" person="Auto" />
+</verb>

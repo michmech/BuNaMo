@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="úim" disambig="">
+  <verbalNoun default="úmadh" />
+  <verbalAdjective default="úmtha" />
+  <tenseForm default="úim" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="úmamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="úmadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="úim" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="úmamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="úmadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="úmadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="úmainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="úmtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="úmaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="úmaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="úmtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="úmadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="úmainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="úmtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="úmaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="úmaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="úmtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="úmann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="úmaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="úmaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="úmtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="úmann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="úmaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="úmaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="úmtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="úmfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="úmfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="úmfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="úmfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="úmfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="úmfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="úmfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="úmfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="úmfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="úmfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="úmfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="úmfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="úmfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="úmfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="úmfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="úmfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="úmfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="úmfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="úmadh" mood="Imper" person="Base" />
+  <moodForm default="úmaim" mood="Imper" person="Sg1" />
+  <moodForm default="úim" mood="Imper" person="Sg2" />
+  <moodForm default="úmaimis" mood="Imper" person="Pl1" />
+  <moodForm default="úmaigí" mood="Imper" person="Pl2" />
+  <moodForm default="úmaidís" mood="Imper" person="Pl3" />
+  <moodForm default="úmtar" mood="Imper" person="Auto" />
+  <moodForm default="úma" mood="Subj" person="Base" />
+  <moodForm default="úmaimid" mood="Subj" person="Pl1" />
+  <moodForm default="úmtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cumhraigh" disambig="">
+  <verbalNoun default="cumhrú" />
+  <verbalAdjective default="cumhraithe" />
+  <tenseForm default="cumhraigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cumhraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumhraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhraigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cumhraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumhraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cumhraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumhraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cumhraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumhraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cumhraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumhraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cumhraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumhraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cumhraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumhraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cumhraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumhraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cumhróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cumhróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cumhróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumhrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cumhróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumhrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cumhróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumhrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cumhróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumhrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cumhraíodh" mood="Imper" person="Base" />
+  <moodForm default="cumhraím" mood="Imper" person="Sg1" />
+  <moodForm default="cumhraigh" mood="Imper" person="Sg2" />
+  <moodForm default="cumhraímis" mood="Imper" person="Pl1" />
+  <moodForm default="cumhraígí" mood="Imper" person="Pl2" />
+  <moodForm default="cumhraídís" mood="Imper" person="Pl3" />
+  <moodForm default="cumhraítear" mood="Imper" person="Auto" />
+  <moodForm default="cumhraí" mood="Subj" person="Base" />
+  <moodForm default="cumhraímid" mood="Subj" person="Pl1" />
+  <moodForm default="cumhraítear" mood="Subj" person="Auto" />
+</verb>

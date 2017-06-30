@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cealg" disambig="">
+  <verbalNoun default="cealgadh" />
+  <verbalAdjective default="cealgtha" />
+  <tenseForm default="cealg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cealgamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cealgadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cealgadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cealg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cealgamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cealgadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cealgadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cealgadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cealgainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cealgtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cealgaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cealgaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cealgtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cealgadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cealgainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cealgtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cealgaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cealgaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cealgtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cealgann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cealgaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cealgaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cealgtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cealgann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cealgaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cealgaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cealgtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cealgfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cealgfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cealgfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cealgfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cealgfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cealgfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cealgfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cealgfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cealgfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cealgfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cealgfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cealgfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cealgfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cealgfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cealgfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cealgfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cealgfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cealgfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cealgadh" mood="Imper" person="Base" />
+  <moodForm default="cealgaim" mood="Imper" person="Sg1" />
+  <moodForm default="cealg" mood="Imper" person="Sg2" />
+  <moodForm default="cealgaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cealgaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cealgaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cealgtar" mood="Imper" person="Auto" />
+  <moodForm default="cealga" mood="Subj" person="Base" />
+  <moodForm default="cealgaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cealgtar" mood="Subj" person="Auto" />
+</verb>

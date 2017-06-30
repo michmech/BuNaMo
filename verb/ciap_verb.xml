@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ciap" disambig="">
+  <verbalNoun default="ciapadh" />
+  <verbalAdjective default="ciaptha" />
+  <tenseForm default="ciap" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ciapamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciapadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciapadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ciap" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ciapamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciapadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciapadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ciapadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciapainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciaptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciapaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciapaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciaptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciapadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciapainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciaptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciapaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciapaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciaptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciapann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ciapaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciapaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciaptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciapann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ciapaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciapaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciaptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciapfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ciapfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciapfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ciapfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ciapfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciapfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ciapfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ciapfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ciapfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ciapfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciapfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciapfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ciapfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ciapfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ciapfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ciapfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciapfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciapfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ciapadh" mood="Imper" person="Base" />
+  <moodForm default="ciapaim" mood="Imper" person="Sg1" />
+  <moodForm default="ciap" mood="Imper" person="Sg2" />
+  <moodForm default="ciapaimis" mood="Imper" person="Pl1" />
+  <moodForm default="ciapaigí" mood="Imper" person="Pl2" />
+  <moodForm default="ciapaidís" mood="Imper" person="Pl3" />
+  <moodForm default="ciaptar" mood="Imper" person="Auto" />
+  <moodForm default="ciapa" mood="Subj" person="Base" />
+  <moodForm default="ciapaimid" mood="Subj" person="Pl1" />
+  <moodForm default="ciaptar" mood="Subj" person="Auto" />
+</verb>

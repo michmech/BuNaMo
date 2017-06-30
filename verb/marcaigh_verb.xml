@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="marcaigh" disambig="">
+  <verbalNoun default="marcaíocht" />
+  <verbalAdjective default="marcaithe" />
+  <tenseForm default="marcaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="marcaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="marcaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="marcaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="marcaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="marcaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="marcaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="marcaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="marcaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="marcaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="marcaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="marcaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="marcaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="marcaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="marcaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="marcaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="marcaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="marcaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="marcaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="marcaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="marcaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="marcaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="marcaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="marcaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="marcaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="marcaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="marcaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="marcaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="marcóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="marcóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="marcófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="marcóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="marcóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="marcófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="marcódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="marcóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="marcófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="marcóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="marcóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="marcófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="marcódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="marcóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="marcófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="marcóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="marcóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="marcófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="marcaíodh" mood="Imper" person="Base" />
+  <moodForm default="marcaím" mood="Imper" person="Sg1" />
+  <moodForm default="marcaigh" mood="Imper" person="Sg2" />
+  <moodForm default="marcaímis" mood="Imper" person="Pl1" />
+  <moodForm default="marcaígí" mood="Imper" person="Pl2" />
+  <moodForm default="marcaídís" mood="Imper" person="Pl3" />
+  <moodForm default="marcaítear" mood="Imper" person="Auto" />
+  <moodForm default="marcaí" mood="Subj" person="Base" />
+  <moodForm default="marcaímid" mood="Subj" person="Pl1" />
+  <moodForm default="marcaítear" mood="Subj" person="Auto" />
+</verb>

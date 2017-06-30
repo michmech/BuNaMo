@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="amúch" disambig="">
+  <verbalNoun default="amúchadh" />
+  <verbalAdjective default="amúchta" />
+  <tenseForm default="amúch" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="amúchamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="amúchadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="amúchadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="amúch" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="amúchamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="amúchadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="amúchadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="amúchadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="amúchainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="amúchtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="amúchaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="amúchaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="amúchtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="amúchadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="amúchainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="amúchtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="amúchaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="amúchaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="amúchtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="amúchann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="amúchaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="amúchaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="amúchtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="amúchann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="amúchaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="amúchaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="amúchtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="amúchfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="amúchfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="amúchfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="amúchfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="amúchfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="amúchfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="amúchfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="amúchfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="amúchfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="amúchfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="amúchfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="amúchfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="amúchfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="amúchfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="amúchfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="amúchfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="amúchfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="amúchfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="amúchadh" mood="Imper" person="Base" />
+  <moodForm default="amúchaim" mood="Imper" person="Sg1" />
+  <moodForm default="amúch" mood="Imper" person="Sg2" />
+  <moodForm default="amúchaimis" mood="Imper" person="Pl1" />
+  <moodForm default="amúchaigí" mood="Imper" person="Pl2" />
+  <moodForm default="amúchaidís" mood="Imper" person="Pl3" />
+  <moodForm default="amúchtar" mood="Imper" person="Auto" />
+  <moodForm default="amúcha" mood="Subj" person="Base" />
+  <moodForm default="amúchaimid" mood="Subj" person="Pl1" />
+  <moodForm default="amúchtar" mood="Subj" person="Auto" />
+</verb>

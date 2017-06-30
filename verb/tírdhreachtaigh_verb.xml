@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tírdhreachtaigh" disambig="">
+  <verbalNoun default="tírdhreachtú" />
+  <verbalAdjective default="tírdhreachtaithe" />
+  <tenseForm default="tírdhreachtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tírdhreachtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tírdhreachtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tírdhreachtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tírdhreachtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tírdhreachtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tírdhreachtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tírdhreachtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tírdhreachtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tírdhreachtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tírdhreachtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tírdhreachtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tírdhreachtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tírdhreachtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tírdhreachtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tírdhreachtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tírdhreachtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tírdhreachtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tírdhreachtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tírdhreachtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tírdhreachtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tírdhreachtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tírdhreachtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tírdhreachtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tírdhreachtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tírdhreachtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tírdhreachtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tírdhreachtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tírdhreachtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tírdhreachtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tírdhreachtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tírdhreachtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tírdhreachtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tírdhreachtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tírdhreachtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tírdhreachtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tírdhreachtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tírdhreachtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tírdhreachtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tírdhreachtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tírdhreachtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tírdhreachtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tírdhreachtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tírdhreachtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tírdhreachtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tírdhreachtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tírdhreachtaíodh" mood="Imper" person="Base" />
+  <moodForm default="tírdhreachtaím" mood="Imper" person="Sg1" />
+  <moodForm default="tírdhreachtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="tírdhreachtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="tírdhreachtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="tírdhreachtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="tírdhreachtaítear" mood="Imper" person="Auto" />
+  <moodForm default="tírdhreachtaí" mood="Subj" person="Base" />
+  <moodForm default="tírdhreachtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="tírdhreachtaítear" mood="Subj" person="Auto" />
+</verb>

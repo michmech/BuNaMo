@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="nocht" disambig="">
+  <verbalNoun default="nochtadh" />
+  <verbalAdjective default="nochta" />
+  <tenseForm default="nocht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="nochtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="nochtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="nochtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="nocht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="nochtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="nochtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="nochtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="nochtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="nochtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nochtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="nochtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nochtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="nochtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nochtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="nochtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nochtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="nochtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nochtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="nochtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nochtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="nochtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nochtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nochtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nochtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="nochtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nochtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nochtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nochtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="nochtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="nochtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="nochtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="nochtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="nochtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="nochtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="nochtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="nochtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="nochtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="nochtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="nochtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="nochtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="nochtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="nochtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="nochtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="nochtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="nochtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="nochtadh" mood="Imper" person="Base" />
+  <moodForm default="nochtaim" mood="Imper" person="Sg1" />
+  <moodForm default="nocht" mood="Imper" person="Sg2" />
+  <moodForm default="nochtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="nochtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="nochtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="nochtar" mood="Imper" person="Auto" />
+  <moodForm default="nochta" mood="Subj" person="Base" />
+  <moodForm default="nochtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="nochtar" mood="Subj" person="Auto" />
+</verb>

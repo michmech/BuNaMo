@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="éar" disambig="">
+  <verbalNoun default="éaradh" />
+  <verbalAdjective default="éartha" />
+  <tenseForm default="éar" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="éaramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="éaradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="éar" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="éaramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="éaradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="éaradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="éarainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="éartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="éaraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="éaraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="éartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="éaradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="éarainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="éartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="éaraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="éaraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="éartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="éarann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="éaraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="éaraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="éartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="éarann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="éaraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="éaraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="éartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="éarfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="éarfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="éarfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="éarfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="éarfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="éarfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="éarfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="éarfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="éarfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="éarfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="éarfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="éarfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="éarfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="éarfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="éarfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="éarfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="éarfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="éarfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="éaradh" mood="Imper" person="Base" />
+  <moodForm default="éaraim" mood="Imper" person="Sg1" />
+  <moodForm default="éar" mood="Imper" person="Sg2" />
+  <moodForm default="éaraimis" mood="Imper" person="Pl1" />
+  <moodForm default="éaraigí" mood="Imper" person="Pl2" />
+  <moodForm default="éaraidís" mood="Imper" person="Pl3" />
+  <moodForm default="éartar" mood="Imper" person="Auto" />
+  <moodForm default="éara" mood="Subj" person="Base" />
+  <moodForm default="éaraimid" mood="Subj" person="Pl1" />
+  <moodForm default="éartar" mood="Subj" person="Auto" />
+</verb>

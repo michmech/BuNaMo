@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="diailigh" disambig="">
+  <verbalNoun default="diailiú" />
+  <verbalAdjective default="diailithe" />
+  <tenseForm default="diailigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="diailíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="diailíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="diailíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="diailigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="diailíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="diailíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="diailíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="diailíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="diailínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diailíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="diailímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diailídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="diailítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diailíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="diailínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diailíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="diailímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diailídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="diailítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diailíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="diailím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diailímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diailítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diailíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="diailím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diailímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diailítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diaileoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="diaileoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="diaileofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="diaileoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="diaileoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="diaileofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="diaileodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="diaileoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="diaileofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="diaileoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="diaileoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="diaileofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="diaileodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="diaileoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="diaileofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="diaileoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="diaileoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="diaileofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="diailíodh" mood="Imper" person="Base" />
+  <moodForm default="diailím" mood="Imper" person="Sg1" />
+  <moodForm default="diailigh" mood="Imper" person="Sg2" />
+  <moodForm default="diailímis" mood="Imper" person="Pl1" />
+  <moodForm default="diailígí" mood="Imper" person="Pl2" />
+  <moodForm default="diailídís" mood="Imper" person="Pl3" />
+  <moodForm default="diailítear" mood="Imper" person="Auto" />
+  <moodForm default="diailí" mood="Subj" person="Base" />
+  <moodForm default="diailímid" mood="Subj" person="Pl1" />
+  <moodForm default="diailítear" mood="Subj" person="Auto" />
+</verb>

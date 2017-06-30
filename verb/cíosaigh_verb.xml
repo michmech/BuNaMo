@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cíosaigh" disambig="">
+  <verbalNoun default="cíosú" />
+  <verbalAdjective default="cíosaithe" />
+  <tenseForm default="cíosaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cíosaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cíosaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cíosaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cíosaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cíosaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cíosaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cíosaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cíosaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cíosaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cíosaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cíosaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cíosaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cíosaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cíosaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cíosaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cíosaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cíosaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cíosaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cíosaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cíosaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cíosaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cíosaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cíosaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cíosaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cíosaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cíosaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cíosaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cíosóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cíosóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cíosófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cíosóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cíosóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cíosófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cíosódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cíosóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cíosófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cíosóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cíosóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cíosófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cíosódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cíosóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cíosófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cíosóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cíosóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cíosófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cíosaíodh" mood="Imper" person="Base" />
+  <moodForm default="cíosaím" mood="Imper" person="Sg1" />
+  <moodForm default="cíosaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cíosaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cíosaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cíosaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cíosaítear" mood="Imper" person="Auto" />
+  <moodForm default="cíosaí" mood="Subj" person="Base" />
+  <moodForm default="cíosaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cíosaítear" mood="Subj" person="Auto" />
+</verb>

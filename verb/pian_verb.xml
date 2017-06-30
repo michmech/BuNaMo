@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pian" disambig="">
+  <verbalNoun default="pianadh" />
+  <verbalAdjective default="pianta" />
+  <tenseForm default="pian" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pianamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pianadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="pianadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pian" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pianamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pianadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pianadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="pianadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pianainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="piantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pianaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pianaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="piantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pianadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pianainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="piantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pianaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pianaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="piantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pianann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pianaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pianaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="piantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pianann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pianaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pianaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="piantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pianfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pianfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pianfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pianfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pianfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pianfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pianfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pianfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pianfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pianfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pianfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pianfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pianfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pianfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pianfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pianfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pianfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pianfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pianadh" mood="Imper" person="Base" />
+  <moodForm default="pianaim" mood="Imper" person="Sg1" />
+  <moodForm default="pian" mood="Imper" person="Sg2" />
+  <moodForm default="pianaimis" mood="Imper" person="Pl1" />
+  <moodForm default="pianaigí" mood="Imper" person="Pl2" />
+  <moodForm default="pianaidís" mood="Imper" person="Pl3" />
+  <moodForm default="piantar" mood="Imper" person="Auto" />
+  <moodForm default="piana" mood="Subj" person="Base" />
+  <moodForm default="pianaimid" mood="Subj" person="Pl1" />
+  <moodForm default="piantar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cúlchlóigh" disambig="">
+  <verbalNoun default="cúlchló" />
+  <verbalAdjective default="cúlchlóite" />
+  <tenseForm default="cúlchlóigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cúlchlómar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlchlódar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúlchlódh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlchlóigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cúlchlómar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlchlódar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúlchlódh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlchlódh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúlchlóinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlchlóiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúlchlóimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlchlóidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúlchlóití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlchlódh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúlchlóinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlchlóiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúlchlóimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlchlóidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúlchlóití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlchlónn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúlchlóim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlchlóimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlchlóitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlchlónn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúlchlóim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlchlóimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlchlóitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlchlófaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cúlchlófaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlchlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlchlófaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cúlchlófaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlchlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlchlófadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cúlchlófainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlchlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúlchlófaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlchlófaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúlchlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlchlófadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cúlchlófainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlchlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúlchlófaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlchlófaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúlchlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cúlchlódh" mood="Imper" person="Base" />
+  <moodForm default="cúlchlóim" mood="Imper" person="Sg1" />
+  <moodForm default="cúlchlóigh" mood="Imper" person="Sg2" />
+  <moodForm default="cúlchlóimis" mood="Imper" person="Pl1" />
+  <moodForm default="cúlchlóigí" mood="Imper" person="Pl2" />
+  <moodForm default="cúlchlóidís" mood="Imper" person="Pl3" />
+  <moodForm default="cúlchlóitear" mood="Imper" person="Auto" />
+  <moodForm default="cúlchló" mood="Subj" person="Base" />
+  <moodForm default="cúlchlóimid" mood="Subj" person="Pl1" />
+  <moodForm default="cúlchlóitear" mood="Subj" person="Auto" />
+</verb>

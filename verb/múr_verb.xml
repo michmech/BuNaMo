@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="múr" disambig="">
+  <verbalNoun default="múradh" />
+  <verbalAdjective default="múrtha" />
+  <tenseForm default="múr" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="múramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="múradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="múr" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="múramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="múradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="múradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="múrainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="múrtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="múraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="múraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="múrtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="múradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="múrainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="múrtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="múraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="múraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="múrtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="múrann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="múraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="múraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="múrtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="múrann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="múraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="múraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="múrtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="múrfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="múrfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="múrfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="múrfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="múrfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="múrfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="múrfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="múrfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="múrfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="múrfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="múrfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="múrfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="múrfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="múrfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="múrfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="múrfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="múrfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="múrfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="múradh" mood="Imper" person="Base" />
+  <moodForm default="múraim" mood="Imper" person="Sg1" />
+  <moodForm default="múr" mood="Imper" person="Sg2" />
+  <moodForm default="múraimis" mood="Imper" person="Pl1" />
+  <moodForm default="múraigí" mood="Imper" person="Pl2" />
+  <moodForm default="múraidís" mood="Imper" person="Pl3" />
+  <moodForm default="múrtar" mood="Imper" person="Auto" />
+  <moodForm default="múra" mood="Subj" person="Base" />
+  <moodForm default="múraimid" mood="Subj" person="Pl1" />
+  <moodForm default="múrtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="geil" disambig="">
+  <verbalNoun default="geilt" />
+  <verbalAdjective default="geilte" />
+  <tenseForm default="geil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="geileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="geileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="geileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="geil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="geileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="geileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="geileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="geileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="geilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="geilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="geilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="geilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="geiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="geileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="geilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="geilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="geilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="geilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="geiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="geileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="geilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="geilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="geiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="geileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="geilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="geilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="geiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="geilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="geilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="geilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="geilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="geilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="geilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="geilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="geilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="geilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="geilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="geilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="geilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="geilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="geilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="geilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="geilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="geilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="geilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="geileadh" mood="Imper" person="Base" />
+  <moodForm default="geilim" mood="Imper" person="Sg1" />
+  <moodForm default="geil" mood="Imper" person="Sg2" />
+  <moodForm default="geilimis" mood="Imper" person="Pl1" />
+  <moodForm default="geiligí" mood="Imper" person="Pl2" />
+  <moodForm default="geilidís" mood="Imper" person="Pl3" />
+  <moodForm default="geiltear" mood="Imper" person="Auto" />
+  <moodForm default="geile" mood="Subj" person="Base" />
+  <moodForm default="geilimid" mood="Subj" person="Pl1" />
+  <moodForm default="geiltear" mood="Subj" person="Auto" />
+</verb>

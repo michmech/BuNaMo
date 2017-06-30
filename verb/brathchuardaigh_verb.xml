@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="brathchuardaigh" disambig="">
+  <verbalNoun default="brathchuardú" />
+  <verbalAdjective default="brathchuardaithe" />
+  <tenseForm default="brathchuardaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="brathchuardaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="brathchuardaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="brathchuardaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="brathchuardaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="brathchuardaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="brathchuardaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="brathchuardaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="brathchuardaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="brathchuardaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="brathchuardaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="brathchuardaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="brathchuardaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="brathchuardaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="brathchuardaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="brathchuardaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="brathchuardaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="brathchuardaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="brathchuardaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="brathchuardaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="brathchuardaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="brathchuardaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="brathchuardaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="brathchuardaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="brathchuardaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="brathchuardaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="brathchuardaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="brathchuardaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="brathchuardóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="brathchuardóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="brathchuardófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="brathchuardóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="brathchuardóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="brathchuardófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="brathchuardódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="brathchuardóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="brathchuardófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="brathchuardóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="brathchuardóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="brathchuardófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="brathchuardódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="brathchuardóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="brathchuardófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="brathchuardóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="brathchuardóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="brathchuardófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="brathchuardaíodh" mood="Imper" person="Base" />
+  <moodForm default="brathchuardaím" mood="Imper" person="Sg1" />
+  <moodForm default="brathchuardaigh" mood="Imper" person="Sg2" />
+  <moodForm default="brathchuardaímis" mood="Imper" person="Pl1" />
+  <moodForm default="brathchuardaígí" mood="Imper" person="Pl2" />
+  <moodForm default="brathchuardaídís" mood="Imper" person="Pl3" />
+  <moodForm default="brathchuardaítear" mood="Imper" person="Auto" />
+  <moodForm default="brathchuardaí" mood="Subj" person="Base" />
+  <moodForm default="brathchuardaímid" mood="Subj" person="Pl1" />
+  <moodForm default="brathchuardaítear" mood="Subj" person="Auto" />
+</verb>

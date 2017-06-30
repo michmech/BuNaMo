@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coinbhéirsigh" disambig="">
+  <verbalNoun default="coinbhéirsiú" />
+  <verbalAdjective default="coinbhéirsithe" />
+  <tenseForm default="coinbhéirsigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coinbhéirsíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coinbhéirsíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coinbhéirsíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="coinbhéirsigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coinbhéirsíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coinbhéirsíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coinbhéirsíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="coinbhéirsíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="coinbhéirsínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coinbhéirsíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coinbhéirsímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coinbhéirsídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coinbhéirsítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coinbhéirsíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="coinbhéirsínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coinbhéirsíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coinbhéirsímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coinbhéirsídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coinbhéirsítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coinbhéirsíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coinbhéirsím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coinbhéirsímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coinbhéirsítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coinbhéirsíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coinbhéirsím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coinbhéirsímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coinbhéirsítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coinbhéirseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="coinbhéirseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="coinbhéirseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="coinbhéirseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="coinbhéirseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="coinbhéirseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="coinbhéirseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="coinbhéirseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="coinbhéirseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="coinbhéirseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="coinbhéirseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="coinbhéirseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="coinbhéirseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="coinbhéirseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="coinbhéirseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="coinbhéirseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="coinbhéirseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="coinbhéirseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coinbhéirsíodh" mood="Imper" person="Base" />
+  <moodForm default="coinbhéirsím" mood="Imper" person="Sg1" />
+  <moodForm default="coinbhéirsigh" mood="Imper" person="Sg2" />
+  <moodForm default="coinbhéirsímis" mood="Imper" person="Pl1" />
+  <moodForm default="coinbhéirsígí" mood="Imper" person="Pl2" />
+  <moodForm default="coinbhéirsídís" mood="Imper" person="Pl3" />
+  <moodForm default="coinbhéirsítear" mood="Imper" person="Auto" />
+  <moodForm default="coinbhéirsí" mood="Subj" person="Base" />
+  <moodForm default="coinbhéirsímid" mood="Subj" person="Pl1" />
+  <moodForm default="coinbhéirsítear" mood="Subj" person="Auto" />
+</verb>

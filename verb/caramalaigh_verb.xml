@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="caramalaigh" disambig="">
+  <verbalNoun default="caramalú" />
+  <verbalAdjective default="caramalaithe" />
+  <tenseForm default="caramalaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="caramalaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="caramalaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="caramalaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="caramalaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="caramalaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="caramalaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="caramalaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="caramalaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="caramalaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caramalaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="caramalaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caramalaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="caramalaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caramalaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="caramalaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caramalaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="caramalaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caramalaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="caramalaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caramalaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="caramalaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caramalaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caramalaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caramalaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="caramalaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caramalaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caramalaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caramalóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="caramalóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="caramalófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="caramalóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="caramalóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="caramalófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="caramalódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="caramalóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="caramalófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="caramalóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="caramalóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="caramalófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="caramalódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="caramalóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="caramalófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="caramalóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="caramalóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="caramalófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="caramalaíodh" mood="Imper" person="Base" />
+  <moodForm default="caramalaím" mood="Imper" person="Sg1" />
+  <moodForm default="caramalaigh" mood="Imper" person="Sg2" />
+  <moodForm default="caramalaímis" mood="Imper" person="Pl1" />
+  <moodForm default="caramalaígí" mood="Imper" person="Pl2" />
+  <moodForm default="caramalaídís" mood="Imper" person="Pl3" />
+  <moodForm default="caramalaítear" mood="Imper" person="Auto" />
+  <moodForm default="caramalaí" mood="Subj" person="Base" />
+  <moodForm default="caramalaímid" mood="Subj" person="Pl1" />
+  <moodForm default="caramalaítear" mood="Subj" person="Auto" />
+</verb>

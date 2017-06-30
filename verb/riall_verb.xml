@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="riall" disambig="">
+  <verbalNoun default="rialladh" />
+  <verbalAdjective default="riallta" />
+  <tenseForm default="riall" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="riallamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rialladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rialladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="riall" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="riallamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rialladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rialladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rialladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="riallainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rialltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="riallaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="riallaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rialltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rialladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="riallainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rialltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="riallaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="riallaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rialltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="riallann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="riallaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="riallaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rialltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="riallann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="riallaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="riallaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rialltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="riallfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="riallfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="riallfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="riallfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="riallfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="riallfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="riallfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="riallfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="riallfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="riallfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="riallfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="riallfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="riallfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="riallfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="riallfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="riallfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="riallfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="riallfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rialladh" mood="Imper" person="Base" />
+  <moodForm default="riallaim" mood="Imper" person="Sg1" />
+  <moodForm default="riall" mood="Imper" person="Sg2" />
+  <moodForm default="riallaimis" mood="Imper" person="Pl1" />
+  <moodForm default="riallaigí" mood="Imper" person="Pl2" />
+  <moodForm default="riallaidís" mood="Imper" person="Pl3" />
+  <moodForm default="rialltar" mood="Imper" person="Auto" />
+  <moodForm default="rialla" mood="Subj" person="Base" />
+  <moodForm default="riallaimid" mood="Subj" person="Pl1" />
+  <moodForm default="rialltar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="deil" disambig="">
+  <verbalNoun default="deileadh" />
+  <verbalAdjective default="deilte" />
+  <tenseForm default="deil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="deileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="deileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="deileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="deil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="deileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="deileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="deileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="deileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="deilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="deilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="deiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="deilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="deilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="deiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="deilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="deilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="deilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="deilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="deilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="deilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="deilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="deilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="deilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="deilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="deilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="deilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="deilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="deilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="deilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="deilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="deilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="deilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="deilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="deileadh" mood="Imper" person="Base" />
+  <moodForm default="deilim" mood="Imper" person="Sg1" />
+  <moodForm default="deil" mood="Imper" person="Sg2" />
+  <moodForm default="deilimis" mood="Imper" person="Pl1" />
+  <moodForm default="deiligí" mood="Imper" person="Pl2" />
+  <moodForm default="deilidís" mood="Imper" person="Pl3" />
+  <moodForm default="deiltear" mood="Imper" person="Auto" />
+  <moodForm default="deile" mood="Subj" person="Base" />
+  <moodForm default="deilimid" mood="Subj" person="Pl1" />
+  <moodForm default="deiltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="feáigh" disambig="">
+  <verbalNoun default="feá" />
+  <verbalAdjective default="feáite" />
+  <tenseForm default="feáigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="feámar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="feádar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="feáigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="feámar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="feádar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="feádh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="feáinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feáiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="feáimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feáidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="feáití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feádh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="feáinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feáiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="feáimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feáidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="feáití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feánn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="feáim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feáimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feáitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feánn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="feáim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feáimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feáitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feáfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="feáfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="feáfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="feáfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="feáfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="feáfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="feáfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="feáfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="feáfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="feáfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="feáfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="feáfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="feáfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="feáfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="feáfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="feáfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="feáfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="feáfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="feádh" mood="Imper" person="Base" />
+  <moodForm default="feáim" mood="Imper" person="Sg1" />
+  <moodForm default="feáigh" mood="Imper" person="Sg2" />
+  <moodForm default="feáimis" mood="Imper" person="Pl1" />
+  <moodForm default="feáigí" mood="Imper" person="Pl2" />
+  <moodForm default="feáidís" mood="Imper" person="Pl3" />
+  <moodForm default="feáitear" mood="Imper" person="Auto" />
+  <moodForm default="feá" mood="Subj" person="Base" />
+  <moodForm default="feáimid" mood="Subj" person="Pl1" />
+  <moodForm default="feáitear" mood="Subj" person="Auto" />
+</verb>

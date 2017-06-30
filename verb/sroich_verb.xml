@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sroich" disambig="">
+  <verbalNoun default="sroicheadh" />
+  <verbalAdjective default="sroichte" />
+  <tenseForm default="sroich" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sroicheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sroicheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sroicheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sroich" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sroicheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sroicheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sroicheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sroicheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sroichinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sroichteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sroichimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sroichidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sroichtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sroicheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sroichinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sroichteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sroichimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sroichidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sroichtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sroicheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sroichim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sroichimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sroichtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sroicheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sroichim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sroichimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sroichtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sroichfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sroichfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sroichfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sroichfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sroichfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sroichfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sroichfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sroichfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sroichfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sroichfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sroichfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sroichfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sroichfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sroichfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sroichfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sroichfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sroichfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sroichfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sroicheadh" mood="Imper" person="Base" />
+  <moodForm default="sroichim" mood="Imper" person="Sg1" />
+  <moodForm default="sroich" mood="Imper" person="Sg2" />
+  <moodForm default="sroichimis" mood="Imper" person="Pl1" />
+  <moodForm default="sroichigí" mood="Imper" person="Pl2" />
+  <moodForm default="sroichidís" mood="Imper" person="Pl3" />
+  <moodForm default="sroichtear" mood="Imper" person="Auto" />
+  <moodForm default="sroiche" mood="Subj" person="Base" />
+  <moodForm default="sroichimid" mood="Subj" person="Pl1" />
+  <moodForm default="sroichtear" mood="Subj" person="Auto" />
+</verb>

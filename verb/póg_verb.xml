@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="póg" disambig="">
+  <verbalNoun default="pógadh" />
+  <verbalAdjective default="pógtha" />
+  <tenseForm default="pógadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pógadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="póg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pógamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pógadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="póg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pógamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pógadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pógadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pógainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pógtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pógaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pógaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pógtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pógadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pógainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pógtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pógaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pógaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pógtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pógann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pógaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pógaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pógtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pógann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pógaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pógaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pógtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pógfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pógfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pógfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pógfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pógfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pógfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pógfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pógfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pógfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pógfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pógfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pógfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pógfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pógfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pógfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pógfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pógfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pógfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pógadh" mood="Imper" person="Base" />
+  <moodForm default="pógaim" mood="Imper" person="Sg1" />
+  <moodForm default="póg" mood="Imper" person="Sg2" />
+  <moodForm default="pógaimis" mood="Imper" person="Pl1" />
+  <moodForm default="pógaigí" mood="Imper" person="Pl2" />
+  <moodForm default="pógaidís" mood="Imper" person="Pl3" />
+  <moodForm default="pógtar" mood="Imper" person="Auto" />
+  <moodForm default="póga" mood="Subj" person="Base" />
+  <moodForm default="pógaimid" mood="Subj" person="Pl1" />
+  <moodForm default="pógtar" mood="Subj" person="Auto" />
+</verb>

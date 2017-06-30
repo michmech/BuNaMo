@@ -1,0 +1,62 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="feic" disambig="">
+  <verbalNoun default="feiceáil" />
+  <verbalNoun default="feiscint" />
+  <verbalAdjective default="feicthe" />
+  <tenseForm default="conaic" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="conaiceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="conaiceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="conacthas" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="faca" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="facamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="facadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="facthas" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="feiceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="feicinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feicteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="feicimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feicidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="feictí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feiceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="feicinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feicteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="feicimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feicidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="feictí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feiceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="feicim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feicimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feictear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feiceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="feicim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feicimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feictear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feicfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="feicfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="feicfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="feicfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="feicfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="feicfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="feicfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="feicfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="feicfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="feicfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="feicfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="feicfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="feicfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="feicfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="feicfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="feicfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="feicfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="feicfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="feiceadh" mood="Imper" person="Base" />
+  <moodForm default="feicim" mood="Imper" person="Sg1" />
+  <moodForm default="feic" mood="Imper" person="Sg2" />
+  <moodForm default="feicimis" mood="Imper" person="Pl1" />
+  <moodForm default="feicigí" mood="Imper" person="Pl2" />
+  <moodForm default="feicidís" mood="Imper" person="Pl3" />
+  <moodForm default="feictear" mood="Imper" person="Auto" />
+  <moodForm default="feice" mood="Subj" person="Base" />
+  <moodForm default="feicimid" mood="Subj" person="Pl1" />
+  <moodForm default="feictear" mood="Subj" person="Auto" />
+</verb>

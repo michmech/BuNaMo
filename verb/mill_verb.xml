@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mill" disambig="">
+  <verbalNoun default="milleadh" />
+  <verbalAdjective default="millte" />
+  <tenseForm default="mill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="milleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="milleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="milleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="milleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="milleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="milleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="milleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="millinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="millteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="millimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="millidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="milltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="milleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="millinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="millteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="millimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="millidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="milltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="milleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="millim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="millimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="milltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="milleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="millim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="millimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="milltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="millfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="millfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="millfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="millfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="millfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="millfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="millfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="millfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="millfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="millfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="millfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="millfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="millfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="millfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="millfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="millfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="millfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="millfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="milleadh" mood="Imper" person="Base" />
+  <moodForm default="millim" mood="Imper" person="Sg1" />
+  <moodForm default="mill" mood="Imper" person="Sg2" />
+  <moodForm default="millimis" mood="Imper" person="Pl1" />
+  <moodForm default="milligí" mood="Imper" person="Pl2" />
+  <moodForm default="millidís" mood="Imper" person="Pl3" />
+  <moodForm default="milltear" mood="Imper" person="Auto" />
+  <moodForm default="mille" mood="Subj" person="Base" />
+  <moodForm default="millimid" mood="Subj" person="Pl1" />
+  <moodForm default="milltear" mood="Subj" person="Auto" />
+</verb>

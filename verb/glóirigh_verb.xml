@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="glóirigh" disambig="">
+  <verbalNoun default="glóiriú" />
+  <verbalAdjective default="glóirithe" />
+  <tenseForm default="glóirigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="glóiríomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóiríodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="glóiríodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="glóirigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="glóiríomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóiríodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="glóiríodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="glóiríodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="glóirínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="glóiríteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="glóirímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóirídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="glóirítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="glóiríodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="glóirínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="glóiríteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="glóirímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóirídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="glóirítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="glóiríonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="glóirím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="glóirímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóirítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="glóiríonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="glóirím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="glóirímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóirítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="glóireoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="glóireoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóireofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="glóireoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="glóireoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóireofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="glóireodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="glóireoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="glóireofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="glóireoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóireoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="glóireofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="glóireodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="glóireoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="glóireofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="glóireoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóireoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="glóireofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="glóiríodh" mood="Imper" person="Base" />
+  <moodForm default="glóirím" mood="Imper" person="Sg1" />
+  <moodForm default="glóirigh" mood="Imper" person="Sg2" />
+  <moodForm default="glóirímis" mood="Imper" person="Pl1" />
+  <moodForm default="glóirígí" mood="Imper" person="Pl2" />
+  <moodForm default="glóirídís" mood="Imper" person="Pl3" />
+  <moodForm default="glóirítear" mood="Imper" person="Auto" />
+  <moodForm default="glóirí" mood="Subj" person="Base" />
+  <moodForm default="glóirímid" mood="Subj" person="Pl1" />
+  <moodForm default="glóirítear" mood="Subj" person="Auto" />
+</verb>

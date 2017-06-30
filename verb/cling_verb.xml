@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cling" disambig="">
+  <verbalNoun default="clingeadh" />
+  <verbalAdjective default="clingthe" />
+  <tenseForm default="cling" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="clingeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="clingeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="clingeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cling" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="clingeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="clingeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="clingeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="clingeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="clinginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="clingteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="clingimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="clingidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="clingtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="clingeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="clinginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="clingteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="clingimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="clingidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="clingtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="clingeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="clingim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="clingimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="clingtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="clingeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="clingim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="clingimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="clingtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="clingfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="clingfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="clingfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="clingfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="clingfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="clingfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="clingfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="clingfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="clingfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="clingfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="clingfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="clingfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="clingfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="clingfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="clingfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="clingfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="clingfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="clingfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="clingeadh" mood="Imper" person="Base" />
+  <moodForm default="clingim" mood="Imper" person="Sg1" />
+  <moodForm default="cling" mood="Imper" person="Sg2" />
+  <moodForm default="clingimis" mood="Imper" person="Pl1" />
+  <moodForm default="clingigí" mood="Imper" person="Pl2" />
+  <moodForm default="clingidís" mood="Imper" person="Pl3" />
+  <moodForm default="clingtear" mood="Imper" person="Auto" />
+  <moodForm default="clinge" mood="Subj" person="Base" />
+  <moodForm default="clingimid" mood="Subj" person="Pl1" />
+  <moodForm default="clingtear" mood="Subj" person="Auto" />
+</verb>

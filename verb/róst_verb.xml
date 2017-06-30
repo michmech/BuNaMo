@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="róst" disambig="">
+  <verbalNoun default="róstadh" />
+  <verbalAdjective default="rósta" />
+  <tenseForm default="róst" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="róstamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="róstadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="róstadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="róst" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="róstamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="róstadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="róstadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="róstadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="róstainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="róstá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="róstaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="róstaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="róstaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="róstadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="róstainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="róstá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="róstaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="róstaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="róstaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="róstann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="róstaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="róstaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="róstar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="róstann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="róstaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="róstaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="róstar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="róstfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="róstfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="róstfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="róstfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="róstfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="róstfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="róstfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="róstfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="róstfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="róstfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="róstfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="róstfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="róstfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="róstfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="róstfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="róstfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="róstfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="róstfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="róstadh" mood="Imper" person="Base" />
+  <moodForm default="róstaim" mood="Imper" person="Sg1" />
+  <moodForm default="róst" mood="Imper" person="Sg2" />
+  <moodForm default="róstaimis" mood="Imper" person="Pl1" />
+  <moodForm default="róstaigí" mood="Imper" person="Pl2" />
+  <moodForm default="róstaidís" mood="Imper" person="Pl3" />
+  <moodForm default="róstar" mood="Imper" person="Auto" />
+  <moodForm default="rósta" mood="Subj" person="Base" />
+  <moodForm default="róstaimid" mood="Subj" person="Pl1" />
+  <moodForm default="róstar" mood="Subj" person="Auto" />
+</verb>

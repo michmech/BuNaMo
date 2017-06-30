@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="guigh" disambig="">
+  <verbalNoun default="guí" />
+  <verbalAdjective default="guite" />
+  <tenseForm default="guigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="guíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="guíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="guíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="guigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="guíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="guíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="guíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="guíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="guínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="guiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="guímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="guídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="guití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="guíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="guínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="guiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="guímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="guídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="guití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="guíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="guím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="guímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="guitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="guíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="guím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="guímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="guitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="guífidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="guífimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="guífear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="guífidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="guífimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="guífear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="guífeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="guífinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="guífeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="guífimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="guífidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="guífí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="guífeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="guífinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="guífeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="guífimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="guífidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="guífí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="guíodh" mood="Imper" person="Base" />
+  <moodForm default="guím" mood="Imper" person="Sg1" />
+  <moodForm default="guigh" mood="Imper" person="Sg2" />
+  <moodForm default="guímis" mood="Imper" person="Pl1" />
+  <moodForm default="guígí" mood="Imper" person="Pl2" />
+  <moodForm default="guídís" mood="Imper" person="Pl3" />
+  <moodForm default="guitear" mood="Imper" person="Auto" />
+  <moodForm default="guí" mood="Subj" person="Base" />
+  <moodForm default="guímid" mood="Subj" person="Pl1" />
+  <moodForm default="guitear" mood="Subj" person="Auto" />
+</verb>

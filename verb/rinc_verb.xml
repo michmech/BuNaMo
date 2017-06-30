@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rinc" disambig="">
+  <verbalNoun default="rince" />
+  <verbalAdjective default="rincthe" />
+  <tenseForm default="rinc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rinceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rinceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rinceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rinc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rinceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rinceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rinceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rinceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rincinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rincteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rincimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rincidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rinctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rinceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rincinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rincteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rincimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rincidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rinctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rinceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rincim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rincimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rinctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rinceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rincim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rincimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rinctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rincfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rincfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rincfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rincfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rincfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rincfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rincfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rincfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rincfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rincfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rincfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rincfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rincfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rincfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rincfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rincfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rincfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rincfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rinceadh" mood="Imper" person="Base" />
+  <moodForm default="rincim" mood="Imper" person="Sg1" />
+  <moodForm default="rinc" mood="Imper" person="Sg2" />
+  <moodForm default="rincimis" mood="Imper" person="Pl1" />
+  <moodForm default="rincigí" mood="Imper" person="Pl2" />
+  <moodForm default="rincidís" mood="Imper" person="Pl3" />
+  <moodForm default="rinctear" mood="Imper" person="Auto" />
+  <moodForm default="rince" mood="Subj" person="Base" />
+  <moodForm default="rincimid" mood="Subj" person="Pl1" />
+  <moodForm default="rinctear" mood="Subj" person="Auto" />
+</verb>

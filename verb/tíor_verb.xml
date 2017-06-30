@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tíor" disambig="">
+  <verbalNoun default="tíoradh" />
+  <verbalAdjective default="tíortha" />
+  <tenseForm default="tíor" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tíoramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíoradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíoradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tíor" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tíoramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíoradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíoradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tíoradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíorainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíortá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíoraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíoraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíortaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíoradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíorainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíortá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíoraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíoraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíortaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíorann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíoraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíoraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíortar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíorann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíoraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíoraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíortar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíorfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tíorfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíorfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tíorfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tíorfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíorfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tíorfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tíorfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíorfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíorfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíorfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíorfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tíorfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tíorfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíorfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíorfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíorfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíorfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tíoradh" mood="Imper" person="Base" />
+  <moodForm default="tíoraim" mood="Imper" person="Sg1" />
+  <moodForm default="tíor" mood="Imper" person="Sg2" />
+  <moodForm default="tíoraimis" mood="Imper" person="Pl1" />
+  <moodForm default="tíoraigí" mood="Imper" person="Pl2" />
+  <moodForm default="tíoraidís" mood="Imper" person="Pl3" />
+  <moodForm default="tíortar" mood="Imper" person="Auto" />
+  <moodForm default="tíora" mood="Subj" person="Base" />
+  <moodForm default="tíoraimid" mood="Subj" person="Pl1" />
+  <moodForm default="tíortar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="géim" disambig="">
+  <verbalNoun default="géimneach" />
+  <verbalAdjective default="géimthe" />
+  <tenseForm default="géim" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="géimeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="géimeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="géimeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="géim" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="géimeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="géimeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="géimeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="géimeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="géiminn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="géimteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="géimimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="géimidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="géimtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="géimeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="géiminn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="géimteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="géimimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="géimidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="géimtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="géimeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="géimim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="géimimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="géimtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="géimeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="géimim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="géimimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="géimtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="géimfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="géimfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="géimfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="géimfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="géimfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="géimfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="géimfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="géimfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="géimfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="géimfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="géimfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="géimfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="géimfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="géimfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="géimfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="géimfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="géimfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="géimfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="géimeadh" mood="Imper" person="Base" />
+  <moodForm default="géimim" mood="Imper" person="Sg1" />
+  <moodForm default="géim" mood="Imper" person="Sg2" />
+  <moodForm default="géimimis" mood="Imper" person="Pl1" />
+  <moodForm default="géimigí" mood="Imper" person="Pl2" />
+  <moodForm default="géimidís" mood="Imper" person="Pl3" />
+  <moodForm default="géimtear" mood="Imper" person="Auto" />
+  <moodForm default="géime" mood="Subj" person="Base" />
+  <moodForm default="géimimid" mood="Subj" person="Pl1" />
+  <moodForm default="géimtear" mood="Subj" person="Auto" />
+</verb>

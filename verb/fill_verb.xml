@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fill" disambig="">
+  <verbalNoun default="filleadh" />
+  <verbalAdjective default="fillte" />
+  <tenseForm default="fill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="filleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="filleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="filleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="filleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="filleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="filleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="filleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="filltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="filleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="filltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="filleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="filltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="filleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="filltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="filleadh" mood="Imper" person="Base" />
+  <moodForm default="fillim" mood="Imper" person="Sg1" />
+  <moodForm default="fill" mood="Imper" person="Sg2" />
+  <moodForm default="fillimis" mood="Imper" person="Pl1" />
+  <moodForm default="filligí" mood="Imper" person="Pl2" />
+  <moodForm default="fillidís" mood="Imper" person="Pl3" />
+  <moodForm default="filltear" mood="Imper" person="Auto" />
+  <moodForm default="fille" mood="Subj" person="Base" />
+  <moodForm default="fillimid" mood="Subj" person="Pl1" />
+  <moodForm default="filltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="greagnaigh" disambig="">
+  <verbalNoun default="greagnú" />
+  <verbalAdjective default="greagnaithe" />
+  <tenseForm default="greagnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="greagnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="greagnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="greagnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="greagnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="greagnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="greagnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="greagnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="greagnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="greagnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="greagnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="greagnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="greagnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="greagnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="greagnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="greagnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="greagnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="greagnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="greagnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="greagnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="greagnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="greagnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="greagnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="greagnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="greagnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="greagnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="greagnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="greagnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="greagnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="greagnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="greagnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="greagnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="greagnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="greagnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="greagnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="greagnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="greagnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="greagnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="greagnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="greagnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="greagnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="greagnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="greagnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="greagnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="greagnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="greagnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="greagnaíodh" mood="Imper" person="Base" />
+  <moodForm default="greagnaím" mood="Imper" person="Sg1" />
+  <moodForm default="greagnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="greagnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="greagnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="greagnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="greagnaítear" mood="Imper" person="Auto" />
+  <moodForm default="greagnaí" mood="Subj" person="Base" />
+  <moodForm default="greagnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="greagnaítear" mood="Subj" person="Auto" />
+</verb>

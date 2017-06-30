@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="monaplaigh" disambig="">
+  <verbalNoun default="monaplú" />
+  <verbalAdjective default="monaplaithe" />
+  <tenseForm default="monaplaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="monaplaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="monaplaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="monaplaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="monaplaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="monaplaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="monaplaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="monaplaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="monaplaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="monaplaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="monaplaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="monaplaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="monaplaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="monaplaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="monaplaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="monaplaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="monaplaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="monaplaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="monaplaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="monaplaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="monaplaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="monaplaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="monaplaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="monaplaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="monaplaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="monaplaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="monaplaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="monaplaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="monaplóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="monaplóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="monaplófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="monaplóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="monaplóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="monaplófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="monaplódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="monaplóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="monaplófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="monaplóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="monaplóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="monaplófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="monaplódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="monaplóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="monaplófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="monaplóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="monaplóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="monaplófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="monaplaíodh" mood="Imper" person="Base" />
+  <moodForm default="monaplaím" mood="Imper" person="Sg1" />
+  <moodForm default="monaplaigh" mood="Imper" person="Sg2" />
+  <moodForm default="monaplaímis" mood="Imper" person="Pl1" />
+  <moodForm default="monaplaígí" mood="Imper" person="Pl2" />
+  <moodForm default="monaplaídís" mood="Imper" person="Pl3" />
+  <moodForm default="monaplaítear" mood="Imper" person="Auto" />
+  <moodForm default="monaplaí" mood="Subj" person="Base" />
+  <moodForm default="monaplaímid" mood="Subj" person="Pl1" />
+  <moodForm default="monaplaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gor" disambig="">
+  <verbalNoun default="goradh" />
+  <verbalAdjective default="gortha" />
+  <tenseForm default="gor" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="goramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="goradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gor" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="goramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="goradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="goradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gorainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gortá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="goraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="goraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gortaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="goradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gorainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gortá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="goraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="goraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gortaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gorann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="goraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="goraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gortar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gorann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="goraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="goraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gortar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gorfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gorfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gorfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gorfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gorfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gorfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gorfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gorfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gorfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gorfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gorfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gorfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gorfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gorfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gorfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gorfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gorfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gorfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="goradh" mood="Imper" person="Base" />
+  <moodForm default="goraim" mood="Imper" person="Sg1" />
+  <moodForm default="gor" mood="Imper" person="Sg2" />
+  <moodForm default="goraimis" mood="Imper" person="Pl1" />
+  <moodForm default="goraigí" mood="Imper" person="Pl2" />
+  <moodForm default="goraidís" mood="Imper" person="Pl3" />
+  <moodForm default="gortar" mood="Imper" person="Auto" />
+  <moodForm default="gora" mood="Subj" person="Base" />
+  <moodForm default="goraimid" mood="Subj" person="Pl1" />
+  <moodForm default="gortar" mood="Subj" person="Auto" />
+</verb>

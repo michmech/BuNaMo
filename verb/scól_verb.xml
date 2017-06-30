@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scól" disambig="">
+  <verbalNoun default="scóladh" />
+  <verbalAdjective default="scólta" />
+  <tenseForm default="scól" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scólamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scóladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scóladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scól" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scólamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scóladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scóladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scóladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scólainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scóltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scólaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scólaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scóltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scóladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scólainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scóltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scólaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scólaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scóltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scólann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scólaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scólaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scóltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scólann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scólaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scólaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scóltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scólfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scólfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scólfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scólfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scólfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scólfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scólfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scólfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scólfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scólfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scólfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scólfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scólfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scólfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scólfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scólfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scólfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scólfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scóladh" mood="Imper" person="Base" />
+  <moodForm default="scólaim" mood="Imper" person="Sg1" />
+  <moodForm default="scól" mood="Imper" person="Sg2" />
+  <moodForm default="scólaimis" mood="Imper" person="Pl1" />
+  <moodForm default="scólaigí" mood="Imper" person="Pl2" />
+  <moodForm default="scólaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scóltar" mood="Imper" person="Auto" />
+  <moodForm default="scóla" mood="Subj" person="Base" />
+  <moodForm default="scólaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scóltar" mood="Subj" person="Auto" />
+</verb>

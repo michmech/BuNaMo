@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bualtaigh" disambig="">
+  <verbalNoun default="bualtú" />
+  <verbalAdjective default="bualtaithe" />
+  <tenseForm default="bualtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bualtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bualtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bualtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bualtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bualtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bualtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bualtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bualtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bualtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bualtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bualtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bualtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bualtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bualtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bualtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bualtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bualtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bualtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bualtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bualtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bualtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bualtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bualtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bualtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bualtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bualtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bualtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bualtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bualtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bualtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bualtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bualtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bualtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bualtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bualtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bualtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bualtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bualtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bualtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bualtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bualtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bualtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bualtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bualtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bualtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bualtaíodh" mood="Imper" person="Base" />
+  <moodForm default="bualtaím" mood="Imper" person="Sg1" />
+  <moodForm default="bualtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="bualtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="bualtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="bualtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="bualtaítear" mood="Imper" person="Auto" />
+  <moodForm default="bualtaí" mood="Subj" person="Base" />
+  <moodForm default="bualtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="bualtaítear" mood="Subj" person="Auto" />
+</verb>

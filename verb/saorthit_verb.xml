@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="saorthit" disambig="">
+  <verbalNoun default="saorthitim" />
+  <verbalAdjective default="saorthite" />
+  <tenseForm default="saorthit" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="saorthiteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorthiteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="saorthiteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="saorthit" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="saorthiteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorthiteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="saorthiteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="saorthiteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="saorthitinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saorthiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="saorthitimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorthitidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="saorthití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="saorthiteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="saorthitinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saorthiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="saorthitimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorthitidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="saorthití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="saorthiteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="saorthitim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saorthitimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorthitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="saorthiteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="saorthitim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saorthitimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorthitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="saorthitfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="saorthitfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorthitfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="saorthitfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="saorthitfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorthitfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="saorthitfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="saorthitfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="saorthitfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="saorthitfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="saorthitfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="saorthitfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="saorthitfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="saorthitfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="saorthitfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="saorthitfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="saorthitfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="saorthitfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="saorthiteadh" mood="Imper" person="Base" />
+  <moodForm default="saorthitim" mood="Imper" person="Sg1" />
+  <moodForm default="saorthit" mood="Imper" person="Sg2" />
+  <moodForm default="saorthitimis" mood="Imper" person="Pl1" />
+  <moodForm default="saorthitigí" mood="Imper" person="Pl2" />
+  <moodForm default="saorthitidís" mood="Imper" person="Pl3" />
+  <moodForm default="saorthitear" mood="Imper" person="Auto" />
+  <moodForm default="saorthite" mood="Subj" person="Base" />
+  <moodForm default="saorthitimid" mood="Subj" person="Pl1" />
+  <moodForm default="saorthitear" mood="Subj" person="Auto" />
+</verb>

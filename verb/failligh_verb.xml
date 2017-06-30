@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="failligh" disambig="">
+  <verbalNoun default="failliú" />
+  <verbalAdjective default="faillithe" />
+  <tenseForm default="failligh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="faillíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="faillíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="faillíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="failligh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="faillíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="faillíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="faillíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="faillíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="faillínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faillíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="faillímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faillídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="faillítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faillíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="faillínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faillíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="faillímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faillídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="faillítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="faillíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="faillím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faillímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faillítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faillíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="faillím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faillímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faillítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="failleoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="failleoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="failleofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="failleoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="failleoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="failleofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="failleodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="failleoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="failleofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="failleoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="failleoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="failleofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="failleodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="failleoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="failleofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="failleoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="failleoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="failleofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="faillíodh" mood="Imper" person="Base" />
+  <moodForm default="faillím" mood="Imper" person="Sg1" />
+  <moodForm default="failligh" mood="Imper" person="Sg2" />
+  <moodForm default="faillímis" mood="Imper" person="Pl1" />
+  <moodForm default="faillígí" mood="Imper" person="Pl2" />
+  <moodForm default="faillídís" mood="Imper" person="Pl3" />
+  <moodForm default="faillítear" mood="Imper" person="Auto" />
+  <moodForm default="faillí" mood="Subj" person="Base" />
+  <moodForm default="faillímid" mood="Subj" person="Pl1" />
+  <moodForm default="faillítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="druileáil" disambig="">
+  <verbalNoun default="druileáil" />
+  <verbalAdjective default="druileáilte" />
+  <tenseForm default="druileáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="druileálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="druileáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="druileáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="druileáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="druileálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="druileáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="druileáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="druileáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="druileálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="druileáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="druileálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="druileálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="druileáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="druileáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="druileálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="druileáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="druileálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="druileálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="druileáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="druileálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="druileálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="druileálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="druileáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="druileálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="druileálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="druileálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="druileáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="druileálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="druileálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="druileálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="druileálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="druileálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="druileálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="druileálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="druileálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="druileálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="druileálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="druileálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="druileálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="druileálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="druileálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="druileálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="druileálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="druileálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="druileálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="druileáladh" mood="Imper" person="Base" />
+  <moodForm default="druileálaim" mood="Imper" person="Sg1" />
+  <moodForm default="druileáil" mood="Imper" person="Sg2" />
+  <moodForm default="druileálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="druileálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="druileálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="druileáiltear" mood="Imper" person="Auto" />
+  <moodForm default="druileála" mood="Subj" person="Base" />
+  <moodForm default="druileálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="druileáiltear" mood="Subj" person="Auto" />
+</verb>

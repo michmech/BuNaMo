@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="atéigh" disambig="">
+  <verbalNoun default="atéamh" />
+  <verbalAdjective default="atéite" />
+  <tenseForm default="atéigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="atéamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="atéadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="atéigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="atéamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="atéadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="atéadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="atéinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="atéiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="atéimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="atéidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="atéití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="atéadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="atéinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="atéiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="atéimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="atéidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="atéití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="atéann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="atéim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="atéimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="atéitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="atéann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="atéim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="atéimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="atéitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="atéifidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="atéifimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="atéifear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="atéifidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="atéifimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="atéifear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="atéifeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="atéifinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="atéifeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="atéfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="atéifidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="atéifí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="atéifeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="atéifinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="atéifeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="atéfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="atéifidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="atéifí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="atéadh" mood="Imper" person="Base" />
+  <moodForm default="atéim" mood="Imper" person="Sg1" />
+  <moodForm default="atéigh" mood="Imper" person="Sg2" />
+  <moodForm default="atéimis" mood="Imper" person="Pl1" />
+  <moodForm default="atéigí" mood="Imper" person="Pl2" />
+  <moodForm default="atéidís" mood="Imper" person="Pl3" />
+  <moodForm default="atéitear" mood="Imper" person="Auto" />
+  <moodForm default="até" mood="Subj" person="Base" />
+  <moodForm default="atéimid" mood="Subj" person="Pl1" />
+  <moodForm default="atéitear" mood="Subj" person="Auto" />
+</verb>

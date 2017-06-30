@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="camhraigh" disambig="">
+  <verbalNoun default="camhrú" />
+  <verbalAdjective default="camhraithe" />
+  <tenseForm default="camhraigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="camhraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="camhraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="camhraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="camhraigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="camhraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="camhraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="camhraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="camhraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="camhraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="camhraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="camhraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="camhraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="camhraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="camhraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="camhraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="camhraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="camhraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="camhraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="camhraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="camhraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="camhraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="camhraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="camhraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="camhraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="camhraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="camhraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="camhraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="camhróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="camhróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="camhrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="camhróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="camhróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="camhrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="camhródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="camhróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="camhrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="camhróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="camhróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="camhrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="camhródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="camhróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="camhrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="camhróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="camhróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="camhrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="camhraíodh" mood="Imper" person="Base" />
+  <moodForm default="camhraím" mood="Imper" person="Sg1" />
+  <moodForm default="camhraigh" mood="Imper" person="Sg2" />
+  <moodForm default="camhraímis" mood="Imper" person="Pl1" />
+  <moodForm default="camhraígí" mood="Imper" person="Pl2" />
+  <moodForm default="camhraídís" mood="Imper" person="Pl3" />
+  <moodForm default="camhraítear" mood="Imper" person="Auto" />
+  <moodForm default="camhraí" mood="Subj" person="Base" />
+  <moodForm default="camhraímid" mood="Subj" person="Pl1" />
+  <moodForm default="camhraítear" mood="Subj" person="Auto" />
+</verb>

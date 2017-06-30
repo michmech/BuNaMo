@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="crónaigh" disambig="">
+  <verbalNoun default="crónú" />
+  <verbalAdjective default="crónaithe" />
+  <tenseForm default="crónaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="crónaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="crónaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="crónaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="crónaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="crónaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="crónaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="crónaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="crónaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="crónaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crónaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="crónaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crónaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="crónaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crónaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="crónaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crónaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="crónaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crónaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="crónaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crónaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="crónaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crónaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crónaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crónaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="crónaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crónaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crónaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crónóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="crónóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="crónófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="crónóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="crónóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="crónófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="crónódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="crónóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="crónófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="crónóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="crónóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="crónófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="crónódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="crónóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="crónófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="crónóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="crónóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="crónófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="crónaíodh" mood="Imper" person="Base" />
+  <moodForm default="crónaím" mood="Imper" person="Sg1" />
+  <moodForm default="crónaigh" mood="Imper" person="Sg2" />
+  <moodForm default="crónaímis" mood="Imper" person="Pl1" />
+  <moodForm default="crónaígí" mood="Imper" person="Pl2" />
+  <moodForm default="crónaídís" mood="Imper" person="Pl3" />
+  <moodForm default="crónaítear" mood="Imper" person="Auto" />
+  <moodForm default="crónaí" mood="Subj" person="Base" />
+  <moodForm default="crónaímid" mood="Subj" person="Pl1" />
+  <moodForm default="crónaítear" mood="Subj" person="Auto" />
+</verb>

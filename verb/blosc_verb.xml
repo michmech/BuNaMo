@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="blosc" disambig="">
+  <verbalNoun default="bloscadh" />
+  <verbalAdjective default="blosctha" />
+  <tenseForm default="blosc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bloscamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloscadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bloscadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="blosc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bloscamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloscadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bloscadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bloscadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bloscainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="blosctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bloscaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloscaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="blosctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bloscadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bloscainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="blosctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bloscaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloscaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="blosctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bloscann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bloscaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bloscaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="blosctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bloscann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bloscaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bloscaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="blosctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bloscfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bloscfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloscfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bloscfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bloscfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloscfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bloscfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bloscfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bloscfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bloscfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloscfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bloscfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bloscfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bloscfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bloscfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bloscfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloscfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bloscfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bloscadh" mood="Imper" person="Base" />
+  <moodForm default="bloscaim" mood="Imper" person="Sg1" />
+  <moodForm default="blosc" mood="Imper" person="Sg2" />
+  <moodForm default="bloscaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bloscaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bloscaidís" mood="Imper" person="Pl3" />
+  <moodForm default="blosctar" mood="Imper" person="Auto" />
+  <moodForm default="blosca" mood="Subj" person="Base" />
+  <moodForm default="bloscaimid" mood="Subj" person="Pl1" />
+  <moodForm default="blosctar" mood="Subj" person="Auto" />
+</verb>

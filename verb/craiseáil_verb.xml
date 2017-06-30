@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="craiseáil" disambig="">
+  <verbalNoun default="craiseáil" />
+  <verbalAdjective default="craiseáilte" />
+  <tenseForm default="craiseáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="craiseálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="craiseáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="craiseáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="craiseáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="craiseálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="craiseáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="craiseáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="craiseáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="craiseálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="craiseáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="craiseálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="craiseálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="craiseáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="craiseáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="craiseálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="craiseáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="craiseálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="craiseálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="craiseáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="craiseálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="craiseálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="craiseálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="craiseáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="craiseálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="craiseálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="craiseálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="craiseáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="craiseálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="craiseálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="craiseálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="craiseálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="craiseálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="craiseálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="craiseálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="craiseálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="craiseálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="craiseálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="craiseálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="craiseálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="craiseálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="craiseálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="craiseálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="craiseálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="craiseálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="craiseálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="craiseáladh" mood="Imper" person="Base" />
+  <moodForm default="craiseálaim" mood="Imper" person="Sg1" />
+  <moodForm default="craiseáil" mood="Imper" person="Sg2" />
+  <moodForm default="craiseálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="craiseálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="craiseálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="craiseáiltear" mood="Imper" person="Auto" />
+  <moodForm default="craiseála" mood="Subj" person="Base" />
+  <moodForm default="craiseálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="craiseáiltear" mood="Subj" person="Auto" />
+</verb>

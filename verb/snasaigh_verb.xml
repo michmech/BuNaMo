@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="snasaigh" disambig="">
+  <verbalNoun default="snasú" />
+  <verbalAdjective default="snasaithe" />
+  <tenseForm default="snasaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="snasaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="snasaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="snasaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="snasaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="snasaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="snasaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="snasaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="snasaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="snasaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="snasaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="snasaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="snasaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="snasaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="snasaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="snasaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="snasaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="snasaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="snasaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="snasaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="snasaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="snasaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="snasaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="snasaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="snasaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="snasaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="snasaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="snasaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="snasóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="snasóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="snasófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="snasóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="snasóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="snasófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="snasódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="snasóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="snasófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="snasóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="snasóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="snasófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="snasódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="snasóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="snasófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="snasóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="snasóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="snasófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="snasaíodh" mood="Imper" person="Base" />
+  <moodForm default="snasaím" mood="Imper" person="Sg1" />
+  <moodForm default="snasaigh" mood="Imper" person="Sg2" />
+  <moodForm default="snasaímis" mood="Imper" person="Pl1" />
+  <moodForm default="snasaígí" mood="Imper" person="Pl2" />
+  <moodForm default="snasaídís" mood="Imper" person="Pl3" />
+  <moodForm default="snasaítear" mood="Imper" person="Auto" />
+  <moodForm default="snasaí" mood="Subj" person="Base" />
+  <moodForm default="snasaímid" mood="Subj" person="Pl1" />
+  <moodForm default="snasaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="poll" disambig="">
+  <verbalNoun default="polladh" />
+  <verbalAdjective default="pollta" />
+  <tenseForm default="poll" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pollamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="polladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="polladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="poll" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pollamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="polladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="polladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="polladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pollainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="polltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pollaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pollaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="polltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="polladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pollainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="polltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pollaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pollaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="polltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pollann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pollaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pollaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="polltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pollann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pollaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pollaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="polltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pollfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pollfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pollfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pollfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pollfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pollfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pollfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pollfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pollfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pollfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pollfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pollfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pollfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pollfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pollfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pollfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pollfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pollfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="polladh" mood="Imper" person="Base" />
+  <moodForm default="pollaim" mood="Imper" person="Sg1" />
+  <moodForm default="poll" mood="Imper" person="Sg2" />
+  <moodForm default="pollaimis" mood="Imper" person="Pl1" />
+  <moodForm default="pollaigí" mood="Imper" person="Pl2" />
+  <moodForm default="pollaidís" mood="Imper" person="Pl3" />
+  <moodForm default="polltar" mood="Imper" person="Auto" />
+  <moodForm default="polla" mood="Subj" person="Base" />
+  <moodForm default="pollaimid" mood="Subj" person="Pl1" />
+  <moodForm default="polltar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="liostaigh" disambig="">
+  <verbalNoun default="liostú" />
+  <verbalAdjective default="liostaithe" />
+  <tenseForm default="liostaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="liostaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="liostaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="liostaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="liostaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="liostaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="liostaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="liostaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="liostaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="liostaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="liostaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="liostaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="liostaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="liostaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="liostaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="liostaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="liostaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="liostaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="liostaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="liostaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="liostaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="liostaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="liostaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="liostaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="liostaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="liostaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="liostaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="liostaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="liostóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="liostóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="liostófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="liostóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="liostóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="liostófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="liostódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="liostóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="liostófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="liostóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="liostóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="liostófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="liostódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="liostóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="liostófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="liostóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="liostóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="liostófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="liostaíodh" mood="Imper" person="Base" />
+  <moodForm default="liostaím" mood="Imper" person="Sg1" />
+  <moodForm default="liostaigh" mood="Imper" person="Sg2" />
+  <moodForm default="liostaímis" mood="Imper" person="Pl1" />
+  <moodForm default="liostaígí" mood="Imper" person="Pl2" />
+  <moodForm default="liostaídís" mood="Imper" person="Pl3" />
+  <moodForm default="liostaítear" mood="Imper" person="Auto" />
+  <moodForm default="liostaí" mood="Subj" person="Base" />
+  <moodForm default="liostaímid" mood="Subj" person="Pl1" />
+  <moodForm default="liostaítear" mood="Subj" person="Auto" />
+</verb>

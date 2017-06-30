@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athoil" disambig="">
+  <verbalNoun default="athoiliúint" />
+  <verbalAdjective default="athoilte" />
+  <tenseForm default="athoil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athoileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athoileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athoileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athoil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athoileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athoileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athoileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athoileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athoilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athoilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athoilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athoilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athoiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athoileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athoilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athoilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athoilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athoilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athoiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athoileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athoilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athoilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athoiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athoileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athoilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athoilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athoiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athoilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athoilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athoilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athoilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athoilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athoilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athoilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athoilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athoilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athoilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athoilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athoilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athoilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athoilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athoilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athoilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athoilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athoilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athoileadh" mood="Imper" person="Base" />
+  <moodForm default="athoilim" mood="Imper" person="Sg1" />
+  <moodForm default="athoil" mood="Imper" person="Sg2" />
+  <moodForm default="athoilimis" mood="Imper" person="Pl1" />
+  <moodForm default="athoiligí" mood="Imper" person="Pl2" />
+  <moodForm default="athoilidís" mood="Imper" person="Pl3" />
+  <moodForm default="athoiltear" mood="Imper" person="Auto" />
+  <moodForm default="athoile" mood="Subj" person="Base" />
+  <moodForm default="athoilimid" mood="Subj" person="Pl1" />
+  <moodForm default="athoiltear" mood="Subj" person="Auto" />
+</verb>

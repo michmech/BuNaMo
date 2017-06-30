@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athordaigh" disambig="">
+  <verbalNoun default="athordú" />
+  <verbalAdjective default="athordaithe" />
+  <tenseForm default="athordaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athordaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athordaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athordaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athordaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athordaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athordaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athordaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athordaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athordaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athordaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athordaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athordaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athordaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athordaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athordaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athordaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athordaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athordaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athordaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athordaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athordaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athordaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athordaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athordaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athordaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athordaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athordaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athordóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athordóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athordófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athordóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athordóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athordófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athordódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athordóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athordófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athordóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athordóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athordófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athordódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athordóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athordófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athordóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athordóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athordófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athordaíodh" mood="Imper" person="Base" />
+  <moodForm default="athordaím" mood="Imper" person="Sg1" />
+  <moodForm default="athordaigh" mood="Imper" person="Sg2" />
+  <moodForm default="athordaímis" mood="Imper" person="Pl1" />
+  <moodForm default="athordaígí" mood="Imper" person="Pl2" />
+  <moodForm default="athordaídís" mood="Imper" person="Pl3" />
+  <moodForm default="athordaítear" mood="Imper" person="Auto" />
+  <moodForm default="athordaí" mood="Subj" person="Base" />
+  <moodForm default="athordaímid" mood="Subj" person="Pl1" />
+  <moodForm default="athordaítear" mood="Subj" person="Auto" />
+</verb>

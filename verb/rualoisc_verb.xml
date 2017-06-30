@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rualoisc" disambig="">
+  <verbalNoun default="rualoscadh" />
+  <verbalAdjective default="rualoiscthe" />
+  <tenseForm default="rualoisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rualoisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rualoisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rualoisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rualoisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rualoisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rualoisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rualoisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rualoisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rualoiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rualoiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rualoiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rualoiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rualoisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rualoisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rualoiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rualoiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rualoiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rualoiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rualoisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rualoisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rualoiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rualoiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rualoisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rualoisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rualoiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rualoiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rualoisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rualoiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rualoiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rualoiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rualoiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rualoiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rualoiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rualoiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rualoiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rualoiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rualoiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rualoiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rualoiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rualoiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rualoiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rualoiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rualoiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rualoiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rualoiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rualoisceadh" mood="Imper" person="Base" />
+  <moodForm default="rualoiscim" mood="Imper" person="Sg1" />
+  <moodForm default="rualoisc" mood="Imper" person="Sg2" />
+  <moodForm default="rualoiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="rualoiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="rualoiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="rualoisctear" mood="Imper" person="Auto" />
+  <moodForm default="rualoisce" mood="Subj" person="Base" />
+  <moodForm default="rualoiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="rualoisctear" mood="Subj" person="Auto" />
+</verb>

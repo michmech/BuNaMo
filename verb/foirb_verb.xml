@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="foirb" disambig="">
+  <verbalNoun default="foirbeadh" />
+  <verbalAdjective default="foirbthe" />
+  <tenseForm default="foirb" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="foirbeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirbeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirbeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="foirb" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="foirbeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirbeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirbeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="foirbeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="foirbinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirbteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="foirbimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirbidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirbtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foirbeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="foirbinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirbteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="foirbimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirbidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirbtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foirbeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="foirbim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirbimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirbtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foirbeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="foirbim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirbimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirbtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foirbfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="foirbfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirbfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="foirbfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="foirbfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirbfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="foirbfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="foirbfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirbfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="foirbfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirbfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirbfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="foirbfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="foirbfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirbfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="foirbfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirbfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirbfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="foirbeadh" mood="Imper" person="Base" />
+  <moodForm default="foirbim" mood="Imper" person="Sg1" />
+  <moodForm default="foirb" mood="Imper" person="Sg2" />
+  <moodForm default="foirbimis" mood="Imper" person="Pl1" />
+  <moodForm default="foirbigí" mood="Imper" person="Pl2" />
+  <moodForm default="foirbidís" mood="Imper" person="Pl3" />
+  <moodForm default="foirbtear" mood="Imper" person="Auto" />
+  <moodForm default="foirbe" mood="Subj" person="Base" />
+  <moodForm default="foirbimid" mood="Subj" person="Pl1" />
+  <moodForm default="foirbtear" mood="Subj" person="Auto" />
+</verb>

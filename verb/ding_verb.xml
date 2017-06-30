@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ding" disambig="">
+  <verbalNoun default="dingeadh" />
+  <verbalAdjective default="dingthe" />
+  <tenseForm default="ding" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dingeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dingeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dingeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ding" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dingeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dingeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dingeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dingeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dinginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dingteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dingimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dingidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dingtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dingeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dinginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dingteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dingimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dingidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dingtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dingeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dingim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dingimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dingtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dingeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dingim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dingimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dingtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dingfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dingfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dingfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dingfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dingfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dingfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dingfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dingfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dingfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dingfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dingfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dingfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dingfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dingfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dingfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dingfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dingfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dingfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dingeadh" mood="Imper" person="Base" />
+  <moodForm default="dingim" mood="Imper" person="Sg1" />
+  <moodForm default="ding" mood="Imper" person="Sg2" />
+  <moodForm default="dingimis" mood="Imper" person="Pl1" />
+  <moodForm default="dingigí" mood="Imper" person="Pl2" />
+  <moodForm default="dingidís" mood="Imper" person="Pl3" />
+  <moodForm default="dingtear" mood="Imper" person="Auto" />
+  <moodForm default="dinge" mood="Subj" person="Base" />
+  <moodForm default="dingimid" mood="Subj" person="Pl1" />
+  <moodForm default="dingtear" mood="Subj" person="Auto" />
+</verb>

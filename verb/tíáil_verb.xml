@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tíáil" disambig="">
+  <verbalNoun default="tíáil" />
+  <verbalAdjective default="tíáilte" />
+  <tenseForm default="tíáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tíálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tíáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tíálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tíáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tíálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tíálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tíálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tíálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tíálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tíálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tíálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tíáladh" mood="Imper" person="Base" />
+  <moodForm default="tíálaim" mood="Imper" person="Sg1" />
+  <moodForm default="tíáil" mood="Imper" person="Sg2" />
+  <moodForm default="tíálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tíálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tíálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tíáiltear" mood="Imper" person="Auto" />
+  <moodForm default="tíála" mood="Subj" person="Base" />
+  <moodForm default="tíálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tíáiltear" mood="Subj" person="Auto" />
+</verb>

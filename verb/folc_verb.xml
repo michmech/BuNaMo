@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="folc" disambig="">
+  <verbalNoun default="folcadh" />
+  <verbalAdjective default="folctha" />
+  <tenseForm default="folc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="folcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="folcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="folcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="folc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="folcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="folcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="folcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="folcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="folcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="folctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="folcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="folcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="folctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="folcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="folcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="folctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="folcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="folcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="folctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="folcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="folcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="folcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="folctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="folcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="folcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="folcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="folctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="folcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="folcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="folcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="folcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="folcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="folcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="folcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="folcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="folcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="folcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="folcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="folcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="folcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="folcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="folcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="folcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="folcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="folcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="folcadh" mood="Imper" person="Base" />
+  <moodForm default="folcaim" mood="Imper" person="Sg1" />
+  <moodForm default="folc" mood="Imper" person="Sg2" />
+  <moodForm default="folcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="folcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="folcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="folctar" mood="Imper" person="Auto" />
+  <moodForm default="folca" mood="Subj" person="Base" />
+  <moodForm default="folcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="folctar" mood="Subj" person="Auto" />
+</verb>

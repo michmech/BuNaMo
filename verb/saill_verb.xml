@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="saill" disambig="">
+  <verbalNoun default="sailleadh" />
+  <verbalAdjective default="saillte" />
+  <tenseForm default="saill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sailleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sailleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sailleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="saill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sailleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sailleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sailleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sailleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="saillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="saillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="saillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sailltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sailleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="saillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="saillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="saillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sailltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sailleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="saillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="saillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sailltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sailleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="saillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="saillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sailltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="saillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="saillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="saillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="saillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="saillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="saillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="saillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="saillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="saillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="saillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="saillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="saillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="saillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="saillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="saillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="saillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="saillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="saillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sailleadh" mood="Imper" person="Base" />
+  <moodForm default="saillim" mood="Imper" person="Sg1" />
+  <moodForm default="saill" mood="Imper" person="Sg2" />
+  <moodForm default="saillimis" mood="Imper" person="Pl1" />
+  <moodForm default="sailligí" mood="Imper" person="Pl2" />
+  <moodForm default="saillidís" mood="Imper" person="Pl3" />
+  <moodForm default="sailltear" mood="Imper" person="Auto" />
+  <moodForm default="saille" mood="Subj" person="Base" />
+  <moodForm default="saillimid" mood="Subj" person="Pl1" />
+  <moodForm default="sailltear" mood="Subj" person="Auto" />
+</verb>

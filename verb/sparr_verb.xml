@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sparr" disambig="">
+  <verbalNoun default="sparradh" />
+  <verbalAdjective default="sparrtha" />
+  <tenseForm default="sparr" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sparramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sparradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sparradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sparr" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sparramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sparradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sparradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sparradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sparrainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sparrtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sparraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sparraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sparrtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sparradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sparrainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sparrtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sparraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sparraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sparrtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sparrann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sparraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sparraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sparrtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sparrann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sparraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sparraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sparrtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sparrfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sparrfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sparrfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sparrfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sparrfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sparrfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sparrfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sparrfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sparrfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sparrfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sparrfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sparrfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sparrfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sparrfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sparrfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sparrfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sparrfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sparrfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sparradh" mood="Imper" person="Base" />
+  <moodForm default="sparraim" mood="Imper" person="Sg1" />
+  <moodForm default="sparr" mood="Imper" person="Sg2" />
+  <moodForm default="sparraimis" mood="Imper" person="Pl1" />
+  <moodForm default="sparraigí" mood="Imper" person="Pl2" />
+  <moodForm default="sparraidís" mood="Imper" person="Pl3" />
+  <moodForm default="sparrtar" mood="Imper" person="Auto" />
+  <moodForm default="sparra" mood="Subj" person="Base" />
+  <moodForm default="sparraimid" mood="Subj" person="Pl1" />
+  <moodForm default="sparrtar" mood="Subj" person="Auto" />
+</verb>

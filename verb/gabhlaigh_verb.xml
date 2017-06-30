@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gabhlaigh" disambig="">
+  <verbalNoun default="gabhlú" />
+  <verbalAdjective default="gabhlaithe" />
+  <tenseForm default="gabhlaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gabhlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gabhlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gabhlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gabhlaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gabhlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gabhlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gabhlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gabhlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gabhlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gabhlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gabhlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gabhlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gabhlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gabhlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gabhlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gabhlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gabhlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gabhlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gabhlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gabhlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gabhlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gabhlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gabhlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gabhlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gabhlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gabhlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gabhlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gabhlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gabhlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gabhlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gabhlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gabhlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gabhlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gabhlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gabhlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gabhlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gabhlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gabhlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gabhlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gabhlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gabhlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gabhlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gabhlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gabhlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gabhlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gabhlaíodh" mood="Imper" person="Base" />
+  <moodForm default="gabhlaím" mood="Imper" person="Sg1" />
+  <moodForm default="gabhlaigh" mood="Imper" person="Sg2" />
+  <moodForm default="gabhlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="gabhlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="gabhlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="gabhlaítear" mood="Imper" person="Auto" />
+  <moodForm default="gabhlaí" mood="Subj" person="Base" />
+  <moodForm default="gabhlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="gabhlaítear" mood="Subj" person="Auto" />
+</verb>

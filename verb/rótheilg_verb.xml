@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rótheilg" disambig="">
+  <verbalNoun default="rótheilgean" />
+  <verbalAdjective default="rótheilgthe" />
+  <tenseForm default="rótheilg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rótheilgeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rótheilgeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rótheilgeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rótheilg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rótheilgeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rótheilgeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rótheilgeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rótheilgeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rótheilginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rótheilgteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rótheilgimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rótheilgidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rótheilgtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rótheilgeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rótheilginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rótheilgteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rótheilgimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rótheilgidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rótheilgtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rótheilgeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rótheilgim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rótheilgimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rótheilgtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rótheilgeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rótheilgim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rótheilgimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rótheilgtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rótheilgfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rótheilgfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rótheilgfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rótheilgfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rótheilgfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rótheilgfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rótheilgfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rótheilgfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rótheilgfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rótheilgfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rótheilgfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rótheilgfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rótheilgfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rótheilgfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rótheilgfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rótheilgfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rótheilgfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rótheilgfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rótheilgeadh" mood="Imper" person="Base" />
+  <moodForm default="rótheilgim" mood="Imper" person="Sg1" />
+  <moodForm default="rótheilg" mood="Imper" person="Sg2" />
+  <moodForm default="rótheilgimis" mood="Imper" person="Pl1" />
+  <moodForm default="rótheilgigí" mood="Imper" person="Pl2" />
+  <moodForm default="rótheilgidís" mood="Imper" person="Pl3" />
+  <moodForm default="rótheilgtear" mood="Imper" person="Auto" />
+  <moodForm default="rótheilge" mood="Subj" person="Base" />
+  <moodForm default="rótheilgimid" mood="Subj" person="Pl1" />
+  <moodForm default="rótheilgtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="nasc" disambig="">
+  <verbalNoun default="nascadh" />
+  <verbalAdjective default="nasctha" />
+  <tenseForm default="nasc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="nascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="nascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="nasc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="nascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="nascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="nascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="nascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nasctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="nascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="nasctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="nascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nasctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="nascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="nasctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="nascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nasctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="nascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nasctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="nascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="nascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="nascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="nascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="nascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="nascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="nascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="nascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="nascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="nascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="nascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="nascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="nascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="nascadh" mood="Imper" person="Base" />
+  <moodForm default="nascaim" mood="Imper" person="Sg1" />
+  <moodForm default="nasc" mood="Imper" person="Sg2" />
+  <moodForm default="nascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="nascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="nascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="nasctar" mood="Imper" person="Auto" />
+  <moodForm default="nasca" mood="Subj" person="Base" />
+  <moodForm default="nascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="nasctar" mood="Subj" person="Auto" />
+</verb>

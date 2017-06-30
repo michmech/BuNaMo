@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cliath" disambig="">
+  <verbalNoun default="cliathadh" />
+  <verbalAdjective default="cliata" />
+  <tenseForm default="cliath" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cliathamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cliathadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cliathadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cliath" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cliathamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cliathadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cliathadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cliathadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cliathainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cliatá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cliathaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cliathaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cliataí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cliathadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cliathainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cliatá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cliathaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cliathaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cliataí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cliathann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cliathaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cliathaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cliatar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cliathann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cliathaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cliathaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cliatar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cliathfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cliathfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cliathfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cliathfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cliathfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cliathfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cliathfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cliathfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cliathfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cliathfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cliathfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cliathfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cliathfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cliathfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cliathfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cliathfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cliathfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cliathfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cliathadh" mood="Imper" person="Base" />
+  <moodForm default="cliathaim" mood="Imper" person="Sg1" />
+  <moodForm default="cliath" mood="Imper" person="Sg2" />
+  <moodForm default="cliathaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cliathaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cliathaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cliatar" mood="Imper" person="Auto" />
+  <moodForm default="cliatha" mood="Subj" person="Base" />
+  <moodForm default="cliathaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cliatar" mood="Subj" person="Auto" />
+</verb>

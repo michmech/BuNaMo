@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="imghlan" disambig="">
+  <verbalNoun default="imghlanadh" />
+  <verbalAdjective default="imghlanta" />
+  <tenseForm default="imghlan" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="imghlanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="imghlanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="imghlanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="imghlan" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="imghlanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="imghlanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="imghlanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="imghlanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="imghlanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imghlantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="imghlanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imghlanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="imghlantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imghlanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="imghlanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imghlantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="imghlanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imghlanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="imghlantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imghlanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="imghlanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imghlanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imghlantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imghlanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="imghlanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imghlanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imghlantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imghlanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="imghlanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="imghlanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="imghlanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="imghlanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="imghlanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="imghlanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="imghlanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="imghlanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="imghlanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="imghlanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="imghlanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="imghlanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="imghlanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="imghlanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="imghlanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="imghlanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="imghlanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="imghlanadh" mood="Imper" person="Base" />
+  <moodForm default="imghlanaim" mood="Imper" person="Sg1" />
+  <moodForm default="imghlan" mood="Imper" person="Sg2" />
+  <moodForm default="imghlanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="imghlanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="imghlanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="imghlantar" mood="Imper" person="Auto" />
+  <moodForm default="imghlana" mood="Subj" person="Base" />
+  <moodForm default="imghlanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="imghlantar" mood="Subj" person="Auto" />
+</verb>

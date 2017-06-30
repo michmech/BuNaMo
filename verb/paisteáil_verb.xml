@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="paisteáil" disambig="">
+  <verbalNoun default="paisteáil" />
+  <verbalAdjective default="paisteáilte" />
+  <tenseForm default="paisteáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="paisteálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="paisteáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="paisteáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="paisteáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="paisteálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="paisteáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="paisteáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="paisteáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="paisteálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="paisteáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="paisteálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="paisteálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="paisteáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="paisteáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="paisteálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="paisteáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="paisteálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="paisteálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="paisteáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="paisteálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="paisteálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="paisteálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="paisteáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="paisteálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="paisteálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="paisteálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="paisteáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="paisteálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="paisteálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="paisteálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="paisteálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="paisteálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="paisteálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="paisteálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="paisteálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="paisteálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="paisteálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="paisteálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="paisteálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="paisteálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="paisteálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="paisteálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="paisteálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="paisteálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="paisteálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="paisteáladh" mood="Imper" person="Base" />
+  <moodForm default="paisteálaim" mood="Imper" person="Sg1" />
+  <moodForm default="paisteáil" mood="Imper" person="Sg2" />
+  <moodForm default="paisteálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="paisteálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="paisteálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="paisteáiltear" mood="Imper" person="Auto" />
+  <moodForm default="paisteála" mood="Subj" person="Base" />
+  <moodForm default="paisteálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="paisteáiltear" mood="Subj" person="Auto" />
+</verb>

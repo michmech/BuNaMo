@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pinseáil" disambig="">
+  <verbalNoun default="pinseáil" />
+  <verbalAdjective default="pinseáilte" />
+  <tenseForm default="pinseáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pinseálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pinseáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="pinseáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pinseáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pinseálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pinseáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pinseáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="pinseáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pinseálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pinseáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pinseálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pinseálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pinseáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pinseáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pinseálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pinseáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pinseálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pinseálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pinseáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pinseálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pinseálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pinseálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pinseáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pinseálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pinseálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pinseálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pinseáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pinseálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pinseálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pinseálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pinseálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pinseálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pinseálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pinseálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pinseálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pinseálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pinseálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pinseálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pinseálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pinseálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pinseálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pinseálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pinseálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pinseálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pinseálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pinseáladh" mood="Imper" person="Base" />
+  <moodForm default="pinseálaim" mood="Imper" person="Sg1" />
+  <moodForm default="pinseáil" mood="Imper" person="Sg2" />
+  <moodForm default="pinseálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="pinseálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="pinseálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="pinseáiltear" mood="Imper" person="Auto" />
+  <moodForm default="pinseála" mood="Subj" person="Base" />
+  <moodForm default="pinseálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="pinseáiltear" mood="Subj" person="Auto" />
+</verb>

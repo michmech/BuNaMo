@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scoilt" disambig="">
+  <verbalNoun default="scoilteadh" />
+  <verbalAdjective default="scoilte" />
+  <tenseForm default="scoilt" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scoilteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoilteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoilteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scoilt" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scoilteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoilteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoilteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scoilteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scoiltinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scoiltimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoiltidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scoilteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scoiltinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scoiltimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoiltidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scoilteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scoiltim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoiltimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scoilteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scoiltim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoiltimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scoiltfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scoiltfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoiltfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scoiltfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scoiltfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoiltfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scoiltfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scoiltfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoiltfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scoiltfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoiltfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoiltfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scoiltfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scoiltfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoiltfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scoiltfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoiltfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoiltfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scoilteadh" mood="Imper" person="Base" />
+  <moodForm default="scoiltim" mood="Imper" person="Sg1" />
+  <moodForm default="scoilt" mood="Imper" person="Sg2" />
+  <moodForm default="scoiltimis" mood="Imper" person="Pl1" />
+  <moodForm default="scoiltigí" mood="Imper" person="Pl2" />
+  <moodForm default="scoiltidís" mood="Imper" person="Pl3" />
+  <moodForm default="scoiltear" mood="Imper" person="Auto" />
+  <moodForm default="scoilte" mood="Subj" person="Base" />
+  <moodForm default="scoiltimid" mood="Subj" person="Pl1" />
+  <moodForm default="scoiltear" mood="Subj" person="Auto" />
+</verb>

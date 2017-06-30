@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="crinn" disambig="">
+  <verbalNoun default="crinneadh" />
+  <verbalAdjective default="crinnte" />
+  <tenseForm default="crinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="crinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="crinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="crinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="crinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="crinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="crinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="crinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="crinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="crinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="crinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="crinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="crinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="crinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="crinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="crinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="crinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="crinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="crinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="crinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="crinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="crinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="crinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="crinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="crinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="crinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="crinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="crinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="crinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="crinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="crinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="crinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="crinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="crinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="crinneadh" mood="Imper" person="Base" />
+  <moodForm default="crinnim" mood="Imper" person="Sg1" />
+  <moodForm default="crinn" mood="Imper" person="Sg2" />
+  <moodForm default="crinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="crinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="crinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="crinntear" mood="Imper" person="Auto" />
+  <moodForm default="crinne" mood="Subj" person="Base" />
+  <moodForm default="crinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="crinntear" mood="Subj" person="Auto" />
+</verb>

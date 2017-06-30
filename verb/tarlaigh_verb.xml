@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tarlaigh" disambig="">
+  <verbalNoun default="tarlú" />
+  <verbalAdjective default="tarlaithe" />
+  <tenseForm default="tarla" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tarlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tarla" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tarlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tarlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tarlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tarlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tarlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tarlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tarlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tarlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tarlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tarlaíodh" mood="Imper" person="Base" />
+  <moodForm default="tarlaím" mood="Imper" person="Sg1" />
+  <moodForm default="tarlaigh" mood="Imper" person="Sg2" />
+  <moodForm default="tarlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="tarlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="tarlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="tarlaítear" mood="Imper" person="Auto" />
+  <moodForm default="tarlaí" mood="Subj" person="Base" />
+  <moodForm default="tarlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="tarlaítear" mood="Subj" person="Auto" />
+</verb>

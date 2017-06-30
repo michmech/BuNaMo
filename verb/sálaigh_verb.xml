@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sálaigh" disambig="">
+  <verbalNoun default="sálú" />
+  <verbalAdjective default="sálaithe" />
+  <tenseForm default="sálaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sálaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sálaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sálaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sálaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sálaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sálaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sálaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sálaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sálaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sálaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sálaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sálaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sálaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sálaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sálaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sálaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sálaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sálaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sálaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sálaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sálaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sálaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sálaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sálaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sálaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sálaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sálaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sálóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sálóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sálófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sálóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sálóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sálófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sálódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sálóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sálófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sálóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sálóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sálófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sálódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sálóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sálófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sálóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sálóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sálófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sálaíodh" mood="Imper" person="Base" />
+  <moodForm default="sálaím" mood="Imper" person="Sg1" />
+  <moodForm default="sálaigh" mood="Imper" person="Sg2" />
+  <moodForm default="sálaímis" mood="Imper" person="Pl1" />
+  <moodForm default="sálaígí" mood="Imper" person="Pl2" />
+  <moodForm default="sálaídís" mood="Imper" person="Pl3" />
+  <moodForm default="sálaítear" mood="Imper" person="Auto" />
+  <moodForm default="sálaí" mood="Subj" person="Base" />
+  <moodForm default="sálaímid" mood="Subj" person="Pl1" />
+  <moodForm default="sálaítear" mood="Subj" person="Auto" />
+</verb>

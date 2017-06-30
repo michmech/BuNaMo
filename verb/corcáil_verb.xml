@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="corcáil" disambig="">
+  <verbalNoun default="corcáil" />
+  <verbalAdjective default="corcáilte" />
+  <tenseForm default="corcáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="corcálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="corcáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="corcáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="corcáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="corcálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="corcáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="corcáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="corcáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="corcálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="corcáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="corcálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="corcálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="corcáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="corcáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="corcálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="corcáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="corcálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="corcálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="corcáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corcálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="corcálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="corcálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="corcáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="corcálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="corcálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="corcálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="corcáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corcálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="corcálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="corcálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="corcálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="corcálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="corcálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="corcálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="corcálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="corcálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="corcálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="corcálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="corcálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="corcálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="corcálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="corcálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="corcálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="corcálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="corcálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="corcáladh" mood="Imper" person="Base" />
+  <moodForm default="corcálaim" mood="Imper" person="Sg1" />
+  <moodForm default="corcáil" mood="Imper" person="Sg2" />
+  <moodForm default="corcálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="corcálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="corcálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="corcáiltear" mood="Imper" person="Auto" />
+  <moodForm default="corcála" mood="Subj" person="Base" />
+  <moodForm default="corcálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="corcáiltear" mood="Subj" person="Auto" />
+</verb>

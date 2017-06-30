@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="críochnaigh" disambig="">
+  <verbalNoun default="críochnú" />
+  <verbalAdjective default="críochnaithe" />
+  <tenseForm default="críochnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="críochnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="críochnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="críochnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="críochnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="críochnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="críochnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="críochnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="críochnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="críochnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="críochnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="críochnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="críochnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="críochnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="críochnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="críochnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="críochnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="críochnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="críochnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="críochnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="críochnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="críochnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="críochnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="críochnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="críochnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="críochnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="críochnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="críochnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="críochnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="críochnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="críochnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="críochnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="críochnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="críochnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="críochnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="críochnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="críochnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="críochnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="críochnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="críochnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="críochnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="críochnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="críochnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="críochnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="críochnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="críochnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="críochnaíodh" mood="Imper" person="Base" />
+  <moodForm default="críochnaím" mood="Imper" person="Sg1" />
+  <moodForm default="críochnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="críochnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="críochnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="críochnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="críochnaítear" mood="Imper" person="Auto" />
+  <moodForm default="críochnaí" mood="Subj" person="Base" />
+  <moodForm default="críochnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="críochnaítear" mood="Subj" person="Auto" />
+</verb>

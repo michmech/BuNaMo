@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coirb" disambig="">
+  <verbalNoun default="coirbeadh" />
+  <verbalAdjective default="coirbthe" />
+  <tenseForm default="coirb" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coirbeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coirbeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coirbeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="coirb" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coirbeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coirbeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coirbeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="coirbeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="coirbinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coirbteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coirbimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coirbidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coirbtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coirbeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="coirbinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coirbteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coirbimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coirbidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coirbtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coirbeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coirbim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coirbimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coirbtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coirbeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coirbim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coirbimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coirbtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coirbfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="coirbfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="coirbfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="coirbfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="coirbfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="coirbfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="coirbfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="coirbfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="coirbfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="coirbfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="coirbfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="coirbfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="coirbfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="coirbfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="coirbfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="coirbfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="coirbfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="coirbfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coirbeadh" mood="Imper" person="Base" />
+  <moodForm default="coirbim" mood="Imper" person="Sg1" />
+  <moodForm default="coirb" mood="Imper" person="Sg2" />
+  <moodForm default="coirbimis" mood="Imper" person="Pl1" />
+  <moodForm default="coirbigí" mood="Imper" person="Pl2" />
+  <moodForm default="coirbidís" mood="Imper" person="Pl3" />
+  <moodForm default="coirbtear" mood="Imper" person="Auto" />
+  <moodForm default="coirbe" mood="Subj" person="Base" />
+  <moodForm default="coirbimid" mood="Subj" person="Pl1" />
+  <moodForm default="coirbtear" mood="Subj" person="Auto" />
+</verb>

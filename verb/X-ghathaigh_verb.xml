@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="X-ghathaigh" disambig="">
+  <verbalNoun default="X-ghathú" />
+  <verbalAdjective default="X-ghathaithe" />
+  <tenseForm default="d'X-ghathaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="d'X-ghathaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="d'X-ghathaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="X-ghathaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="d'X-ghathaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="d'X-ghathaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="d'X-ghathaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="X-ghathaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="d'X-ghathaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="d'X-ghathaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="d'X-ghathaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="d'X-ghathaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="d'X-ghathaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="d'X-ghathaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="d'X-ghathaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="d'X-ghathaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="d'X-ghathaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="d'X-ghathaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="d'X-ghathaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="d'X-ghathaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="X-ghathaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="X-ghathaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="X-ghathaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="X-ghathaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="X-ghathaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="X-ghathaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="X-ghathaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="X-ghathaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="X-ghathóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="X-ghathóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="X-ghathófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="X-ghathóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="X-ghathóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="X-ghathófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="d'X-ghathódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="d'X-ghathóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="d'X-ghathófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="d'X-ghathóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="d'X-ghathóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="d'X-ghathófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="d'X-ghathódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="d'X-ghathóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="d'X-ghathófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="d'X-ghathóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="d'X-ghathóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="d'X-ghathófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="X-ghathaíodh" mood="Imper" person="Base" />
+  <moodForm default="X-ghathaím" mood="Imper" person="Sg1" />
+  <moodForm default="X-ghathaigh" mood="Imper" person="Sg2" />
+  <moodForm default="X-ghathaímis" mood="Imper" person="Pl1" />
+  <moodForm default="X-ghathaígí" mood="Imper" person="Pl2" />
+  <moodForm default="X-ghathaídís" mood="Imper" person="Pl3" />
+  <moodForm default="X-ghathaítear" mood="Imper" person="Auto" />
+  <moodForm default="X-ghathaí" mood="Subj" person="Base" />
+  <moodForm default="X-ghathaímid" mood="Subj" person="Pl1" />
+  <moodForm default="X-ghathaítear" mood="Subj" person="Auto" />
+</verb>

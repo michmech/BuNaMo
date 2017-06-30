@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="faomh" disambig="">
+  <verbalNoun default="faomhadh" />
+  <verbalAdjective default="faofa" />
+  <tenseForm default="faomh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="faomhamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="faomhadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="faomhadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="faomh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="faomhamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="faomhadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="faomhadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="faomhadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="faomhainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faomhtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="faomhaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faomhaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="faomhtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faomhadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="faomhainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faomhtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="faomhaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faomhaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="faomhtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="faomhann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="faomhaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="faomhaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="faomhtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="faomhann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="faomhaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="faomhaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="faomhtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="faomhfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="faomhfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="faomhfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="faomhfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="faomhfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="faomhfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="faomhfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="faomhfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="faomhfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="faomhfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="faomhfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="faomhfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="faomhfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="faomhfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="faomhfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="faomhfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="faomhfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="faomhfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="faomhadh" mood="Imper" person="Base" />
+  <moodForm default="faomhaim" mood="Imper" person="Sg1" />
+  <moodForm default="faomh" mood="Imper" person="Sg2" />
+  <moodForm default="faomhaimis" mood="Imper" person="Pl1" />
+  <moodForm default="faomhaigí" mood="Imper" person="Pl2" />
+  <moodForm default="faomhaidís" mood="Imper" person="Pl3" />
+  <moodForm default="faomhtar" mood="Imper" person="Auto" />
+  <moodForm default="faomha" mood="Subj" person="Base" />
+  <moodForm default="faomhaimid" mood="Subj" person="Pl1" />
+  <moodForm default="faomhtar" mood="Subj" person="Auto" />
+</verb>

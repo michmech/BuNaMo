@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fuin" disambig="">
+  <verbalNoun default="fuineadh" />
+  <verbalAdjective default="fuinte" />
+  <tenseForm default="fuin" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fuineamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuineadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuineadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fuin" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fuineamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuineadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuineadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fuineadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fuininn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuinteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fuinimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuinidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuintí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fuineadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fuininn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuinteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fuinimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuinidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuintí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fuineann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fuinim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuinimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuintear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fuineann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fuinim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuinimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuintear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fuinfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fuinfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuinfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fuinfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fuinfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuinfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fuinfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fuinfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuinfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fuinfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuinfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuinfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fuinfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fuinfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuinfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fuinfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuinfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuinfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fuineadh" mood="Imper" person="Base" />
+  <moodForm default="fuinim" mood="Imper" person="Sg1" />
+  <moodForm default="fuin" mood="Imper" person="Sg2" />
+  <moodForm default="fuinimis" mood="Imper" person="Pl1" />
+  <moodForm default="fuinigí" mood="Imper" person="Pl2" />
+  <moodForm default="fuinidís" mood="Imper" person="Pl3" />
+  <moodForm default="fuintear" mood="Imper" person="Auto" />
+  <moodForm default="fuine" mood="Subj" person="Base" />
+  <moodForm default="fuinimid" mood="Subj" person="Pl1" />
+  <moodForm default="fuintear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="creapaill" disambig="">
+  <verbalNoun default="creapall" />
+  <verbalAdjective default="creapalta" />
+  <tenseForm default="creapaill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="creapallamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="creapalladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="creapalladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="creapaill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="creapallamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="creapalladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="creapalladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="creapalladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="creapallainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creapalltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="creapallaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creapallaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="creapalltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creapalladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="creapallainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creapalltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="creapallaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creapallaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="creapalltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creapallann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="creapallaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creapallaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creapalltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creapallann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="creapallaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creapallaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creapalltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creapallfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="creapallfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="creapallfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="creapallfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="creapallfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="creapallfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="creapallfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="creapallfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="creapallfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="creapallfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="creapallfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="creapallfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="creapallfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="creapallfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="creapallfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="creapallfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="creapallfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="creapallfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="creapalladh" mood="Imper" person="Base" />
+  <moodForm default="creapallaim" mood="Imper" person="Sg1" />
+  <moodForm default="creapaill" mood="Imper" person="Sg2" />
+  <moodForm default="creapallaimis" mood="Imper" person="Pl1" />
+  <moodForm default="creapallaigí" mood="Imper" person="Pl2" />
+  <moodForm default="creapallaidís" mood="Imper" person="Pl3" />
+  <moodForm default="creapalltar" mood="Imper" person="Auto" />
+  <moodForm default="creapalla" mood="Subj" person="Base" />
+  <moodForm default="creapallaimid" mood="Subj" person="Pl1" />
+  <moodForm default="creapalltar" mood="Subj" person="Auto" />
+</verb>

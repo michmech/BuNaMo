@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="amharc" disambig="">
+  <verbalNoun default="amharc" />
+  <verbalAdjective default="amharctha" />
+  <tenseForm default="amharc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="amharcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="amharcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="amharcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="amharc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="amharcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="amharcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="amharcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="amharcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="amharcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="amharctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="amharcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="amharcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="amharctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="amharcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="amharcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="amharctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="amharcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="amharcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="amharctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="amharcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="amharcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="amharcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="amharctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="amharcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="amharcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="amharcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="amharctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="amharcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="amharcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="amharcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="amharcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="amharcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="amharcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="amharcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="amharcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="amharcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="amharcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="amharcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="amharcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="amharcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="amharcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="amharcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="amharcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="amharcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="amharcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="amharcadh" mood="Imper" person="Base" />
+  <moodForm default="amharcaim" mood="Imper" person="Sg1" />
+  <moodForm default="amharc" mood="Imper" person="Sg2" />
+  <moodForm default="amharcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="amharcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="amharcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="amharctar" mood="Imper" person="Auto" />
+  <moodForm default="amharca" mood="Subj" person="Base" />
+  <moodForm default="amharcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="amharctar" mood="Subj" person="Auto" />
+</verb>

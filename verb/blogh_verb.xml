@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="blogh" disambig="">
+  <verbalNoun default="bloghadh" />
+  <verbalAdjective default="bloghta" />
+  <tenseForm default="blogh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bloghamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloghadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bloghadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="blogh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bloghamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloghadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bloghadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bloghadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bloghainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bloghtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bloghaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloghaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bloghtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bloghadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bloghainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bloghtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bloghaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloghaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bloghtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bloghann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bloghaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bloghaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloghtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bloghann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bloghaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bloghaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloghtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bloghfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bloghfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloghfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bloghfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bloghfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloghfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bloghfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bloghfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bloghfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bloghfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bloghfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bloghfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bloghfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bloghfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bloghfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bloghfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bloghfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bloghfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bloghadh" mood="Imper" person="Base" />
+  <moodForm default="bloghaim" mood="Imper" person="Sg1" />
+  <moodForm default="blogh" mood="Imper" person="Sg2" />
+  <moodForm default="bloghaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bloghaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bloghaidís" mood="Imper" person="Pl3" />
+  <moodForm default="bloghtar" mood="Imper" person="Auto" />
+  <moodForm default="blogha" mood="Subj" person="Base" />
+  <moodForm default="bloghaimid" mood="Subj" person="Pl1" />
+  <moodForm default="bloghtar" mood="Subj" person="Auto" />
+</verb>

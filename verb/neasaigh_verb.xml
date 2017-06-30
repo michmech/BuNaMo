@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="neasaigh" disambig="">
+  <verbalNoun default="neasú" />
+  <verbalAdjective default="neasaithe" />
+  <tenseForm default="neasaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="neasaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="neasaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="neasaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="neasaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="neasaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="neasaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="neasaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="neasaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="neasaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="neasaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="neasaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="neasaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="neasaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="neasaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="neasaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="neasaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="neasaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="neasaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="neasaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="neasaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="neasaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="neasaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="neasaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="neasaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="neasaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="neasaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="neasaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="neasóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="neasóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="neasófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="neasóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="neasóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="neasófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="neasódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="neasóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="neasófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="neasóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="neasóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="neasófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="neasódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="neasóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="neasófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="neasóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="neasóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="neasófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="neasaíodh" mood="Imper" person="Base" />
+  <moodForm default="neasaím" mood="Imper" person="Sg1" />
+  <moodForm default="neasaigh" mood="Imper" person="Sg2" />
+  <moodForm default="neasaímis" mood="Imper" person="Pl1" />
+  <moodForm default="neasaígí" mood="Imper" person="Pl2" />
+  <moodForm default="neasaídís" mood="Imper" person="Pl3" />
+  <moodForm default="neasaítear" mood="Imper" person="Auto" />
+  <moodForm default="neasaí" mood="Subj" person="Base" />
+  <moodForm default="neasaímid" mood="Subj" person="Pl1" />
+  <moodForm default="neasaítear" mood="Subj" person="Auto" />
+</verb>

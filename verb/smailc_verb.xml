@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="smailc" disambig="">
+  <verbalNoun default="smailceadh" />
+  <verbalAdjective default="smailcthe" />
+  <tenseForm default="smailc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="smailceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="smailceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="smailceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="smailc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="smailceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="smailceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="smailceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="smailceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="smailcinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smailcteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="smailcimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smailcidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="smailctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smailceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="smailcinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smailcteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="smailcimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smailcidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="smailctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smailceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="smailcim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="smailcimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="smailctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="smailceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="smailcim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="smailcimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="smailctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="smailcfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="smailcfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="smailcfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="smailcfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="smailcfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="smailcfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="smailcfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="smailcfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="smailcfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="smailcfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="smailcfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="smailcfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="smailcfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="smailcfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="smailcfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="smailcfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="smailcfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="smailcfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="smailceadh" mood="Imper" person="Base" />
+  <moodForm default="smailcim" mood="Imper" person="Sg1" />
+  <moodForm default="smailc" mood="Imper" person="Sg2" />
+  <moodForm default="smailcimis" mood="Imper" person="Pl1" />
+  <moodForm default="smailcigí" mood="Imper" person="Pl2" />
+  <moodForm default="smailcidís" mood="Imper" person="Pl3" />
+  <moodForm default="smailctear" mood="Imper" person="Auto" />
+  <moodForm default="smailce" mood="Subj" person="Base" />
+  <moodForm default="smailcimid" mood="Subj" person="Pl1" />
+  <moodForm default="smailctear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="seol" disambig="">
+  <verbalNoun default="seoladh" />
+  <verbalAdjective default="seolta" />
+  <tenseForm default="seol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="seolamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="seoladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="seoladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="seol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="seolamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="seoladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="seoladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="seoladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="seolainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seoltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="seolaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seolaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="seoltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seoladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="seolainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seoltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="seolaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seolaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="seoltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seolann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="seolaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seolaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seoltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seolann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="seolaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seolaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seoltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seolfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="seolfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="seolfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="seolfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="seolfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="seolfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="seolfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="seolfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="seolfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="seolfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="seolfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="seolfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="seolfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="seolfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="seolfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="seolfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="seolfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="seolfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="seoladh" mood="Imper" person="Base" />
+  <moodForm default="seolaim" mood="Imper" person="Sg1" />
+  <moodForm default="seol" mood="Imper" person="Sg2" />
+  <moodForm default="seolaimis" mood="Imper" person="Pl1" />
+  <moodForm default="seolaigí" mood="Imper" person="Pl2" />
+  <moodForm default="seolaidís" mood="Imper" person="Pl3" />
+  <moodForm default="seoltar" mood="Imper" person="Auto" />
+  <moodForm default="seola" mood="Subj" person="Base" />
+  <moodForm default="seolaimid" mood="Subj" person="Pl1" />
+  <moodForm default="seoltar" mood="Subj" person="Auto" />
+</verb>

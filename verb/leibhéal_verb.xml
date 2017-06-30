@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="leibhéal" disambig="">
+  <verbalNoun default="leibhéaladh" />
+  <verbalAdjective default="leibhéalta" />
+  <tenseForm default="leibhéal" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="leibhéalamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="leibhéaladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="leibhéaladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="leibhéal" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="leibhéalamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="leibhéaladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="leibhéaladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="leibhéaladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="leibhéalainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leibhéaltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="leibhéalaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leibhéalaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="leibhéaltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leibhéaladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="leibhéalainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leibhéaltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="leibhéalaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leibhéalaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="leibhéaltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leibhéalann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="leibhéalaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leibhéalaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leibhéaltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leibhéalann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="leibhéalaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leibhéalaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leibhéaltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leibhéalfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="leibhéalfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="leibhéalfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="leibhéalfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="leibhéalfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="leibhéalfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="leibhéalfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="leibhéalfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="leibhéalfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="leibhéalfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="leibhéalfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="leibhéalfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="leibhéalfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="leibhéalfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="leibhéalfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="leibhéalfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="leibhéalfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="leibhéalfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="leibhéaladh" mood="Imper" person="Base" />
+  <moodForm default="leibhéalaim" mood="Imper" person="Sg1" />
+  <moodForm default="leibhéal" mood="Imper" person="Sg2" />
+  <moodForm default="leibhéalaimis" mood="Imper" person="Pl1" />
+  <moodForm default="leibhéalaigí" mood="Imper" person="Pl2" />
+  <moodForm default="leibhéalaidís" mood="Imper" person="Pl3" />
+  <moodForm default="leibhéaltar" mood="Imper" person="Auto" />
+  <moodForm default="leibhéala" mood="Subj" person="Base" />
+  <moodForm default="leibhéalaimid" mood="Subj" person="Pl1" />
+  <moodForm default="leibhéaltar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pointeáil" disambig="">
+  <verbalNoun default="pointeáil" />
+  <verbalAdjective default="pointeáilte" />
+  <tenseForm default="pointeáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pointeálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pointeáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="pointeáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pointeáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pointeálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pointeáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pointeáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="pointeáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pointeálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pointeáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pointeálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pointeálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pointeáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pointeáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pointeálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pointeáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pointeálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pointeálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pointeáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pointeálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pointeálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pointeálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pointeáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pointeálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pointeálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pointeálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pointeáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pointeálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pointeálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pointeálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pointeálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pointeálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pointeálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pointeálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pointeálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pointeálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pointeálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pointeálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pointeálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pointeálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pointeálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pointeálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pointeálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pointeálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pointeálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pointeáladh" mood="Imper" person="Base" />
+  <moodForm default="pointeálaim" mood="Imper" person="Sg1" />
+  <moodForm default="pointeáil" mood="Imper" person="Sg2" />
+  <moodForm default="pointeálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="pointeálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="pointeálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="pointeáiltear" mood="Imper" person="Auto" />
+  <moodForm default="pointeála" mood="Subj" person="Base" />
+  <moodForm default="pointeálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="pointeáiltear" mood="Subj" person="Auto" />
+</verb>

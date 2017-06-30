@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="coisc" disambig="">
+  <verbalNoun default="cosc" />
+  <verbalAdjective default="coiscthe" />
+  <tenseForm default="coisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="coisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="coisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="coisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="coisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="coisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="coisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="coisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="coisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="coiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="coiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="coisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="coiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="coiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="coisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="coiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="coiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="coisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="coisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="coiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="coiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="coisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="coiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="coiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="coiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="coiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="coiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="coiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="coiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="coiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="coiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="coiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="coiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="coiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="coiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="coiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="coiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="coiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="coiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="coiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="coisceadh" mood="Imper" person="Base" />
+  <moodForm default="coiscim" mood="Imper" person="Sg1" />
+  <moodForm default="coisc" mood="Imper" person="Sg2" />
+  <moodForm default="coiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="coiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="coiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="coisctear" mood="Imper" person="Auto" />
+  <moodForm default="coisce" mood="Subj" person="Base" />
+  <moodForm default="coiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="coisctear" mood="Subj" person="Auto" />
+</verb>

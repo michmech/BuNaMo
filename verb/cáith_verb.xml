@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cáith" disambig="">
+  <verbalNoun default="cáitheadh" />
+  <verbalAdjective default="cáite" />
+  <tenseForm default="cáith" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cáitheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáitheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cáitheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cáith" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cáitheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáitheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cáitheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cáitheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cáithinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cáiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cáithimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáithidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cáití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cáitheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cáithinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cáiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cáithimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáithidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cáití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cáitheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cáithim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cáithimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cáitheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cáithim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cáithimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cáithfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cáithfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáithfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cáithfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cáithfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáithfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cáithfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cáithfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cáithfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cáithfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cáithfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cáithfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cáithfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cáithfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cáithfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cáithfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cáithfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cáithfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cáitheadh" mood="Imper" person="Base" />
+  <moodForm default="cáithim" mood="Imper" person="Sg1" />
+  <moodForm default="cáith" mood="Imper" person="Sg2" />
+  <moodForm default="cáithimis" mood="Imper" person="Pl1" />
+  <moodForm default="cáithigí" mood="Imper" person="Pl2" />
+  <moodForm default="cáithidís" mood="Imper" person="Pl3" />
+  <moodForm default="cáitear" mood="Imper" person="Auto" />
+  <moodForm default="cáithe" mood="Subj" person="Base" />
+  <moodForm default="cáithimid" mood="Subj" person="Pl1" />
+  <moodForm default="cáitear" mood="Subj" person="Auto" />
+</verb>

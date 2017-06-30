@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bréid" disambig="">
+  <verbalNoun default="bréideadh" />
+  <verbalAdjective default="bréidte" />
+  <tenseForm default="bréid" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bréideamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bréideadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bréideadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bréid" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bréideamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bréideadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bréideadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bréideadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bréidinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bréidteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bréidimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bréididís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bréidtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bréideadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bréidinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bréidteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bréidimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bréididís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bréidtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bréideann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bréidim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bréidimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bréidtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bréideann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bréidim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bréidimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bréidtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bréidfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bréidfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bréidfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bréidfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bréidfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bréidfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bréidfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bréidfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bréidfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bréidfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bréidfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bréidfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bréidfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bréidfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bréidfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bréidfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bréidfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bréidfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bréideadh" mood="Imper" person="Base" />
+  <moodForm default="bréidim" mood="Imper" person="Sg1" />
+  <moodForm default="bréid" mood="Imper" person="Sg2" />
+  <moodForm default="bréidimis" mood="Imper" person="Pl1" />
+  <moodForm default="bréidigí" mood="Imper" person="Pl2" />
+  <moodForm default="bréididís" mood="Imper" person="Pl3" />
+  <moodForm default="bréidtear" mood="Imper" person="Auto" />
+  <moodForm default="bréide" mood="Subj" person="Base" />
+  <moodForm default="bréidimid" mood="Subj" person="Pl1" />
+  <moodForm default="bréidtear" mood="Subj" person="Auto" />
+</verb>

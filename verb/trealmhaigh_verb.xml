@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="trealmhaigh" disambig="">
+  <verbalNoun default="trealmhú" />
+  <verbalAdjective default="trealmhaithe" />
+  <tenseForm default="trealmhaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="trealmhaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="trealmhaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="trealmhaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="trealmhaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="trealmhaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="trealmhaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="trealmhaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="trealmhaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="trealmhaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="trealmhaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="trealmhaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="trealmhaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="trealmhaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="trealmhaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="trealmhaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="trealmhaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="trealmhaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="trealmhaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="trealmhaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="trealmhaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="trealmhaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="trealmhaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="trealmhaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="trealmhaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="trealmhaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="trealmhaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="trealmhaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="trealmhóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="trealmhóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="trealmhófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="trealmhóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="trealmhóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="trealmhófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="trealmhódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="trealmhóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="trealmhófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="trealmhóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="trealmhóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="trealmhófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="trealmhódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="trealmhóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="trealmhófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="trealmhóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="trealmhóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="trealmhófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="trealmhaíodh" mood="Imper" person="Base" />
+  <moodForm default="trealmhaím" mood="Imper" person="Sg1" />
+  <moodForm default="trealmhaigh" mood="Imper" person="Sg2" />
+  <moodForm default="trealmhaímis" mood="Imper" person="Pl1" />
+  <moodForm default="trealmhaígí" mood="Imper" person="Pl2" />
+  <moodForm default="trealmhaídís" mood="Imper" person="Pl3" />
+  <moodForm default="trealmhaítear" mood="Imper" person="Auto" />
+  <moodForm default="trealmhaí" mood="Subj" person="Base" />
+  <moodForm default="trealmhaímid" mood="Subj" person="Pl1" />
+  <moodForm default="trealmhaítear" mood="Subj" person="Auto" />
+</verb>

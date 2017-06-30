@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="docht" disambig="">
+  <verbalNoun default="dochtadh" />
+  <verbalAdjective default="dochta" />
+  <tenseForm default="docht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dochtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dochtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="docht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dochtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dochtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dochtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dochtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dochtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dochtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dochtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dochtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dochtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dochtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dochtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dochtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dochtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dochtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dochtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dochtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dochtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dochtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dochtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dochtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dochtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dochtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dochtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dochtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dochtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dochtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dochtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dochtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dochtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dochtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dochtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dochtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dochtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dochtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dochtadh" mood="Imper" person="Base" />
+  <moodForm default="dochtaim" mood="Imper" person="Sg1" />
+  <moodForm default="docht" mood="Imper" person="Sg2" />
+  <moodForm default="dochtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dochtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dochtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dochtar" mood="Imper" person="Auto" />
+  <moodForm default="dochta" mood="Subj" person="Base" />
+  <moodForm default="dochtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dochtar" mood="Subj" person="Auto" />
+</verb>

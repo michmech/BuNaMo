@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="poncloisc" disambig="">
+  <verbalNoun default="poncloscadh" />
+  <verbalAdjective default="poncloiscthe" />
+  <tenseForm default="poncloisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="poncloisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="poncloisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="poncloisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="poncloisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="poncloisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="poncloisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="poncloisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="poncloisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="poncloiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="poncloiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="poncloiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="poncloiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="poncloisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="poncloisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="poncloiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="poncloiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="poncloiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="poncloiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="poncloisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="poncloisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="poncloiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="poncloiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="poncloisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="poncloisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="poncloiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="poncloiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="poncloisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="poncloiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="poncloiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="poncloiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="poncloiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="poncloiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="poncloiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="poncloiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="poncloiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="poncloiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="poncloiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="poncloiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="poncloiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="poncloiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="poncloiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="poncloiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="poncloiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="poncloiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="poncloiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="poncloisceadh" mood="Imper" person="Base" />
+  <moodForm default="poncloiscim" mood="Imper" person="Sg1" />
+  <moodForm default="poncloisc" mood="Imper" person="Sg2" />
+  <moodForm default="poncloiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="poncloiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="poncloiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="poncloisctear" mood="Imper" person="Auto" />
+  <moodForm default="poncloisce" mood="Subj" person="Base" />
+  <moodForm default="poncloiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="poncloisctear" mood="Subj" person="Auto" />
+</verb>

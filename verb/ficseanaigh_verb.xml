@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ficseanaigh" disambig="">
+  <verbalNoun default="ficseanú" />
+  <verbalAdjective default="ficseanaithe" />
+  <tenseForm default="ficseanaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ficseanaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ficseanaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ficseanaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ficseanaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ficseanaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ficseanaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ficseanaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ficseanaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ficseanaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ficseanaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ficseanaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ficseanaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ficseanaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ficseanaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ficseanaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ficseanaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ficseanaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ficseanaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ficseanaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ficseanaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ficseanaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ficseanaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ficseanaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ficseanaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ficseanaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ficseanaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ficseanaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ficseanóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ficseanóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ficseanófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ficseanóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ficseanóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ficseanófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ficseanódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ficseanóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ficseanófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ficseanóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ficseanóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ficseanófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ficseanódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ficseanóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ficseanófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ficseanóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ficseanóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ficseanófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ficseanaíodh" mood="Imper" person="Base" />
+  <moodForm default="ficseanaím" mood="Imper" person="Sg1" />
+  <moodForm default="ficseanaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ficseanaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ficseanaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ficseanaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ficseanaítear" mood="Imper" person="Auto" />
+  <moodForm default="ficseanaí" mood="Subj" person="Base" />
+  <moodForm default="ficseanaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ficseanaítear" mood="Subj" person="Auto" />
+</verb>

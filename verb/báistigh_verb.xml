@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="báistigh" disambig="">
+  <verbalNoun default="báisteach" />
+  <verbalAdjective default="báistithe" />
+  <tenseForm default="báistigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="báistíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="báistíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="báistíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="báistigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="báistíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="báistíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="báistíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="báistíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="báistínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="báistíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="báistímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="báistídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="báistítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="báistíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="báistínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="báistíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="báistímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="báistídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="báistítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="báistíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="báistím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="báistímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="báistítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="báistíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="báistím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="báistímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="báistítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="báisteoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="báisteoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="báisteofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="báisteoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="báisteoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="báisteofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="báisteodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="báisteoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="báisteofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="báisteoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="báisteoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="báisteofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="báisteodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="báisteoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="báisteofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="báisteoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="báisteoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="báisteofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="báistíodh" mood="Imper" person="Base" />
+  <moodForm default="báistím" mood="Imper" person="Sg1" />
+  <moodForm default="báistigh" mood="Imper" person="Sg2" />
+  <moodForm default="báistímis" mood="Imper" person="Pl1" />
+  <moodForm default="báistígí" mood="Imper" person="Pl2" />
+  <moodForm default="báistídís" mood="Imper" person="Pl3" />
+  <moodForm default="báistítear" mood="Imper" person="Auto" />
+  <moodForm default="báistí" mood="Subj" person="Base" />
+  <moodForm default="báistímid" mood="Subj" person="Pl1" />
+  <moodForm default="báistítear" mood="Subj" person="Auto" />
+</verb>

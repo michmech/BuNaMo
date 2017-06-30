@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="poibligh" disambig="">
+  <verbalNoun default="poibliú" />
+  <verbalAdjective default="poiblithe" />
+  <tenseForm default="poibligh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="poiblíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="poiblíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="poiblíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="poibligh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="poiblíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="poiblíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="poiblíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="poiblíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="poiblínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="poiblíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="poiblímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="poiblídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="poiblítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="poiblíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="poiblínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="poiblíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="poiblímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="poiblídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="poiblítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="poiblíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="poiblím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="poiblímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="poiblítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="poiblíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="poiblím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="poiblímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="poiblítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="poibleoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="poibleoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="poibleofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="poibleoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="poibleoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="poibleofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="poibleodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="poibleoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="poibleofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="poibleoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="poibleoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="poibleofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="poibleodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="poibleoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="poibleofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="poibleoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="poibleoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="poibleofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="poiblíodh" mood="Imper" person="Base" />
+  <moodForm default="poiblím" mood="Imper" person="Sg1" />
+  <moodForm default="poibligh" mood="Imper" person="Sg2" />
+  <moodForm default="poiblímis" mood="Imper" person="Pl1" />
+  <moodForm default="poiblígí" mood="Imper" person="Pl2" />
+  <moodForm default="poiblídís" mood="Imper" person="Pl3" />
+  <moodForm default="poiblítear" mood="Imper" person="Auto" />
+  <moodForm default="poiblí" mood="Subj" person="Base" />
+  <moodForm default="poiblímid" mood="Subj" person="Pl1" />
+  <moodForm default="poiblítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cis" disambig="">
+  <verbalNoun default="ciseadh" />
+  <verbalAdjective default="ciste" />
+  <tenseForm default="cis" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ciseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ciseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ciseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cis" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ciseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ciseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ciseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ciseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ciseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ciseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ciseadh" mood="Imper" person="Base" />
+  <moodForm default="cisim" mood="Imper" person="Sg1" />
+  <moodForm default="cis" mood="Imper" person="Sg2" />
+  <moodForm default="cisimis" mood="Imper" person="Pl1" />
+  <moodForm default="cisigí" mood="Imper" person="Pl2" />
+  <moodForm default="cisidís" mood="Imper" person="Pl3" />
+  <moodForm default="cistear" mood="Imper" person="Auto" />
+  <moodForm default="cise" mood="Subj" person="Base" />
+  <moodForm default="cisimid" mood="Subj" person="Pl1" />
+  <moodForm default="cistear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="péireáil" disambig="">
+  <verbalNoun default="péireáil" />
+  <verbalAdjective default="péireáilte" />
+  <tenseForm default="péireáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="péireálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="péireáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="péireáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="péireáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="péireálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="péireáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="péireáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="péireáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="péireálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="péireáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="péireálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="péireálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="péireáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="péireáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="péireálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="péireáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="péireálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="péireálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="péireáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="péireálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="péireálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="péireálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="péireáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="péireálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="péireálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="péireálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="péireáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="péireálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="péireálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="péireálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="péireálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="péireálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="péireálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="péireálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="péireálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="péireálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="péireálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="péireálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="péireálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="péireálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="péireálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="péireálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="péireálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="péireálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="péireálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="péireáladh" mood="Imper" person="Base" />
+  <moodForm default="péireálaim" mood="Imper" person="Sg1" />
+  <moodForm default="péireáil" mood="Imper" person="Sg2" />
+  <moodForm default="péireálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="péireálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="péireálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="péireáiltear" mood="Imper" person="Auto" />
+  <moodForm default="péireála" mood="Subj" person="Base" />
+  <moodForm default="péireálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="péireáiltear" mood="Subj" person="Auto" />
+</verb>

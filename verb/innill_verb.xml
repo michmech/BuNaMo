@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="innill" disambig="">
+  <verbalNoun default="inleadh" />
+  <verbalAdjective default="innealta" />
+  <tenseForm default="innill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="inlíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="inlíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="inlíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="innill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="inlíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="inlíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="inlíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="inlíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="inlínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="inlíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="inlímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="inlídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="inlítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="inlíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="inlínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="inlíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="inlímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="inlídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="inlítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="inlíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="inlím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="inlímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="inlítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="inlíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="inlím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="inlímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="inlítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="inleoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="inleoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="inleofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="inleoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="inleoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="inleofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="inleodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="inleoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="inleofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="inleoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="inleoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="inleofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="inleodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="inleoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="inleofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="inleoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="inleoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="inleofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="inlíodh" mood="Imper" person="Base" />
+  <moodForm default="inlím" mood="Imper" person="Sg1" />
+  <moodForm default="innill" mood="Imper" person="Sg2" />
+  <moodForm default="inlímis" mood="Imper" person="Pl1" />
+  <moodForm default="inlígí" mood="Imper" person="Pl2" />
+  <moodForm default="inlídís" mood="Imper" person="Pl3" />
+  <moodForm default="inlítear" mood="Imper" person="Auto" />
+  <moodForm default="inlí" mood="Subj" person="Base" />
+  <moodForm default="inlímid" mood="Subj" person="Pl1" />
+  <moodForm default="inlítear" mood="Subj" person="Auto" />
+</verb>

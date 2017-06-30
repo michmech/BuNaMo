@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sorchaigh" disambig="">
+  <verbalNoun default="sorchú" />
+  <verbalAdjective default="sorchaithe" />
+  <tenseForm default="sorchaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sorchaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sorchaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sorchaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sorchaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sorchaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sorchaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sorchaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sorchaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sorchaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sorchaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sorchaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sorchaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sorchaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sorchaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sorchaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sorchaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sorchaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sorchaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sorchaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sorchaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sorchaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sorchaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sorchaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sorchaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sorchaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sorchaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sorchaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sorchóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sorchóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sorchófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sorchóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sorchóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sorchófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sorchódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sorchóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sorchófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sorchóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sorchóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sorchófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sorchódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sorchóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sorchófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sorchóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sorchóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sorchófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sorchaíodh" mood="Imper" person="Base" />
+  <moodForm default="sorchaím" mood="Imper" person="Sg1" />
+  <moodForm default="sorchaigh" mood="Imper" person="Sg2" />
+  <moodForm default="sorchaímis" mood="Imper" person="Pl1" />
+  <moodForm default="sorchaígí" mood="Imper" person="Pl2" />
+  <moodForm default="sorchaídís" mood="Imper" person="Pl3" />
+  <moodForm default="sorchaítear" mood="Imper" person="Auto" />
+  <moodForm default="sorchaí" mood="Subj" person="Base" />
+  <moodForm default="sorchaímid" mood="Subj" person="Pl1" />
+  <moodForm default="sorchaítear" mood="Subj" person="Auto" />
+</verb>

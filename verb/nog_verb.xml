@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="nog" disambig="">
+  <verbalNoun default="nogadh" />
+  <verbalAdjective default="nogtha" />
+  <tenseForm default="nog" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="nogamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="nogadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="nog" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="nogamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="nogadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="nogadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="nogainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nogtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="nogaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nogaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="nogtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nogadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="nogainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nogtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="nogaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nogaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="nogtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nogann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="nogaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nogaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nogtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nogann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="nogaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nogaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nogtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nogfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="nogfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="nogfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="nogfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="nogfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="nogfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="nogfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="nogfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="nogfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="nogfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="nogfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="nogfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="nogfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="nogfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="nogfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="nogfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="nogfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="nogfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="nogadh" mood="Imper" person="Base" />
+  <moodForm default="nogaim" mood="Imper" person="Sg1" />
+  <moodForm default="nog" mood="Imper" person="Sg2" />
+  <moodForm default="nogaimis" mood="Imper" person="Pl1" />
+  <moodForm default="nogaigí" mood="Imper" person="Pl2" />
+  <moodForm default="nogaidís" mood="Imper" person="Pl3" />
+  <moodForm default="nogtar" mood="Imper" person="Auto" />
+  <moodForm default="noga" mood="Subj" person="Base" />
+  <moodForm default="nogaimid" mood="Subj" person="Pl1" />
+  <moodForm default="nogtar" mood="Subj" person="Auto" />
+</verb>

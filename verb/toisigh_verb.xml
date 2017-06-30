@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="toisigh" disambig="">
+  <verbalNoun default="toisiú" />
+  <verbalAdjective default="toisithe" />
+  <tenseForm default="toisigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="toisíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="toisíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="toisíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="toisigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="toisíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="toisíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="toisíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="toisíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="toisínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toisíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="toisímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toisídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="toisítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toisíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="toisínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toisíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="toisímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toisídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="toisítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toisíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="toisím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="toisímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="toisítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="toisíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="toisím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="toisímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="toisítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="toiseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="toiseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="toiseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="toiseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="toiseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="toiseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="toiseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="toiseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="toiseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="toiseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="toiseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="toiseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="toiseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="toiseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="toiseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="toiseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="toiseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="toiseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="toisíodh" mood="Imper" person="Base" />
+  <moodForm default="toisím" mood="Imper" person="Sg1" />
+  <moodForm default="toisigh" mood="Imper" person="Sg2" />
+  <moodForm default="toisímis" mood="Imper" person="Pl1" />
+  <moodForm default="toisígí" mood="Imper" person="Pl2" />
+  <moodForm default="toisídís" mood="Imper" person="Pl3" />
+  <moodForm default="toisítear" mood="Imper" person="Auto" />
+  <moodForm default="toisí" mood="Subj" person="Base" />
+  <moodForm default="toisímid" mood="Subj" person="Pl1" />
+  <moodForm default="toisítear" mood="Subj" person="Auto" />
+</verb>

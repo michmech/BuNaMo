@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="roinn" disambig="">
+  <verbalNoun default="roinnt" />
+  <verbalAdjective default="roinnte" />
+  <tenseForm default="roinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="roinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="roinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="roinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="roinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="roinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="roinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="roinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="roinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="roinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="roinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="roinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="roinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="roinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="roinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="roinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="roinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="roinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="roinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="roinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="roinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="roinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="roinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="roinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="roinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="roinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="roinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="roinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="roinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="roinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="roinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="roinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="roinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="roinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="roinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="roinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="roinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="roinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="roinneadh" mood="Imper" person="Base" />
+  <moodForm default="roinnim" mood="Imper" person="Sg1" />
+  <moodForm default="roinn" mood="Imper" person="Sg2" />
+  <moodForm default="roinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="roinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="roinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="roinntear" mood="Imper" person="Auto" />
+  <moodForm default="roinne" mood="Subj" person="Base" />
+  <moodForm default="roinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="roinntear" mood="Subj" person="Auto" />
+</verb>

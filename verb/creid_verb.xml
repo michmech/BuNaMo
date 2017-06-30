@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="creid" disambig="">
+  <verbalNoun default="creidiúint" />
+  <verbalAdjective default="creidte" />
+  <tenseForm default="creid" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="creideamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="creideadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="creideadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="creid" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="creideamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="creideadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="creideadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="creideadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="creidinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creidteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="creidimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creididís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="creidtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creideadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="creidinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creidteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="creidimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creididís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="creidtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creideann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="creidim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creidimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creidtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creideann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="creidim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creidimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creidtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creidfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="creidfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="creidfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="creidfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="creidfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="creidfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="creidfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="creidfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="creidfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="creidfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="creidfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="creidfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="creidfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="creidfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="creidfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="creidfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="creidfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="creidfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="creideadh" mood="Imper" person="Base" />
+  <moodForm default="creidim" mood="Imper" person="Sg1" />
+  <moodForm default="creid" mood="Imper" person="Sg2" />
+  <moodForm default="creidimis" mood="Imper" person="Pl1" />
+  <moodForm default="creidigí" mood="Imper" person="Pl2" />
+  <moodForm default="creididís" mood="Imper" person="Pl3" />
+  <moodForm default="creidtear" mood="Imper" person="Auto" />
+  <moodForm default="creide" mood="Subj" person="Base" />
+  <moodForm default="creidimid" mood="Subj" person="Pl1" />
+  <moodForm default="creidtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sleabhac" disambig="">
+  <verbalNoun default="sleabhcadh" />
+  <verbalAdjective default="sleabhctha" />
+  <tenseForm default="sleabhac" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sleabhcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sleabhcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sleabhcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sleabhac" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sleabhcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sleabhcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sleabhcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sleabhcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sleabhcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sleabhctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sleabhcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sleabhcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sleabhctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sleabhcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sleabhcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sleabhctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sleabhcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sleabhcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sleabhctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sleabhcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sleabhcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sleabhcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sleabhctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sleabhcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sleabhcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sleabhcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sleabhctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sleabhcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sleabhcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sleabhcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sleabhcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sleabhcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sleabhcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sleabhcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sleabhcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sleabhcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sleabhcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sleabhcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sleabhcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sleabhcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sleabhcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sleabhcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sleabhcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sleabhcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sleabhcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sleabhcadh" mood="Imper" person="Base" />
+  <moodForm default="sleabhcaim" mood="Imper" person="Sg1" />
+  <moodForm default="sleabhac" mood="Imper" person="Sg2" />
+  <moodForm default="sleabhcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sleabhcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sleabhcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sleabhctar" mood="Imper" person="Auto" />
+  <moodForm default="sleabhca" mood="Subj" person="Base" />
+  <moodForm default="sleabhcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sleabhctar" mood="Subj" person="Auto" />
+</verb>

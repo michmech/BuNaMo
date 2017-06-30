@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="grod" disambig="">
+  <verbalNoun default="grodadh" />
+  <verbalAdjective default="grodta" />
+  <tenseForm default="grod" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="grodamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="grodadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="grodadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="grod" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="grodamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="grodadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="grodadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="grodadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="grodainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="grodtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="grodaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="grodaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="grodtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="grodadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="grodainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="grodtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="grodaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="grodaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="grodtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="grodann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="grodaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="grodaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="grodtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="grodann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="grodaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="grodaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="grodtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="grodfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="grodfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="grodfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="grodfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="grodfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="grodfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="grodfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="grodfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="grodfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="grodfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="grodfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="grodfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="grodfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="grodfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="grodfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="grodfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="grodfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="grodfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="grodadh" mood="Imper" person="Base" />
+  <moodForm default="grodaim" mood="Imper" person="Sg1" />
+  <moodForm default="grod" mood="Imper" person="Sg2" />
+  <moodForm default="grodaimis" mood="Imper" person="Pl1" />
+  <moodForm default="grodaigí" mood="Imper" person="Pl2" />
+  <moodForm default="grodaidís" mood="Imper" person="Pl3" />
+  <moodForm default="grodtar" mood="Imper" person="Auto" />
+  <moodForm default="groda" mood="Subj" person="Base" />
+  <moodForm default="grodaimid" mood="Subj" person="Pl1" />
+  <moodForm default="grodtar" mood="Subj" person="Auto" />
+</verb>

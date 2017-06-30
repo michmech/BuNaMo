@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="corónaigh" disambig="">
+  <verbalNoun default="corónú" />
+  <verbalAdjective default="corónaithe" />
+  <tenseForm default="corónaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="corónaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="corónaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="corónaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="corónaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="corónaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="corónaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="corónaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="corónaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="corónaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="corónaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="corónaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="corónaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="corónaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="corónaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="corónaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="corónaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="corónaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="corónaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="corónaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corónaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="corónaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="corónaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="corónaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="corónaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="corónaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="corónaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="corónaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corónóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="corónóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="corónófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="corónóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="corónóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="corónófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="corónódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="corónóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="corónófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="corónóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="corónóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="corónófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="corónódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="corónóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="corónófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="corónóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="corónóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="corónófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="corónaíodh" mood="Imper" person="Base" />
+  <moodForm default="corónaím" mood="Imper" person="Sg1" />
+  <moodForm default="corónaigh" mood="Imper" person="Sg2" />
+  <moodForm default="corónaímis" mood="Imper" person="Pl1" />
+  <moodForm default="corónaígí" mood="Imper" person="Pl2" />
+  <moodForm default="corónaídís" mood="Imper" person="Pl3" />
+  <moodForm default="corónaítear" mood="Imper" person="Auto" />
+  <moodForm default="corónaí" mood="Subj" person="Base" />
+  <moodForm default="corónaímid" mood="Subj" person="Pl1" />
+  <moodForm default="corónaítear" mood="Subj" person="Auto" />
+</verb>

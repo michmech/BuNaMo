@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="spáráil" disambig="">
+  <verbalNoun default="spáráil" />
+  <verbalAdjective default="spáráilte" />
+  <tenseForm default="spáráil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="spárálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="spáráladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="spáráladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="spáráil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="spárálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="spáráladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="spáráladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="spáráladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="spárálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spáráilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="spárálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spárálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="spáráiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spáráladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="spárálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spáráilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="spárálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spárálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="spáráiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spárálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="spárálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spárálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spáráiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spárálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="spárálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spárálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spáráiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spárálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="spárálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="spárálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="spárálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="spárálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="spárálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="spárálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="spárálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="spárálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="spárálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="spárálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="spárálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="spárálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="spárálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="spárálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="spárálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="spárálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="spárálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="spáráladh" mood="Imper" person="Base" />
+  <moodForm default="spárálaim" mood="Imper" person="Sg1" />
+  <moodForm default="spáráil" mood="Imper" person="Sg2" />
+  <moodForm default="spárálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="spárálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="spárálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="spáráiltear" mood="Imper" person="Auto" />
+  <moodForm default="spárála" mood="Subj" person="Base" />
+  <moodForm default="spárálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="spáráiltear" mood="Subj" person="Auto" />
+</verb>

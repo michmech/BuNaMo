@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ionaclaigh" disambig="">
+  <verbalNoun default="ionaclú" />
+  <verbalAdjective default="ionaclaithe" />
+  <tenseForm default="ionaclaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ionaclaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionaclaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionaclaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ionaclaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ionaclaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionaclaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionaclaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ionaclaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ionaclaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionaclaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ionaclaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionaclaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionaclaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ionaclaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ionaclaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionaclaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ionaclaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionaclaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionaclaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ionaclaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ionaclaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionaclaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionaclaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ionaclaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ionaclaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionaclaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionaclaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ionaclóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ionaclóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionaclófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ionaclóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ionaclóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionaclófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ionaclódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ionaclóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionaclófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ionaclóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionaclóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionaclófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ionaclódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ionaclóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionaclófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ionaclóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionaclóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionaclófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ionaclaíodh" mood="Imper" person="Base" />
+  <moodForm default="ionaclaím" mood="Imper" person="Sg1" />
+  <moodForm default="ionaclaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ionaclaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ionaclaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ionaclaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ionaclaítear" mood="Imper" person="Auto" />
+  <moodForm default="ionaclaí" mood="Subj" person="Base" />
+  <moodForm default="ionaclaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ionaclaítear" mood="Subj" person="Auto" />
+</verb>

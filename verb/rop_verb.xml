@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="rop" disambig="">
+  <verbalNoun default="ropadh" />
+  <verbalAdjective default="roptha" />
+  <tenseForm default="rop" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ropamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ropadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ropadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="rop" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ropamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ropadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ropadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ropadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ropainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ropaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ropaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="roptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ropadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ropainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ropaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ropaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="roptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ropann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ropaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ropaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ropann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ropaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ropaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ropfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ropfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ropfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ropfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ropfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ropfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ropfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ropfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ropfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ropfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ropfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ropfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ropfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ropfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ropfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ropfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ropfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ropfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ropadh" mood="Imper" person="Base" />
+  <moodForm default="ropaim" mood="Imper" person="Sg1" />
+  <moodForm default="rop" mood="Imper" person="Sg2" />
+  <moodForm default="ropaimis" mood="Imper" person="Pl1" />
+  <moodForm default="ropaigí" mood="Imper" person="Pl2" />
+  <moodForm default="ropaidís" mood="Imper" person="Pl3" />
+  <moodForm default="roptar" mood="Imper" person="Auto" />
+  <moodForm default="ropa" mood="Subj" person="Base" />
+  <moodForm default="ropaimid" mood="Subj" person="Pl1" />
+  <moodForm default="roptar" mood="Subj" person="Auto" />
+</verb>

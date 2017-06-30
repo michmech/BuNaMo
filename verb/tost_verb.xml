@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tost" disambig="">
+  <verbalNoun default="tost" />
+  <verbalAdjective default="tosta" />
+  <tenseForm default="tost" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tostamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tostadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tostadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tost" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tostamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tostadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tostadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tostadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tostainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tostá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tostaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tostaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tostaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tostadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tostainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tostá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tostaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tostaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tostaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tostann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tostaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tostaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tostar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tostann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tostaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tostaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tostar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tostfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tostfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tostfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tostfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tostfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tostfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tostfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tostfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tostfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tostfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tostfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tostfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tostfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tostfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tostfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tostfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tostfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tostfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tostadh" mood="Imper" person="Base" />
+  <moodForm default="tostaim" mood="Imper" person="Sg1" />
+  <moodForm default="tost" mood="Imper" person="Sg2" />
+  <moodForm default="tostaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tostaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tostaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tostar" mood="Imper" person="Auto" />
+  <moodForm default="tosta" mood="Subj" person="Base" />
+  <moodForm default="tostaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tostar" mood="Subj" person="Auto" />
+</verb>

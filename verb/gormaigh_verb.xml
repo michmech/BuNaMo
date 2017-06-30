@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gormaigh" disambig="">
+  <verbalNoun default="gormú" />
+  <verbalAdjective default="gormaithe" />
+  <tenseForm default="gormaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gormaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gormaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gormaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gormaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gormaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gormaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gormaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gormaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gormaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gormaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gormaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gormaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gormaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gormaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gormaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gormaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gormaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gormaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gormaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gormaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gormaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gormaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gormaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gormaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gormaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gormaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gormaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gormóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gormóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gormófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gormóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gormóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gormófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gormódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gormóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gormófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gormóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gormóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gormófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gormódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gormóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gormófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gormóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gormóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gormófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gormaíodh" mood="Imper" person="Base" />
+  <moodForm default="gormaím" mood="Imper" person="Sg1" />
+  <moodForm default="gormaigh" mood="Imper" person="Sg2" />
+  <moodForm default="gormaímis" mood="Imper" person="Pl1" />
+  <moodForm default="gormaígí" mood="Imper" person="Pl2" />
+  <moodForm default="gormaídís" mood="Imper" person="Pl3" />
+  <moodForm default="gormaítear" mood="Imper" person="Auto" />
+  <moodForm default="gormaí" mood="Subj" person="Base" />
+  <moodForm default="gormaímid" mood="Subj" person="Pl1" />
+  <moodForm default="gormaítear" mood="Subj" person="Auto" />
+</verb>

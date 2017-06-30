@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="garbhtheilg" disambig="">
+  <verbalNoun default="garbhtheilgean" />
+  <verbalAdjective default="garbhtheilgthe" />
+  <tenseForm default="garbhtheilg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="garbhtheilgeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="garbhtheilgeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="garbhtheilgeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="garbhtheilg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="garbhtheilgeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="garbhtheilgeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="garbhtheilgeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="garbhtheilgeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="garbhtheilginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="garbhtheilgteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="garbhtheilgimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="garbhtheilgidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="garbhtheilgtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="garbhtheilgeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="garbhtheilginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="garbhtheilgteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="garbhtheilgimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="garbhtheilgidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="garbhtheilgtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="garbhtheilgeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="garbhtheilgim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="garbhtheilgimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="garbhtheilgtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="garbhtheilgeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="garbhtheilgim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="garbhtheilgimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="garbhtheilgtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="garbhtheilgfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="garbhtheilgfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="garbhtheilgfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="garbhtheilgfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="garbhtheilgfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="garbhtheilgfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="garbhtheilgfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="garbhtheilgfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="garbhtheilgfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="garbhtheilgfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="garbhtheilgfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="garbhtheilgfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="garbhtheilgfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="garbhtheilgfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="garbhtheilgfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="garbhtheilgfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="garbhtheilgfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="garbhtheilgfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="garbhtheilgeadh" mood="Imper" person="Base" />
+  <moodForm default="garbhtheilgim" mood="Imper" person="Sg1" />
+  <moodForm default="garbhtheilg" mood="Imper" person="Sg2" />
+  <moodForm default="garbhtheilgimis" mood="Imper" person="Pl1" />
+  <moodForm default="garbhtheilgigí" mood="Imper" person="Pl2" />
+  <moodForm default="garbhtheilgidís" mood="Imper" person="Pl3" />
+  <moodForm default="garbhtheilgtear" mood="Imper" person="Auto" />
+  <moodForm default="garbhtheilge" mood="Subj" person="Base" />
+  <moodForm default="garbhtheilgimid" mood="Subj" person="Pl1" />
+  <moodForm default="garbhtheilgtear" mood="Subj" person="Auto" />
+</verb>

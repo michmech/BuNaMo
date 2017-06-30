@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fordhearg" disambig="">
+  <verbalNoun default="fordheargadh" />
+  <verbalAdjective default="fordheargtha" />
+  <tenseForm default="fordhearg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fordheargamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordheargadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fordheargadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fordhearg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fordheargamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordheargadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fordheargadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fordheargadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fordheargainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fordheargtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fordheargaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordheargaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fordheargtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fordheargadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fordheargainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fordheargtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fordheargaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordheargaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fordheargtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fordheargann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fordheargaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fordheargaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordheargtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fordheargann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fordheargaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fordheargaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordheargtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fordheargfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fordheargfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordheargfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fordheargfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fordheargfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordheargfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fordheargfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fordheargfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fordheargfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fordheargfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fordheargfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fordheargfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fordheargfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fordheargfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fordheargfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fordheargfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fordheargfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fordheargfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fordheargadh" mood="Imper" person="Base" />
+  <moodForm default="fordheargaim" mood="Imper" person="Sg1" />
+  <moodForm default="fordhearg" mood="Imper" person="Sg2" />
+  <moodForm default="fordheargaimis" mood="Imper" person="Pl1" />
+  <moodForm default="fordheargaigí" mood="Imper" person="Pl2" />
+  <moodForm default="fordheargaidís" mood="Imper" person="Pl3" />
+  <moodForm default="fordheargtar" mood="Imper" person="Auto" />
+  <moodForm default="fordhearga" mood="Subj" person="Base" />
+  <moodForm default="fordheargaimid" mood="Subj" person="Pl1" />
+  <moodForm default="fordheargtar" mood="Subj" person="Auto" />
+</verb>

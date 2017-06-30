@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="truaigh" disambig="">
+  <verbalNoun default="trua" />
+  <verbalAdjective default="truaite" />
+  <tenseForm default="truaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="truamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="truadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="truaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="truamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="truadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="truadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="truainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="truaiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="truaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="truaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="truaití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="truadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="truainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="truaiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="truaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="truaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="truaití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="truann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="truaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="truaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="truaitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="truann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="truaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="truaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="truaitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="truafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="truafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="truafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="truafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="truafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="truafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="truafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="truafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="truafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="truafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="truafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="truafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="truafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="truafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="truafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="truafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="truafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="truafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="truadh" mood="Imper" person="Base" />
+  <moodForm default="truaim" mood="Imper" person="Sg1" />
+  <moodForm default="truaigh" mood="Imper" person="Sg2" />
+  <moodForm default="truaimis" mood="Imper" person="Pl1" />
+  <moodForm default="truaigí" mood="Imper" person="Pl2" />
+  <moodForm default="truaidís" mood="Imper" person="Pl3" />
+  <moodForm default="truaitear" mood="Imper" person="Auto" />
+  <moodForm default="trua" mood="Subj" person="Base" />
+  <moodForm default="truaimid" mood="Subj" person="Pl1" />
+  <moodForm default="truaitear" mood="Subj" person="Auto" />
+</verb>

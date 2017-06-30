@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="nasclean" disambig="">
+  <verbalNoun default="nascleanúint" />
+  <verbalAdjective default="nascleanta" />
+  <tenseForm default="nasclean" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="nascleanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascleanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="nascleanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="nasclean" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="nascleanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascleanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="nascleanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="nascleanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="nascleanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nascleantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="nascleanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascleanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="nascleantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nascleanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="nascleanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nascleantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="nascleanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascleanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="nascleantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nascleanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="nascleanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="nascleanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascleantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="nascleanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="nascleanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="nascleanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascleantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="nascleanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="nascleanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascleanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="nascleanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="nascleanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascleanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="nascleanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="nascleanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="nascleanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="nascleanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="nascleanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="nascleanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="nascleanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="nascleanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="nascleanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="nascleanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="nascleanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="nascleanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="nascleanadh" mood="Imper" person="Base" />
+  <moodForm default="nascleanaim" mood="Imper" person="Sg1" />
+  <moodForm default="nasclean" mood="Imper" person="Sg2" />
+  <moodForm default="nascleanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="nascleanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="nascleanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="nascleantar" mood="Imper" person="Auto" />
+  <moodForm default="nascleana" mood="Subj" person="Base" />
+  <moodForm default="nascleanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="nascleantar" mood="Subj" person="Auto" />
+</verb>

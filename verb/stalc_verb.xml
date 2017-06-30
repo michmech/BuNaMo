@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stalc" disambig="">
+  <verbalNoun default="stalcadh" />
+  <verbalAdjective default="stalctha" />
+  <tenseForm default="stalc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stalcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stalcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stalcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stalc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stalcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stalcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stalcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stalcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stalcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stalctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stalcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stalcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stalctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stalcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stalcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stalctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stalcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stalcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stalctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stalcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stalcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stalcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stalctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stalcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stalcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stalcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stalctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stalcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stalcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stalcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stalcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stalcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stalcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stalcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stalcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stalcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stalcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stalcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stalcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stalcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stalcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stalcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stalcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stalcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stalcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stalcadh" mood="Imper" person="Base" />
+  <moodForm default="stalcaim" mood="Imper" person="Sg1" />
+  <moodForm default="stalc" mood="Imper" person="Sg2" />
+  <moodForm default="stalcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="stalcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="stalcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="stalctar" mood="Imper" person="Auto" />
+  <moodForm default="stalca" mood="Subj" person="Base" />
+  <moodForm default="stalcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="stalctar" mood="Subj" person="Auto" />
+</verb>

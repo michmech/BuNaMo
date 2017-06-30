@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cairéalaigh" disambig="">
+  <verbalNoun default="cairéalú" />
+  <verbalAdjective default="cairéalaithe" />
+  <tenseForm default="cairéalaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cairéalaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cairéalaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cairéalaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cairéalaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cairéalaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cairéalaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cairéalaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cairéalaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cairéalaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cairéalaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cairéalaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cairéalaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cairéalaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cairéalaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cairéalaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cairéalaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cairéalaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cairéalaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cairéalaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cairéalaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cairéalaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cairéalaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cairéalaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cairéalaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cairéalaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cairéalaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cairéalaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cairéalóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cairéalóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cairéalófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cairéalóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cairéalóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cairéalófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cairéalódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cairéalóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cairéalófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cairéalóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cairéalóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cairéalófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cairéalódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cairéalóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cairéalófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cairéalóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cairéalóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cairéalófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cairéalaíodh" mood="Imper" person="Base" />
+  <moodForm default="cairéalaím" mood="Imper" person="Sg1" />
+  <moodForm default="cairéalaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cairéalaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cairéalaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cairéalaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cairéalaítear" mood="Imper" person="Auto" />
+  <moodForm default="cairéalaí" mood="Subj" person="Base" />
+  <moodForm default="cairéalaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cairéalaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="luchtaigh" disambig="">
+  <verbalNoun default="luchtú" />
+  <verbalAdjective default="luchtaithe" />
+  <tenseForm default="luchtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="luchtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="luchtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="luchtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="luchtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="luchtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="luchtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="luchtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="luchtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="luchtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="luchtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="luchtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="luchtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="luchtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="luchtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="luchtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="luchtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="luchtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="luchtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="luchtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="luchtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="luchtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="luchtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="luchtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="luchtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="luchtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="luchtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="luchtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="luchtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="luchtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="luchtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="luchtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="luchtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="luchtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="luchtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="luchtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="luchtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="luchtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="luchtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="luchtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="luchtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="luchtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="luchtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="luchtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="luchtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="luchtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="luchtaíodh" mood="Imper" person="Base" />
+  <moodForm default="luchtaím" mood="Imper" person="Sg1" />
+  <moodForm default="luchtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="luchtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="luchtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="luchtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="luchtaítear" mood="Imper" person="Auto" />
+  <moodForm default="luchtaí" mood="Subj" person="Base" />
+  <moodForm default="luchtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="luchtaítear" mood="Subj" person="Auto" />
+</verb>

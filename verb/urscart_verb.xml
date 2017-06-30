@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="urscart" disambig="">
+  <verbalNoun default="urscartadh" />
+  <verbalAdjective default="urscarta" />
+  <tenseForm default="urscart" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="urscartamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="urscartadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="urscartadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="urscart" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="urscartamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="urscartadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="urscartadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="urscartadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="urscartainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urscartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="urscartaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urscartaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="urscartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urscartadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="urscartainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urscartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="urscartaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urscartaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="urscartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urscartann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="urscartaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urscartaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urscartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urscartann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="urscartaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urscartaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urscartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urscartfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="urscartfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="urscartfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="urscartfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="urscartfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="urscartfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="urscartfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="urscartfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="urscartfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="urscartfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="urscartfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="urscartfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="urscartfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="urscartfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="urscartfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="urscartfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="urscartfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="urscartfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="urscartadh" mood="Imper" person="Base" />
+  <moodForm default="urscartaim" mood="Imper" person="Sg1" />
+  <moodForm default="urscart" mood="Imper" person="Sg2" />
+  <moodForm default="urscartaimis" mood="Imper" person="Pl1" />
+  <moodForm default="urscartaigí" mood="Imper" person="Pl2" />
+  <moodForm default="urscartaidís" mood="Imper" person="Pl3" />
+  <moodForm default="urscartar" mood="Imper" person="Auto" />
+  <moodForm default="urscarta" mood="Subj" person="Base" />
+  <moodForm default="urscartaimid" mood="Subj" person="Pl1" />
+  <moodForm default="urscartar" mood="Subj" person="Auto" />
+</verb>

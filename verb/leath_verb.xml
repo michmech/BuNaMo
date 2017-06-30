@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="leath" disambig="">
+  <verbalNoun default="leathadh" />
+  <verbalAdjective default="leata" />
+  <tenseForm default="leath" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="leathamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="leathadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="leathadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="leath" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="leathamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="leathadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="leathadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="leathadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="leathainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leatá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="leathaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leathaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="leataí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leathadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="leathainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leatá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="leathaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leathaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="leataí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leathann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="leathaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leathaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leatar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leathann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="leathaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leathaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leatar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leathfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="leathfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="leathfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="leathfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="leathfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="leathfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="leathfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="leathfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="leathfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="leathfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="leathfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="leathfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="leathfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="leathfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="leathfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="leathfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="leathfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="leathfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="leathadh" mood="Imper" person="Base" />
+  <moodForm default="leathaim" mood="Imper" person="Sg1" />
+  <moodForm default="leath" mood="Imper" person="Sg2" />
+  <moodForm default="leathaimis" mood="Imper" person="Pl1" />
+  <moodForm default="leathaigí" mood="Imper" person="Pl2" />
+  <moodForm default="leathaidís" mood="Imper" person="Pl3" />
+  <moodForm default="leatar" mood="Imper" person="Auto" />
+  <moodForm default="leatha" mood="Subj" person="Base" />
+  <moodForm default="leathaimid" mood="Subj" person="Pl1" />
+  <moodForm default="leatar" mood="Subj" person="Auto" />
+</verb>

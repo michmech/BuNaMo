@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="breachnaigh" disambig="">
+  <verbalNoun default="breachnú" />
+  <verbalAdjective default="breachnaithe" />
+  <tenseForm default="breachnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="breachnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="breachnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="breachnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="breachnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="breachnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="breachnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="breachnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="breachnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="breachnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="breachnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="breachnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="breachnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="breachnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="breachnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="breachnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="breachnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="breachnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="breachnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="breachnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="breachnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="breachnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="breachnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="breachnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="breachnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="breachnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="breachnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="breachnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="breachnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="breachnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="breachnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="breachnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="breachnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="breachnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="breachnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="breachnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="breachnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="breachnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="breachnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="breachnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="breachnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="breachnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="breachnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="breachnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="breachnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="breachnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="breachnaíodh" mood="Imper" person="Base" />
+  <moodForm default="breachnaím" mood="Imper" person="Sg1" />
+  <moodForm default="breachnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="breachnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="breachnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="breachnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="breachnaítear" mood="Imper" person="Auto" />
+  <moodForm default="breachnaí" mood="Subj" person="Base" />
+  <moodForm default="breachnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="breachnaítear" mood="Subj" person="Auto" />
+</verb>

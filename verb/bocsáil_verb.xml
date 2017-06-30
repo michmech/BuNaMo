@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bocsáil" disambig="">
+  <verbalNoun default="bocsáil" />
+  <verbalAdjective default="bocsáilte" />
+  <tenseForm default="bocsáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bocsálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bocsáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bocsáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bocsáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bocsálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bocsáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bocsáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bocsáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bocsálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bocsáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bocsálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bocsálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bocsáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bocsáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bocsálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bocsáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bocsálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bocsálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bocsáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bocsálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bocsálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bocsálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bocsáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bocsálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bocsálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bocsálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bocsáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bocsálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bocsálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bocsálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bocsálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bocsálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bocsálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bocsálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bocsálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bocsálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bocsálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bocsálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bocsálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bocsálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bocsálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bocsálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bocsálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bocsálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bocsálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bocsáladh" mood="Imper" person="Base" />
+  <moodForm default="bocsálaim" mood="Imper" person="Sg1" />
+  <moodForm default="bocsáil" mood="Imper" person="Sg2" />
+  <moodForm default="bocsálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bocsálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bocsálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="bocsáiltear" mood="Imper" person="Auto" />
+  <moodForm default="bocsála" mood="Subj" person="Base" />
+  <moodForm default="bocsálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="bocsáiltear" mood="Subj" person="Auto" />
+</verb>

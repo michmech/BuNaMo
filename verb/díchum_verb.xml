@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="díchum" disambig="">
+  <verbalNoun default="díchumadh" />
+  <verbalAdjective default="díchumtha" />
+  <tenseForm default="díchum" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="díchumamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchumadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="díchumadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="díchum" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="díchumamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchumadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="díchumadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="díchumadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="díchumainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díchumtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="díchumaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchumaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="díchumtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díchumadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="díchumainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díchumtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="díchumaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchumaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="díchumtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díchumann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="díchumaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díchumaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchumtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díchumann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="díchumaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díchumaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchumtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díchumfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="díchumfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchumfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="díchumfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="díchumfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchumfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="díchumfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="díchumfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="díchumfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="díchumfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="díchumfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="díchumfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="díchumfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="díchumfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="díchumfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="díchumfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="díchumfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="díchumfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="díchumadh" mood="Imper" person="Base" />
+  <moodForm default="díchumaim" mood="Imper" person="Sg1" />
+  <moodForm default="díchum" mood="Imper" person="Sg2" />
+  <moodForm default="díchumaimis" mood="Imper" person="Pl1" />
+  <moodForm default="díchumaigí" mood="Imper" person="Pl2" />
+  <moodForm default="díchumaidís" mood="Imper" person="Pl3" />
+  <moodForm default="díchumtar" mood="Imper" person="Auto" />
+  <moodForm default="díchuma" mood="Subj" person="Base" />
+  <moodForm default="díchumaimid" mood="Subj" person="Pl1" />
+  <moodForm default="díchumtar" mood="Subj" person="Auto" />
+</verb>

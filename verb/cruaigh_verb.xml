@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cruaigh" disambig="">
+  <verbalNoun default="cruachan" />
+  <verbalAdjective default="cruaite" />
+  <tenseForm default="cruaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cruamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cruadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cruadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cruaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cruamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cruadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cruadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cruadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cruainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cruaiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cruaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cruaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cruaití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cruadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cruainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cruaiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cruaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cruaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cruaití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cruann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cruaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cruaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cruaitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cruann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cruaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cruaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cruaitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cruafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cruafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cruafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cruafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cruafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cruafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cruafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cruafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cruafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cruafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cruafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cruafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cruafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cruafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cruafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cruafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cruafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cruafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cruadh" mood="Imper" person="Base" />
+  <moodForm default="cruaim" mood="Imper" person="Sg1" />
+  <moodForm default="cruaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cruaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cruaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cruaidís" mood="Imper" person="Pl3" />
+  <moodForm default="cruaitear" mood="Imper" person="Auto" />
+  <moodForm default="crua" mood="Subj" person="Base" />
+  <moodForm default="cruaimid" mood="Subj" person="Pl1" />
+  <moodForm default="cruaitear" mood="Subj" person="Auto" />
+</verb>

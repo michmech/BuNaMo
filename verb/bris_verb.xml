@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bris" disambig="">
+  <verbalNoun default="briseadh" />
+  <verbalAdjective default="briste" />
+  <tenseForm default="bris" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="briseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="briseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="briseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bris" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="briseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="briseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="briseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="briseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="brisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bristeá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="brisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="brisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bristí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="briseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="brisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bristeá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="brisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="brisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bristí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="briseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="brisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="brisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bristear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="briseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="brisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="brisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bristear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="brisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="brisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="brisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="brisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="brisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="brisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="brisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="brisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="brisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="brisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="brisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="brisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="brisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="brisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="brisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="brisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="brisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="brisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="briseadh" mood="Imper" person="Base" />
+  <moodForm default="brisim" mood="Imper" person="Sg1" />
+  <moodForm default="bris" mood="Imper" person="Sg2" />
+  <moodForm default="brisimis" mood="Imper" person="Pl1" />
+  <moodForm default="brisigí" mood="Imper" person="Pl2" />
+  <moodForm default="brisidís" mood="Imper" person="Pl3" />
+  <moodForm default="bristear" mood="Imper" person="Auto" />
+  <moodForm default="brise" mood="Subj" person="Base" />
+  <moodForm default="brisimid" mood="Subj" person="Pl1" />
+  <moodForm default="bristear" mood="Subj" person="Auto" />
+</verb>

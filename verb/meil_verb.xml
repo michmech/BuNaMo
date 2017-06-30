@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="meil" disambig="">
+  <verbalNoun default="meilt" />
+  <verbalAdjective default="meilte" />
+  <tenseForm default="meil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="meileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="meileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="meileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="meil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="meileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="meileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="meileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="meileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="meilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="meilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="meilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="meilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="meiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="meileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="meilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="meilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="meilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="meilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="meiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="meileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="meilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="meilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="meiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="meileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="meilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="meilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="meiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="meilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="meilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="meilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="meilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="meilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="meilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="meilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="meilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="meilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="meilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="meilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="meilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="meilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="meilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="meilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="meilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="meilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="meilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="meileadh" mood="Imper" person="Base" />
+  <moodForm default="meilim" mood="Imper" person="Sg1" />
+  <moodForm default="meil" mood="Imper" person="Sg2" />
+  <moodForm default="meilimis" mood="Imper" person="Pl1" />
+  <moodForm default="meiligí" mood="Imper" person="Pl2" />
+  <moodForm default="meilidís" mood="Imper" person="Pl3" />
+  <moodForm default="meiltear" mood="Imper" person="Auto" />
+  <moodForm default="meile" mood="Subj" person="Base" />
+  <moodForm default="meilimid" mood="Subj" person="Pl1" />
+  <moodForm default="meiltear" mood="Subj" person="Auto" />
+</verb>

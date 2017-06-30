@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="comhraic" disambig="">
+  <verbalNoun default="comhrac" />
+  <verbalAdjective default="comhraicthe" />
+  <tenseForm default="comhraic" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="comhraiceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhraiceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhraiceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="comhraic" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="comhraiceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhraiceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhraiceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="comhraiceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhraicinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhraicteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhraicimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhraicidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhraictí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhraiceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhraicinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhraicteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhraicimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhraicidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhraictí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhraiceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhraicim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhraicimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhraictear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhraiceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhraicim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhraicimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhraictear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhraicfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="comhraicfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhraicfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="comhraicfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="comhraicfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhraicfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="comhraicfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="comhraicfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhraicfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhraicfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhraicfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhraicfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="comhraicfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="comhraicfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhraicfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhraicfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhraicfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhraicfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="comhraiceadh" mood="Imper" person="Base" />
+  <moodForm default="comhraicim" mood="Imper" person="Sg1" />
+  <moodForm default="comhraic" mood="Imper" person="Sg2" />
+  <moodForm default="comhraicimis" mood="Imper" person="Pl1" />
+  <moodForm default="comhraicigí" mood="Imper" person="Pl2" />
+  <moodForm default="comhraicidís" mood="Imper" person="Pl3" />
+  <moodForm default="comhraictear" mood="Imper" person="Auto" />
+  <moodForm default="comhraice" mood="Subj" person="Base" />
+  <moodForm default="comhraicimid" mood="Subj" person="Pl1" />
+  <moodForm default="comhraictear" mood="Subj" person="Auto" />
+</verb>

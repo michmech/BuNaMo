@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="screamhaigh" disambig="">
+  <verbalNoun default="screamhú" />
+  <verbalAdjective default="screamhaithe" />
+  <tenseForm default="screamhaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="screamhaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="screamhaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="screamhaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="screamhaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="screamhaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="screamhaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="screamhaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="screamhaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="screamhaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="screamhaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="screamhaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="screamhaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="screamhaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="screamhaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="screamhaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="screamhaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="screamhaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="screamhaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="screamhaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="screamhaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="screamhaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="screamhaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="screamhaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="screamhaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="screamhaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="screamhaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="screamhaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="screamhóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="screamhóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="screamhófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="screamhóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="screamhóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="screamhófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="screamhódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="screamhóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="screamhófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="screamhóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="screamhóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="screamhófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="screamhódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="screamhóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="screamhófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="screamhóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="screamhóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="screamhófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="screamhaíodh" mood="Imper" person="Base" />
+  <moodForm default="screamhaím" mood="Imper" person="Sg1" />
+  <moodForm default="screamhaigh" mood="Imper" person="Sg2" />
+  <moodForm default="screamhaímis" mood="Imper" person="Pl1" />
+  <moodForm default="screamhaígí" mood="Imper" person="Pl2" />
+  <moodForm default="screamhaídís" mood="Imper" person="Pl3" />
+  <moodForm default="screamhaítear" mood="Imper" person="Auto" />
+  <moodForm default="screamhaí" mood="Subj" person="Base" />
+  <moodForm default="screamhaímid" mood="Subj" person="Pl1" />
+  <moodForm default="screamhaítear" mood="Subj" person="Auto" />
+</verb>

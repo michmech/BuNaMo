@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="aol" disambig="">
+  <verbalNoun default="aoladh" />
+  <verbalAdjective default="aolta" />
+  <tenseForm default="aol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="aolamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="aoladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="aol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="aolamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="aoladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="aoladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="aolainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="aoltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="aolaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="aolaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="aoltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="aoladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="aolainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="aoltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="aolaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="aolaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="aoltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="aolann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="aolaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="aolaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="aoltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="aolann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="aolaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="aolaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="aoltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="aolfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="aolfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="aolfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="aolfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="aolfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="aolfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="aolfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="aolfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="aolfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="aolfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="aolfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="aolfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="aolfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="aolfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="aolfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="aolfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="aolfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="aolfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="aoladh" mood="Imper" person="Base" />
+  <moodForm default="aolaim" mood="Imper" person="Sg1" />
+  <moodForm default="aol" mood="Imper" person="Sg2" />
+  <moodForm default="aolaimis" mood="Imper" person="Pl1" />
+  <moodForm default="aolaigí" mood="Imper" person="Pl2" />
+  <moodForm default="aolaidís" mood="Imper" person="Pl3" />
+  <moodForm default="aoltar" mood="Imper" person="Auto" />
+  <moodForm default="aola" mood="Subj" person="Base" />
+  <moodForm default="aolaimid" mood="Subj" person="Pl1" />
+  <moodForm default="aoltar" mood="Subj" person="Auto" />
+</verb>

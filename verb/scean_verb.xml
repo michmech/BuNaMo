@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scean" disambig="">
+  <verbalNoun default="sceanadh" />
+  <verbalAdjective default="sceanta" />
+  <tenseForm default="scean" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sceanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sceanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scean" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sceanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sceanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sceanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sceanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sceantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sceanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sceantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sceanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sceanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sceantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sceanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sceantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sceanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sceanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sceanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sceanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sceanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sceanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sceanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sceanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sceanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sceanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sceanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sceanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sceanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sceanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sceanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sceanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sceanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sceanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sceanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sceanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sceanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sceanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sceanadh" mood="Imper" person="Base" />
+  <moodForm default="sceanaim" mood="Imper" person="Sg1" />
+  <moodForm default="scean" mood="Imper" person="Sg2" />
+  <moodForm default="sceanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sceanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sceanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sceantar" mood="Imper" person="Auto" />
+  <moodForm default="sceana" mood="Subj" person="Base" />
+  <moodForm default="sceanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sceantar" mood="Subj" person="Auto" />
+</verb>

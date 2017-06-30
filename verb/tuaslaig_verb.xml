@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tuaslaig" disambig="">
+  <verbalNoun default="tuaslagadh" />
+  <verbalAdjective default="tuaslagtha" />
+  <tenseForm default="tuaslaig" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tuaslagamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaslagadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuaslagadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tuaslaig" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tuaslagamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaslagadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuaslagadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tuaslagadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuaslagainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuaslagtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuaslagaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaslagaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuaslagtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuaslagadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuaslagainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuaslagtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuaslagaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaslagaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuaslagtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuaslagann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuaslagaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuaslagaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaslagtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuaslagann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuaslagaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuaslagaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaslagtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuaslagfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tuaslagfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaslagfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tuaslagfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tuaslagfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaslagfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tuaslagfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tuaslagfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuaslagfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuaslagfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaslagfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuaslagfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tuaslagfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tuaslagfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuaslagfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuaslagfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaslagfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuaslagfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tuaslagadh" mood="Imper" person="Base" />
+  <moodForm default="tuaslagaim" mood="Imper" person="Sg1" />
+  <moodForm default="tuaslaig" mood="Imper" person="Sg2" />
+  <moodForm default="tuaslagaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tuaslagaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tuaslagaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tuaslagtar" mood="Imper" person="Auto" />
+  <moodForm default="tuaslaga" mood="Subj" person="Base" />
+  <moodForm default="tuaslagaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tuaslagtar" mood="Subj" person="Auto" />
+</verb>

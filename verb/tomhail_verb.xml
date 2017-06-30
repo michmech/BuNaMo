@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tomhail" disambig="">
+  <verbalNoun default="tomhailt" />
+  <verbalAdjective default="tomhailte" />
+  <tenseForm default="tomhail" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tomhlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tomhlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhail" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tomhlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tomhlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tomhlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tomhlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tomhlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tomhlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tomhlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tomhlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tomhlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tomhlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tomhlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tomhlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tomhlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tomhlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tomhlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tomhlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tomhlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tomhlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tomhlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tomhlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tomhlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tomhlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tomhlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tomhlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tomhlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tomhlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tomhlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tomhlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tomhlaíodh" mood="Imper" person="Base" />
+  <moodForm default="tomhlaím" mood="Imper" person="Sg1" />
+  <moodForm default="tomhail" mood="Imper" person="Sg2" />
+  <moodForm default="tomhlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="tomhlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="tomhlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="tomhlaítear" mood="Imper" person="Auto" />
+  <moodForm default="tomhlaí" mood="Subj" person="Base" />
+  <moodForm default="tomhlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="tomhlaítear" mood="Subj" person="Auto" />
+</verb>

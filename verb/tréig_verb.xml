@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tréig" disambig="">
+  <verbalNoun default="tréigean" />
+  <verbalAdjective default="tréigthe" />
+  <tenseForm default="tréig" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tréigeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréigeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tréigeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tréig" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tréigeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréigeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tréigeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tréigeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tréiginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tréigteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tréigimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréigidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tréigtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tréigeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tréiginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tréigteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tréigimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréigidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tréigtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tréigeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tréigim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tréigimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréigtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tréigeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tréigim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tréigimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréigtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tréigfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tréigfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréigfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tréigfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tréigfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréigfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tréigfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tréigfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tréigfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tréigfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tréigfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tréigfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tréigfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tréigfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tréigfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tréigfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tréigfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tréigfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tréigeadh" mood="Imper" person="Base" />
+  <moodForm default="tréigim" mood="Imper" person="Sg1" />
+  <moodForm default="tréig" mood="Imper" person="Sg2" />
+  <moodForm default="tréigimis" mood="Imper" person="Pl1" />
+  <moodForm default="tréigigí" mood="Imper" person="Pl2" />
+  <moodForm default="tréigidís" mood="Imper" person="Pl3" />
+  <moodForm default="tréigtear" mood="Imper" person="Auto" />
+  <moodForm default="tréige" mood="Subj" person="Base" />
+  <moodForm default="tréigimid" mood="Subj" person="Pl1" />
+  <moodForm default="tréigtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scon" disambig="">
+  <verbalNoun default="sconadh" />
+  <verbalAdjective default="sconta" />
+  <tenseForm default="scon" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sconamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sconadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sconadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scon" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sconamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sconadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sconadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sconadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sconainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scontá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sconaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sconaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scontaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sconadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sconainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scontá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sconaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sconaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scontaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sconann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sconaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sconaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scontar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sconann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sconaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sconaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scontar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sconfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sconfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sconfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sconfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sconfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sconfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sconfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sconfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sconfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sconfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sconfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sconfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sconfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sconfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sconfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sconfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sconfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sconfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sconadh" mood="Imper" person="Base" />
+  <moodForm default="sconaim" mood="Imper" person="Sg1" />
+  <moodForm default="scon" mood="Imper" person="Sg2" />
+  <moodForm default="sconaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sconaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sconaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scontar" mood="Imper" person="Auto" />
+  <moodForm default="scona" mood="Subj" person="Base" />
+  <moodForm default="sconaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scontar" mood="Subj" person="Auto" />
+</verb>

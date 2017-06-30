@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cúlghearr" disambig="">
+  <verbalNoun default="cúlghearradh" />
+  <verbalAdjective default="cúlghearrtha" />
+  <tenseForm default="cúlghearr" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cúlghearramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlghearradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúlghearradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlghearr" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cúlghearramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlghearradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúlghearradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlghearradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúlghearrainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlghearrtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúlghearraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlghearraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúlghearrtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlghearradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúlghearrainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlghearrtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúlghearraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlghearraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúlghearrtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlghearrann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cúlghearraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlghearraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlghearrtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlghearrann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cúlghearraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlghearraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlghearrtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlghearrfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cúlghearrfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlghearrfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlghearrfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cúlghearrfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlghearrfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cúlghearrfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cúlghearrfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cúlghearrfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cúlghearrfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cúlghearrfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cúlghearrfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cúlghearrfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cúlghearrfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cúlghearrfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cúlghearrfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cúlghearrfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cúlghearrfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cúlghearradh" mood="Imper" person="Base" />
+  <moodForm default="cúlghearraim" mood="Imper" person="Sg1" />
+  <moodForm default="cúlghearr" mood="Imper" person="Sg2" />
+  <moodForm default="cúlghearraimis" mood="Imper" person="Pl1" />
+  <moodForm default="cúlghearraigí" mood="Imper" person="Pl2" />
+  <moodForm default="cúlghearraidís" mood="Imper" person="Pl3" />
+  <moodForm default="cúlghearrtar" mood="Imper" person="Auto" />
+  <moodForm default="cúlghearra" mood="Subj" person="Base" />
+  <moodForm default="cúlghearraimid" mood="Subj" person="Pl1" />
+  <moodForm default="cúlghearrtar" mood="Subj" person="Auto" />
+</verb>

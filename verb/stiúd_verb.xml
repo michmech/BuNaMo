@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stiúd" disambig="">
+  <verbalNoun default="stiúdadh" />
+  <verbalAdjective default="stiúdta" />
+  <tenseForm default="stiúd" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stiúdamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stiúdadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stiúdadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stiúd" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stiúdamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stiúdadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stiúdadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stiúdadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stiúdainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stiúdtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stiúdaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stiúdaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stiúdtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stiúdadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stiúdainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stiúdtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stiúdaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stiúdaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stiúdtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stiúdann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stiúdaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stiúdaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stiúdtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stiúdann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stiúdaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stiúdaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stiúdtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stiúdfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stiúdfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stiúdfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stiúdfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stiúdfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stiúdfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stiúdfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stiúdfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stiúdfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stiúdfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stiúdfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stiúdfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stiúdfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stiúdfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stiúdfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stiúdfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stiúdfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stiúdfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stiúdadh" mood="Imper" person="Base" />
+  <moodForm default="stiúdaim" mood="Imper" person="Sg1" />
+  <moodForm default="stiúd" mood="Imper" person="Sg2" />
+  <moodForm default="stiúdaimis" mood="Imper" person="Pl1" />
+  <moodForm default="stiúdaigí" mood="Imper" person="Pl2" />
+  <moodForm default="stiúdaidís" mood="Imper" person="Pl3" />
+  <moodForm default="stiúdtar" mood="Imper" person="Auto" />
+  <moodForm default="stiúda" mood="Subj" person="Base" />
+  <moodForm default="stiúdaimid" mood="Subj" person="Pl1" />
+  <moodForm default="stiúdtar" mood="Subj" person="Auto" />
+</verb>

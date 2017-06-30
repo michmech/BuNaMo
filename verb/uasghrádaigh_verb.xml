@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="uasghrádaigh" disambig="">
+  <verbalNoun default="uasghrádú" />
+  <verbalAdjective default="uasghrádaithe" />
+  <tenseForm default="uasghrádaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="uasghrádaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="uasghrádaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="uasghrádaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="uasghrádaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="uasghrádaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="uasghrádaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="uasghrádaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="uasghrádaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="uasghrádaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="uasghrádaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="uasghrádaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="uasghrádaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="uasghrádaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="uasghrádaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="uasghrádaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="uasghrádaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="uasghrádaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="uasghrádaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="uasghrádaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="uasghrádaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="uasghrádaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="uasghrádaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="uasghrádaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="uasghrádaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="uasghrádaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="uasghrádaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="uasghrádaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="uasghrádóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="uasghrádóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="uasghrádófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="uasghrádóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="uasghrádóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="uasghrádófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="uasghrádódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="uasghrádóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="uasghrádófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="uasghrádóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="uasghrádóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="uasghrádófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="uasghrádódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="uasghrádóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="uasghrádófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="uasghrádóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="uasghrádóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="uasghrádófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="uasghrádaíodh" mood="Imper" person="Base" />
+  <moodForm default="uasghrádaím" mood="Imper" person="Sg1" />
+  <moodForm default="uasghrádaigh" mood="Imper" person="Sg2" />
+  <moodForm default="uasghrádaímis" mood="Imper" person="Pl1" />
+  <moodForm default="uasghrádaígí" mood="Imper" person="Pl2" />
+  <moodForm default="uasghrádaídís" mood="Imper" person="Pl3" />
+  <moodForm default="uasghrádaítear" mood="Imper" person="Auto" />
+  <moodForm default="uasghrádaí" mood="Subj" person="Base" />
+  <moodForm default="uasghrádaímid" mood="Subj" person="Pl1" />
+  <moodForm default="uasghrádaítear" mood="Subj" person="Auto" />
+</verb>

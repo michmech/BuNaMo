@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="vótáil" disambig="">
+  <verbalNoun default="vótáil" />
+  <verbalAdjective default="vótáilte" />
+  <tenseForm default="vótáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="vótálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="vótáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="vótáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="vótáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="vótálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="vótáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="vótáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="vótáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="vótálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="vótáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="vótálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="vótálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="vótáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="vótáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="vótálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="vótáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="vótálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="vótálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="vótáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="vótálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="vótálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="vótálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="vótáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="vótálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="vótálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="vótálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="vótáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="vótálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="vótálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="vótálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="vótálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="vótálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="vótálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="vótálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="vótálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="vótálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="vótálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="vótálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="vótálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="vótálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="vótálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="vótálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="vótálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="vótálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="vótálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="vótáladh" mood="Imper" person="Base" />
+  <moodForm default="vótálaim" mood="Imper" person="Sg1" />
+  <moodForm default="vótáil" mood="Imper" person="Sg2" />
+  <moodForm default="vótálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="vótálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="vótálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="vótáiltear" mood="Imper" person="Auto" />
+  <moodForm default="vótála" mood="Subj" person="Base" />
+  <moodForm default="vótálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="vótáiltear" mood="Subj" person="Auto" />
+</verb>

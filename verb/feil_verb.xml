@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="feil" disambig="">
+  <verbalNoun default="feiliúint" />
+  <verbalAdjective default="feilte" />
+  <tenseForm default="feil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="feileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="feileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="feileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="feil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="feileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="feileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="feileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="feileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="feilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="feilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="feiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="feilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="feilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="feiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="feilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="feilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="feiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="feileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="feilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="feilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="feiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="feilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="feilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="feilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="feilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="feilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="feilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="feilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="feilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="feilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="feilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="feilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="feilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="feilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="feilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="feilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="feilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="feilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="feilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="feileadh" mood="Imper" person="Base" />
+  <moodForm default="feilim" mood="Imper" person="Sg1" />
+  <moodForm default="feil" mood="Imper" person="Sg2" />
+  <moodForm default="feilimis" mood="Imper" person="Pl1" />
+  <moodForm default="feiligí" mood="Imper" person="Pl2" />
+  <moodForm default="feilidís" mood="Imper" person="Pl3" />
+  <moodForm default="feiltear" mood="Imper" person="Auto" />
+  <moodForm default="feile" mood="Subj" person="Base" />
+  <moodForm default="feilimid" mood="Subj" person="Pl1" />
+  <moodForm default="feiltear" mood="Subj" person="Auto" />
+</verb>

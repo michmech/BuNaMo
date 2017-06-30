@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="aducht" disambig="">
+  <verbalNoun default="aduchtadh" />
+  <verbalAdjective default="aduchta" />
+  <tenseForm default="aducht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="aduchtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="aduchtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="aduchtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="aducht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="aduchtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="aduchtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="aduchtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="aduchtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="aduchtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="aduchtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="aduchtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="aduchtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="aduchtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="aduchtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="aduchtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="aduchtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="aduchtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="aduchtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="aduchtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="aduchtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="aduchtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="aduchtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="aduchtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="aduchtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="aduchtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="aduchtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="aduchtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="aduchtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="aduchtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="aduchtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="aduchtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="aduchtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="aduchtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="aduchtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="aduchtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="aduchtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="aduchtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="aduchtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="aduchtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="aduchtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="aduchtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="aduchtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="aduchtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="aduchtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="aduchtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="aduchtadh" mood="Imper" person="Base" />
+  <moodForm default="aduchtaim" mood="Imper" person="Sg1" />
+  <moodForm default="aducht" mood="Imper" person="Sg2" />
+  <moodForm default="aduchtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="aduchtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="aduchtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="aduchtar" mood="Imper" person="Auto" />
+  <moodForm default="aduchta" mood="Subj" person="Base" />
+  <moodForm default="aduchtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="aduchtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="liteagraf" disambig="">
+  <verbalNoun default="liteagrafadh" />
+  <verbalAdjective default="liteagrafa" />
+  <tenseForm default="liteagraf" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="liteagrafamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="liteagrafadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="liteagrafadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="liteagraf" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="liteagrafamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="liteagrafadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="liteagrafadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="liteagrafadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="liteagrafainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="liteagraftá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="liteagrafaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="liteagrafaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="liteagraftaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="liteagrafadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="liteagrafainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="liteagraftá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="liteagrafaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="liteagrafaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="liteagraftaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="liteagrafann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="liteagrafaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="liteagrafaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="liteagraftar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="liteagrafann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="liteagrafaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="liteagrafaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="liteagraftar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="liteagrafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="liteagrafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="liteagrafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="liteagrafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="liteagrafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="liteagrafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="liteagrafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="liteagrafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="liteagrafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="liteagrafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="liteagrafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="liteagrafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="liteagrafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="liteagrafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="liteagrafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="liteagrafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="liteagrafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="liteagrafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="liteagrafadh" mood="Imper" person="Base" />
+  <moodForm default="liteagrafaim" mood="Imper" person="Sg1" />
+  <moodForm default="liteagraf" mood="Imper" person="Sg2" />
+  <moodForm default="liteagrafaimis" mood="Imper" person="Pl1" />
+  <moodForm default="liteagrafaigí" mood="Imper" person="Pl2" />
+  <moodForm default="liteagrafaidís" mood="Imper" person="Pl3" />
+  <moodForm default="liteagraftar" mood="Imper" person="Auto" />
+  <moodForm default="liteagrafa" mood="Subj" person="Base" />
+  <moodForm default="liteagrafaimid" mood="Subj" person="Pl1" />
+  <moodForm default="liteagraftar" mood="Subj" person="Auto" />
+</verb>

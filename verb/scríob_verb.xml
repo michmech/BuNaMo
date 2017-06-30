@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scríob" disambig="">
+  <verbalNoun default="scríobadh" />
+  <verbalAdjective default="scríobtha" />
+  <tenseForm default="scríob" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scríobamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scríobadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scríobadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scríob" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scríobamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scríobadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scríobadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scríobadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scríobainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scríobtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scríobaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scríobaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scríobtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scríobadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scríobainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scríobtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scríobaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scríobaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scríobtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scríobann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scríobaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scríobaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scríobtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scríobann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scríobaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scríobaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scríobtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scríobfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scríobfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scríobfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scríobfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scríobfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scríobfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scríobfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scríobfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scríobfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scríobfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scríobfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scríobfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scríobfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scríobfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scríobfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scríobfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scríobfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scríobfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scríobadh" mood="Imper" person="Base" />
+  <moodForm default="scríobaim" mood="Imper" person="Sg1" />
+  <moodForm default="scríob" mood="Imper" person="Sg2" />
+  <moodForm default="scríobaimis" mood="Imper" person="Pl1" />
+  <moodForm default="scríobaigí" mood="Imper" person="Pl2" />
+  <moodForm default="scríobaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scríobtar" mood="Imper" person="Auto" />
+  <moodForm default="scríoba" mood="Subj" person="Base" />
+  <moodForm default="scríobaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scríobtar" mood="Subj" person="Auto" />
+</verb>

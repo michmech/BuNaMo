@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sop" disambig="">
+  <verbalNoun default="sopadh" />
+  <verbalAdjective default="soptha" />
+  <tenseForm default="sop" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sopamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sopadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sop" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sopamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sopadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sopadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sopainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="soptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sopaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sopaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="soptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sopadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sopainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="soptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sopaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sopaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="soptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sopann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sopaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sopaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="soptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sopann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sopaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sopaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="soptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sopfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sopfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sopfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sopfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sopfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sopfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sopfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sopfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sopfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sopfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sopfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sopfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sopfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sopfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sopfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sopfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sopfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sopfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sopadh" mood="Imper" person="Base" />
+  <moodForm default="sopaim" mood="Imper" person="Sg1" />
+  <moodForm default="sop" mood="Imper" person="Sg2" />
+  <moodForm default="sopaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sopaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sopaidís" mood="Imper" person="Pl3" />
+  <moodForm default="soptar" mood="Imper" person="Auto" />
+  <moodForm default="sopa" mood="Subj" person="Base" />
+  <moodForm default="sopaimid" mood="Subj" person="Pl1" />
+  <moodForm default="soptar" mood="Subj" person="Auto" />
+</verb>

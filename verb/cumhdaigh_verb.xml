@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cumhdaigh" disambig="">
+  <verbalNoun default="cumhdach" />
+  <verbalAdjective default="cumhdaithe" />
+  <tenseForm default="cumhdaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cumhdaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhdaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumhdaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhdaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cumhdaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhdaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumhdaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhdaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cumhdaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumhdaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cumhdaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhdaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumhdaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhdaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cumhdaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumhdaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cumhdaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhdaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumhdaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhdaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cumhdaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumhdaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhdaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhdaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cumhdaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumhdaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhdaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhdóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cumhdóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhdófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhdóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cumhdóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhdófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cumhdódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cumhdóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cumhdófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cumhdóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cumhdóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cumhdófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cumhdódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cumhdóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cumhdófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cumhdóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cumhdóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cumhdófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cumhdaíodh" mood="Imper" person="Base" />
+  <moodForm default="cumhdaím" mood="Imper" person="Sg1" />
+  <moodForm default="cumhdaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cumhdaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cumhdaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cumhdaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cumhdaítear" mood="Imper" person="Auto" />
+  <moodForm default="cumhdaí" mood="Subj" person="Base" />
+  <moodForm default="cumhdaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cumhdaítear" mood="Subj" person="Auto" />
+</verb>

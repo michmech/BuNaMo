@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="alp" disambig="">
+  <verbalNoun default="alpadh" />
+  <verbalAdjective default="alptha" />
+  <tenseForm default="alp" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="alpamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="alpadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="alp" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="alpamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="alpadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="alpadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="alpainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="alptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="alpaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="alpaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="alptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="alpadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="alpainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="alptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="alpaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="alpaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="alptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="alpann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="alpaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="alpaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="alptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="alpann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="alpaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="alpaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="alptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="alpfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="alpfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="alpfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="alpfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="alpfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="alpfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="alpfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="alpfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="alpfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="alpfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="alpfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="alpfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="alpfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="alpfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="alpfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="alpfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="alpfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="alpfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="alpadh" mood="Imper" person="Base" />
+  <moodForm default="alpaim" mood="Imper" person="Sg1" />
+  <moodForm default="alp" mood="Imper" person="Sg2" />
+  <moodForm default="alpaimis" mood="Imper" person="Pl1" />
+  <moodForm default="alpaigí" mood="Imper" person="Pl2" />
+  <moodForm default="alpaidís" mood="Imper" person="Pl3" />
+  <moodForm default="alptar" mood="Imper" person="Auto" />
+  <moodForm default="alpa" mood="Subj" person="Base" />
+  <moodForm default="alpaimid" mood="Subj" person="Pl1" />
+  <moodForm default="alptar" mood="Subj" person="Auto" />
+</verb>

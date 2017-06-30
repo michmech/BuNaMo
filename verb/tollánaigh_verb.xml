@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tollánaigh" disambig="">
+  <verbalNoun default="tollánú" />
+  <verbalAdjective default="tollánaithe" />
+  <tenseForm default="tollánaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tollánaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tollánaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tollánaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tollánaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tollánaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tollánaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tollánaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tollánaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tollánaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tollánaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tollánaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tollánaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tollánaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tollánaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tollánaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tollánaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tollánaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tollánaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tollánaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tollánaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tollánaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tollánaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tollánaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tollánaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tollánaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tollánaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tollánaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tollánóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tollánóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tollánófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tollánóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tollánóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tollánófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tollánódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tollánóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tollánófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tollánóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tollánóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tollánófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tollánódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tollánóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tollánófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tollánóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tollánóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tollánófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tollánaíodh" mood="Imper" person="Base" />
+  <moodForm default="tollánaím" mood="Imper" person="Sg1" />
+  <moodForm default="tollánaigh" mood="Imper" person="Sg2" />
+  <moodForm default="tollánaímis" mood="Imper" person="Pl1" />
+  <moodForm default="tollánaígí" mood="Imper" person="Pl2" />
+  <moodForm default="tollánaídís" mood="Imper" person="Pl3" />
+  <moodForm default="tollánaítear" mood="Imper" person="Auto" />
+  <moodForm default="tollánaí" mood="Subj" person="Base" />
+  <moodForm default="tollánaímid" mood="Subj" person="Pl1" />
+  <moodForm default="tollánaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="morg" disambig="">
+  <verbalNoun default="morgadh" />
+  <verbalAdjective default="morgtha" />
+  <tenseForm default="morg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="morgamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="morgadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="morg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="morgamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="morgadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="morgadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="morgainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="morgtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="morgaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="morgtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="morgadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="morgainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="morgtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="morgaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="morgtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="morgann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="morgaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="morgaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="morgann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="morgaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="morgaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="morgfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="morgfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="morgfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="morgfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="morgfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="morgfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="morgfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="morgfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="morgfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="morgfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="morgfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="morgfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="morgfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="morgfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="morgadh" mood="Imper" person="Base" />
+  <moodForm default="morgaim" mood="Imper" person="Sg1" />
+  <moodForm default="morg" mood="Imper" person="Sg2" />
+  <moodForm default="morgaimis" mood="Imper" person="Pl1" />
+  <moodForm default="morgaigí" mood="Imper" person="Pl2" />
+  <moodForm default="morgaidís" mood="Imper" person="Pl3" />
+  <moodForm default="morgtar" mood="Imper" person="Auto" />
+  <moodForm default="morga" mood="Subj" person="Base" />
+  <moodForm default="morgaimid" mood="Subj" person="Pl1" />
+  <moodForm default="morgtar" mood="Subj" person="Auto" />
+</verb>

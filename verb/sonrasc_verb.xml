@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sonrasc" disambig="">
+  <verbalNoun default="sonrascadh" />
+  <verbalAdjective default="sonrasctha" />
+  <tenseForm default="sonrasc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sonrascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonrascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonrascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sonrasc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sonrascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonrascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonrascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sonrascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sonrascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonrasctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sonrascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonrascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonrasctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sonrascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sonrascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonrasctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sonrascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonrascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonrasctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sonrascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sonrascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonrascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonrasctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sonrascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sonrascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonrascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonrasctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sonrascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sonrascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonrascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sonrascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sonrascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonrascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sonrascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sonrascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonrascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sonrascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonrascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonrascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sonrascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sonrascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonrascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sonrascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonrascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonrascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sonrascadh" mood="Imper" person="Base" />
+  <moodForm default="sonrascaim" mood="Imper" person="Sg1" />
+  <moodForm default="sonrasc" mood="Imper" person="Sg2" />
+  <moodForm default="sonrascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sonrascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sonrascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sonrasctar" mood="Imper" person="Auto" />
+  <moodForm default="sonrasca" mood="Subj" person="Base" />
+  <moodForm default="sonrascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sonrasctar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tíoptheilg" disambig="">
+  <verbalNoun default="tíoptheilgean" />
+  <verbalAdjective default="tíoptheilgthe" />
+  <tenseForm default="tíoptheilg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tíoptheilgeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíoptheilgeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíoptheilgeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tíoptheilg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tíoptheilgeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíoptheilgeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíoptheilgeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tíoptheilgeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíoptheilginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíoptheilgteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíoptheilgimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíoptheilgidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíoptheilgtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíoptheilgeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíoptheilginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíoptheilgteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíoptheilgimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíoptheilgidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíoptheilgtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíoptheilgeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tíoptheilgim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíoptheilgimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíoptheilgtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tíoptheilgeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tíoptheilgim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíoptheilgimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíoptheilgtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tíoptheilgfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tíoptheilgfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíoptheilgfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tíoptheilgfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tíoptheilgfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíoptheilgfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tíoptheilgfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tíoptheilgfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tíoptheilgfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tíoptheilgfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tíoptheilgfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tíoptheilgfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tíoptheilgfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tíoptheilgfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tíoptheilgfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tíoptheilgfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tíoptheilgfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tíoptheilgfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tíoptheilgeadh" mood="Imper" person="Base" />
+  <moodForm default="tíoptheilgim" mood="Imper" person="Sg1" />
+  <moodForm default="tíoptheilg" mood="Imper" person="Sg2" />
+  <moodForm default="tíoptheilgimis" mood="Imper" person="Pl1" />
+  <moodForm default="tíoptheilgigí" mood="Imper" person="Pl2" />
+  <moodForm default="tíoptheilgidís" mood="Imper" person="Pl3" />
+  <moodForm default="tíoptheilgtear" mood="Imper" person="Auto" />
+  <moodForm default="tíoptheilge" mood="Subj" person="Base" />
+  <moodForm default="tíoptheilgimid" mood="Subj" person="Pl1" />
+  <moodForm default="tíoptheilgtear" mood="Subj" person="Auto" />
+</verb>

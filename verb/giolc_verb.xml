@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="giolc" disambig="">
+  <verbalNoun default="giolcadh" />
+  <verbalAdjective default="giolctha" />
+  <tenseForm default="giolc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="giolcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="giolcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="giolcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="giolc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="giolcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="giolcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="giolcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="giolcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="giolcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="giolctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="giolcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="giolcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="giolctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="giolcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="giolcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="giolctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="giolcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="giolcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="giolctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="giolcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="giolcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="giolcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="giolctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="giolcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="giolcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="giolcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="giolctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="giolcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="giolcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="giolcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="giolcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="giolcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="giolcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="giolcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="giolcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="giolcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="giolcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="giolcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="giolcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="giolcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="giolcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="giolcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="giolcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="giolcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="giolcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="giolcadh" mood="Imper" person="Base" />
+  <moodForm default="giolcaim" mood="Imper" person="Sg1" />
+  <moodForm default="giolc" mood="Imper" person="Sg2" />
+  <moodForm default="giolcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="giolcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="giolcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="giolctar" mood="Imper" person="Auto" />
+  <moodForm default="giolca" mood="Subj" person="Base" />
+  <moodForm default="giolcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="giolctar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mothallaigh" disambig="">
+  <verbalNoun default="mothallú" />
+  <verbalAdjective default="mothallaithe" />
+  <tenseForm default="mothallaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mothallaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mothallaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mothallaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mothallaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mothallaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mothallaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mothallaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mothallaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mothallaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mothallaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mothallaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mothallaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mothallaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mothallaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mothallaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mothallaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mothallaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mothallaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mothallaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mothallaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mothallaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mothallaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mothallaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mothallaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mothallaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mothallaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mothallaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mothallóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mothallóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mothallófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mothallóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mothallóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mothallófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mothallódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mothallóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mothallófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mothallóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mothallóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mothallófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mothallódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mothallóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mothallófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mothallóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mothallóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mothallófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mothallaíodh" mood="Imper" person="Base" />
+  <moodForm default="mothallaím" mood="Imper" person="Sg1" />
+  <moodForm default="mothallaigh" mood="Imper" person="Sg2" />
+  <moodForm default="mothallaímis" mood="Imper" person="Pl1" />
+  <moodForm default="mothallaígí" mood="Imper" person="Pl2" />
+  <moodForm default="mothallaídís" mood="Imper" person="Pl3" />
+  <moodForm default="mothallaítear" mood="Imper" person="Auto" />
+  <moodForm default="mothallaí" mood="Subj" person="Base" />
+  <moodForm default="mothallaímid" mood="Subj" person="Pl1" />
+  <moodForm default="mothallaítear" mood="Subj" person="Auto" />
+</verb>

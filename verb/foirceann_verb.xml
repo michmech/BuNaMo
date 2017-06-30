@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="foirceann" disambig="">
+  <verbalNoun default="foirceannadh" />
+  <verbalAdjective default="foirceanta" />
+  <tenseForm default="foirceann" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="foirceannamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirceannadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirceannadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="foirceann" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="foirceannamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirceannadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirceannadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="foirceannadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="foirceannainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirceanntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="foirceannaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirceannaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirceanntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foirceannadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="foirceannainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirceanntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="foirceannaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirceannaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirceanntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foirceannann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="foirceannaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirceannaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirceanntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foirceannann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="foirceannaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirceannaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirceanntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foirceannfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="foirceannfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirceannfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="foirceannfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="foirceannfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirceannfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="foirceannfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="foirceannfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirceannfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="foirceannfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirceannfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirceannfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="foirceannfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="foirceannfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirceannfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="foirceannfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirceannfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirceannfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="foirceannadh" mood="Imper" person="Base" />
+  <moodForm default="foirceannaim" mood="Imper" person="Sg1" />
+  <moodForm default="foirceann" mood="Imper" person="Sg2" />
+  <moodForm default="foirceannaimis" mood="Imper" person="Pl1" />
+  <moodForm default="foirceannaigí" mood="Imper" person="Pl2" />
+  <moodForm default="foirceannaidís" mood="Imper" person="Pl3" />
+  <moodForm default="foirceanntar" mood="Imper" person="Auto" />
+  <moodForm default="foirceanna" mood="Subj" person="Base" />
+  <moodForm default="foirceannaimid" mood="Subj" person="Pl1" />
+  <moodForm default="foirceanntar" mood="Subj" person="Auto" />
+</verb>

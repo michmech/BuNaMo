@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fan" disambig="">
+  <verbalNoun default="fanacht" />
+  <verbalAdjective default="fanta" />
+  <tenseForm default="fan" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fan" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fanadh" mood="Imper" person="Base" />
+  <moodForm default="fanaim" mood="Imper" person="Sg1" />
+  <moodForm default="fan" mood="Imper" person="Sg2" />
+  <moodForm default="fanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="fanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="fanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="fantar" mood="Imper" person="Auto" />
+  <moodForm default="fana" mood="Subj" person="Base" />
+  <moodForm default="fanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="fantar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="druid" disambig="">
+  <verbalNoun default="druidim" />
+  <verbalAdjective default="druidte" />
+  <tenseForm default="druid" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="druideamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="druideadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="druideadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="druid" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="druideamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="druideadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="druideadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="druideadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="druidinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="druidteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="druidimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="druididís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="druidtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="druideadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="druidinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="druidteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="druidimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="druididís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="druidtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="druideann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="druidim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="druidimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="druidtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="druideann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="druidim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="druidimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="druidtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="druidfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="druidfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="druidfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="druidfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="druidfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="druidfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="druidfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="druidfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="druidfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="druidfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="druidfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="druidfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="druidfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="druidfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="druidfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="druidfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="druidfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="druidfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="druideadh" mood="Imper" person="Base" />
+  <moodForm default="druidim" mood="Imper" person="Sg1" />
+  <moodForm default="druid" mood="Imper" person="Sg2" />
+  <moodForm default="druidimis" mood="Imper" person="Pl1" />
+  <moodForm default="druidigí" mood="Imper" person="Pl2" />
+  <moodForm default="druididís" mood="Imper" person="Pl3" />
+  <moodForm default="druidtear" mood="Imper" person="Auto" />
+  <moodForm default="druide" mood="Subj" person="Base" />
+  <moodForm default="druidimid" mood="Subj" person="Pl1" />
+  <moodForm default="druidtear" mood="Subj" person="Auto" />
+</verb>

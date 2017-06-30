@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fóin" disambig="">
+  <verbalNoun default="fónamh" />
+  <verbalAdjective default="fónta" />
+  <tenseForm default="fóin" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fónamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fónadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fóin" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fónamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fónadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fónadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fónainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fóntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fónaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fónaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fóntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fónadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fónainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fóntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fónaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fónaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fóntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fónann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fónaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fónaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fóntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fónann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fónaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fónaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fóntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fónfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fónfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fónfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fónfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fónfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fónfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fónfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fónfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fónfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fónfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fónfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fónfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fónfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fónfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fónfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fónfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fónfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fónfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fónadh" mood="Imper" person="Base" />
+  <moodForm default="fónaim" mood="Imper" person="Sg1" />
+  <moodForm default="fóin" mood="Imper" person="Sg2" />
+  <moodForm default="fónaimis" mood="Imper" person="Pl1" />
+  <moodForm default="fónaigí" mood="Imper" person="Pl2" />
+  <moodForm default="fónaidís" mood="Imper" person="Pl3" />
+  <moodForm default="fóntar" mood="Imper" person="Auto" />
+  <moodForm default="fóna" mood="Subj" person="Base" />
+  <moodForm default="fónaimid" mood="Subj" person="Pl1" />
+  <moodForm default="fóntar" mood="Subj" person="Auto" />
+</verb>

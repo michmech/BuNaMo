@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stromp" disambig="">
+  <verbalNoun default="strompadh" />
+  <verbalAdjective default="stromptha" />
+  <tenseForm default="stromp" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="strompamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="strompadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="strompadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stromp" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="strompamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="strompadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="strompadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="strompadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="strompainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stromptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="strompaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="strompaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stromptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="strompadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="strompainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stromptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="strompaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="strompaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stromptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="strompann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="strompaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="strompaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stromptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="strompann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="strompaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="strompaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stromptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="strompfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="strompfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="strompfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="strompfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="strompfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="strompfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="strompfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="strompfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="strompfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="strompfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="strompfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="strompfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="strompfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="strompfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="strompfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="strompfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="strompfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="strompfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="strompadh" mood="Imper" person="Base" />
+  <moodForm default="strompaim" mood="Imper" person="Sg1" />
+  <moodForm default="stromp" mood="Imper" person="Sg2" />
+  <moodForm default="strompaimis" mood="Imper" person="Pl1" />
+  <moodForm default="strompaigí" mood="Imper" person="Pl2" />
+  <moodForm default="strompaidís" mood="Imper" person="Pl3" />
+  <moodForm default="stromptar" mood="Imper" person="Auto" />
+  <moodForm default="strompa" mood="Subj" person="Base" />
+  <moodForm default="strompaimid" mood="Subj" person="Pl1" />
+  <moodForm default="stromptar" mood="Subj" person="Auto" />
+</verb>

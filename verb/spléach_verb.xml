@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="spléach" disambig="">
+  <verbalNoun default="spléachadh" />
+  <verbalAdjective default="spléachta" />
+  <tenseForm default="spléach" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="spléachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="spléachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="spléachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="spléach" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="spléachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="spléachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="spléachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="spléachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="spléachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spléachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="spléachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spléachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="spléachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spléachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="spléachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spléachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="spléachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spléachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="spléachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spléachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="spléachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spléachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spléachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spléachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="spléachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spléachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spléachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spléachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="spléachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="spléachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="spléachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="spléachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="spléachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="spléachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="spléachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="spléachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="spléachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="spléachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="spléachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="spléachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="spléachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="spléachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="spléachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="spléachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="spléachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="spléachadh" mood="Imper" person="Base" />
+  <moodForm default="spléachaim" mood="Imper" person="Sg1" />
+  <moodForm default="spléach" mood="Imper" person="Sg2" />
+  <moodForm default="spléachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="spléachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="spléachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="spléachtar" mood="Imper" person="Auto" />
+  <moodForm default="spléacha" mood="Subj" person="Base" />
+  <moodForm default="spléachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="spléachtar" mood="Subj" person="Auto" />
+</verb>

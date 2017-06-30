@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ráthaigh" disambig="">
+  <verbalNoun default="ráthú" />
+  <verbalAdjective default="ráthaithe" />
+  <tenseForm default="ráthaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ráthaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráthaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ráthaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ráthaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ráthaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráthaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ráthaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ráthaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ráthaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ráthaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ráthaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráthaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ráthaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ráthaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ráthaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ráthaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ráthaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráthaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ráthaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ráthaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ráthaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ráthaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráthaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ráthaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ráthaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ráthaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráthaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ráthóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ráthóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráthófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ráthóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ráthóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráthófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ráthódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ráthóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ráthófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ráthóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ráthóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ráthófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ráthódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ráthóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ráthófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ráthóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ráthóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ráthófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ráthaíodh" mood="Imper" person="Base" />
+  <moodForm default="ráthaím" mood="Imper" person="Sg1" />
+  <moodForm default="ráthaigh" mood="Imper" person="Sg2" />
+  <moodForm default="ráthaímis" mood="Imper" person="Pl1" />
+  <moodForm default="ráthaígí" mood="Imper" person="Pl2" />
+  <moodForm default="ráthaídís" mood="Imper" person="Pl3" />
+  <moodForm default="ráthaítear" mood="Imper" person="Auto" />
+  <moodForm default="ráthaí" mood="Subj" person="Base" />
+  <moodForm default="ráthaímid" mood="Subj" person="Pl1" />
+  <moodForm default="ráthaítear" mood="Subj" person="Auto" />
+</verb>

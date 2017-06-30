@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="iniaigh" disambig="">
+  <verbalNoun default="iniamh" />
+  <verbalAdjective default="iniata" />
+  <tenseForm default="iniaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="iniamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="iniadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="iniaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="iniamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="iniadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="iniadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="iniainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="iniatá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="iniaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="iniaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="iniataí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="iniadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="iniainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="iniatá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="iniaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="iniaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="iniataí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="iniann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="iniaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="iniaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="iniatar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="iniann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="iniaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="iniaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="iniatar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="iniafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="iniafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="iniafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="iniafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="iniafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="iniafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="iniafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="iniafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="iniafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="iniafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="iniafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="iniafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="iniafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="iniafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="iniafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="iniafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="iniafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="iniafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="iniadh" mood="Imper" person="Base" />
+  <moodForm default="iniaim" mood="Imper" person="Sg1" />
+  <moodForm default="iniaigh" mood="Imper" person="Sg2" />
+  <moodForm default="iniaimis" mood="Imper" person="Pl1" />
+  <moodForm default="iniaigí" mood="Imper" person="Pl2" />
+  <moodForm default="iniaidís" mood="Imper" person="Pl3" />
+  <moodForm default="iniatar" mood="Imper" person="Auto" />
+  <moodForm default="inia" mood="Subj" person="Base" />
+  <moodForm default="iniaimid" mood="Subj" person="Pl1" />
+  <moodForm default="iniatar" mood="Subj" person="Auto" />
+</verb>

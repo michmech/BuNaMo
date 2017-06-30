@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="glóthaigh" disambig="">
+  <verbalNoun default="glóthú" />
+  <verbalAdjective default="glóthaithe" />
+  <tenseForm default="glóthaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="glóthaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóthaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="glóthaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="glóthaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="glóthaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóthaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="glóthaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="glóthaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="glóthaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="glóthaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="glóthaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóthaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="glóthaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="glóthaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="glóthaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="glóthaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="glóthaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóthaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="glóthaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="glóthaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="glóthaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="glóthaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóthaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="glóthaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="glóthaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="glóthaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóthaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="glóthóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="glóthóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóthófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="glóthóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="glóthóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóthófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="glóthódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="glóthóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="glóthófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="glóthóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="glóthóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="glóthófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="glóthódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="glóthóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="glóthófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="glóthóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="glóthóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="glóthófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="glóthaíodh" mood="Imper" person="Base" />
+  <moodForm default="glóthaím" mood="Imper" person="Sg1" />
+  <moodForm default="glóthaigh" mood="Imper" person="Sg2" />
+  <moodForm default="glóthaímis" mood="Imper" person="Pl1" />
+  <moodForm default="glóthaígí" mood="Imper" person="Pl2" />
+  <moodForm default="glóthaídís" mood="Imper" person="Pl3" />
+  <moodForm default="glóthaítear" mood="Imper" person="Auto" />
+  <moodForm default="glóthaí" mood="Subj" person="Base" />
+  <moodForm default="glóthaímid" mood="Subj" person="Pl1" />
+  <moodForm default="glóthaítear" mood="Subj" person="Auto" />
+</verb>

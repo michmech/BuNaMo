@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="asbheir" disambig="">
+  <verbalNoun default="asbheirt" />
+  <verbalAdjective default="asbheirthe" />
+  <tenseForm default="asbheir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="asbheireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="asbheireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="asbheireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="asbheir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="asbheireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="asbheireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="asbheireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="asbheireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="asbheirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="asbheirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="asbheirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="asbheiridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="asbheirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="asbheireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="asbheirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="asbheirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="asbheirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="asbheiridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="asbheirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="asbheireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="asbheirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="asbheirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="asbheirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="asbheireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="asbheirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="asbheirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="asbheirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="asbheirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="asbheirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="asbheirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="asbheirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="asbheirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="asbheirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="asbheirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="asbheirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="asbheirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="asbheirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="asbheirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="asbheirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="asbheirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="asbheirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="asbheirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="asbheirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="asbheirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="asbheirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="asbheireadh" mood="Imper" person="Base" />
+  <moodForm default="asbheirim" mood="Imper" person="Sg1" />
+  <moodForm default="asbheir" mood="Imper" person="Sg2" />
+  <moodForm default="asbheirimis" mood="Imper" person="Pl1" />
+  <moodForm default="asbheirigí" mood="Imper" person="Pl2" />
+  <moodForm default="asbheiridís" mood="Imper" person="Pl3" />
+  <moodForm default="asbheirtear" mood="Imper" person="Auto" />
+  <moodForm default="asbheire" mood="Subj" person="Base" />
+  <moodForm default="asbheirimid" mood="Subj" person="Pl1" />
+  <moodForm default="asbheirtear" mood="Subj" person="Auto" />
+</verb>

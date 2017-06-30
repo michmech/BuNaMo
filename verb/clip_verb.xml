@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="clip" disambig="">
+  <verbalNoun default="clipeadh" />
+  <verbalAdjective default="clipthe" />
+  <tenseForm default="clip" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="clipeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="clipeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="clipeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="clip" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="clipeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="clipeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="clipeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="clipeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="clipinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="clipteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="clipimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="clipidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cliptí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="clipeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="clipinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="clipteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="clipimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="clipidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cliptí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="clipeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="clipim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="clipimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cliptear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="clipeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="clipim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="clipimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cliptear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="clipfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="clipfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="clipfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="clipfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="clipfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="clipfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="clipfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="clipfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="clipfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="clipfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="clipfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="clipfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="clipfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="clipfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="clipfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="clipfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="clipfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="clipfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="clipeadh" mood="Imper" person="Base" />
+  <moodForm default="clipim" mood="Imper" person="Sg1" />
+  <moodForm default="clip" mood="Imper" person="Sg2" />
+  <moodForm default="clipimis" mood="Imper" person="Pl1" />
+  <moodForm default="clipigí" mood="Imper" person="Pl2" />
+  <moodForm default="clipidís" mood="Imper" person="Pl3" />
+  <moodForm default="cliptear" mood="Imper" person="Auto" />
+  <moodForm default="clipe" mood="Subj" person="Base" />
+  <moodForm default="clipimid" mood="Subj" person="Pl1" />
+  <moodForm default="cliptear" mood="Subj" person="Auto" />
+</verb>

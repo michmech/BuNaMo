@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="prólaiféaraigh" disambig="">
+  <verbalNoun default="prólaiféarú" />
+  <verbalAdjective default="prólaiféaraithe" />
+  <tenseForm default="prólaiféaraigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="prólaiféaraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="prólaiféaraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="prólaiféaraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="prólaiféaraigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="prólaiféaraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="prólaiféaraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="prólaiféaraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="prólaiféaraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="prólaiféaraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="prólaiféaraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="prólaiféaraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="prólaiféaraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="prólaiféaraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="prólaiféaraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="prólaiféaraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="prólaiféaraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="prólaiféaraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="prólaiféaraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="prólaiféaraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="prólaiféaraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="prólaiféaraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="prólaiféaraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="prólaiféaraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="prólaiféaraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="prólaiféaraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="prólaiféaraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="prólaiféaraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="prólaiféaróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="prólaiféaróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="prólaiféarófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="prólaiféaróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="prólaiféaróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="prólaiféarófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="prólaiféaródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="prólaiféaróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="prólaiféarófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="prólaiféaróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="prólaiféaróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="prólaiféarófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="prólaiféaródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="prólaiféaróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="prólaiféarófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="prólaiféaróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="prólaiféaróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="prólaiféarófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="prólaiféaraíodh" mood="Imper" person="Base" />
+  <moodForm default="prólaiféaraím" mood="Imper" person="Sg1" />
+  <moodForm default="prólaiféaraigh" mood="Imper" person="Sg2" />
+  <moodForm default="prólaiféaraímis" mood="Imper" person="Pl1" />
+  <moodForm default="prólaiféaraígí" mood="Imper" person="Pl2" />
+  <moodForm default="prólaiféaraídís" mood="Imper" person="Pl3" />
+  <moodForm default="prólaiféaraítear" mood="Imper" person="Auto" />
+  <moodForm default="prólaiféaraí" mood="Subj" person="Base" />
+  <moodForm default="prólaiféaraímid" mood="Subj" person="Pl1" />
+  <moodForm default="prólaiféaraítear" mood="Subj" person="Auto" />
+</verb>

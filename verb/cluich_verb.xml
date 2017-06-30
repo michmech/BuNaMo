@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cluich" disambig="">
+  <verbalNoun default="cluicheadh" />
+  <verbalAdjective default="cluichte" />
+  <tenseForm default="cluich" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cluicheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cluicheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cluicheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cluich" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cluicheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cluicheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cluicheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cluicheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cluichinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cluichteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cluichimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cluichidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cluichtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cluicheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cluichinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cluichteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cluichimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cluichidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cluichtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cluicheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cluichim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cluichimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cluichtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cluicheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cluichim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cluichimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cluichtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cluichfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cluichfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cluichfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cluichfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cluichfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cluichfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cluichfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cluichfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cluichfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cluichfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cluichfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cluichfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cluichfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cluichfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cluichfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cluichfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cluichfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cluichfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cluicheadh" mood="Imper" person="Base" />
+  <moodForm default="cluichim" mood="Imper" person="Sg1" />
+  <moodForm default="cluich" mood="Imper" person="Sg2" />
+  <moodForm default="cluichimis" mood="Imper" person="Pl1" />
+  <moodForm default="cluichigí" mood="Imper" person="Pl2" />
+  <moodForm default="cluichidís" mood="Imper" person="Pl3" />
+  <moodForm default="cluichtear" mood="Imper" person="Auto" />
+  <moodForm default="cluiche" mood="Subj" person="Base" />
+  <moodForm default="cluichimid" mood="Subj" person="Pl1" />
+  <moodForm default="cluichtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tacht" disambig="">
+  <verbalNoun default="tachtadh" />
+  <verbalAdjective default="tachta" />
+  <tenseForm default="tacht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tachtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tachtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tachtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tacht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tachtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tachtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tachtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tachtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tachtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tachtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tachtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tachtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tachtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tachtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tachtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tachtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tachtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tachtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tachtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tachtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tachtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tachtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tachtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tachtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tachtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tachtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tachtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tachtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tachtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tachtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tachtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tachtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tachtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tachtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tachtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tachtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tachtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tachtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tachtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tachtadh" mood="Imper" person="Base" />
+  <moodForm default="tachtaim" mood="Imper" person="Sg1" />
+  <moodForm default="tacht" mood="Imper" person="Sg2" />
+  <moodForm default="tachtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tachtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tachtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tachtar" mood="Imper" person="Auto" />
+  <moodForm default="tachta" mood="Subj" person="Base" />
+  <moodForm default="tachtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tachtar" mood="Subj" person="Auto" />
+</verb>

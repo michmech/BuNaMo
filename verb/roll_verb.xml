@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="roll" disambig="">
+  <verbalNoun default="rolladh" />
+  <verbalAdjective default="rollta" />
+  <tenseForm default="roll" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rollamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rolladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rolladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="roll" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rollamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rolladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rolladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rolladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rollainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rolltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rollaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rollaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="rolltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rolladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rollainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rolltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rollaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rollaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="rolltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rollann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rollaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rollaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rolltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rollann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rollaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rollaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rolltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rollfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rollfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rollfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rollfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rollfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rollfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rollfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rollfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rollfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rollfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rollfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rollfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rollfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rollfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rollfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rollfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rollfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rollfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rolladh" mood="Imper" person="Base" />
+  <moodForm default="rollaim" mood="Imper" person="Sg1" />
+  <moodForm default="roll" mood="Imper" person="Sg2" />
+  <moodForm default="rollaimis" mood="Imper" person="Pl1" />
+  <moodForm default="rollaigí" mood="Imper" person="Pl2" />
+  <moodForm default="rollaidís" mood="Imper" person="Pl3" />
+  <moodForm default="rolltar" mood="Imper" person="Auto" />
+  <moodForm default="rolla" mood="Subj" person="Base" />
+  <moodForm default="rollaimid" mood="Subj" person="Pl1" />
+  <moodForm default="rolltar" mood="Subj" person="Auto" />
+</verb>

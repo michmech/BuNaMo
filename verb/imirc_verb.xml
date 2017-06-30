@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="imirc" disambig="">
+  <verbalNoun default="imirceadh" />
+  <verbalAdjective default="imircthe" />
+  <tenseForm default="imirc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="imirceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="imirceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="imirceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="imirc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="imirceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="imirceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="imirceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="imirceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="imircinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imircteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="imircimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imircidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="imirctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imirceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="imircinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imircteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="imircimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imircidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="imirctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imirceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="imircim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="imircimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="imirctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="imirceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="imircim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="imircimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="imirctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="imircfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="imircfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="imircfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="imircfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="imircfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="imircfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="imircfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="imircfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="imircfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="imircfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="imircfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="imircfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="imircfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="imircfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="imircfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="imircfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="imircfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="imircfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="imirceadh" mood="Imper" person="Base" />
+  <moodForm default="imircim" mood="Imper" person="Sg1" />
+  <moodForm default="imirc" mood="Imper" person="Sg2" />
+  <moodForm default="imircimis" mood="Imper" person="Pl1" />
+  <moodForm default="imircigí" mood="Imper" person="Pl2" />
+  <moodForm default="imircidís" mood="Imper" person="Pl3" />
+  <moodForm default="imirctear" mood="Imper" person="Auto" />
+  <moodForm default="imirce" mood="Subj" person="Base" />
+  <moodForm default="imircimid" mood="Subj" person="Pl1" />
+  <moodForm default="imirctear" mood="Subj" person="Auto" />
+</verb>

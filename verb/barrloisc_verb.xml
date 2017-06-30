@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="barrloisc" disambig="">
+  <verbalNoun default="barrloscadh" />
+  <verbalAdjective default="barrloiscthe" />
+  <tenseForm default="barrloisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="barrloisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrloisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="barrloisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="barrloisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="barrloisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrloisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="barrloisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="barrloisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="barrloiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="barrloiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="barrloiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrloiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="barrloisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="barrloisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="barrloiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="barrloiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="barrloiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrloiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="barrloisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="barrloisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="barrloiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="barrloiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrloisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="barrloisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="barrloiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="barrloiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrloisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="barrloiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="barrloiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrloiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="barrloiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="barrloiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrloiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="barrloiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="barrloiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="barrloiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="barrloiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="barrloiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="barrloiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="barrloiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="barrloiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="barrloiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="barrloiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="barrloiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="barrloiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="barrloisceadh" mood="Imper" person="Base" />
+  <moodForm default="barrloiscim" mood="Imper" person="Sg1" />
+  <moodForm default="barrloisc" mood="Imper" person="Sg2" />
+  <moodForm default="barrloiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="barrloiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="barrloiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="barrloisctear" mood="Imper" person="Auto" />
+  <moodForm default="barrloisce" mood="Subj" person="Base" />
+  <moodForm default="barrloiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="barrloisctear" mood="Subj" person="Auto" />
+</verb>

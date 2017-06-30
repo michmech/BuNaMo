@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="radagraf" disambig="">
+  <verbalNoun default="radagrafadh" />
+  <verbalAdjective default="radagrafa" />
+  <tenseForm default="radagraf" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="radagrafamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="radagrafadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="radagrafadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="radagraf" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="radagrafamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="radagrafadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="radagrafadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="radagrafadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="radagrafainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="radagraftá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="radagrafaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="radagrafaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="radagraftaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="radagrafadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="radagrafainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="radagraftá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="radagrafaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="radagrafaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="radagraftaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="radagrafann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="radagrafaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="radagrafaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="radagraftar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="radagrafann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="radagrafaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="radagrafaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="radagraftar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="radagrafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="radagrafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="radagrafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="radagrafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="radagrafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="radagrafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="radagrafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="radagrafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="radagrafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="radagrafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="radagrafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="radagrafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="radagrafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="radagrafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="radagrafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="radagrafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="radagrafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="radagrafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="radagrafadh" mood="Imper" person="Base" />
+  <moodForm default="radagrafaim" mood="Imper" person="Sg1" />
+  <moodForm default="radagraf" mood="Imper" person="Sg2" />
+  <moodForm default="radagrafaimis" mood="Imper" person="Pl1" />
+  <moodForm default="radagrafaigí" mood="Imper" person="Pl2" />
+  <moodForm default="radagrafaidís" mood="Imper" person="Pl3" />
+  <moodForm default="radagraftar" mood="Imper" person="Auto" />
+  <moodForm default="radagrafa" mood="Subj" person="Base" />
+  <moodForm default="radagrafaimid" mood="Subj" person="Pl1" />
+  <moodForm default="radagraftar" mood="Subj" person="Auto" />
+</verb>

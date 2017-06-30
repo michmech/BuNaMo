@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="pocléim" disambig="">
+  <verbalNoun default="pocléim" />
+  <verbalAdjective default="pocléimthe" />
+  <tenseForm default="pocléim" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="pocléimeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="pocléimeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="pocléimeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="pocléim" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="pocléimeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="pocléimeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="pocléimeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="pocléimeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="pocléiminn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pocléimteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="pocléimimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pocléimidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="pocléimtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pocléimeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="pocléiminn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pocléimteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="pocléimimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pocléimidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="pocléimtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pocléimeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="pocléimim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="pocléimimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="pocléimtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="pocléimeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="pocléimim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="pocléimimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="pocléimtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="pocléimfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="pocléimfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="pocléimfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="pocléimfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="pocléimfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="pocléimfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="pocléimfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="pocléimfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="pocléimfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="pocléimfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="pocléimfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="pocléimfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="pocléimfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="pocléimfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="pocléimfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="pocléimfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="pocléimfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="pocléimfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="pocléimeadh" mood="Imper" person="Base" />
+  <moodForm default="pocléimim" mood="Imper" person="Sg1" />
+  <moodForm default="pocléim" mood="Imper" person="Sg2" />
+  <moodForm default="pocléimimis" mood="Imper" person="Pl1" />
+  <moodForm default="pocléimigí" mood="Imper" person="Pl2" />
+  <moodForm default="pocléimidís" mood="Imper" person="Pl3" />
+  <moodForm default="pocléimtear" mood="Imper" person="Auto" />
+  <moodForm default="pocléime" mood="Subj" person="Base" />
+  <moodForm default="pocléimimid" mood="Subj" person="Pl1" />
+  <moodForm default="pocléimtear" mood="Subj" person="Auto" />
+</verb>

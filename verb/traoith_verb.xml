@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="traoith" disambig="">
+  <verbalNoun default="traoitheadh" />
+  <verbalAdjective default="traoite" />
+  <tenseForm default="traoith" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="traoitheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="traoitheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="traoitheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="traoith" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="traoitheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="traoitheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="traoitheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="traoitheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="traoithinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="traoiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="traoithimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="traoithidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="traoití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="traoitheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="traoithinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="traoiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="traoithimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="traoithidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="traoití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="traoitheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="traoithim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="traoithimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="traoitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="traoitheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="traoithim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="traoithimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="traoitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="traoithfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="traoithfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="traoithfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="traoithfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="traoithfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="traoithfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="traoithfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="traoithfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="traoithfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="traoithfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="traoithfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="traoithfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="traoithfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="traoithfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="traoithfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="traoithfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="traoithfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="traoithfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="traoitheadh" mood="Imper" person="Base" />
+  <moodForm default="traoithim" mood="Imper" person="Sg1" />
+  <moodForm default="traoith" mood="Imper" person="Sg2" />
+  <moodForm default="traoithimis" mood="Imper" person="Pl1" />
+  <moodForm default="traoithigí" mood="Imper" person="Pl2" />
+  <moodForm default="traoithidís" mood="Imper" person="Pl3" />
+  <moodForm default="traoitear" mood="Imper" person="Auto" />
+  <moodForm default="traoithe" mood="Subj" person="Base" />
+  <moodForm default="traoithimid" mood="Subj" person="Pl1" />
+  <moodForm default="traoitear" mood="Subj" person="Auto" />
+</verb>

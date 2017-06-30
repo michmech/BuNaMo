@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gréisc" disambig="">
+  <verbalNoun default="gréisceadh" />
+  <verbalAdjective default="gréiscthe" />
+  <tenseForm default="gréisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gréisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gréisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gréisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gréisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gréisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gréisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gréisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gréisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gréiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gréiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gréiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gréiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gréisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gréisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gréiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gréiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gréiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gréiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gréisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gréisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gréiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gréiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gréisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gréisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gréiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gréiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gréisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gréiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gréiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gréiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gréiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gréiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gréiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gréiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gréiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gréiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gréiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gréiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gréiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gréiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gréiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gréiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gréiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gréiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gréiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gréisceadh" mood="Imper" person="Base" />
+  <moodForm default="gréiscim" mood="Imper" person="Sg1" />
+  <moodForm default="gréisc" mood="Imper" person="Sg2" />
+  <moodForm default="gréiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="gréiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="gréiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="gréisctear" mood="Imper" person="Auto" />
+  <moodForm default="gréisce" mood="Subj" person="Base" />
+  <moodForm default="gréiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="gréisctear" mood="Subj" person="Auto" />
+</verb>

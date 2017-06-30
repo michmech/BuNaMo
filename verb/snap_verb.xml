@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="snap" disambig="">
+  <verbalNoun default="snapadh" />
+  <verbalAdjective default="snaptha" />
+  <tenseForm default="snap" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="snapamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="snapadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="snapadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="snap" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="snapamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="snapadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="snapadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="snapadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="snapainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="snaptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="snapaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="snapaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="snaptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="snapadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="snapainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="snaptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="snapaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="snapaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="snaptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="snapann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="snapaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="snapaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="snaptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="snapann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="snapaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="snapaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="snaptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="snapfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="snapfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="snapfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="snapfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="snapfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="snapfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="snapfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="snapfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="snapfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="snapfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="snapfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="snapfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="snapfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="snapfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="snapfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="snapfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="snapfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="snapfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="snapadh" mood="Imper" person="Base" />
+  <moodForm default="snapaim" mood="Imper" person="Sg1" />
+  <moodForm default="snap" mood="Imper" person="Sg2" />
+  <moodForm default="snapaimis" mood="Imper" person="Pl1" />
+  <moodForm default="snapaigí" mood="Imper" person="Pl2" />
+  <moodForm default="snapaidís" mood="Imper" person="Pl3" />
+  <moodForm default="snaptar" mood="Imper" person="Auto" />
+  <moodForm default="snapa" mood="Subj" person="Base" />
+  <moodForm default="snapaimid" mood="Subj" person="Pl1" />
+  <moodForm default="snaptar" mood="Subj" person="Auto" />
+</verb>

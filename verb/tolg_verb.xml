@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tolg" disambig="">
+  <verbalNoun default="tolgadh" />
+  <verbalAdjective default="tolgtha" />
+  <tenseForm default="tolg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tolgamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tolgadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tolgadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tolg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tolgamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tolgadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tolgadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tolgadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tolgainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tolgtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tolgaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tolgaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tolgtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tolgadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tolgainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tolgtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tolgaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tolgaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tolgtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tolgann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tolgaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tolgaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tolgtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tolgann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tolgaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tolgaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tolgtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tolgfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tolgfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tolgfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tolgfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tolgfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tolgfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tolgfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tolgfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tolgfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tolgfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tolgfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tolgfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tolgfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tolgfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tolgfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tolgfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tolgfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tolgfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tolgadh" mood="Imper" person="Base" />
+  <moodForm default="tolgaim" mood="Imper" person="Sg1" />
+  <moodForm default="tolg" mood="Imper" person="Sg2" />
+  <moodForm default="tolgaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tolgaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tolgaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tolgtar" mood="Imper" person="Auto" />
+  <moodForm default="tolga" mood="Subj" person="Base" />
+  <moodForm default="tolgaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tolgtar" mood="Subj" person="Auto" />
+</verb>

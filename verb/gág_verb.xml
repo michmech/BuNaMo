@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gág" disambig="">
+  <verbalNoun default="gágadh" />
+  <verbalAdjective default="gágtha" />
+  <tenseForm default="gág" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gágamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gágadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gág" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gágamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gágadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gágadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gágainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gágtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gágaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gágaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gágtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gágadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gágainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gágtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gágaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gágaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gágtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gágann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gágaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gágaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gágtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gágann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gágaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gágaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gágtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gágfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gágfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gágfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gágfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gágfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gágfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gágfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gágfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gágfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gágfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gágfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gágfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gágfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gágfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gágfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gágfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gágfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gágfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gágadh" mood="Imper" person="Base" />
+  <moodForm default="gágaim" mood="Imper" person="Sg1" />
+  <moodForm default="gág" mood="Imper" person="Sg2" />
+  <moodForm default="gágaimis" mood="Imper" person="Pl1" />
+  <moodForm default="gágaigí" mood="Imper" person="Pl2" />
+  <moodForm default="gágaidís" mood="Imper" person="Pl3" />
+  <moodForm default="gágtar" mood="Imper" person="Auto" />
+  <moodForm default="gága" mood="Subj" person="Base" />
+  <moodForm default="gágaimid" mood="Subj" person="Pl1" />
+  <moodForm default="gágtar" mood="Subj" person="Auto" />
+</verb>

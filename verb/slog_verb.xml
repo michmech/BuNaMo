@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="slog" disambig="">
+  <verbalNoun default="slogadh" />
+  <verbalAdjective default="slogtha" />
+  <tenseForm default="slog" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="slogamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="slogadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="slogadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="slog" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="slogamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="slogadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="slogadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="slogadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="slogainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="slogtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="slogaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="slogaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="slogtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="slogadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="slogainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="slogtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="slogaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="slogaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="slogtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="slogann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="slogaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="slogaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="slogtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="slogann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="slogaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="slogaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="slogtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="slogfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="slogfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="slogfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="slogfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="slogfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="slogfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="slogfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="slogfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="slogfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="slogfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="slogfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="slogfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="slogfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="slogfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="slogfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="slogfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="slogfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="slogfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="slogadh" mood="Imper" person="Base" />
+  <moodForm default="slogaim" mood="Imper" person="Sg1" />
+  <moodForm default="slog" mood="Imper" person="Sg2" />
+  <moodForm default="slogaimis" mood="Imper" person="Pl1" />
+  <moodForm default="slogaigí" mood="Imper" person="Pl2" />
+  <moodForm default="slogaidís" mood="Imper" person="Pl3" />
+  <moodForm default="slogtar" mood="Imper" person="Auto" />
+  <moodForm default="sloga" mood="Subj" person="Base" />
+  <moodForm default="slogaimid" mood="Subj" person="Pl1" />
+  <moodForm default="slogtar" mood="Subj" person="Auto" />
+</verb>

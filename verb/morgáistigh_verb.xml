@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="morgáistigh" disambig="">
+  <verbalNoun default="morgáistiú" />
+  <verbalAdjective default="morgáistithe" />
+  <tenseForm default="morgáistigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="morgáistíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgáistíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="morgáistíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="morgáistigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="morgáistíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgáistíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="morgáistíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="morgáistíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="morgáistínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="morgáistíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="morgáistímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgáistídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="morgáistítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="morgáistíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="morgáistínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="morgáistíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="morgáistímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgáistídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="morgáistítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="morgáistíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="morgáistím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="morgáistímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgáistítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="morgáistíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="morgáistím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="morgáistímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgáistítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="morgáisteoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="morgáisteoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgáisteofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="morgáisteoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="morgáisteoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgáisteofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="morgáisteodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="morgáisteoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="morgáisteofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="morgáisteoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="morgáisteoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="morgáisteofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="morgáisteodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="morgáisteoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="morgáisteofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="morgáisteoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="morgáisteoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="morgáisteofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="morgáistíodh" mood="Imper" person="Base" />
+  <moodForm default="morgáistím" mood="Imper" person="Sg1" />
+  <moodForm default="morgáistigh" mood="Imper" person="Sg2" />
+  <moodForm default="morgáistímis" mood="Imper" person="Pl1" />
+  <moodForm default="morgáistígí" mood="Imper" person="Pl2" />
+  <moodForm default="morgáistídís" mood="Imper" person="Pl3" />
+  <moodForm default="morgáistítear" mood="Imper" person="Auto" />
+  <moodForm default="morgáistí" mood="Subj" person="Base" />
+  <moodForm default="morgáistímid" mood="Subj" person="Pl1" />
+  <moodForm default="morgáistítear" mood="Subj" person="Auto" />
+</verb>

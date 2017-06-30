@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="idir-roinn" disambig="">
+  <verbalNoun default="idir-roinnt" />
+  <verbalAdjective default="idir-roinnte" />
+  <tenseForm default="idir-roinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="idir-roinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="idir-roinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="idir-roinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="idir-roinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="idir-roinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="idir-roinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="idir-roinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="idir-roinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="idir-roinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idir-roinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="idir-roinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idir-roinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="idir-roinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idir-roinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="idir-roinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idir-roinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="idir-roinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idir-roinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="idir-roinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idir-roinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="idir-roinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idir-roinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idir-roinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idir-roinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="idir-roinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idir-roinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idir-roinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idir-roinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="idir-roinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="idir-roinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="idir-roinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="idir-roinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="idir-roinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="idir-roinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="idir-roinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="idir-roinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="idir-roinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="idir-roinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="idir-roinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="idir-roinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="idir-roinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="idir-roinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="idir-roinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="idir-roinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="idir-roinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="idir-roinneadh" mood="Imper" person="Base" />
+  <moodForm default="idir-roinnim" mood="Imper" person="Sg1" />
+  <moodForm default="idir-roinn" mood="Imper" person="Sg2" />
+  <moodForm default="idir-roinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="idir-roinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="idir-roinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="idir-roinntear" mood="Imper" person="Auto" />
+  <moodForm default="idir-roinne" mood="Subj" person="Base" />
+  <moodForm default="idir-roinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="idir-roinntear" mood="Subj" person="Auto" />
+</verb>

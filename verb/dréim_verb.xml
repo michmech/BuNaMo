@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dréim" disambig="">
+  <verbalNoun default="dréim" />
+  <verbalAdjective default="dréimthe" />
+  <tenseForm default="dréim" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dréimeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dréimeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dréimeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dréim" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dréimeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dréimeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dréimeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dréimeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dréiminn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dréimteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dréimimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dréimidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dréimtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dréimeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dréiminn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dréimteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dréimimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dréimidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dréimtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dréimeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dréimim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dréimimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dréimtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dréimeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dréimim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dréimimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dréimtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dréimfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dréimfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dréimfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dréimfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dréimfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dréimfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dréimfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dréimfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dréimfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dréimfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dréimfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dréimfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dréimfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dréimfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dréimfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dréimfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dréimfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dréimfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dréimeadh" mood="Imper" person="Base" />
+  <moodForm default="dréimim" mood="Imper" person="Sg1" />
+  <moodForm default="dréim" mood="Imper" person="Sg2" />
+  <moodForm default="dréimimis" mood="Imper" person="Pl1" />
+  <moodForm default="dréimigí" mood="Imper" person="Pl2" />
+  <moodForm default="dréimidís" mood="Imper" person="Pl3" />
+  <moodForm default="dréimtear" mood="Imper" person="Auto" />
+  <moodForm default="dréime" mood="Subj" person="Base" />
+  <moodForm default="dréimimid" mood="Subj" person="Pl1" />
+  <moodForm default="dréimtear" mood="Subj" person="Auto" />
+</verb>

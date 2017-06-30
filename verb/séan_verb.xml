@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="séan" disambig="">
+  <verbalNoun default="séanadh" />
+  <verbalAdjective default="séanta" />
+  <tenseForm default="séan" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="séanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="séanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="séanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="séan" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="séanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="séanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="séanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="séanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="séanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="séantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="séanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="séanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="séantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="séanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="séanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="séantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="séanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="séanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="séantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="séanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="séanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="séanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="séantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="séanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="séanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="séanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="séantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="séanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="séanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="séanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="séanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="séanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="séanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="séanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="séanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="séanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="séanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="séanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="séanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="séanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="séanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="séanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="séanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="séanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="séanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="séanadh" mood="Imper" person="Base" />
+  <moodForm default="séanaim" mood="Imper" person="Sg1" />
+  <moodForm default="séan" mood="Imper" person="Sg2" />
+  <moodForm default="séanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="séanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="séanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="séantar" mood="Imper" person="Auto" />
+  <moodForm default="séana" mood="Subj" person="Base" />
+  <moodForm default="séanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="séantar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dealbhaigh" disambig="">
+  <verbalNoun default="dealbhú" />
+  <verbalAdjective default="dealbhaithe" />
+  <tenseForm default="dealbhaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dealbhaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dealbhaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dealbhaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dealbhaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dealbhaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dealbhaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dealbhaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dealbhaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dealbhaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dealbhaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dealbhaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dealbhaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dealbhaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dealbhaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dealbhaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dealbhaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dealbhaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dealbhaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dealbhaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dealbhaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dealbhaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dealbhaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dealbhaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dealbhaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dealbhaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dealbhaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dealbhaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dealbhóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dealbhóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dealbhófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dealbhóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dealbhóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dealbhófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dealbhódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dealbhóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dealbhófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dealbhóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dealbhóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dealbhófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dealbhódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dealbhóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dealbhófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dealbhóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dealbhóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dealbhófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dealbhaíodh" mood="Imper" person="Base" />
+  <moodForm default="dealbhaím" mood="Imper" person="Sg1" />
+  <moodForm default="dealbhaigh" mood="Imper" person="Sg2" />
+  <moodForm default="dealbhaímis" mood="Imper" person="Pl1" />
+  <moodForm default="dealbhaígí" mood="Imper" person="Pl2" />
+  <moodForm default="dealbhaídís" mood="Imper" person="Pl3" />
+  <moodForm default="dealbhaítear" mood="Imper" person="Auto" />
+  <moodForm default="dealbhaí" mood="Subj" person="Base" />
+  <moodForm default="dealbhaímid" mood="Subj" person="Pl1" />
+  <moodForm default="dealbhaítear" mood="Subj" person="Auto" />
+</verb>

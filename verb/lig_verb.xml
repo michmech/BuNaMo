@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="lig" disambig="">
+  <verbalNoun default="ligean" />
+  <verbalAdjective default="ligthe" />
+  <tenseForm default="lig" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ligeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ligeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ligeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="lig" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ligeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ligeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ligeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ligeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="liginn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ligteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ligimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ligidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ligtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ligeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="liginn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ligteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ligimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ligidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ligtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ligeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ligim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ligimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ligtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ligeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ligim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ligimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ligtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ligfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ligfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ligfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ligfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ligfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ligfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ligfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ligfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ligfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ligfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ligfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ligfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ligfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ligfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ligfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ligfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ligfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ligfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ligeadh" mood="Imper" person="Base" />
+  <moodForm default="ligim" mood="Imper" person="Sg1" />
+  <moodForm default="lig" mood="Imper" person="Sg2" />
+  <moodForm default="ligimis" mood="Imper" person="Pl1" />
+  <moodForm default="ligigí" mood="Imper" person="Pl2" />
+  <moodForm default="ligidís" mood="Imper" person="Pl3" />
+  <moodForm default="ligtear" mood="Imper" person="Auto" />
+  <moodForm default="lige" mood="Subj" person="Base" />
+  <moodForm default="ligimid" mood="Subj" person="Pl1" />
+  <moodForm default="ligtear" mood="Subj" person="Auto" />
+</verb>

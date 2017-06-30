@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="carn" disambig="">
+  <verbalNoun default="carnadh" />
+  <verbalAdjective default="carntha" />
+  <tenseForm default="carn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="carnamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="carnadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="carnadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="carn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="carnamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="carnadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="carnadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="carnadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="carnainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="carntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="carnaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="carnaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="carntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="carnadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="carnainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="carntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="carnaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="carnaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="carntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="carnann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="carnaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="carnaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="carntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="carnann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="carnaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="carnaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="carntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="carnfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="carnfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="carnfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="carnfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="carnfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="carnfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="carnfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="carnfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="carnfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="carnfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="carnfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="carnfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="carnfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="carnfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="carnfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="carnfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="carnfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="carnfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="carnadh" mood="Imper" person="Base" />
+  <moodForm default="carnaim" mood="Imper" person="Sg1" />
+  <moodForm default="carn" mood="Imper" person="Sg2" />
+  <moodForm default="carnaimis" mood="Imper" person="Pl1" />
+  <moodForm default="carnaigí" mood="Imper" person="Pl2" />
+  <moodForm default="carnaidís" mood="Imper" person="Pl3" />
+  <moodForm default="carntar" mood="Imper" person="Auto" />
+  <moodForm default="carna" mood="Subj" person="Base" />
+  <moodForm default="carnaimid" mood="Subj" person="Pl1" />
+  <moodForm default="carntar" mood="Subj" person="Auto" />
+</verb>

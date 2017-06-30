@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="foirmigh" disambig="">
+  <verbalNoun default="foirmiú" />
+  <verbalAdjective default="foirmithe" />
+  <tenseForm default="foirmigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="foirmíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirmíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirmíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="foirmigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="foirmíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirmíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirmíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="foirmíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="foirmínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirmíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="foirmímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirmídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirmítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foirmíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="foirmínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirmíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="foirmímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirmídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirmítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foirmíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="foirmím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirmímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirmítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foirmíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="foirmím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirmímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirmítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foirmeoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="foirmeoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirmeofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="foirmeoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="foirmeoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirmeofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="foirmeodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="foirmeoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="foirmeofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="foirmeoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="foirmeoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="foirmeofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="foirmeodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="foirmeoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="foirmeofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="foirmeoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="foirmeoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="foirmeofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="foirmíodh" mood="Imper" person="Base" />
+  <moodForm default="foirmím" mood="Imper" person="Sg1" />
+  <moodForm default="foirmigh" mood="Imper" person="Sg2" />
+  <moodForm default="foirmímis" mood="Imper" person="Pl1" />
+  <moodForm default="foirmígí" mood="Imper" person="Pl2" />
+  <moodForm default="foirmídís" mood="Imper" person="Pl3" />
+  <moodForm default="foirmítear" mood="Imper" person="Auto" />
+  <moodForm default="foirmí" mood="Subj" person="Base" />
+  <moodForm default="foirmímid" mood="Subj" person="Pl1" />
+  <moodForm default="foirmítear" mood="Subj" person="Auto" />
+</verb>

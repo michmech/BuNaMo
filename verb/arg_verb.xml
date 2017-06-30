@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="arg" disambig="">
+  <verbalNoun default="argain" />
+  <verbalAdjective default="argtha" />
+  <tenseForm default="arg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="argamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="argadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="arg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="argamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="argadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="argadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="argainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="argtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="argaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="argaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="argtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="argadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="argainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="argtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="argaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="argaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="argtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="argann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="argaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="argaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="argtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="argann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="argaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="argaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="argtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="argfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="argfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="argfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="argfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="argfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="argfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="argfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="argfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="argfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="argfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="argfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="argfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="argfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="argfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="argfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="argfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="argfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="argfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="argadh" mood="Imper" person="Base" />
+  <moodForm default="argaim" mood="Imper" person="Sg1" />
+  <moodForm default="arg" mood="Imper" person="Sg2" />
+  <moodForm default="argaimis" mood="Imper" person="Pl1" />
+  <moodForm default="argaigí" mood="Imper" person="Pl2" />
+  <moodForm default="argaidís" mood="Imper" person="Pl3" />
+  <moodForm default="argtar" mood="Imper" person="Auto" />
+  <moodForm default="arga" mood="Subj" person="Base" />
+  <moodForm default="argaimid" mood="Subj" person="Pl1" />
+  <moodForm default="argtar" mood="Subj" person="Auto" />
+</verb>

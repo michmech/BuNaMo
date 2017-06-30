@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="loc" disambig="">
+  <verbalNoun default="locadh" />
+  <verbalAdjective default="loctha" />
+  <tenseForm default="loc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="locamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="locadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="loc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="locamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="locadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="locadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="locainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="loctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="locaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="locaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="loctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="locadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="locainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="loctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="locaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="locaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="loctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="locann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="locaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="locaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="loctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="locann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="locaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="locaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="loctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="locfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="locfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="locfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="locfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="locfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="locfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="locfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="locfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="locfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="locfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="locfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="locfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="locfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="locfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="locfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="locfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="locfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="locfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="locadh" mood="Imper" person="Base" />
+  <moodForm default="locaim" mood="Imper" person="Sg1" />
+  <moodForm default="loc" mood="Imper" person="Sg2" />
+  <moodForm default="locaimis" mood="Imper" person="Pl1" />
+  <moodForm default="locaigí" mood="Imper" person="Pl2" />
+  <moodForm default="locaidís" mood="Imper" person="Pl3" />
+  <moodForm default="loctar" mood="Imper" person="Auto" />
+  <moodForm default="loca" mood="Subj" person="Base" />
+  <moodForm default="locaimid" mood="Subj" person="Pl1" />
+  <moodForm default="loctar" mood="Subj" person="Auto" />
+</verb>

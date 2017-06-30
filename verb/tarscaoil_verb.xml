@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tarscaoil" disambig="">
+  <verbalNoun default="tarscaoileadh" />
+  <verbalAdjective default="tarscaoilte" />
+  <tenseForm default="tarscaoil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tarscaoileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarscaoileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarscaoileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tarscaoil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tarscaoileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarscaoileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarscaoileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tarscaoileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarscaoilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarscaoilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarscaoilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarscaoilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarscaoiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarscaoileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarscaoilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarscaoilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarscaoilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarscaoilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarscaoiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarscaoileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tarscaoilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarscaoilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarscaoiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tarscaoileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tarscaoilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarscaoilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarscaoiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tarscaoilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tarscaoilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarscaoilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tarscaoilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tarscaoilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarscaoilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tarscaoilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tarscaoilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tarscaoilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tarscaoilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tarscaoilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tarscaoilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tarscaoilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tarscaoilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tarscaoilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tarscaoilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tarscaoilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tarscaoilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tarscaoileadh" mood="Imper" person="Base" />
+  <moodForm default="tarscaoilim" mood="Imper" person="Sg1" />
+  <moodForm default="tarscaoil" mood="Imper" person="Sg2" />
+  <moodForm default="tarscaoilimis" mood="Imper" person="Pl1" />
+  <moodForm default="tarscaoiligí" mood="Imper" person="Pl2" />
+  <moodForm default="tarscaoilidís" mood="Imper" person="Pl3" />
+  <moodForm default="tarscaoiltear" mood="Imper" person="Auto" />
+  <moodForm default="tarscaoile" mood="Subj" person="Base" />
+  <moodForm default="tarscaoilimid" mood="Subj" person="Pl1" />
+  <moodForm default="tarscaoiltear" mood="Subj" person="Auto" />
+</verb>

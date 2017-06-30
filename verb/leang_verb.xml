@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="leang" disambig="">
+  <verbalNoun default="leangadh" />
+  <verbalAdjective default="leangtha" />
+  <tenseForm default="leang" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="leangamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="leangadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="leangadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="leang" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="leangamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="leangadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="leangadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="leangadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="leangainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leangtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="leangaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leangaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="leangtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leangadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="leangainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leangtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="leangaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leangaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="leangtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leangann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="leangaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leangaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leangtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leangann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="leangaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leangaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leangtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leangfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="leangfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="leangfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="leangfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="leangfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="leangfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="leangfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="leangfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="leangfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="leangfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="leangfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="leangfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="leangfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="leangfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="leangfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="leangfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="leangfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="leangfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="leangadh" mood="Imper" person="Base" />
+  <moodForm default="leangaim" mood="Imper" person="Sg1" />
+  <moodForm default="leang" mood="Imper" person="Sg2" />
+  <moodForm default="leangaimis" mood="Imper" person="Pl1" />
+  <moodForm default="leangaigí" mood="Imper" person="Pl2" />
+  <moodForm default="leangaidís" mood="Imper" person="Pl3" />
+  <moodForm default="leangtar" mood="Imper" person="Auto" />
+  <moodForm default="leanga" mood="Subj" person="Base" />
+  <moodForm default="leangaimid" mood="Subj" person="Pl1" />
+  <moodForm default="leangtar" mood="Subj" person="Auto" />
+</verb>

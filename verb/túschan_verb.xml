@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="túschan" disambig="">
+  <verbalNoun default="túschanadh" />
+  <verbalAdjective default="túschanta" />
+  <tenseForm default="túschan" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="túschanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="túschanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="túschanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="túschan" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="túschanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="túschanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="túschanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="túschanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="túschanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="túschantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="túschanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="túschanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="túschantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="túschanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="túschanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="túschantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="túschanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="túschanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="túschantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="túschanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="túschanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="túschanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="túschantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="túschanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="túschanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="túschanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="túschantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="túschanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="túschanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="túschanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="túschanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="túschanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="túschanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="túschanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="túschanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="túschanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="túschanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="túschanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="túschanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="túschanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="túschanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="túschanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="túschanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="túschanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="túschanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="túschanadh" mood="Imper" person="Base" />
+  <moodForm default="túschanaim" mood="Imper" person="Sg1" />
+  <moodForm default="túschan" mood="Imper" person="Sg2" />
+  <moodForm default="túschanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="túschanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="túschanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="túschantar" mood="Imper" person="Auto" />
+  <moodForm default="túschana" mood="Subj" person="Base" />
+  <moodForm default="túschanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="túschantar" mood="Subj" person="Auto" />
+</verb>

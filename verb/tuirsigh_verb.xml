@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tuirsigh" disambig="">
+  <verbalNoun default="tuirsiú" />
+  <verbalAdjective default="tuirsithe" />
+  <tenseForm default="tuirsigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tuirsíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuirsíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuirsíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tuirsigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tuirsíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuirsíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuirsíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tuirsíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuirsínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuirsíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuirsímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuirsídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuirsítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuirsíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuirsínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuirsíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuirsímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuirsídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuirsítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuirsíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuirsím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuirsímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuirsítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuirsíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuirsím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuirsímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuirsítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuirseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tuirseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuirseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tuirseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tuirseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuirseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tuirseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tuirseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuirseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuirseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuirseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuirseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tuirseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tuirseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuirseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuirseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuirseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuirseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tuirsíodh" mood="Imper" person="Base" />
+  <moodForm default="tuirsím" mood="Imper" person="Sg1" />
+  <moodForm default="tuirsigh" mood="Imper" person="Sg2" />
+  <moodForm default="tuirsímis" mood="Imper" person="Pl1" />
+  <moodForm default="tuirsígí" mood="Imper" person="Pl2" />
+  <moodForm default="tuirsídís" mood="Imper" person="Pl3" />
+  <moodForm default="tuirsítear" mood="Imper" person="Auto" />
+  <moodForm default="tuirsí" mood="Subj" person="Base" />
+  <moodForm default="tuirsímid" mood="Subj" person="Pl1" />
+  <moodForm default="tuirsítear" mood="Subj" person="Auto" />
+</verb>

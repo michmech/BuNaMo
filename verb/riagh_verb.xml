@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="riagh" disambig="">
+  <verbalNoun default="riaghadh" />
+  <verbalAdjective default="riaghtha" />
+  <tenseForm default="riagh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="riaghamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="riaghadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="riaghadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="riagh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="riaghamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="riaghadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="riaghadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="riaghadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="riaghainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="riaghtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="riaghaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="riaghaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="riaghtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="riaghadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="riaghainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="riaghtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="riaghaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="riaghaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="riaghtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="riaghann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="riaghaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="riaghaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="riaghtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="riaghann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="riaghaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="riaghaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="riaghtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="riaghfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="riaghfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="riaghfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="riaghfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="riaghfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="riaghfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="riaghfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="riaghfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="riaghfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="riaghfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="riaghfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="riaghfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="riaghfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="riaghfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="riaghfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="riaghfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="riaghfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="riaghfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="riaghadh" mood="Imper" person="Base" />
+  <moodForm default="riaghaim" mood="Imper" person="Sg1" />
+  <moodForm default="riagh" mood="Imper" person="Sg2" />
+  <moodForm default="riaghaimis" mood="Imper" person="Pl1" />
+  <moodForm default="riaghaigí" mood="Imper" person="Pl2" />
+  <moodForm default="riaghaidís" mood="Imper" person="Pl3" />
+  <moodForm default="riaghtar" mood="Imper" person="Auto" />
+  <moodForm default="riagha" mood="Subj" person="Base" />
+  <moodForm default="riaghaimid" mood="Subj" person="Pl1" />
+  <moodForm default="riaghtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="candamaigh" disambig="">
+  <verbalNoun default="candamú" />
+  <verbalAdjective default="candamaithe" />
+  <tenseForm default="candamaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="candamaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="candamaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="candamaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="candamaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="candamaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="candamaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="candamaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="candamaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="candamaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="candamaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="candamaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="candamaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="candamaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="candamaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="candamaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="candamaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="candamaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="candamaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="candamaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="candamaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="candamaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="candamaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="candamaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="candamaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="candamaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="candamaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="candamaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="candamóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="candamóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="candamófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="candamóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="candamóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="candamófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="candamódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="candamóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="candamófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="candamóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="candamóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="candamófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="candamódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="candamóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="candamófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="candamóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="candamóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="candamófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="candamaíodh" mood="Imper" person="Base" />
+  <moodForm default="candamaím" mood="Imper" person="Sg1" />
+  <moodForm default="candamaigh" mood="Imper" person="Sg2" />
+  <moodForm default="candamaímis" mood="Imper" person="Pl1" />
+  <moodForm default="candamaígí" mood="Imper" person="Pl2" />
+  <moodForm default="candamaídís" mood="Imper" person="Pl3" />
+  <moodForm default="candamaítear" mood="Imper" person="Auto" />
+  <moodForm default="candamaí" mood="Subj" person="Base" />
+  <moodForm default="candamaímid" mood="Subj" person="Pl1" />
+  <moodForm default="candamaítear" mood="Subj" person="Auto" />
+</verb>

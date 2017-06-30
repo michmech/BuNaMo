@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="til" disambig="">
+  <verbalNoun default="tileadh" />
+  <verbalAdjective default="tilte" />
+  <tenseForm default="til" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="til" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tileadh" mood="Imper" person="Base" />
+  <moodForm default="tilim" mood="Imper" person="Sg1" />
+  <moodForm default="til" mood="Imper" person="Sg2" />
+  <moodForm default="tilimis" mood="Imper" person="Pl1" />
+  <moodForm default="tiligí" mood="Imper" person="Pl2" />
+  <moodForm default="tilidís" mood="Imper" person="Pl3" />
+  <moodForm default="tiltear" mood="Imper" person="Auto" />
+  <moodForm default="tile" mood="Subj" person="Base" />
+  <moodForm default="tilimid" mood="Subj" person="Pl1" />
+  <moodForm default="tiltear" mood="Subj" person="Auto" />
+</verb>

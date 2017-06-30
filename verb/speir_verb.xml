@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="speir" disambig="">
+  <verbalNoun default="speireadh" />
+  <verbalAdjective default="speirthe" />
+  <tenseForm default="speir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="speireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="speireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="speireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="speir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="speireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="speireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="speireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="speireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="speirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="speirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="speirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="speiridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="speirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="speireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="speirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="speirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="speirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="speiridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="speirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="speireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="speirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="speirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="speirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="speireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="speirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="speirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="speirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="speirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="speirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="speirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="speirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="speirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="speirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="speirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="speirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="speirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="speirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="speirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="speirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="speirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="speirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="speirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="speirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="speirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="speirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="speireadh" mood="Imper" person="Base" />
+  <moodForm default="speirim" mood="Imper" person="Sg1" />
+  <moodForm default="speir" mood="Imper" person="Sg2" />
+  <moodForm default="speirimis" mood="Imper" person="Pl1" />
+  <moodForm default="speirigí" mood="Imper" person="Pl2" />
+  <moodForm default="speiridís" mood="Imper" person="Pl3" />
+  <moodForm default="speirtear" mood="Imper" person="Auto" />
+  <moodForm default="speire" mood="Subj" person="Base" />
+  <moodForm default="speirimid" mood="Subj" person="Pl1" />
+  <moodForm default="speirtear" mood="Subj" person="Auto" />
+</verb>

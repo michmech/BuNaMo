@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scáthcheil" disambig="">
+  <verbalNoun default="scáthcheilt" />
+  <verbalAdjective default="scáthcheilte" />
+  <tenseForm default="scáthcheil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scáthcheileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáthcheileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scáthcheileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scáthcheil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scáthcheileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáthcheileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scáthcheileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scáthcheileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scáthcheilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scáthcheilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scáthcheilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáthcheilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scáthcheiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scáthcheileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scáthcheilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scáthcheilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scáthcheilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáthcheilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scáthcheiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scáthcheileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scáthcheilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scáthcheilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáthcheiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scáthcheileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scáthcheilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scáthcheilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáthcheiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scáthcheilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scáthcheilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáthcheilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scáthcheilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scáthcheilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáthcheilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scáthcheilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scáthcheilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scáthcheilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scáthcheilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scáthcheilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scáthcheilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scáthcheilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scáthcheilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scáthcheilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scáthcheilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scáthcheilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scáthcheilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scáthcheileadh" mood="Imper" person="Base" />
+  <moodForm default="scáthcheilim" mood="Imper" person="Sg1" />
+  <moodForm default="scáthcheil" mood="Imper" person="Sg2" />
+  <moodForm default="scáthcheilimis" mood="Imper" person="Pl1" />
+  <moodForm default="scáthcheiligí" mood="Imper" person="Pl2" />
+  <moodForm default="scáthcheilidís" mood="Imper" person="Pl3" />
+  <moodForm default="scáthcheiltear" mood="Imper" person="Auto" />
+  <moodForm default="scáthcheile" mood="Subj" person="Base" />
+  <moodForm default="scáthcheilimid" mood="Subj" person="Pl1" />
+  <moodForm default="scáthcheiltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="foréiligh" disambig="">
+  <verbalNoun default="foréileamh" />
+  <verbalAdjective default="foréilithe" />
+  <tenseForm default="foréiligh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="foréilíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="foréilíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="foréilíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="foréiligh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="foréilíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="foréilíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="foréilíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="foréilíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="foréilínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foréilíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="foréilímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foréilídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="foréilítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foréilíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="foréilínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foréilíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="foréilímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foréilídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="foréilítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foréilíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="foréilím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="foréilímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="foréilítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="foréilíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="foréilím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="foréilímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="foréilítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="foréileoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="foréileoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="foréileofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="foréileoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="foréileoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="foréileofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="foréileodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="foréileoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="foréileofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="foréileoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="foréileoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="foréileofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="foréileodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="foréileoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="foréileofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="foréileoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="foréileoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="foréileofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="foréilíodh" mood="Imper" person="Base" />
+  <moodForm default="foréilím" mood="Imper" person="Sg1" />
+  <moodForm default="foréiligh" mood="Imper" person="Sg2" />
+  <moodForm default="foréilímis" mood="Imper" person="Pl1" />
+  <moodForm default="foréilígí" mood="Imper" person="Pl2" />
+  <moodForm default="foréilídís" mood="Imper" person="Pl3" />
+  <moodForm default="foréilítear" mood="Imper" person="Auto" />
+  <moodForm default="foréilí" mood="Subj" person="Base" />
+  <moodForm default="foréilímid" mood="Subj" person="Pl1" />
+  <moodForm default="foréilítear" mood="Subj" person="Auto" />
+</verb>

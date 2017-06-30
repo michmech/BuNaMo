@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sloinn" disambig="">
+  <verbalNoun default="sloinneadh" />
+  <verbalAdjective default="sloinnte" />
+  <tenseForm default="sloinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sloinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sloinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sloinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sloinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sloinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sloinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sloinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sloinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sloinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sloinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sloinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sloinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sloinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sloinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sloinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sloinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sloinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sloinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sloinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sloinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sloinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sloinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sloinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sloinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sloinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sloinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sloinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sloinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sloinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sloinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sloinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sloinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sloinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sloinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sloinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sloinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sloinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sloinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sloinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sloinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sloinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sloinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sloinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sloinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sloinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sloinneadh" mood="Imper" person="Base" />
+  <moodForm default="sloinnim" mood="Imper" person="Sg1" />
+  <moodForm default="sloinn" mood="Imper" person="Sg2" />
+  <moodForm default="sloinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="sloinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="sloinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="sloinntear" mood="Imper" person="Auto" />
+  <moodForm default="sloinne" mood="Subj" person="Base" />
+  <moodForm default="sloinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="sloinntear" mood="Subj" person="Auto" />
+</verb>

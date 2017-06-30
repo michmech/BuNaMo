@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="steiriligh" disambig="">
+  <verbalNoun default="steiriliú" />
+  <verbalAdjective default="steirilithe" />
+  <tenseForm default="steiriligh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="steirilíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="steirilíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="steirilíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="steiriligh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="steirilíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="steirilíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="steirilíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="steirilíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="steirilínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="steirilíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="steirilímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="steirilídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="steirilítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="steirilíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="steirilínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="steirilíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="steirilímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="steirilídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="steirilítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="steirilíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="steirilím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="steirilímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="steirilítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="steirilíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="steirilím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="steirilímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="steirilítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="steirileoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="steirileoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="steirileofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="steirileoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="steirileoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="steirileofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="steirileodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="steirileoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="steirileofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="steirileoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="steirileoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="steirileofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="steirileodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="steirileoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="steirileofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="steirileoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="steirileoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="steirileofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="steirilíodh" mood="Imper" person="Base" />
+  <moodForm default="steirilím" mood="Imper" person="Sg1" />
+  <moodForm default="steiriligh" mood="Imper" person="Sg2" />
+  <moodForm default="steirilímis" mood="Imper" person="Pl1" />
+  <moodForm default="steirilígí" mood="Imper" person="Pl2" />
+  <moodForm default="steirilídís" mood="Imper" person="Pl3" />
+  <moodForm default="steirilítear" mood="Imper" person="Auto" />
+  <moodForm default="steirilí" mood="Subj" person="Base" />
+  <moodForm default="steirilímid" mood="Subj" person="Pl1" />
+  <moodForm default="steirilítear" mood="Subj" person="Auto" />
+</verb>

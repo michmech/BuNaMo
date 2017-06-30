@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dreach" disambig="">
+  <verbalNoun default="dreachadh" />
+  <verbalAdjective default="dreachta" />
+  <tenseForm default="dreach" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dreachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dreachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dreachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dreach" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dreachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dreachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dreachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dreachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dreachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dreachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dreachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dreachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dreachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dreachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dreachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dreachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dreachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dreachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dreachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dreachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dreachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dreachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dreachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dreachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dreachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dreachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dreachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dreachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dreachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dreachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dreachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dreachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dreachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dreachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dreachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dreachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dreachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dreachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dreachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dreachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dreachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dreachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dreachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dreachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dreachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dreachadh" mood="Imper" person="Base" />
+  <moodForm default="dreachaim" mood="Imper" person="Sg1" />
+  <moodForm default="dreach" mood="Imper" person="Sg2" />
+  <moodForm default="dreachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dreachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dreachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dreachtar" mood="Imper" person="Auto" />
+  <moodForm default="dreacha" mood="Subj" person="Base" />
+  <moodForm default="dreachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dreachtar" mood="Subj" person="Auto" />
+</verb>

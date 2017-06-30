@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="goill" disambig="">
+  <verbalNoun default="goilleadh" />
+  <verbalAdjective default="goillte" />
+  <tenseForm default="goill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="goilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="goilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="goilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="goill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="goilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="goilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="goilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="goilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="goillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="goillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="goillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="goillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="goilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="goilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="goillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="goillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="goillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="goillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="goilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="goilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="goillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="goillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="goilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="goilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="goillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="goillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="goilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="goillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="goillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="goillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="goillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="goillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="goillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="goillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="goillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="goillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="goillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="goillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="goillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="goillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="goillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="goillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="goillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="goillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="goillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="goilleadh" mood="Imper" person="Base" />
+  <moodForm default="goillim" mood="Imper" person="Sg1" />
+  <moodForm default="goill" mood="Imper" person="Sg2" />
+  <moodForm default="goillimis" mood="Imper" person="Pl1" />
+  <moodForm default="goilligí" mood="Imper" person="Pl2" />
+  <moodForm default="goillidís" mood="Imper" person="Pl3" />
+  <moodForm default="goilltear" mood="Imper" person="Auto" />
+  <moodForm default="goille" mood="Subj" person="Base" />
+  <moodForm default="goillimid" mood="Subj" person="Pl1" />
+  <moodForm default="goilltear" mood="Subj" person="Auto" />
+</verb>

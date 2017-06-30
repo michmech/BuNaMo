@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tochrais" disambig="">
+  <verbalNoun default="tochras" />
+  <verbalAdjective default="tochraiste" />
+  <tenseForm default="tochrais" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tochraiseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tochraiseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tochraiseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tochrais" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tochraiseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tochraiseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tochraiseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tochraiseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tochraisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tochraisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tochraisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tochraisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tochraistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tochraiseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tochraisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tochraisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tochraisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tochraisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tochraistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tochraiseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tochraisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tochraisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tochraistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tochraiseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tochraisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tochraisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tochraistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tochraisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tochraisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tochraisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tochraisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tochraisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tochraisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tochraisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tochraisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tochraisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tochraisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tochraisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tochraisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tochraisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tochraisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tochraisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tochraisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tochraisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tochraisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tochraiseadh" mood="Imper" person="Base" />
+  <moodForm default="tochraisim" mood="Imper" person="Sg1" />
+  <moodForm default="tochrais" mood="Imper" person="Sg2" />
+  <moodForm default="tochraisimis" mood="Imper" person="Pl1" />
+  <moodForm default="tochraisigí" mood="Imper" person="Pl2" />
+  <moodForm default="tochraisidís" mood="Imper" person="Pl3" />
+  <moodForm default="tochraistear" mood="Imper" person="Auto" />
+  <moodForm default="tochraise" mood="Subj" person="Base" />
+  <moodForm default="tochraisimid" mood="Subj" person="Pl1" />
+  <moodForm default="tochraistear" mood="Subj" person="Auto" />
+</verb>

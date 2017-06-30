@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dóigh" disambig="">
+  <verbalNoun default="dó" />
+  <verbalAdjective default="dóite" />
+  <tenseForm default="dóigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dómar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dódar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dódh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dóigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dómar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dódar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dódh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dódh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dóinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dóiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dóimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dóidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dóití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dódh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dóinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dóiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dóimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dóidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dóití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dónn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dóim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dóimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dóitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dónn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dóim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dóimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dóitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dófaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dófaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dófaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dófaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dófadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dófainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dófaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dófaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dófadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dófainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dófaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dófaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dódh" mood="Imper" person="Base" />
+  <moodForm default="dóim" mood="Imper" person="Sg1" />
+  <moodForm default="dóigh" mood="Imper" person="Sg2" />
+  <moodForm default="dóimis" mood="Imper" person="Pl1" />
+  <moodForm default="dóigí" mood="Imper" person="Pl2" />
+  <moodForm default="dóidís" mood="Imper" person="Pl3" />
+  <moodForm default="dóitear" mood="Imper" person="Auto" />
+  <moodForm default="dó" mood="Subj" person="Base" />
+  <moodForm default="dóimid" mood="Subj" person="Pl1" />
+  <moodForm default="dóitear" mood="Subj" person="Auto" />
+</verb>

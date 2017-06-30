@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="calmaigh" disambig="">
+  <verbalNoun default="calmú" />
+  <verbalAdjective default="calmaithe" />
+  <tenseForm default="calmaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="calmaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="calmaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="calmaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="calmaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="calmaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="calmaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="calmaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="calmaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="calmaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="calmaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="calmaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="calmaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="calmaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="calmaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="calmaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="calmaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="calmaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="calmaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="calmaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="calmaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="calmaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="calmaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="calmaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="calmaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="calmaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="calmaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="calmaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="calmóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="calmóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="calmófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="calmóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="calmóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="calmófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="calmódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="calmóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="calmófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="calmóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="calmóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="calmófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="calmódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="calmóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="calmófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="calmóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="calmóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="calmófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="calmaíodh" mood="Imper" person="Base" />
+  <moodForm default="calmaím" mood="Imper" person="Sg1" />
+  <moodForm default="calmaigh" mood="Imper" person="Sg2" />
+  <moodForm default="calmaímis" mood="Imper" person="Pl1" />
+  <moodForm default="calmaígí" mood="Imper" person="Pl2" />
+  <moodForm default="calmaídís" mood="Imper" person="Pl3" />
+  <moodForm default="calmaítear" mood="Imper" person="Auto" />
+  <moodForm default="calmaí" mood="Subj" person="Base" />
+  <moodForm default="calmaímid" mood="Subj" person="Pl1" />
+  <moodForm default="calmaítear" mood="Subj" person="Auto" />
+</verb>

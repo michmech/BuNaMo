@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="borr" disambig="">
+  <verbalNoun default="borradh" />
+  <verbalAdjective default="borrtha" />
+  <tenseForm default="borr" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="borramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="borradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="borradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="borr" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="borramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="borradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="borradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="borradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="borrainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="borrtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="borraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="borraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="borrtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="borradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="borrainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="borrtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="borraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="borraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="borrtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="borrann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="borraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="borraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="borrtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="borrann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="borraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="borraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="borrtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="borrfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="borrfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="borrfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="borrfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="borrfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="borrfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="borrfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="borrfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="borrfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="borrfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="borrfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="borrfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="borrfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="borrfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="borrfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="borrfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="borrfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="borrfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="borradh" mood="Imper" person="Base" />
+  <moodForm default="borraim" mood="Imper" person="Sg1" />
+  <moodForm default="borr" mood="Imper" person="Sg2" />
+  <moodForm default="borraimis" mood="Imper" person="Pl1" />
+  <moodForm default="borraigí" mood="Imper" person="Pl2" />
+  <moodForm default="borraidís" mood="Imper" person="Pl3" />
+  <moodForm default="borrtar" mood="Imper" person="Auto" />
+  <moodForm default="borra" mood="Subj" person="Base" />
+  <moodForm default="borraimid" mood="Subj" person="Pl1" />
+  <moodForm default="borrtar" mood="Subj" person="Auto" />
+</verb>

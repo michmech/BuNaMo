@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="breisigh" disambig="">
+  <verbalNoun default="breisiú" />
+  <verbalAdjective default="breisithe" />
+  <tenseForm default="breisigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="breisíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="breisíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="breisíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="breisigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="breisíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="breisíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="breisíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="breisíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="breisínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="breisíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="breisímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="breisídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="breisítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="breisíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="breisínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="breisíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="breisímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="breisídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="breisítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="breisíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="breisím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="breisímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="breisítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="breisíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="breisím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="breisímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="breisítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="breiseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="breiseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="breiseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="breiseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="breiseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="breiseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="breiseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="breiseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="breiseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="breiseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="breiseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="breiseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="breiseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="breiseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="breiseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="breiseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="breiseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="breiseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="breisíodh" mood="Imper" person="Base" />
+  <moodForm default="breisím" mood="Imper" person="Sg1" />
+  <moodForm default="breisigh" mood="Imper" person="Sg2" />
+  <moodForm default="breisímis" mood="Imper" person="Pl1" />
+  <moodForm default="breisígí" mood="Imper" person="Pl2" />
+  <moodForm default="breisídís" mood="Imper" person="Pl3" />
+  <moodForm default="breisítear" mood="Imper" person="Auto" />
+  <moodForm default="breisí" mood="Subj" person="Base" />
+  <moodForm default="breisímid" mood="Subj" person="Pl1" />
+  <moodForm default="breisítear" mood="Subj" person="Auto" />
+</verb>

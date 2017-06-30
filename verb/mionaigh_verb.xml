@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mionaigh" disambig="">
+  <verbalNoun default="mionú" />
+  <verbalAdjective default="mionaithe" />
+  <tenseForm default="mionaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mionaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mionaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mionaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mionaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mionaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mionaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mionaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mionaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mionaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mionaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mionaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mionaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mionaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mionóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mionóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mionóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mionóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mionódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mionóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mionófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mionóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mionóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mionófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mionódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mionóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mionófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mionóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mionóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mionófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mionaíodh" mood="Imper" person="Base" />
+  <moodForm default="mionaím" mood="Imper" person="Sg1" />
+  <moodForm default="mionaigh" mood="Imper" person="Sg2" />
+  <moodForm default="mionaímis" mood="Imper" person="Pl1" />
+  <moodForm default="mionaígí" mood="Imper" person="Pl2" />
+  <moodForm default="mionaídís" mood="Imper" person="Pl3" />
+  <moodForm default="mionaítear" mood="Imper" person="Auto" />
+  <moodForm default="mionaí" mood="Subj" person="Base" />
+  <moodForm default="mionaímid" mood="Subj" person="Pl1" />
+  <moodForm default="mionaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fuill" disambig="">
+  <verbalNoun default="fuilleamh" />
+  <verbalAdjective default="fuillte" />
+  <tenseForm default="fuill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fuilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fuill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fuilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fuilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fuillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fuillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fuilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fuillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fuillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fuilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fuillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fuilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fuillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fuillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fuillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fuillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fuillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fuillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fuillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fuillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fuillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fuillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fuillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fuillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fuillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fuillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fuillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fuillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fuillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fuilleadh" mood="Imper" person="Base" />
+  <moodForm default="fuillim" mood="Imper" person="Sg1" />
+  <moodForm default="fuill" mood="Imper" person="Sg2" />
+  <moodForm default="fuillimis" mood="Imper" person="Pl1" />
+  <moodForm default="fuilligí" mood="Imper" person="Pl2" />
+  <moodForm default="fuillidís" mood="Imper" person="Pl3" />
+  <moodForm default="fuilltear" mood="Imper" person="Auto" />
+  <moodForm default="fuille" mood="Subj" person="Base" />
+  <moodForm default="fuillimid" mood="Subj" person="Pl1" />
+  <moodForm default="fuilltear" mood="Subj" person="Auto" />
+</verb>

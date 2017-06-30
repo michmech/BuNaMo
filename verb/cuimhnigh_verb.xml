@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cuimhnigh" disambig="">
+  <verbalNoun default="cuimhneamh" />
+  <verbalAdjective default="cuimhnithe" />
+  <tenseForm default="cuimhnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cuimhníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimhníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuimhníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimhnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cuimhníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimhníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuimhníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimhníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuimhnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuimhníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuimhnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimhnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuimhnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimhníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuimhnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuimhníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuimhnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimhnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuimhnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimhníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuimhním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuimhnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimhnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimhníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuimhním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuimhnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimhnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimhneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cuimhneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimhneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimhneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cuimhneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimhneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimhneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cuimhneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuimhneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuimhneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimhneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuimhneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimhneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cuimhneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuimhneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuimhneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimhneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuimhneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cuimhníodh" mood="Imper" person="Base" />
+  <moodForm default="cuimhním" mood="Imper" person="Sg1" />
+  <moodForm default="cuimhnigh" mood="Imper" person="Sg2" />
+  <moodForm default="cuimhnímis" mood="Imper" person="Pl1" />
+  <moodForm default="cuimhnígí" mood="Imper" person="Pl2" />
+  <moodForm default="cuimhnídís" mood="Imper" person="Pl3" />
+  <moodForm default="cuimhnítear" mood="Imper" person="Auto" />
+  <moodForm default="cuimhní" mood="Subj" person="Base" />
+  <moodForm default="cuimhnímid" mood="Subj" person="Pl1" />
+  <moodForm default="cuimhnítear" mood="Subj" person="Auto" />
+</verb>

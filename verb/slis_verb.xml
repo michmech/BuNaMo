@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="slis" disambig="">
+  <verbalNoun default="sliseadh" />
+  <verbalAdjective default="sliste" />
+  <tenseForm default="slis" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sliseamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sliseadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sliseadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="slis" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sliseamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sliseadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sliseadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sliseadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="slisinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="slisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="slisimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="slisidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="slistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sliseadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="slisinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="slisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="slisimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="slisidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="slistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sliseann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="slisim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="slisimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="slistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sliseann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="slisim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="slisimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="slistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="slisfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="slisfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="slisfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="slisfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="slisfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="slisfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="slisfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="slisfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="slisfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="slisfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="slisfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="slisfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="slisfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="slisfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="slisfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="slisfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="slisfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="slisfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sliseadh" mood="Imper" person="Base" />
+  <moodForm default="slisim" mood="Imper" person="Sg1" />
+  <moodForm default="slis" mood="Imper" person="Sg2" />
+  <moodForm default="slisimis" mood="Imper" person="Pl1" />
+  <moodForm default="slisigí" mood="Imper" person="Pl2" />
+  <moodForm default="slisidís" mood="Imper" person="Pl3" />
+  <moodForm default="slistear" mood="Imper" person="Auto" />
+  <moodForm default="slise" mood="Subj" person="Base" />
+  <moodForm default="slisimid" mood="Subj" person="Pl1" />
+  <moodForm default="slistear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="calc" disambig="">
+  <verbalNoun default="calcadh" />
+  <verbalAdjective default="calctha" />
+  <tenseForm default="calc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="calcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="calcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="calcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="calc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="calcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="calcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="calcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="calcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="calcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="calctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="calcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="calcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="calctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="calcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="calcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="calctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="calcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="calcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="calctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="calcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="calcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="calcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="calctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="calcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="calcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="calcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="calctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="calcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="calcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="calcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="calcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="calcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="calcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="calcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="calcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="calcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="calcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="calcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="calcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="calcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="calcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="calcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="calcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="calcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="calcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="calcadh" mood="Imper" person="Base" />
+  <moodForm default="calcaim" mood="Imper" person="Sg1" />
+  <moodForm default="calc" mood="Imper" person="Sg2" />
+  <moodForm default="calcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="calcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="calcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="calctar" mood="Imper" person="Auto" />
+  <moodForm default="calca" mood="Subj" person="Base" />
+  <moodForm default="calcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="calctar" mood="Subj" person="Auto" />
+</verb>

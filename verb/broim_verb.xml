@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="broim" disambig="">
+  <verbalNoun default="bromadh" />
+  <verbalAdjective default="bromtha" />
+  <tenseForm default="broim" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bromamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bromadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bromadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="broim" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bromamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bromadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bromadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bromadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bromainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bromtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bromaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bromaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bromtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bromadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bromainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bromtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bromaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bromaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bromtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bromann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bromaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bromaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bromtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bromann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bromaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bromaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bromtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bromfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bromfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bromfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bromfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bromfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bromfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bromfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bromfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bromfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bromfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bromfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bromfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bromfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bromfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bromfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bromfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bromfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bromfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bromadh" mood="Imper" person="Base" />
+  <moodForm default="bromaim" mood="Imper" person="Sg1" />
+  <moodForm default="broim" mood="Imper" person="Sg2" />
+  <moodForm default="bromaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bromaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bromaidís" mood="Imper" person="Pl3" />
+  <moodForm default="bromtar" mood="Imper" person="Auto" />
+  <moodForm default="broma" mood="Subj" person="Base" />
+  <moodForm default="bromaimid" mood="Subj" person="Pl1" />
+  <moodForm default="bromtar" mood="Subj" person="Auto" />
+</verb>

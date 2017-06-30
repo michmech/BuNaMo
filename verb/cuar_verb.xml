@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cuar" disambig="">
+  <verbalNoun default="cuaradh" />
+  <verbalAdjective default="cuartha" />
+  <tenseForm default="cuar" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cuaramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuaradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuaradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cuar" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cuaramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuaradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuaradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cuaradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuarainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuaraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuaraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuaradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuarainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuaraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuaraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuarann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuaraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuaraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuarann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuaraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuaraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuarfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cuarfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuarfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cuarfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cuarfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuarfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cuarfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cuarfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuarfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuarfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuarfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuarfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cuarfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cuarfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuarfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuarfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuarfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuarfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cuaradh" mood="Imper" person="Base" />
+  <moodForm default="cuaraim" mood="Imper" person="Sg1" />
+  <moodForm default="cuar" mood="Imper" person="Sg2" />
+  <moodForm default="cuaraimis" mood="Imper" person="Pl1" />
+  <moodForm default="cuaraigí" mood="Imper" person="Pl2" />
+  <moodForm default="cuaraidís" mood="Imper" person="Pl3" />
+  <moodForm default="cuartar" mood="Imper" person="Auto" />
+  <moodForm default="cuara" mood="Subj" person="Base" />
+  <moodForm default="cuaraimid" mood="Subj" person="Pl1" />
+  <moodForm default="cuartar" mood="Subj" person="Auto" />
+</verb>

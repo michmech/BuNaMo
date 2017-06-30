@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="corn" disambig="">
+  <verbalNoun default="cornadh" />
+  <verbalAdjective default="corntha" />
+  <tenseForm default="corn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cornamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cornadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cornadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="corn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cornamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cornadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cornadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cornadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cornainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="corntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cornaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cornaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="corntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cornadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cornainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="corntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cornaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cornaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="corntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cornann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cornaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cornaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="corntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cornann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cornaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cornaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="corntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cornfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cornfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cornfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cornfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cornfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cornfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cornfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cornfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cornfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cornfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cornfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cornfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cornfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cornfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cornfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cornfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cornfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cornfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cornadh" mood="Imper" person="Base" />
+  <moodForm default="cornaim" mood="Imper" person="Sg1" />
+  <moodForm default="corn" mood="Imper" person="Sg2" />
+  <moodForm default="cornaimis" mood="Imper" person="Pl1" />
+  <moodForm default="cornaigí" mood="Imper" person="Pl2" />
+  <moodForm default="cornaidís" mood="Imper" person="Pl3" />
+  <moodForm default="corntar" mood="Imper" person="Auto" />
+  <moodForm default="corna" mood="Subj" person="Base" />
+  <moodForm default="cornaimid" mood="Subj" person="Pl1" />
+  <moodForm default="corntar" mood="Subj" person="Auto" />
+</verb>

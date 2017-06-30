@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="doicheallaigh" disambig="">
+  <verbalNoun default="doicheallú" />
+  <verbalAdjective default="doicheallaithe" />
+  <tenseForm default="doicheallaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="doicheallaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="doicheallaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="doicheallaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="doicheallaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="doicheallaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="doicheallaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="doicheallaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="doicheallaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="doicheallaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="doicheallaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="doicheallaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="doicheallaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="doicheallaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="doicheallaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="doicheallaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="doicheallaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="doicheallaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="doicheallaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="doicheallaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="doicheallaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="doicheallaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="doicheallaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="doicheallaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="doicheallaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="doicheallaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="doicheallaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="doicheallaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="doicheallóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="doicheallóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="doicheallófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="doicheallóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="doicheallóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="doicheallófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="doicheallódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="doicheallóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="doicheallófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="doicheallóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="doicheallóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="doicheallófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="doicheallódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="doicheallóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="doicheallófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="doicheallóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="doicheallóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="doicheallófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="doicheallaíodh" mood="Imper" person="Base" />
+  <moodForm default="doicheallaím" mood="Imper" person="Sg1" />
+  <moodForm default="doicheallaigh" mood="Imper" person="Sg2" />
+  <moodForm default="doicheallaímis" mood="Imper" person="Pl1" />
+  <moodForm default="doicheallaígí" mood="Imper" person="Pl2" />
+  <moodForm default="doicheallaídís" mood="Imper" person="Pl3" />
+  <moodForm default="doicheallaítear" mood="Imper" person="Auto" />
+  <moodForm default="doicheallaí" mood="Subj" person="Base" />
+  <moodForm default="doicheallaímid" mood="Subj" person="Pl1" />
+  <moodForm default="doicheallaítear" mood="Subj" person="Auto" />
+</verb>

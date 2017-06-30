@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="díshlóg" disambig="">
+  <verbalNoun default="díshlógadh" />
+  <verbalAdjective default="díshlógtha" />
+  <tenseForm default="díshlóg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="díshlógamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="díshlógadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="díshlógadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="díshlóg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="díshlógamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="díshlógadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="díshlógadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="díshlógadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="díshlógainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díshlógtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="díshlógaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díshlógaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="díshlógtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díshlógadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="díshlógainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díshlógtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="díshlógaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díshlógaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="díshlógtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díshlógann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="díshlógaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="díshlógaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="díshlógtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="díshlógann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="díshlógaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="díshlógaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="díshlógtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="díshlógfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="díshlógfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="díshlógfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="díshlógfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="díshlógfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="díshlógfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="díshlógfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="díshlógfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="díshlógfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="díshlógfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="díshlógfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="díshlógfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="díshlógfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="díshlógfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="díshlógfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="díshlógfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="díshlógfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="díshlógfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="díshlógadh" mood="Imper" person="Base" />
+  <moodForm default="díshlógaim" mood="Imper" person="Sg1" />
+  <moodForm default="díshlóg" mood="Imper" person="Sg2" />
+  <moodForm default="díshlógaimis" mood="Imper" person="Pl1" />
+  <moodForm default="díshlógaigí" mood="Imper" person="Pl2" />
+  <moodForm default="díshlógaidís" mood="Imper" person="Pl3" />
+  <moodForm default="díshlógtar" mood="Imper" person="Auto" />
+  <moodForm default="díshlóga" mood="Subj" person="Base" />
+  <moodForm default="díshlógaimid" mood="Subj" person="Pl1" />
+  <moodForm default="díshlógtar" mood="Subj" person="Auto" />
+</verb>

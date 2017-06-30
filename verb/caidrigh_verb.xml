@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="caidrigh" disambig="">
+  <verbalNoun default="caidreamh" />
+  <verbalAdjective default="caidrithe" />
+  <tenseForm default="caidrigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="caidríomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="caidríodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="caidríodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="caidrigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="caidríomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="caidríodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="caidríodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="caidríodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="caidrínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caidríteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="caidrímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caidrídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="caidrítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caidríodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="caidrínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caidríteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="caidrímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caidrídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="caidrítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caidríonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="caidrím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="caidrímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="caidrítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="caidríonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="caidrím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="caidrímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="caidrítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="caidreoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="caidreoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="caidreofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="caidreoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="caidreoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="caidreofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="caidreodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="caidreoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="caidreofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="caidreoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="caidreoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="caidreofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="caidreodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="caidreoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="caidreofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="caidreoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="caidreoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="caidreofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="caidríodh" mood="Imper" person="Base" />
+  <moodForm default="caidrím" mood="Imper" person="Sg1" />
+  <moodForm default="caidrigh" mood="Imper" person="Sg2" />
+  <moodForm default="caidrímis" mood="Imper" person="Pl1" />
+  <moodForm default="caidrígí" mood="Imper" person="Pl2" />
+  <moodForm default="caidrídís" mood="Imper" person="Pl3" />
+  <moodForm default="caidrítear" mood="Imper" person="Auto" />
+  <moodForm default="caidrí" mood="Subj" person="Base" />
+  <moodForm default="caidrímid" mood="Subj" person="Pl1" />
+  <moodForm default="caidrítear" mood="Subj" person="Auto" />
+</verb>

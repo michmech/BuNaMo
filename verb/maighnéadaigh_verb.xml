@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="maighnéadaigh" disambig="">
+  <verbalNoun default="maighnéadú" />
+  <verbalAdjective default="maighnéadaithe" />
+  <tenseForm default="maighnéadaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="maighnéadaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="maighnéadaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="maighnéadaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="maighnéadaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="maighnéadaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="maighnéadaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="maighnéadaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="maighnéadaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="maighnéadaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maighnéadaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="maighnéadaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maighnéadaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="maighnéadaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maighnéadaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="maighnéadaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maighnéadaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="maighnéadaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maighnéadaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="maighnéadaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maighnéadaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="maighnéadaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maighnéadaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maighnéadaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maighnéadaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="maighnéadaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maighnéadaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maighnéadaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maighnéadóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="maighnéadóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="maighnéadófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="maighnéadóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="maighnéadóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="maighnéadófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="maighnéadódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="maighnéadóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="maighnéadófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="maighnéadóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="maighnéadóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="maighnéadófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="maighnéadódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="maighnéadóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="maighnéadófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="maighnéadóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="maighnéadóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="maighnéadófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="maighnéadaíodh" mood="Imper" person="Base" />
+  <moodForm default="maighnéadaím" mood="Imper" person="Sg1" />
+  <moodForm default="maighnéadaigh" mood="Imper" person="Sg2" />
+  <moodForm default="maighnéadaímis" mood="Imper" person="Pl1" />
+  <moodForm default="maighnéadaígí" mood="Imper" person="Pl2" />
+  <moodForm default="maighnéadaídís" mood="Imper" person="Pl3" />
+  <moodForm default="maighnéadaítear" mood="Imper" person="Auto" />
+  <moodForm default="maighnéadaí" mood="Subj" person="Base" />
+  <moodForm default="maighnéadaímid" mood="Subj" person="Pl1" />
+  <moodForm default="maighnéadaítear" mood="Subj" person="Auto" />
+</verb>

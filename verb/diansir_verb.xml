@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="diansir" disambig="">
+  <verbalNoun default="diansireadh" />
+  <verbalAdjective default="diansirthe" />
+  <tenseForm default="diansir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="diansireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="diansireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="diansireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="diansir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="diansireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="diansireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="diansireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="diansireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="diansirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diansirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="diansirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diansiridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="diansirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diansireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="diansirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diansirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="diansirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diansiridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="diansirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diansireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="diansirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diansirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diansirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diansireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="diansirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diansirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diansirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diansirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="diansirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="diansirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="diansirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="diansirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="diansirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="diansirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="diansirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="diansirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="diansirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="diansirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="diansirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="diansirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="diansirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="diansirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="diansirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="diansirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="diansirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="diansireadh" mood="Imper" person="Base" />
+  <moodForm default="diansirim" mood="Imper" person="Sg1" />
+  <moodForm default="diansir" mood="Imper" person="Sg2" />
+  <moodForm default="diansirimis" mood="Imper" person="Pl1" />
+  <moodForm default="diansirigí" mood="Imper" person="Pl2" />
+  <moodForm default="diansiridís" mood="Imper" person="Pl3" />
+  <moodForm default="diansirtear" mood="Imper" person="Auto" />
+  <moodForm default="diansire" mood="Subj" person="Base" />
+  <moodForm default="diansirimid" mood="Subj" person="Pl1" />
+  <moodForm default="diansirtear" mood="Subj" person="Auto" />
+</verb>

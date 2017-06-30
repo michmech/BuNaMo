@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="macht" disambig="">
+  <verbalNoun default="machtadh" />
+  <verbalAdjective default="machta" />
+  <tenseForm default="macht" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="machtamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="machtadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="machtadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="macht" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="machtamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="machtadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="machtadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="machtadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="machtainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="machtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="machtaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="machtaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="machtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="machtadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="machtainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="machtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="machtaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="machtaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="machtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="machtann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="machtaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="machtaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="machtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="machtann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="machtaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="machtaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="machtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="machtfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="machtfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="machtfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="machtfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="machtfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="machtfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="machtfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="machtfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="machtfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="machtfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="machtfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="machtfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="machtfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="machtfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="machtfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="machtfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="machtfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="machtfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="machtadh" mood="Imper" person="Base" />
+  <moodForm default="machtaim" mood="Imper" person="Sg1" />
+  <moodForm default="macht" mood="Imper" person="Sg2" />
+  <moodForm default="machtaimis" mood="Imper" person="Pl1" />
+  <moodForm default="machtaigí" mood="Imper" person="Pl2" />
+  <moodForm default="machtaidís" mood="Imper" person="Pl3" />
+  <moodForm default="machtar" mood="Imper" person="Auto" />
+  <moodForm default="machta" mood="Subj" person="Base" />
+  <moodForm default="machtaimid" mood="Subj" person="Pl1" />
+  <moodForm default="machtar" mood="Subj" person="Auto" />
+</verb>

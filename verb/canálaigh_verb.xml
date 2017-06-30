@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="canálaigh" disambig="">
+  <verbalNoun default="canálú" />
+  <verbalAdjective default="canálaithe" />
+  <tenseForm default="canálaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="canálaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="canálaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="canálaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="canálaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="canálaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="canálaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="canálaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="canálaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="canálaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="canálaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="canálaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="canálaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="canálaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="canálaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="canálaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="canálaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="canálaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="canálaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="canálaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="canálaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="canálaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="canálaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="canálaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="canálaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="canálaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="canálaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="canálaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="canálóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="canálóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="canálófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="canálóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="canálóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="canálófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="canálódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="canálóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="canálófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="canálóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="canálóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="canálófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="canálódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="canálóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="canálófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="canálóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="canálóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="canálófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="canálaíodh" mood="Imper" person="Base" />
+  <moodForm default="canálaím" mood="Imper" person="Sg1" />
+  <moodForm default="canálaigh" mood="Imper" person="Sg2" />
+  <moodForm default="canálaímis" mood="Imper" person="Pl1" />
+  <moodForm default="canálaígí" mood="Imper" person="Pl2" />
+  <moodForm default="canálaídís" mood="Imper" person="Pl3" />
+  <moodForm default="canálaítear" mood="Imper" person="Auto" />
+  <moodForm default="canálaí" mood="Subj" person="Base" />
+  <moodForm default="canálaímid" mood="Subj" person="Pl1" />
+  <moodForm default="canálaítear" mood="Subj" person="Auto" />
+</verb>

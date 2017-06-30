@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scaip" disambig="">
+  <verbalNoun default="scaipeadh" />
+  <verbalAdjective default="scaipthe" />
+  <tenseForm default="scaip" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scaipeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scaipeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scaipeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scaip" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scaipeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scaipeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scaipeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scaipeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scaipinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scaipteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scaipimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scaipidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scaiptí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scaipeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scaipinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scaipteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scaipimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scaipidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scaiptí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scaipeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scaipim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scaipimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scaiptear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scaipeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scaipim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scaipimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scaiptear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scaipfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scaipfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scaipfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scaipfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scaipfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scaipfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scaipfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scaipfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scaipfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scaipfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scaipfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scaipfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scaipfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scaipfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scaipfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scaipfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scaipfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scaipfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scaipeadh" mood="Imper" person="Base" />
+  <moodForm default="scaipim" mood="Imper" person="Sg1" />
+  <moodForm default="scaip" mood="Imper" person="Sg2" />
+  <moodForm default="scaipimis" mood="Imper" person="Pl1" />
+  <moodForm default="scaipigí" mood="Imper" person="Pl2" />
+  <moodForm default="scaipidís" mood="Imper" person="Pl3" />
+  <moodForm default="scaiptear" mood="Imper" person="Auto" />
+  <moodForm default="scaipe" mood="Subj" person="Base" />
+  <moodForm default="scaipimid" mood="Subj" person="Pl1" />
+  <moodForm default="scaiptear" mood="Subj" person="Auto" />
+</verb>

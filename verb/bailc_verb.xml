@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bailc" disambig="">
+  <verbalNoun default="balcadh" />
+  <verbalAdjective default="balctha" />
+  <tenseForm default="bailc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="balcamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="balcadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="balcadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bailc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="balcamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="balcadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="balcadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="balcadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="balcainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="balctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="balcaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="balcaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="balctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="balcadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="balcainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="balctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="balcaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="balcaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="balctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="balcann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="balcaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="balcaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="balctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="balcann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="balcaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="balcaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="balctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="balcfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="balcfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="balcfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="balcfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="balcfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="balcfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="balcfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="balcfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="balcfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="balcfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="balcfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="balcfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="balcfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="balcfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="balcfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="balcfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="balcfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="balcfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="balcadh" mood="Imper" person="Base" />
+  <moodForm default="balcaim" mood="Imper" person="Sg1" />
+  <moodForm default="bailc" mood="Imper" person="Sg2" />
+  <moodForm default="balcaimis" mood="Imper" person="Pl1" />
+  <moodForm default="balcaigí" mood="Imper" person="Pl2" />
+  <moodForm default="balcaidís" mood="Imper" person="Pl3" />
+  <moodForm default="balctar" mood="Imper" person="Auto" />
+  <moodForm default="balca" mood="Subj" person="Base" />
+  <moodForm default="balcaimid" mood="Subj" person="Pl1" />
+  <moodForm default="balctar" mood="Subj" person="Auto" />
+</verb>

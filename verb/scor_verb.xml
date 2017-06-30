@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scor" disambig="">
+  <verbalNoun default="scoradh" />
+  <verbalAdjective default="scortha" />
+  <tenseForm default="scor" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scoramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scoradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scor" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scoramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scoradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scoradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scorainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scortá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scoraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scoraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scortaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scoradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scorainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scortá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scoraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scoraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scortaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scorann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scoraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scoraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scortar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scorann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scoraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scoraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scortar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scorfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scorfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scorfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scorfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scorfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scorfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scorfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scorfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scorfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scorfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scorfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scorfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scorfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scorfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scorfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scorfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scorfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scorfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scoradh" mood="Imper" person="Base" />
+  <moodForm default="scoraim" mood="Imper" person="Sg1" />
+  <moodForm default="scor" mood="Imper" person="Sg2" />
+  <moodForm default="scoraimis" mood="Imper" person="Pl1" />
+  <moodForm default="scoraigí" mood="Imper" person="Pl2" />
+  <moodForm default="scoraidís" mood="Imper" person="Pl3" />
+  <moodForm default="scortar" mood="Imper" person="Auto" />
+  <moodForm default="scora" mood="Subj" person="Base" />
+  <moodForm default="scoraimid" mood="Subj" person="Pl1" />
+  <moodForm default="scortar" mood="Subj" person="Auto" />
+</verb>

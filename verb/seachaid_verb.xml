@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="seachaid" disambig="">
+  <verbalNoun default="seachadadh" />
+  <verbalAdjective default="seachadta" />
+  <tenseForm default="seachaid" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="seachadamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="seachadadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="seachadadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="seachaid" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="seachadamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="seachadadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="seachadadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="seachadadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="seachadainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seachadtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="seachadaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seachadaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="seachadtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seachadadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="seachadainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seachadtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="seachadaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seachadaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="seachadtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seachadann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="seachadaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seachadaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seachadtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seachadann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="seachadaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seachadaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seachadtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seachadfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="seachadfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="seachadfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="seachadfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="seachadfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="seachadfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="seachadfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="seachadfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="seachadfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="seachadfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="seachadfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="seachadfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="seachadfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="seachadfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="seachadfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="seachadfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="seachadfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="seachadfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="seachadadh" mood="Imper" person="Base" />
+  <moodForm default="seachadaim" mood="Imper" person="Sg1" />
+  <moodForm default="seachaid" mood="Imper" person="Sg2" />
+  <moodForm default="seachadaimis" mood="Imper" person="Pl1" />
+  <moodForm default="seachadaigí" mood="Imper" person="Pl2" />
+  <moodForm default="seachadaidís" mood="Imper" person="Pl3" />
+  <moodForm default="seachadtar" mood="Imper" person="Auto" />
+  <moodForm default="seachada" mood="Subj" person="Base" />
+  <moodForm default="seachadaimid" mood="Subj" person="Pl1" />
+  <moodForm default="seachadtar" mood="Subj" person="Auto" />
+</verb>

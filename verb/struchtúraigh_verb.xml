@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="struchtúraigh" disambig="">
+  <verbalNoun default="struchtúrú" />
+  <verbalAdjective default="struchtúraithe" />
+  <tenseForm default="struchtúraigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="struchtúraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="struchtúraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="struchtúraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="struchtúraigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="struchtúraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="struchtúraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="struchtúraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="struchtúraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="struchtúraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="struchtúraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="struchtúraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="struchtúraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="struchtúraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="struchtúraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="struchtúraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="struchtúraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="struchtúraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="struchtúraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="struchtúraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="struchtúraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="struchtúraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="struchtúraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="struchtúraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="struchtúraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="struchtúraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="struchtúraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="struchtúraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="struchtúróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="struchtúróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="struchtúrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="struchtúróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="struchtúróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="struchtúrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="struchtúródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="struchtúróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="struchtúrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="struchtúróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="struchtúróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="struchtúrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="struchtúródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="struchtúróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="struchtúrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="struchtúróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="struchtúróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="struchtúrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="struchtúraíodh" mood="Imper" person="Base" />
+  <moodForm default="struchtúraím" mood="Imper" person="Sg1" />
+  <moodForm default="struchtúraigh" mood="Imper" person="Sg2" />
+  <moodForm default="struchtúraímis" mood="Imper" person="Pl1" />
+  <moodForm default="struchtúraígí" mood="Imper" person="Pl2" />
+  <moodForm default="struchtúraídís" mood="Imper" person="Pl3" />
+  <moodForm default="struchtúraítear" mood="Imper" person="Auto" />
+  <moodForm default="struchtúraí" mood="Subj" person="Base" />
+  <moodForm default="struchtúraímid" mood="Subj" person="Pl1" />
+  <moodForm default="struchtúraítear" mood="Subj" person="Auto" />
+</verb>

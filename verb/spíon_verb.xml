@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="spíon" disambig="">
+  <verbalNoun default="spíonadh" />
+  <verbalAdjective default="spíonta" />
+  <tenseForm default="spíon" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="spíonamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="spíonadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="spíonadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="spíon" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="spíonamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="spíonadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="spíonadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="spíonadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="spíonainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spíontá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="spíonaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spíonaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="spíontaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spíonadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="spíonainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spíontá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="spíonaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spíonaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="spíontaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spíonann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="spíonaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spíonaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spíontar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spíonann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="spíonaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spíonaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spíontar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spíonfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="spíonfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="spíonfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="spíonfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="spíonfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="spíonfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="spíonfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="spíonfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="spíonfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="spíonfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="spíonfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="spíonfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="spíonfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="spíonfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="spíonfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="spíonfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="spíonfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="spíonfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="spíonadh" mood="Imper" person="Base" />
+  <moodForm default="spíonaim" mood="Imper" person="Sg1" />
+  <moodForm default="spíon" mood="Imper" person="Sg2" />
+  <moodForm default="spíonaimis" mood="Imper" person="Pl1" />
+  <moodForm default="spíonaigí" mood="Imper" person="Pl2" />
+  <moodForm default="spíonaidís" mood="Imper" person="Pl3" />
+  <moodForm default="spíontar" mood="Imper" person="Auto" />
+  <moodForm default="spíona" mood="Subj" person="Base" />
+  <moodForm default="spíonaimid" mood="Subj" person="Pl1" />
+  <moodForm default="spíontar" mood="Subj" person="Auto" />
+</verb>

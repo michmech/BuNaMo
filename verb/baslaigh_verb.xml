@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="baslaigh" disambig="">
+  <verbalNoun default="baslach" />
+  <verbalAdjective default="baslaithe" />
+  <tenseForm default="baslaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="baslaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="baslaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="baslaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="baslaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="baslaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="baslaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="baslaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="baslaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="baslaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="baslaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="baslaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="baslaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="baslaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baslaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="baslaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="baslaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="baslaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="baslaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="baslaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="baslaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="baslaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="baslaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="baslaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baslaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="baslaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="baslaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="baslaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="baslóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="baslóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="baslófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="baslóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="baslóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="baslófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="baslódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="baslóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="baslófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="baslóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="baslóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="baslófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="baslódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="baslóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="baslófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="baslóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="baslóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="baslófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="baslaíodh" mood="Imper" person="Base" />
+  <moodForm default="baslaím" mood="Imper" person="Sg1" />
+  <moodForm default="baslaigh" mood="Imper" person="Sg2" />
+  <moodForm default="baslaímis" mood="Imper" person="Pl1" />
+  <moodForm default="baslaígí" mood="Imper" person="Pl2" />
+  <moodForm default="baslaídís" mood="Imper" person="Pl3" />
+  <moodForm default="baslaítear" mood="Imper" person="Auto" />
+  <moodForm default="baslaí" mood="Subj" person="Base" />
+  <moodForm default="baslaímid" mood="Subj" person="Pl1" />
+  <moodForm default="baslaítear" mood="Subj" person="Auto" />
+</verb>

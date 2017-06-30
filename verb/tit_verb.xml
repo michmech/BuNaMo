@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tit" disambig="">
+  <verbalNoun default="titim" />
+  <verbalAdjective default="tite" />
+  <tenseForm default="tit" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="titeamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="titeadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="titeadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tit" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="titeamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="titeadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="titeadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="titeadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="titinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="titeá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="titimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="titidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="titeadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="titinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="titeá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="titimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="titidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="titeann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="titim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="titimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="titear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="titeann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="titim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="titimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="titear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="titfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="titfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="titfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="titfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="titfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="titfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="titfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="titfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="titfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="titfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="titfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="titfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="titfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="titfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="titfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="titfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="titfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="titfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="titeadh" mood="Imper" person="Base" />
+  <moodForm default="titim" mood="Imper" person="Sg1" />
+  <moodForm default="tit" mood="Imper" person="Sg2" />
+  <moodForm default="titimis" mood="Imper" person="Pl1" />
+  <moodForm default="titigí" mood="Imper" person="Pl2" />
+  <moodForm default="titidís" mood="Imper" person="Pl3" />
+  <moodForm default="titear" mood="Imper" person="Auto" />
+  <moodForm default="tite" mood="Subj" person="Base" />
+  <moodForm default="titimid" mood="Subj" person="Pl1" />
+  <moodForm default="titear" mood="Subj" person="Auto" />
+</verb>

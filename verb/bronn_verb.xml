@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bronn" disambig="">
+  <verbalNoun default="bronnadh" />
+  <verbalAdjective default="bronnta" />
+  <tenseForm default="bronn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bronnamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bronnadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bronnadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bronn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bronnamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bronnadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bronnadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bronnadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bronnainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bronntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bronnaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bronnaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bronntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bronnadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bronnainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bronntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bronnaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bronnaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bronntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bronnann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bronnaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bronnaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bronntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bronnann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bronnaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bronnaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bronntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bronnfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bronnfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bronnfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bronnfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bronnfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bronnfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bronnfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bronnfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bronnfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bronnfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bronnfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bronnfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bronnfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bronnfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bronnfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bronnfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bronnfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bronnfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bronnadh" mood="Imper" person="Base" />
+  <moodForm default="bronnaim" mood="Imper" person="Sg1" />
+  <moodForm default="bronn" mood="Imper" person="Sg2" />
+  <moodForm default="bronnaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bronnaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bronnaidís" mood="Imper" person="Pl3" />
+  <moodForm default="bronntar" mood="Imper" person="Auto" />
+  <moodForm default="bronna" mood="Subj" person="Base" />
+  <moodForm default="bronnaimid" mood="Subj" person="Pl1" />
+  <moodForm default="bronntar" mood="Subj" person="Auto" />
+</verb>

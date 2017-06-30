@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bolg" disambig="">
+  <verbalNoun default="bolgadh" />
+  <verbalAdjective default="bolgtha" />
+  <tenseForm default="bolg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="bolgamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="bolgadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="bolgadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="bolg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="bolgamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="bolgadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="bolgadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="bolgadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="bolgainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bolgtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="bolgaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bolgaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="bolgtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bolgadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="bolgainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bolgtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="bolgaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bolgaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="bolgtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bolgann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="bolgaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bolgaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="bolgtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="bolgann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="bolgaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bolgaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="bolgtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="bolgfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="bolgfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="bolgfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="bolgfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="bolgfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="bolgfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="bolgfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="bolgfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="bolgfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="bolgfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="bolgfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="bolgfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="bolgfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="bolgfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="bolgfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="bolgfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="bolgfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="bolgfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="bolgadh" mood="Imper" person="Base" />
+  <moodForm default="bolgaim" mood="Imper" person="Sg1" />
+  <moodForm default="bolg" mood="Imper" person="Sg2" />
+  <moodForm default="bolgaimis" mood="Imper" person="Pl1" />
+  <moodForm default="bolgaigí" mood="Imper" person="Pl2" />
+  <moodForm default="bolgaidís" mood="Imper" person="Pl3" />
+  <moodForm default="bolgtar" mood="Imper" person="Auto" />
+  <moodForm default="bolga" mood="Subj" person="Base" />
+  <moodForm default="bolgaimid" mood="Subj" person="Pl1" />
+  <moodForm default="bolgtar" mood="Subj" person="Auto" />
+</verb>

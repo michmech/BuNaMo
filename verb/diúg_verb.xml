@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="diúg" disambig="">
+  <verbalNoun default="diúgadh" />
+  <verbalAdjective default="diúgtha" />
+  <tenseForm default="diúg" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="diúgamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúgadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="diúgadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="diúg" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="diúgamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúgadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="diúgadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="diúgadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="diúgainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diúgtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="diúgaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúgaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="diúgtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diúgadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="diúgainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diúgtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="diúgaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúgaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="diúgtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diúgann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="diúgaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diúgaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúgtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diúgann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="diúgaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diúgaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúgtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diúgfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="diúgfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúgfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="diúgfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="diúgfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúgfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="diúgfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="diúgfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="diúgfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="diúgfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="diúgfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="diúgfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="diúgfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="diúgfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="diúgfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="diúgfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="diúgfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="diúgfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="diúgadh" mood="Imper" person="Base" />
+  <moodForm default="diúgaim" mood="Imper" person="Sg1" />
+  <moodForm default="diúg" mood="Imper" person="Sg2" />
+  <moodForm default="diúgaimis" mood="Imper" person="Pl1" />
+  <moodForm default="diúgaigí" mood="Imper" person="Pl2" />
+  <moodForm default="diúgaidís" mood="Imper" person="Pl3" />
+  <moodForm default="diúgtar" mood="Imper" person="Auto" />
+  <moodForm default="diúga" mood="Subj" person="Base" />
+  <moodForm default="diúgaimid" mood="Subj" person="Pl1" />
+  <moodForm default="diúgtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ung" disambig="">
+  <verbalNoun default="ungadh" />
+  <verbalAdjective default="ungtha" />
+  <tenseForm default="ung" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ungamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ungadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ung" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ungamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ungadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ungadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ungainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ungtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ungaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ungaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ungtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ungadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ungainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ungtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ungaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ungaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ungtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ungann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ungaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ungaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ungtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ungann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ungaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ungaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ungtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ungfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ungfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ungfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ungfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ungfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ungfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ungfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ungfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ungfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ungfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ungfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ungfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ungfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ungfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ungfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ungfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ungfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ungfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ungadh" mood="Imper" person="Base" />
+  <moodForm default="ungaim" mood="Imper" person="Sg1" />
+  <moodForm default="ung" mood="Imper" person="Sg2" />
+  <moodForm default="ungaimis" mood="Imper" person="Pl1" />
+  <moodForm default="ungaigí" mood="Imper" person="Pl2" />
+  <moodForm default="ungaidís" mood="Imper" person="Pl3" />
+  <moodForm default="ungtar" mood="Imper" person="Auto" />
+  <moodForm default="unga" mood="Subj" person="Base" />
+  <moodForm default="ungaimid" mood="Subj" person="Pl1" />
+  <moodForm default="ungtar" mood="Subj" person="Auto" />
+</verb>

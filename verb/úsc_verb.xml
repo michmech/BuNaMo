@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="úsc" disambig="">
+  <verbalNoun default="úscadh" />
+  <verbalAdjective default="úsctha" />
+  <tenseForm default="úsc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="úscamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="úscadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="úsc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="úscamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="úscadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="úscadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="úscainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="úsctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="úscaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="úscaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="úsctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="úscadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="úscainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="úsctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="úscaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="úscaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="úsctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="úscann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="úscaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="úscaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="úsctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="úscann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="úscaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="úscaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="úsctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="úscfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="úscfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="úscfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="úscfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="úscfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="úscfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="úscfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="úscfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="úscfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="úscfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="úscfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="úscfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="úscfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="úscfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="úscfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="úscfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="úscfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="úscfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="úscadh" mood="Imper" person="Base" />
+  <moodForm default="úscaim" mood="Imper" person="Sg1" />
+  <moodForm default="úsc" mood="Imper" person="Sg2" />
+  <moodForm default="úscaimis" mood="Imper" person="Pl1" />
+  <moodForm default="úscaigí" mood="Imper" person="Pl2" />
+  <moodForm default="úscaidís" mood="Imper" person="Pl3" />
+  <moodForm default="úsctar" mood="Imper" person="Auto" />
+  <moodForm default="úsca" mood="Subj" person="Base" />
+  <moodForm default="úscaimid" mood="Subj" person="Pl1" />
+  <moodForm default="úsctar" mood="Subj" person="Auto" />
+</verb>

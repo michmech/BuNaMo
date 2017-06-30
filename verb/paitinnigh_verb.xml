@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="paitinnigh" disambig="">
+  <verbalNoun default="paitinniú" />
+  <verbalAdjective default="paitinnithe" />
+  <tenseForm default="paitinnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="paitinníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="paitinníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="paitinníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="paitinnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="paitinníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="paitinníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="paitinníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="paitinníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="paitinnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="paitinníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="paitinnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="paitinnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="paitinnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="paitinníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="paitinnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="paitinníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="paitinnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="paitinnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="paitinnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="paitinníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="paitinním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="paitinnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="paitinnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="paitinníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="paitinním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="paitinnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="paitinnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="paitinneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="paitinneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="paitinneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="paitinneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="paitinneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="paitinneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="paitinneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="paitinneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="paitinneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="paitinneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="paitinneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="paitinneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="paitinneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="paitinneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="paitinneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="paitinneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="paitinneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="paitinneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="paitinníodh" mood="Imper" person="Base" />
+  <moodForm default="paitinním" mood="Imper" person="Sg1" />
+  <moodForm default="paitinnigh" mood="Imper" person="Sg2" />
+  <moodForm default="paitinnímis" mood="Imper" person="Pl1" />
+  <moodForm default="paitinnígí" mood="Imper" person="Pl2" />
+  <moodForm default="paitinnídís" mood="Imper" person="Pl3" />
+  <moodForm default="paitinnítear" mood="Imper" person="Auto" />
+  <moodForm default="paitinní" mood="Subj" person="Base" />
+  <moodForm default="paitinnímid" mood="Subj" person="Pl1" />
+  <moodForm default="paitinnítear" mood="Subj" person="Auto" />
+</verb>

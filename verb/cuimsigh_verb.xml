@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cuimsigh" disambig="">
+  <verbalNoun default="cuimsiú" />
+  <verbalAdjective default="cuimsithe" />
+  <tenseForm default="cuimsigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cuimsíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimsíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuimsíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimsigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cuimsíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimsíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuimsíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimsíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuimsínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuimsíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuimsímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimsídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuimsítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimsíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuimsínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuimsíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuimsímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimsídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuimsítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimsíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuimsím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuimsímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimsítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimsíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuimsím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuimsímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimsítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cuimseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cuimseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cuimseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cuimseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuimseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuimseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuimseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuimseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cuimseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cuimseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuimseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuimseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuimseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuimseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cuimsíodh" mood="Imper" person="Base" />
+  <moodForm default="cuimsím" mood="Imper" person="Sg1" />
+  <moodForm default="cuimsigh" mood="Imper" person="Sg2" />
+  <moodForm default="cuimsímis" mood="Imper" person="Pl1" />
+  <moodForm default="cuimsígí" mood="Imper" person="Pl2" />
+  <moodForm default="cuimsídís" mood="Imper" person="Pl3" />
+  <moodForm default="cuimsítear" mood="Imper" person="Auto" />
+  <moodForm default="cuimsí" mood="Subj" person="Base" />
+  <moodForm default="cuimsímid" mood="Subj" person="Pl1" />
+  <moodForm default="cuimsítear" mood="Subj" person="Auto" />
+</verb>

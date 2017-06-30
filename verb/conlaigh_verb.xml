@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="conlaigh" disambig="">
+  <verbalNoun default="conlú" />
+  <verbalAdjective default="conlaithe" />
+  <tenseForm default="conlaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="conlaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="conlaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="conlaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="conlaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="conlaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="conlaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="conlaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="conlaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="conlaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="conlaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="conlaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="conlaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="conlaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="conlaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="conlaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="conlaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="conlaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="conlaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="conlaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="conlaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="conlaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="conlaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="conlaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="conlaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="conlaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="conlaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="conlaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="conlóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="conlóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="conlófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="conlóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="conlóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="conlófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="conlódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="conlóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="conlófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="conlóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="conlóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="conlófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="conlódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="conlóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="conlófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="conlóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="conlóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="conlófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="conlaíodh" mood="Imper" person="Base" />
+  <moodForm default="conlaím" mood="Imper" person="Sg1" />
+  <moodForm default="conlaigh" mood="Imper" person="Sg2" />
+  <moodForm default="conlaímis" mood="Imper" person="Pl1" />
+  <moodForm default="conlaígí" mood="Imper" person="Pl2" />
+  <moodForm default="conlaídís" mood="Imper" person="Pl3" />
+  <moodForm default="conlaítear" mood="Imper" person="Auto" />
+  <moodForm default="conlaí" mood="Subj" person="Base" />
+  <moodForm default="conlaímid" mood="Subj" person="Pl1" />
+  <moodForm default="conlaítear" mood="Subj" person="Auto" />
+</verb>

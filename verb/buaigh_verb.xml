@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="buaigh" disambig="">
+  <verbalNoun default="buachan" />
+  <verbalAdjective default="buaite" />
+  <tenseForm default="buaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="buamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="buadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="buadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="buaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="buamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="buadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="buadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="buadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="buainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="buaiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="buaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="buaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="buaití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="buadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="buainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="buaiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="buaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="buaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="buaití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="buann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="buaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="buaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="buaitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="buann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="buaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="buaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="buaitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="buafaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="buafaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="buafar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="buafaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="buafaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="buafar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="buafadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="buafainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="buafá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="buafaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="buafaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="buafaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="buafadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="buafainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="buafá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="buafaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="buafaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="buafaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="buadh" mood="Imper" person="Base" />
+  <moodForm default="buaim" mood="Imper" person="Sg1" />
+  <moodForm default="buaigh" mood="Imper" person="Sg2" />
+  <moodForm default="buaimis" mood="Imper" person="Pl1" />
+  <moodForm default="buaigí" mood="Imper" person="Pl2" />
+  <moodForm default="buaidís" mood="Imper" person="Pl3" />
+  <moodForm default="buaitear" mood="Imper" person="Auto" />
+  <moodForm default="bua" mood="Subj" person="Base" />
+  <moodForm default="buaimid" mood="Subj" person="Pl1" />
+  <moodForm default="buaitear" mood="Subj" person="Auto" />
+</verb>

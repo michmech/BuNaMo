@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cónaisc" disambig="">
+  <verbalNoun default="cónascadh" />
+  <verbalAdjective default="cónasctha" />
+  <tenseForm default="cónaisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cónaisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cónaisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cónaisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cónaisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cónaisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cónaisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cónaisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cónaisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cónaiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cónaiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cónaiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cónaiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cónaisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cónaisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cónaiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cónaiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cónaiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cónaiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cónaisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cónaisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cónaiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cónaiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cónaisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cónaisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cónaiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cónaiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cónaisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cónaiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cónaiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cónaiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cónaiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cónaiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cónaiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cónaiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cónaiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cónaiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cónaiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cónaiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cónaiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cónaiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cónaiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cónaiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cónaiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cónaiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cónaiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cónaisceadh" mood="Imper" person="Base" />
+  <moodForm default="cónaiscim" mood="Imper" person="Sg1" />
+  <moodForm default="cónaisc" mood="Imper" person="Sg2" />
+  <moodForm default="cónaiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="cónaiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="cónaiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="cónaisctear" mood="Imper" person="Auto" />
+  <moodForm default="cónaisce" mood="Subj" person="Base" />
+  <moodForm default="cónaiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="cónaisctear" mood="Subj" person="Auto" />
+</verb>

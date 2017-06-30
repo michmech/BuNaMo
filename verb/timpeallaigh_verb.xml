@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="timpeallaigh" disambig="">
+  <verbalNoun default="timpeallú" />
+  <verbalAdjective default="timpeallaithe" />
+  <tenseForm default="timpeallaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="timpeallaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="timpeallaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="timpeallaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="timpeallaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="timpeallaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="timpeallaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="timpeallaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="timpeallaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="timpeallaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="timpeallaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="timpeallaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="timpeallaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="timpeallaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="timpeallaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="timpeallaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="timpeallaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="timpeallaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="timpeallaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="timpeallaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="timpeallaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="timpeallaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="timpeallaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="timpeallaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="timpeallaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="timpeallaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="timpeallaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="timpeallaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="timpeallóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="timpeallóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="timpeallófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="timpeallóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="timpeallóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="timpeallófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="timpeallódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="timpeallóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="timpeallófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="timpeallóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="timpeallóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="timpeallófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="timpeallódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="timpeallóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="timpeallófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="timpeallóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="timpeallóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="timpeallófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="timpeallaíodh" mood="Imper" person="Base" />
+  <moodForm default="timpeallaím" mood="Imper" person="Sg1" />
+  <moodForm default="timpeallaigh" mood="Imper" person="Sg2" />
+  <moodForm default="timpeallaímis" mood="Imper" person="Pl1" />
+  <moodForm default="timpeallaígí" mood="Imper" person="Pl2" />
+  <moodForm default="timpeallaídís" mood="Imper" person="Pl3" />
+  <moodForm default="timpeallaítear" mood="Imper" person="Auto" />
+  <moodForm default="timpeallaí" mood="Subj" person="Base" />
+  <moodForm default="timpeallaímid" mood="Subj" person="Pl1" />
+  <moodForm default="timpeallaítear" mood="Subj" person="Auto" />
+</verb>

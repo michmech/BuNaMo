@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="drann" disambig="">
+  <verbalNoun default="drannadh" />
+  <verbalAdjective default="drannta" />
+  <tenseForm default="drann" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="drannamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="drannadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="drannadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="drann" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="drannamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="drannadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="drannadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="drannadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="drannainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dranntá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="drannaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="drannaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dranntaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="drannadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="drannainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dranntá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="drannaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="drannaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dranntaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="drannann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="drannaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="drannaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dranntar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="drannann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="drannaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="drannaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dranntar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="drannfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="drannfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="drannfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="drannfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="drannfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="drannfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="drannfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="drannfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="drannfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="drannfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="drannfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="drannfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="drannfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="drannfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="drannfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="drannfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="drannfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="drannfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="drannadh" mood="Imper" person="Base" />
+  <moodForm default="drannaim" mood="Imper" person="Sg1" />
+  <moodForm default="drann" mood="Imper" person="Sg2" />
+  <moodForm default="drannaimis" mood="Imper" person="Pl1" />
+  <moodForm default="drannaigí" mood="Imper" person="Pl2" />
+  <moodForm default="drannaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dranntar" mood="Imper" person="Auto" />
+  <moodForm default="dranna" mood="Subj" person="Base" />
+  <moodForm default="drannaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dranntar" mood="Subj" person="Auto" />
+</verb>

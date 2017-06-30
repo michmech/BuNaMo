@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sintéisigh" disambig="">
+  <verbalNoun default="sintéisiú" />
+  <verbalAdjective default="sintéisithe" />
+  <tenseForm default="sintéisigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sintéisíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sintéisíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sintéisíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sintéisigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sintéisíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sintéisíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sintéisíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sintéisíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sintéisínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sintéisíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sintéisímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sintéisídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sintéisítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sintéisíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sintéisínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sintéisíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sintéisímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sintéisídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sintéisítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sintéisíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sintéisím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sintéisímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sintéisítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sintéisíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sintéisím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sintéisímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sintéisítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sintéiseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sintéiseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sintéiseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sintéiseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sintéiseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sintéiseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sintéiseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sintéiseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sintéiseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sintéiseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sintéiseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sintéiseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sintéiseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sintéiseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sintéiseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sintéiseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sintéiseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sintéiseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sintéisíodh" mood="Imper" person="Base" />
+  <moodForm default="sintéisím" mood="Imper" person="Sg1" />
+  <moodForm default="sintéisigh" mood="Imper" person="Sg2" />
+  <moodForm default="sintéisímis" mood="Imper" person="Pl1" />
+  <moodForm default="sintéisígí" mood="Imper" person="Pl2" />
+  <moodForm default="sintéisídís" mood="Imper" person="Pl3" />
+  <moodForm default="sintéisítear" mood="Imper" person="Auto" />
+  <moodForm default="sintéisí" mood="Subj" person="Base" />
+  <moodForm default="sintéisímid" mood="Subj" person="Pl1" />
+  <moodForm default="sintéisítear" mood="Subj" person="Auto" />
+</verb>

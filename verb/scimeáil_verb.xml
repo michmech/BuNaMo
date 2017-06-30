@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scimeáil" disambig="">
+  <verbalNoun default="scimeáil" />
+  <verbalAdjective default="scimeáilte" />
+  <tenseForm default="scimeáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scimeálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scimeáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scimeáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scimeáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scimeálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scimeáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scimeáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scimeáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scimeálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scimeáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scimeálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scimeálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scimeáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scimeáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scimeálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scimeáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scimeálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scimeálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scimeáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scimeálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scimeálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scimeálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scimeáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scimeálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scimeálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scimeálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scimeáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scimeálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scimeálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scimeálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scimeálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scimeálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scimeálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scimeálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scimeálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scimeálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scimeálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scimeálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scimeálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scimeálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scimeálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scimeálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scimeálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scimeálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scimeálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scimeáladh" mood="Imper" person="Base" />
+  <moodForm default="scimeálaim" mood="Imper" person="Sg1" />
+  <moodForm default="scimeáil" mood="Imper" person="Sg2" />
+  <moodForm default="scimeálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="scimeálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="scimeálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="scimeáiltear" mood="Imper" person="Auto" />
+  <moodForm default="scimeála" mood="Subj" person="Base" />
+  <moodForm default="scimeálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="scimeáiltear" mood="Subj" person="Auto" />
+</verb>

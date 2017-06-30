@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sir" disambig="">
+  <verbalNoun default="sireadh" />
+  <verbalAdjective default="sirthe" />
+  <tenseForm default="sir" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sir" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sirinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sirteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sirimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siridís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sirtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sirinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sirteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sirimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siridís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sirtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sirim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sirimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sirtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sirim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sirimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sirtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sirfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sirfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sirfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sirfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sirfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sirfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sirfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sirfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sirfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sirfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sirfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sirfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sirfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sirfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sirfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sirfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sirfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sirfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sireadh" mood="Imper" person="Base" />
+  <moodForm default="sirim" mood="Imper" person="Sg1" />
+  <moodForm default="sir" mood="Imper" person="Sg2" />
+  <moodForm default="sirimis" mood="Imper" person="Pl1" />
+  <moodForm default="sirigí" mood="Imper" person="Pl2" />
+  <moodForm default="siridís" mood="Imper" person="Pl3" />
+  <moodForm default="sirtear" mood="Imper" person="Auto" />
+  <moodForm default="sire" mood="Subj" person="Base" />
+  <moodForm default="sirimid" mood="Subj" person="Pl1" />
+  <moodForm default="sirtear" mood="Subj" person="Auto" />
+</verb>

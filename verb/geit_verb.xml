@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="geit" disambig="">
+  <verbalNoun default="geiteadh" />
+  <verbalAdjective default="geite" />
+  <tenseForm default="geit" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="geiteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="geiteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="geiteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="geit" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="geiteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="geiteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="geiteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="geiteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="geitinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="geiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="geitimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="geitidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="geití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="geiteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="geitinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="geiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="geitimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="geitidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="geití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="geiteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="geitim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="geitimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="geitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="geiteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="geitim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="geitimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="geitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="geitfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="geitfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="geitfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="geitfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="geitfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="geitfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="geitfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="geitfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="geitfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="geitfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="geitfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="geitfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="geitfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="geitfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="geitfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="geitfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="geitfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="geitfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="geiteadh" mood="Imper" person="Base" />
+  <moodForm default="geitim" mood="Imper" person="Sg1" />
+  <moodForm default="geit" mood="Imper" person="Sg2" />
+  <moodForm default="geitimis" mood="Imper" person="Pl1" />
+  <moodForm default="geitigí" mood="Imper" person="Pl2" />
+  <moodForm default="geitidís" mood="Imper" person="Pl3" />
+  <moodForm default="geitear" mood="Imper" person="Auto" />
+  <moodForm default="geite" mood="Subj" person="Base" />
+  <moodForm default="geitimid" mood="Subj" person="Pl1" />
+  <moodForm default="geitear" mood="Subj" person="Auto" />
+</verb>

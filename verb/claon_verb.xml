@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="claon" disambig="">
+  <verbalNoun default="claonadh" />
+  <verbalAdjective default="claonta" />
+  <tenseForm default="claon" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="claonamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="claonadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="claonadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="claon" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="claonamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="claonadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="claonadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="claonadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="claonainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="claontá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="claonaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="claonaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="claontaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="claonadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="claonainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="claontá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="claonaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="claonaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="claontaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="claonann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="claonaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="claonaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="claontar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="claonann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="claonaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="claonaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="claontar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="claonfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="claonfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="claonfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="claonfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="claonfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="claonfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="claonfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="claonfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="claonfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="claonfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="claonfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="claonfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="claonfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="claonfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="claonfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="claonfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="claonfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="claonfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="claonadh" mood="Imper" person="Base" />
+  <moodForm default="claonaim" mood="Imper" person="Sg1" />
+  <moodForm default="claon" mood="Imper" person="Sg2" />
+  <moodForm default="claonaimis" mood="Imper" person="Pl1" />
+  <moodForm default="claonaigí" mood="Imper" person="Pl2" />
+  <moodForm default="claonaidís" mood="Imper" person="Pl3" />
+  <moodForm default="claontar" mood="Imper" person="Auto" />
+  <moodForm default="claona" mood="Subj" person="Base" />
+  <moodForm default="claonaimid" mood="Subj" person="Pl1" />
+  <moodForm default="claontar" mood="Subj" person="Auto" />
+</verb>

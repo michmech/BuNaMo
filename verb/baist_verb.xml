@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="baist" disambig="">
+  <verbalNoun default="baisteadh" />
+  <verbalAdjective default="baiste" />
+  <tenseForm default="baist" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="baisteamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="baisteadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="baisteadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="baist" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="baisteamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="baisteadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="baisteadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="baisteadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="baistinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="baisteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="baistimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="baistidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="baistí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baisteadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="baistinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="baisteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="baistimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="baistidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="baistí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="baisteann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="baistim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="baistimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="baistear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="baisteann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="baistim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="baistimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="baistear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="baistfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="baistfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="baistfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="baistfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="baistfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="baistfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="baistfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="baistfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="baistfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="baistfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="baistfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="baistfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="baistfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="baistfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="baistfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="baistfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="baistfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="baistfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="baisteadh" mood="Imper" person="Base" />
+  <moodForm default="baistim" mood="Imper" person="Sg1" />
+  <moodForm default="baist" mood="Imper" person="Sg2" />
+  <moodForm default="baistimis" mood="Imper" person="Pl1" />
+  <moodForm default="baistigí" mood="Imper" person="Pl2" />
+  <moodForm default="baistidís" mood="Imper" person="Pl3" />
+  <moodForm default="baistear" mood="Imper" person="Auto" />
+  <moodForm default="baiste" mood="Subj" person="Base" />
+  <moodForm default="baistimid" mood="Subj" person="Pl1" />
+  <moodForm default="baistear" mood="Subj" person="Auto" />
+</verb>

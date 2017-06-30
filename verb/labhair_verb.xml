@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="labhair" disambig="">
+  <verbalNoun default="labhairt" />
+  <verbalAdjective default="labhartha" />
+  <tenseForm default="labhair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="labhraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="labhraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="labhraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="labhair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="labhraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="labhraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="labhraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="labhraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="labhraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="labhraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="labhraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="labhraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="labhraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="labhraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="labhraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="labhraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="labhraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="labhraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="labhraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="labhraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="labhraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="labhraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="labhraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="labhraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="labhraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="labhraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="labhraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="labhróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="labhróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="labhrófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="labhróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="labhróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="labhrófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="labhródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="labhróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="labhrófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="labhróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="labhróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="labhrófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="labhródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="labhróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="labhrófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="labhróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="labhróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="labhrófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="labhraíodh" mood="Imper" person="Base" />
+  <moodForm default="labhraím" mood="Imper" person="Sg1" />
+  <moodForm default="labhair" mood="Imper" person="Sg2" />
+  <moodForm default="labhraímis" mood="Imper" person="Pl1" />
+  <moodForm default="labhraígí" mood="Imper" person="Pl2" />
+  <moodForm default="labhraídís" mood="Imper" person="Pl3" />
+  <moodForm default="labhraítear" mood="Imper" person="Auto" />
+  <moodForm default="labhraí" mood="Subj" person="Base" />
+  <moodForm default="labhraímid" mood="Subj" person="Pl1" />
+  <moodForm default="labhraítear" mood="Subj" person="Auto" />
+</verb>

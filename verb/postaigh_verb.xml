@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="postaigh" disambig="">
+  <verbalNoun default="postú" />
+  <verbalAdjective default="postaithe" />
+  <tenseForm default="postaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="postaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="postaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="postaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="postaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="postaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="postaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="postaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="postaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="postaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="postaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="postaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="postaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="postaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="postaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="postaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="postaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="postaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="postaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="postaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="postaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="postaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="postaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="postaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="postaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="postaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="postaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="postaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="postóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="postóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="postófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="postóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="postóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="postófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="postódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="postóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="postófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="postóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="postóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="postófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="postódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="postóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="postófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="postóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="postóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="postófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="postaíodh" mood="Imper" person="Base" />
+  <moodForm default="postaím" mood="Imper" person="Sg1" />
+  <moodForm default="postaigh" mood="Imper" person="Sg2" />
+  <moodForm default="postaímis" mood="Imper" person="Pl1" />
+  <moodForm default="postaígí" mood="Imper" person="Pl2" />
+  <moodForm default="postaídís" mood="Imper" person="Pl3" />
+  <moodForm default="postaítear" mood="Imper" person="Auto" />
+  <moodForm default="postaí" mood="Subj" person="Base" />
+  <moodForm default="postaímid" mood="Subj" person="Pl1" />
+  <moodForm default="postaítear" mood="Subj" person="Auto" />
+</verb>

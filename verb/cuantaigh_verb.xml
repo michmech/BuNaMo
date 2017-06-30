@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cuantaigh" disambig="">
+  <verbalNoun default="cuantú" />
+  <verbalAdjective default="cuantaithe" />
+  <tenseForm default="cuantaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cuantaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuantaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuantaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cuantaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cuantaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuantaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuantaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cuantaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuantaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuantaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuantaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuantaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuantaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuantaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuantaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuantaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuantaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuantaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuantaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuantaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cuantaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuantaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuantaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cuantaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cuantaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuantaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuantaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cuantóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cuantóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuantófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cuantóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cuantóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuantófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cuantódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cuantóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cuantófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cuantóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cuantóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cuantófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cuantódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cuantóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cuantófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cuantóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cuantóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cuantófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cuantaíodh" mood="Imper" person="Base" />
+  <moodForm default="cuantaím" mood="Imper" person="Sg1" />
+  <moodForm default="cuantaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cuantaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cuantaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cuantaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cuantaítear" mood="Imper" person="Auto" />
+  <moodForm default="cuantaí" mood="Subj" person="Base" />
+  <moodForm default="cuantaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cuantaítear" mood="Subj" person="Auto" />
+</verb>

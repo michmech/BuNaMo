@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="casaoid" disambig="">
+  <verbalNoun default="casaoid" />
+  <verbalAdjective default="casaoidte" />
+  <tenseForm default="casaoid" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="casaoideamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="casaoideadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="casaoideadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="casaoid" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="casaoideamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="casaoideadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="casaoideadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="casaoideadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="casaoidinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="casaoidteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="casaoidimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="casaoididís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="casaoidtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="casaoideadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="casaoidinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="casaoidteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="casaoidimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="casaoididís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="casaoidtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="casaoideann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="casaoidim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="casaoidimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="casaoidtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="casaoideann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="casaoidim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="casaoidimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="casaoidtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="casaoidfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="casaoidfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="casaoidfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="casaoidfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="casaoidfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="casaoidfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="casaoidfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="casaoidfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="casaoidfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="casaoidfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="casaoidfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="casaoidfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="casaoidfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="casaoidfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="casaoidfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="casaoidfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="casaoidfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="casaoidfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="casaoideadh" mood="Imper" person="Base" />
+  <moodForm default="casaoidim" mood="Imper" person="Sg1" />
+  <moodForm default="casaoid" mood="Imper" person="Sg2" />
+  <moodForm default="casaoidimis" mood="Imper" person="Pl1" />
+  <moodForm default="casaoidigí" mood="Imper" person="Pl2" />
+  <moodForm default="casaoididís" mood="Imper" person="Pl3" />
+  <moodForm default="casaoidtear" mood="Imper" person="Auto" />
+  <moodForm default="casaoide" mood="Subj" person="Base" />
+  <moodForm default="casaoidimid" mood="Subj" person="Pl1" />
+  <moodForm default="casaoidtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dol" disambig="">
+  <verbalNoun default="doladh" />
+  <verbalAdjective default="dolta" />
+  <tenseForm default="dol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dolamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="doladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dolamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="doladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="doladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dolainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="doltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dolaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dolaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="doltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="doladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dolainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="doltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dolaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dolaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="doltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dolann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dolaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dolaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="doltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dolann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dolaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dolaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="doltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dolfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dolfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dolfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dolfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dolfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dolfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dolfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dolfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dolfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dolfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dolfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dolfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dolfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dolfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dolfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dolfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dolfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dolfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="doladh" mood="Imper" person="Base" />
+  <moodForm default="dolaim" mood="Imper" person="Sg1" />
+  <moodForm default="dol" mood="Imper" person="Sg2" />
+  <moodForm default="dolaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dolaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dolaidís" mood="Imper" person="Pl3" />
+  <moodForm default="doltar" mood="Imper" person="Auto" />
+  <moodForm default="dola" mood="Subj" person="Base" />
+  <moodForm default="dolaimid" mood="Subj" person="Pl1" />
+  <moodForm default="doltar" mood="Subj" person="Auto" />
+</verb>

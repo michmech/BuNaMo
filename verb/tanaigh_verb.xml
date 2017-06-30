@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tanaigh" disambig="">
+  <verbalNoun default="tanú" />
+  <verbalAdjective default="tanaithe" />
+  <tenseForm default="tanaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tanaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tanaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tanaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tanaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tanaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tanaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tanaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tanaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tanaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tanaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tanaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tanaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tanaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tanaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tanaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tanaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tanaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tanaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tanaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tanaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tanaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tanaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tanaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tanaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tanaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tanaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tanaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tanóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tanóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tanófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tanóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tanóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tanófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tanódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tanóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tanófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tanóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tanóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tanófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tanódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tanóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tanófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tanóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tanóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tanófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tanaíodh" mood="Imper" person="Base" />
+  <moodForm default="tanaím" mood="Imper" person="Sg1" />
+  <moodForm default="tanaigh" mood="Imper" person="Sg2" />
+  <moodForm default="tanaímis" mood="Imper" person="Pl1" />
+  <moodForm default="tanaígí" mood="Imper" person="Pl2" />
+  <moodForm default="tanaídís" mood="Imper" person="Pl3" />
+  <moodForm default="tanaítear" mood="Imper" person="Auto" />
+  <moodForm default="tanaí" mood="Subj" person="Base" />
+  <moodForm default="tanaímid" mood="Subj" person="Pl1" />
+  <moodForm default="tanaítear" mood="Subj" person="Auto" />
+</verb>

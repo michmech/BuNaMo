@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="bligh" disambig="">
+  <verbalNoun default="bleán" />
+  <verbalAdjective default="blite" />
+  <tenseForm default="bligh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="blíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="blíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="blíodh" tense="Past" dependency="Indep" person="Auto" />  
+  <tenseForm default="bligh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="blíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="blíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="blíodh" tense="Past" dependency="Dep" person="Auto" />  
+  <tenseForm default="blíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="blínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="bliteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="blímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="blídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="blití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="blíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="blínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="bliteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="blímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="blídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="blití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="blíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="blím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="blímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="blitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="blíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="blím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="blímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="blitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="blífidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="blífimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="blífear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="blífidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="blífimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="blífear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="blífeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="blífinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="blífeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="blífimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="blífidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="blífí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="blífeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="blífinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="blífeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="blífimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="blífidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="blífí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="blíodh" mood="Imper" person="Base" />
+  <moodForm default="blím" mood="Imper" person="Sg1" />
+  <moodForm default="bligh" mood="Imper" person="Sg2" />
+  <moodForm default="blímis" mood="Imper" person="Pl1" />
+  <moodForm default="blígí" mood="Imper" person="Pl2" />
+  <moodForm default="blídís" mood="Imper" person="Pl3" />
+  <moodForm default="blitear" mood="Imper" person="Auto" />
+  <moodForm default="blí" mood="Subj" person="Base" />
+  <moodForm default="blímid" mood="Subj" person="Pl1" />
+  <moodForm default="blitear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="stuamaigh" disambig="">
+  <verbalNoun default="stuamú" />
+  <verbalAdjective default="stuamaithe" />
+  <tenseForm default="stuamaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="stuamaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="stuamaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="stuamaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="stuamaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="stuamaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="stuamaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="stuamaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="stuamaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="stuamaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stuamaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="stuamaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stuamaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="stuamaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stuamaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="stuamaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stuamaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="stuamaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stuamaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="stuamaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stuamaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="stuamaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="stuamaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="stuamaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="stuamaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="stuamaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="stuamaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="stuamaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="stuamóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="stuamóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="stuamófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="stuamóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="stuamóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="stuamófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="stuamódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="stuamóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="stuamófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="stuamóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="stuamóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="stuamófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="stuamódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="stuamóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="stuamófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="stuamóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="stuamóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="stuamófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="stuamaíodh" mood="Imper" person="Base" />
+  <moodForm default="stuamaím" mood="Imper" person="Sg1" />
+  <moodForm default="stuamaigh" mood="Imper" person="Sg2" />
+  <moodForm default="stuamaímis" mood="Imper" person="Pl1" />
+  <moodForm default="stuamaígí" mood="Imper" person="Pl2" />
+  <moodForm default="stuamaídís" mood="Imper" person="Pl3" />
+  <moodForm default="stuamaítear" mood="Imper" person="Auto" />
+  <moodForm default="stuamaí" mood="Subj" person="Base" />
+  <moodForm default="stuamaímid" mood="Subj" person="Pl1" />
+  <moodForm default="stuamaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dínasc" disambig="">
+  <verbalNoun default="dínascadh" />
+  <verbalAdjective default="dínasctha" />
+  <tenseForm default="dínasc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dínascamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dínascadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dínascadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dínasc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dínascamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dínascadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dínascadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dínascadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dínascainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dínasctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dínascaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dínascaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dínasctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dínascadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dínascainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dínasctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dínascaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dínascaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dínasctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dínascann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dínascaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dínascaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dínasctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dínascann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dínascaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dínascaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dínasctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dínascfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dínascfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dínascfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dínascfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dínascfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dínascfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dínascfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dínascfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dínascfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dínascfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dínascfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dínascfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dínascfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dínascfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dínascfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dínascfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dínascfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dínascfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dínascadh" mood="Imper" person="Base" />
+  <moodForm default="dínascaim" mood="Imper" person="Sg1" />
+  <moodForm default="dínasc" mood="Imper" person="Sg2" />
+  <moodForm default="dínascaimis" mood="Imper" person="Pl1" />
+  <moodForm default="dínascaigí" mood="Imper" person="Pl2" />
+  <moodForm default="dínascaidís" mood="Imper" person="Pl3" />
+  <moodForm default="dínasctar" mood="Imper" person="Auto" />
+  <moodForm default="dínasca" mood="Subj" person="Base" />
+  <moodForm default="dínascaimid" mood="Subj" person="Pl1" />
+  <moodForm default="dínasctar" mood="Subj" person="Auto" />
+</verb>

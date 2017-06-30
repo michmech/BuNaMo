@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="neartaigh" disambig="">
+  <verbalNoun default="neartú" />
+  <verbalAdjective default="neartaithe" />
+  <tenseForm default="neartaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="neartaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="neartaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="neartaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="neartaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="neartaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="neartaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="neartaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="neartaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="neartaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="neartaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="neartaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="neartaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="neartaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="neartaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="neartaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="neartaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="neartaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="neartaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="neartaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="neartaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="neartaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="neartaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="neartaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="neartaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="neartaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="neartaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="neartaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="neartóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="neartóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="neartófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="neartóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="neartóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="neartófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="neartódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="neartóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="neartófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="neartóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="neartóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="neartófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="neartódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="neartóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="neartófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="neartóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="neartóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="neartófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="neartaíodh" mood="Imper" person="Base" />
+  <moodForm default="neartaím" mood="Imper" person="Sg1" />
+  <moodForm default="neartaigh" mood="Imper" person="Sg2" />
+  <moodForm default="neartaímis" mood="Imper" person="Pl1" />
+  <moodForm default="neartaígí" mood="Imper" person="Pl2" />
+  <moodForm default="neartaídís" mood="Imper" person="Pl3" />
+  <moodForm default="neartaítear" mood="Imper" person="Auto" />
+  <moodForm default="neartaí" mood="Subj" person="Base" />
+  <moodForm default="neartaímid" mood="Subj" person="Pl1" />
+  <moodForm default="neartaítear" mood="Subj" person="Auto" />
+</verb>

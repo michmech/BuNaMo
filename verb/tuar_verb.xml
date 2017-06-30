@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tuar" disambig="">
+  <verbalNoun default="tuar" />
+  <verbalAdjective default="tuartha" />
+  <tenseForm default="tuar" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tuaramar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaradar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuaradh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tuar" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tuaramar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaradar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuaradh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tuaradh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuarainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuartá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuaraimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuaraidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuartaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuaradh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuarainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuartá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuaraimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuaraidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuartaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuarann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuaraim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuaraimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuartar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuarann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuaraim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuaraimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuartar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuarfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tuarfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuarfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tuarfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tuarfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuarfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tuarfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tuarfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuarfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuarfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuarfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuarfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tuarfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tuarfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuarfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuarfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuarfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuarfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tuaradh" mood="Imper" person="Base" />
+  <moodForm default="tuaraim" mood="Imper" person="Sg1" />
+  <moodForm default="tuar" mood="Imper" person="Sg2" />
+  <moodForm default="tuaraimis" mood="Imper" person="Pl1" />
+  <moodForm default="tuaraigí" mood="Imper" person="Pl2" />
+  <moodForm default="tuaraidís" mood="Imper" person="Pl3" />
+  <moodForm default="tuartar" mood="Imper" person="Auto" />
+  <moodForm default="tuara" mood="Subj" person="Base" />
+  <moodForm default="tuaraimid" mood="Subj" person="Pl1" />
+  <moodForm default="tuartar" mood="Subj" person="Auto" />
+</verb>

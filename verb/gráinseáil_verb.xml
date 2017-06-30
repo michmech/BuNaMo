@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gráinseáil" disambig="">
+  <verbalNoun default="gráinseáil" />
+  <verbalAdjective default="gráinseáilte" />
+  <tenseForm default="gráinseáil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gráinseálamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gráinseáladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gráinseáladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gráinseáil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gráinseálamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gráinseáladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gráinseáladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gráinseáladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gráinseálainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gráinseáilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gráinseálaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gráinseálaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gráinseáiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gráinseáladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gráinseálainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gráinseáilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gráinseálaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gráinseálaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gráinseáiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gráinseálann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gráinseálaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gráinseálaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gráinseáiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gráinseálann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gráinseálaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gráinseálaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gráinseáiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gráinseálfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gráinseálfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gráinseálfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gráinseálfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gráinseálfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gráinseálfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gráinseálfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gráinseálfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gráinseálfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gráinseálfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gráinseálfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gráinseálfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gráinseálfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gráinseálfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gráinseálfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gráinseálfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gráinseálfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gráinseálfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gráinseáladh" mood="Imper" person="Base" />
+  <moodForm default="gráinseálaim" mood="Imper" person="Sg1" />
+  <moodForm default="gráinseáil" mood="Imper" person="Sg2" />
+  <moodForm default="gráinseálaimis" mood="Imper" person="Pl1" />
+  <moodForm default="gráinseálaigí" mood="Imper" person="Pl2" />
+  <moodForm default="gráinseálaidís" mood="Imper" person="Pl3" />
+  <moodForm default="gráinseáiltear" mood="Imper" person="Auto" />
+  <moodForm default="gráinseála" mood="Subj" person="Base" />
+  <moodForm default="gráinseálaimid" mood="Subj" person="Pl1" />
+  <moodForm default="gráinseáiltear" mood="Subj" person="Auto" />
+</verb>

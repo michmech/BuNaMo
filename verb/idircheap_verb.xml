@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="idircheap" disambig="">
+  <verbalNoun default="idircheapadh" />
+  <verbalAdjective default="idircheaptha" />
+  <tenseForm default="idircheap" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="idircheapamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="idircheapadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="idircheapadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="idircheap" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="idircheapamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="idircheapadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="idircheapadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="idircheapadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="idircheapainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idircheaptá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="idircheapaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idircheapaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="idircheaptaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idircheapadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="idircheapainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idircheaptá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="idircheapaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idircheapaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="idircheaptaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idircheapann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="idircheapaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idircheapaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idircheaptar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idircheapann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="idircheapaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idircheapaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idircheaptar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idircheapfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="idircheapfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="idircheapfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="idircheapfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="idircheapfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="idircheapfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="idircheapfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="idircheapfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="idircheapfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="idircheapfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="idircheapfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="idircheapfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="idircheapfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="idircheapfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="idircheapfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="idircheapfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="idircheapfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="idircheapfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="idircheapadh" mood="Imper" person="Base" />
+  <moodForm default="idircheapaim" mood="Imper" person="Sg1" />
+  <moodForm default="idircheap" mood="Imper" person="Sg2" />
+  <moodForm default="idircheapaimis" mood="Imper" person="Pl1" />
+  <moodForm default="idircheapaigí" mood="Imper" person="Pl2" />
+  <moodForm default="idircheapaidís" mood="Imper" person="Pl3" />
+  <moodForm default="idircheaptar" mood="Imper" person="Auto" />
+  <moodForm default="idircheapa" mood="Subj" person="Base" />
+  <moodForm default="idircheapaimid" mood="Subj" person="Pl1" />
+  <moodForm default="idircheaptar" mood="Subj" person="Auto" />
+</verb>

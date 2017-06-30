@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mol" disambig="">
+  <verbalNoun default="moladh" />
+  <verbalAdjective default="molta" />
+  <tenseForm default="moladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="moladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="molamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="moladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="molamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="moladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="moladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="molainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="moltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="molaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="molaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="moltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="moladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="molainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="moltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="molaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="molaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="moltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="molann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="molaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="molaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="moltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="molann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="molaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="molaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="moltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="molfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="molfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="molfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="molfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="molfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="molfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="molfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="molfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="molfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="molfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="molfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="molfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="molfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="molfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="molfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="molfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="molfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="molfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="moladh" mood="Imper" person="Base" />
+  <moodForm default="molaim" mood="Imper" person="Sg1" />
+  <moodForm default="mol" mood="Imper" person="Sg2" />
+  <moodForm default="molaimis" mood="Imper" person="Pl1" />
+  <moodForm default="molaigí" mood="Imper" person="Pl2" />
+  <moodForm default="molaidís" mood="Imper" person="Pl3" />
+  <moodForm default="moltar" mood="Imper" person="Auto" />
+  <moodForm default="mola" mood="Subj" person="Base" />
+  <moodForm default="molaimid" mood="Subj" person="Pl1" />
+  <moodForm default="moltar" mood="Subj" person="Auto" />
+</verb>

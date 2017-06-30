@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="spor" disambig="">
+  <verbalNoun default="sporadh" />
+  <verbalAdjective default="sportha" />
+  <tenseForm default="spor" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sporamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sporadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sporadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="spor" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sporamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sporadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sporadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sporadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sporainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sportá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sporaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sporaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sportaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sporadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sporainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sportá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sporaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sporaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sportaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sporann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sporaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sporaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sportar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sporann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sporaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sporaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sportar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sporfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sporfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sporfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sporfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sporfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sporfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sporfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sporfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sporfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sporfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sporfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sporfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sporfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sporfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sporfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sporfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sporfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sporfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sporadh" mood="Imper" person="Base" />
+  <moodForm default="sporaim" mood="Imper" person="Sg1" />
+  <moodForm default="spor" mood="Imper" person="Sg2" />
+  <moodForm default="sporaimis" mood="Imper" person="Pl1" />
+  <moodForm default="sporaigí" mood="Imper" person="Pl2" />
+  <moodForm default="sporaidís" mood="Imper" person="Pl3" />
+  <moodForm default="sportar" mood="Imper" person="Auto" />
+  <moodForm default="spora" mood="Subj" person="Base" />
+  <moodForm default="sporaimid" mood="Subj" person="Pl1" />
+  <moodForm default="sportar" mood="Subj" person="Auto" />
+</verb>

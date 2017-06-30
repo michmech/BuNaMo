@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="fiuch" disambig="">
+  <verbalNoun default="fiuchadh" />
+  <verbalAdjective default="fiuchta" />
+  <tenseForm default="fiuch" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="fiuchamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiuchadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="fiuchadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="fiuch" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="fiuchamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiuchadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="fiuchadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="fiuchadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="fiuchainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fiuchtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="fiuchaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiuchaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="fiuchtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fiuchadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="fiuchainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fiuchtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="fiuchaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiuchaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="fiuchtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fiuchann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="fiuchaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="fiuchaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiuchtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="fiuchann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="fiuchaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="fiuchaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiuchtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="fiuchfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="fiuchfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiuchfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="fiuchfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="fiuchfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiuchfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="fiuchfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="fiuchfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="fiuchfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="fiuchfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="fiuchfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="fiuchfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="fiuchfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="fiuchfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="fiuchfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="fiuchfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="fiuchfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="fiuchfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="fiuchadh" mood="Imper" person="Base" />
+  <moodForm default="fiuchaim" mood="Imper" person="Sg1" />
+  <moodForm default="fiuch" mood="Imper" person="Sg2" />
+  <moodForm default="fiuchaimis" mood="Imper" person="Pl1" />
+  <moodForm default="fiuchaigí" mood="Imper" person="Pl2" />
+  <moodForm default="fiuchaidís" mood="Imper" person="Pl3" />
+  <moodForm default="fiuchtar" mood="Imper" person="Auto" />
+  <moodForm default="fiucha" mood="Subj" person="Base" />
+  <moodForm default="fiuchaimid" mood="Subj" person="Pl1" />
+  <moodForm default="fiuchtar" mood="Subj" person="Auto" />
+</verb>

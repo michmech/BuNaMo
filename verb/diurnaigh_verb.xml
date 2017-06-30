@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="diurnaigh" disambig="">
+  <verbalNoun default="diurnú" />
+  <verbalAdjective default="diurnaithe" />
+  <tenseForm default="diurnaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="diurnaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="diurnaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="diurnaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="diurnaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="diurnaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="diurnaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="diurnaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="diurnaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="diurnaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diurnaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="diurnaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diurnaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="diurnaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diurnaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="diurnaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diurnaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="diurnaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diurnaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="diurnaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diurnaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="diurnaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="diurnaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="diurnaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="diurnaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="diurnaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="diurnaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="diurnaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="diurnóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="diurnóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="diurnófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="diurnóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="diurnóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="diurnófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="diurnódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="diurnóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="diurnófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="diurnóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="diurnóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="diurnófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="diurnódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="diurnóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="diurnófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="diurnóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="diurnóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="diurnófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="diurnaíodh" mood="Imper" person="Base" />
+  <moodForm default="diurnaím" mood="Imper" person="Sg1" />
+  <moodForm default="diurnaigh" mood="Imper" person="Sg2" />
+  <moodForm default="diurnaímis" mood="Imper" person="Pl1" />
+  <moodForm default="diurnaígí" mood="Imper" person="Pl2" />
+  <moodForm default="diurnaídís" mood="Imper" person="Pl3" />
+  <moodForm default="diurnaítear" mood="Imper" person="Auto" />
+  <moodForm default="diurnaí" mood="Subj" person="Base" />
+  <moodForm default="diurnaímid" mood="Subj" person="Pl1" />
+  <moodForm default="diurnaítear" mood="Subj" person="Auto" />
+</verb>

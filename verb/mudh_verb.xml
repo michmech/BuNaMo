@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="mudh" disambig="">
+  <verbalNoun default="mudhadh" />
+  <verbalAdjective default="mudhta" />
+  <tenseForm default="mudh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="mudhamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="mudhadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="mudhadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="mudh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="mudhamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="mudhadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="mudhadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="mudhadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="mudhainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mudhtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="mudhaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mudhaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="mudhtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mudhadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="mudhainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mudhtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="mudhaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mudhaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="mudhtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mudhann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="mudhaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="mudhaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="mudhtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="mudhann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="mudhaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="mudhaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="mudhtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="mudhfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="mudhfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="mudhfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="mudhfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="mudhfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="mudhfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="mudhfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="mudhfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="mudhfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="mudhfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="mudhfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="mudhfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="mudhfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="mudhfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="mudhfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="mudhfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="mudhfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="mudhfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="mudhadh" mood="Imper" person="Base" />
+  <moodForm default="mudhaim" mood="Imper" person="Sg1" />
+  <moodForm default="mudh" mood="Imper" person="Sg2" />
+  <moodForm default="mudhaimis" mood="Imper" person="Pl1" />
+  <moodForm default="mudhaigí" mood="Imper" person="Pl2" />
+  <moodForm default="mudhaidís" mood="Imper" person="Pl3" />
+  <moodForm default="mudhtar" mood="Imper" person="Auto" />
+  <moodForm default="mudha" mood="Subj" person="Base" />
+  <moodForm default="mudhaimid" mood="Subj" person="Pl1" />
+  <moodForm default="mudhtar" mood="Subj" person="Auto" />
+</verb>

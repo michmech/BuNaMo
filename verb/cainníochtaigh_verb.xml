@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cainníochtaigh" disambig="">
+  <verbalNoun default="cainníochtú" />
+  <verbalAdjective default="cainníochtaithe" />
+  <tenseForm default="cainníochtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="cainníochtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="cainníochtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="cainníochtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cainníochtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="cainníochtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="cainníochtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="cainníochtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="cainníochtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="cainníochtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cainníochtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="cainníochtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cainníochtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="cainníochtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cainníochtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="cainníochtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cainníochtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="cainníochtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cainníochtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="cainníochtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cainníochtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="cainníochtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="cainníochtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="cainníochtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="cainníochtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="cainníochtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="cainníochtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="cainníochtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="cainníochtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="cainníochtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="cainníochtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="cainníochtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="cainníochtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="cainníochtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="cainníochtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="cainníochtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="cainníochtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="cainníochtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="cainníochtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="cainníochtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="cainníochtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="cainníochtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="cainníochtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="cainníochtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="cainníochtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="cainníochtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="cainníochtaíodh" mood="Imper" person="Base" />
+  <moodForm default="cainníochtaím" mood="Imper" person="Sg1" />
+  <moodForm default="cainníochtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="cainníochtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="cainníochtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="cainníochtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="cainníochtaítear" mood="Imper" person="Auto" />
+  <moodForm default="cainníochtaí" mood="Subj" person="Base" />
+  <moodForm default="cainníochtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="cainníochtaítear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="léigh" disambig="">
+  <verbalNoun default="léamh" />
+  <verbalAdjective default="léite" />
+  <tenseForm default="léigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="léamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="léadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="léadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="léigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="léamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="léadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="léadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="léadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="léinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="léiteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="léimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="léidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="léití" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="léadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="léinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="léiteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="léimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="léidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="léití" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="léann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="léim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="léimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="léitear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="léann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="léim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="léimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="léitear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="léifidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="léifimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="léifear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="léifidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="léifimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="léifear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="léifeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="léifinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="léifeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="léfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="léifidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="léifí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="léifeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="léifinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="léifeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="léfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="léifidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="léifí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="léadh" mood="Imper" person="Base" />
+  <moodForm default="léim" mood="Imper" person="Sg1" />
+  <moodForm default="léigh" mood="Imper" person="Sg2" />
+  <moodForm default="léimis" mood="Imper" person="Pl1" />
+  <moodForm default="léigí" mood="Imper" person="Pl2" />
+  <moodForm default="léidís" mood="Imper" person="Pl3" />
+  <moodForm default="léitear" mood="Imper" person="Auto" />
+  <moodForm default="lé" mood="Subj" person="Base" />
+  <moodForm default="léimid" mood="Subj" person="Pl1" />
+  <moodForm default="léitear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="formhol" disambig="">
+  <verbalNoun default="formholadh" />
+  <verbalAdjective default="formholta" />
+  <tenseForm default="formhol" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="formholamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="formholadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="formholadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="formhol" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="formholamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="formholadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="formholadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="formholadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="formholainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="formholtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="formholaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="formholaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="formholtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="formholadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="formholainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="formholtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="formholaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="formholaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="formholtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="formholann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="formholaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="formholaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="formholtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="formholann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="formholaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="formholaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="formholtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="formholfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="formholfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="formholfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="formholfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="formholfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="formholfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="formholfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="formholfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="formholfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="formholfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="formholfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="formholfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="formholfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="formholfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="formholfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="formholfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="formholfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="formholfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="formholadh" mood="Imper" person="Base" />
+  <moodForm default="formholaim" mood="Imper" person="Sg1" />
+  <moodForm default="formhol" mood="Imper" person="Sg2" />
+  <moodForm default="formholaimis" mood="Imper" person="Pl1" />
+  <moodForm default="formholaigí" mood="Imper" person="Pl2" />
+  <moodForm default="formholaidís" mood="Imper" person="Pl3" />
+  <moodForm default="formholtar" mood="Imper" person="Auto" />
+  <moodForm default="formhola" mood="Subj" person="Base" />
+  <moodForm default="formholaimid" mood="Subj" person="Pl1" />
+  <moodForm default="formholtar" mood="Subj" person="Auto" />
+</verb>

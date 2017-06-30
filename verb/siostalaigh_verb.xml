@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="siostalaigh" disambig="">
+  <verbalNoun default="siostalú" />
+  <verbalAdjective default="siostalaithe" />
+  <tenseForm default="siostalaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="siostalaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="siostalaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="siostalaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="siostalaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="siostalaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="siostalaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="siostalaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="siostalaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="siostalaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siostalaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="siostalaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siostalaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="siostalaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siostalaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="siostalaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siostalaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="siostalaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siostalaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="siostalaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siostalaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="siostalaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="siostalaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siostalaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="siostalaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="siostalaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="siostalaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siostalaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="siostalóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="siostalóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="siostalófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="siostalóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="siostalóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="siostalófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="siostalódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="siostalóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="siostalófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="siostalóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="siostalóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="siostalófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="siostalódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="siostalóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="siostalófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="siostalóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="siostalóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="siostalófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="siostalaíodh" mood="Imper" person="Base" />
+  <moodForm default="siostalaím" mood="Imper" person="Sg1" />
+  <moodForm default="siostalaigh" mood="Imper" person="Sg2" />
+  <moodForm default="siostalaímis" mood="Imper" person="Pl1" />
+  <moodForm default="siostalaígí" mood="Imper" person="Pl2" />
+  <moodForm default="siostalaídís" mood="Imper" person="Pl3" />
+  <moodForm default="siostalaítear" mood="Imper" person="Auto" />
+  <moodForm default="siostalaí" mood="Subj" person="Base" />
+  <moodForm default="siostalaímid" mood="Subj" person="Pl1" />
+  <moodForm default="siostalaítear" mood="Subj" person="Auto" />
+</verb>

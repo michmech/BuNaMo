@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dorchaigh" disambig="">
+  <verbalNoun default="dorchú" />
+  <verbalAdjective default="dorchaithe" />
+  <tenseForm default="dorchaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dorchaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dorchaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dorchaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dorchaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dorchaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dorchaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dorchaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dorchaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dorchaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dorchaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dorchaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dorchaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dorchaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dorchaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dorchaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dorchaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dorchaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dorchaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dorchaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dorchaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dorchaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dorchaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dorchaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dorchaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dorchaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dorchaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dorchaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dorchóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dorchóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dorchófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dorchóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dorchóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dorchófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dorchódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dorchóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dorchófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dorchóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dorchóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dorchófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dorchódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dorchóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dorchófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dorchóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dorchóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dorchófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dorchaíodh" mood="Imper" person="Base" />
+  <moodForm default="dorchaím" mood="Imper" person="Sg1" />
+  <moodForm default="dorchaigh" mood="Imper" person="Sg2" />
+  <moodForm default="dorchaímis" mood="Imper" person="Pl1" />
+  <moodForm default="dorchaígí" mood="Imper" person="Pl2" />
+  <moodForm default="dorchaídís" mood="Imper" person="Pl3" />
+  <moodForm default="dorchaítear" mood="Imper" person="Auto" />
+  <moodForm default="dorchaí" mood="Subj" person="Base" />
+  <moodForm default="dorchaímid" mood="Subj" person="Pl1" />
+  <moodForm default="dorchaítear" mood="Subj" person="Auto" />
+</verb>

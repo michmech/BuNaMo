@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="maraigh" disambig="">
+  <verbalNoun default="marú" />
+  <verbalAdjective default="maraithe" />
+  <tenseForm default="maraigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="maraíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="maraíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="maraíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="maraigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="maraíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="maraíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="maraíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="maraíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="maraínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maraíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="maraímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maraídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="maraítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maraíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="maraínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maraíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="maraímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maraídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="maraítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maraíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="maraím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="maraímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="maraítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="maraíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="maraím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="maraímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="maraítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="maróidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="maróimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="marófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="maróidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="maróimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="marófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="maródh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="maróinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="marófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="maróimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="maróidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="marófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="maródh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="maróinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="marófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="maróimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="maróidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="marófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="maraíodh" mood="Imper" person="Base" />
+  <moodForm default="maraím" mood="Imper" person="Sg1" />
+  <moodForm default="maraigh" mood="Imper" person="Sg2" />
+  <moodForm default="maraímis" mood="Imper" person="Pl1" />
+  <moodForm default="maraígí" mood="Imper" person="Pl2" />
+  <moodForm default="maraídís" mood="Imper" person="Pl3" />
+  <moodForm default="maraítear" mood="Imper" person="Auto" />
+  <moodForm default="maraí" mood="Subj" person="Base" />
+  <moodForm default="maraímid" mood="Subj" person="Pl1" />
+  <moodForm default="maraítear" mood="Subj" person="Auto" />
+</verb>

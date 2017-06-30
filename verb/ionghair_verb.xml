@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="ionghair" disambig="">
+  <verbalNoun default="ionghaire" />
+  <verbalAdjective default="ionghairthe" />
+  <tenseForm default="ionghair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="ionghaireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionghaireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionghaireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="ionghair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="ionghaireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionghaireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionghaireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="ionghaireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="ionghairinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionghairteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="ionghairimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionghairidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionghairtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ionghaireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="ionghairinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionghairteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="ionghairimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionghairidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionghairtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ionghaireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="ionghairim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionghairimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionghairtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="ionghaireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="ionghairim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionghairimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionghairtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="ionghairfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="ionghairfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionghairfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="ionghairfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="ionghairfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionghairfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="ionghairfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="ionghairfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="ionghairfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="ionghairfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="ionghairfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="ionghairfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="ionghairfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="ionghairfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="ionghairfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="ionghairfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="ionghairfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="ionghairfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="ionghaireadh" mood="Imper" person="Base" />
+  <moodForm default="ionghairim" mood="Imper" person="Sg1" />
+  <moodForm default="ionghair" mood="Imper" person="Sg2" />
+  <moodForm default="ionghairimis" mood="Imper" person="Pl1" />
+  <moodForm default="ionghairigí" mood="Imper" person="Pl2" />
+  <moodForm default="ionghairidís" mood="Imper" person="Pl3" />
+  <moodForm default="ionghairtear" mood="Imper" person="Auto" />
+  <moodForm default="ionghaire" mood="Subj" person="Base" />
+  <moodForm default="ionghairimid" mood="Subj" person="Pl1" />
+  <moodForm default="ionghairtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="formhuinigh" disambig="">
+  <verbalNoun default="formhuiniú" />
+  <verbalAdjective default="formhuinithe" />
+  <tenseForm default="formhuinigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="formhuiníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="formhuiníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="formhuiníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="formhuinigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="formhuiníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="formhuiníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="formhuiníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="formhuiníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="formhuinínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="formhuiníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="formhuinímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="formhuinídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="formhuinítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="formhuiníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="formhuinínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="formhuiníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="formhuinímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="formhuinídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="formhuinítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="formhuiníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="formhuiním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="formhuinímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="formhuinítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="formhuiníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="formhuiním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="formhuinímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="formhuinítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="formhuineoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="formhuineoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="formhuineofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="formhuineoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="formhuineoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="formhuineofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="formhuineodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="formhuineoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="formhuineofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="formhuineoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="formhuineoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="formhuineofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="formhuineodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="formhuineoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="formhuineofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="formhuineoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="formhuineoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="formhuineofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="formhuiníodh" mood="Imper" person="Base" />
+  <moodForm default="formhuiním" mood="Imper" person="Sg1" />
+  <moodForm default="formhuinigh" mood="Imper" person="Sg2" />
+  <moodForm default="formhuinímis" mood="Imper" person="Pl1" />
+  <moodForm default="formhuinígí" mood="Imper" person="Pl2" />
+  <moodForm default="formhuinídís" mood="Imper" person="Pl3" />
+  <moodForm default="formhuinítear" mood="Imper" person="Auto" />
+  <moodForm default="formhuiní" mood="Subj" person="Base" />
+  <moodForm default="formhuinímid" mood="Subj" person="Pl1" />
+  <moodForm default="formhuinítear" mood="Subj" person="Auto" />
+</verb>

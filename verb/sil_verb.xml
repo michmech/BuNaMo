@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sil" disambig="">
+  <verbalNoun default="sileadh" />
+  <verbalAdjective default="silte" />
+  <tenseForm default="sil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="silinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="silteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="silimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="silidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="siltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="silinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="silteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="silimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="silidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="siltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="silim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="silimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="siltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="silim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="silimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="siltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="silfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="silfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="silfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="silfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="silfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="silfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="silfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="silfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="silfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="silfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="silfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="silfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="silfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="silfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="silfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="silfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="silfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="silfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sileadh" mood="Imper" person="Base" />
+  <moodForm default="silim" mood="Imper" person="Sg1" />
+  <moodForm default="sil" mood="Imper" person="Sg2" />
+  <moodForm default="silimis" mood="Imper" person="Pl1" />
+  <moodForm default="siligí" mood="Imper" person="Pl2" />
+  <moodForm default="silidís" mood="Imper" person="Pl3" />
+  <moodForm default="siltear" mood="Imper" person="Auto" />
+  <moodForm default="sile" mood="Subj" person="Base" />
+  <moodForm default="silimid" mood="Subj" person="Pl1" />
+  <moodForm default="siltear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="scannalaigh" disambig="">
+  <verbalNoun default="scannalú" />
+  <verbalAdjective default="scannalaithe" />
+  <tenseForm default="scannalaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="scannalaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="scannalaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="scannalaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="scannalaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="scannalaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="scannalaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="scannalaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="scannalaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="scannalaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scannalaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="scannalaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scannalaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="scannalaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scannalaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="scannalaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scannalaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="scannalaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scannalaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="scannalaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scannalaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="scannalaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="scannalaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="scannalaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="scannalaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="scannalaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="scannalaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="scannalaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="scannalóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="scannalóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="scannalófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="scannalóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="scannalóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="scannalófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="scannalódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="scannalóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="scannalófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="scannalóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="scannalóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="scannalófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="scannalódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="scannalóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="scannalófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="scannalóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="scannalóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="scannalófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="scannalaíodh" mood="Imper" person="Base" />
+  <moodForm default="scannalaím" mood="Imper" person="Sg1" />
+  <moodForm default="scannalaigh" mood="Imper" person="Sg2" />
+  <moodForm default="scannalaímis" mood="Imper" person="Pl1" />
+  <moodForm default="scannalaígí" mood="Imper" person="Pl2" />
+  <moodForm default="scannalaídís" mood="Imper" person="Pl3" />
+  <moodForm default="scannalaítear" mood="Imper" person="Auto" />
+  <moodForm default="scannalaí" mood="Subj" person="Base" />
+  <moodForm default="scannalaímid" mood="Subj" person="Pl1" />
+  <moodForm default="scannalaítear" mood="Subj" person="Auto" />
+</verb>

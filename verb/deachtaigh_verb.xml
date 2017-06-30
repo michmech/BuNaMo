@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="deachtaigh" disambig="">
+  <verbalNoun default="deachtú" />
+  <verbalAdjective default="deachtaithe" />
+  <tenseForm default="deachtaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="deachtaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="deachtaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="deachtaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="deachtaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="deachtaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="deachtaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="deachtaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="deachtaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="deachtaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deachtaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="deachtaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deachtaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="deachtaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deachtaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="deachtaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deachtaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="deachtaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deachtaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="deachtaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deachtaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="deachtaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deachtaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deachtaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deachtaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="deachtaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deachtaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deachtaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deachtóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="deachtóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="deachtófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="deachtóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="deachtóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="deachtófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="deachtódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="deachtóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="deachtófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="deachtóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="deachtóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="deachtófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="deachtódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="deachtóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="deachtófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="deachtóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="deachtóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="deachtófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="deachtaíodh" mood="Imper" person="Base" />
+  <moodForm default="deachtaím" mood="Imper" person="Sg1" />
+  <moodForm default="deachtaigh" mood="Imper" person="Sg2" />
+  <moodForm default="deachtaímis" mood="Imper" person="Pl1" />
+  <moodForm default="deachtaígí" mood="Imper" person="Pl2" />
+  <moodForm default="deachtaídís" mood="Imper" person="Pl3" />
+  <moodForm default="deachtaítear" mood="Imper" person="Auto" />
+  <moodForm default="deachtaí" mood="Subj" person="Base" />
+  <moodForm default="deachtaímid" mood="Subj" person="Pl1" />
+  <moodForm default="deachtaítear" mood="Subj" person="Auto" />
+</verb>

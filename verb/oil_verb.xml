@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="oil" disambig="">
+  <verbalNoun default="oiliúint" />
+  <verbalAdjective default="oilte" />
+  <tenseForm default="oil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="oileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="oileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="oileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="oil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="oileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="oileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="oileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="oileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="oilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="oilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="oilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="oilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="oiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="oileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="oilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="oilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="oilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="oilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="oiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="oileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="oilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="oilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="oiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="oileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="oilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="oilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="oiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="oilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="oilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="oilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="oilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="oilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="oilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="oilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="oilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="oilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="oilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="oilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="oilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="oilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="oilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="oilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="oilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="oilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="oilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="oileadh" mood="Imper" person="Base" />
+  <moodForm default="oilim" mood="Imper" person="Sg1" />
+  <moodForm default="oil" mood="Imper" person="Sg2" />
+  <moodForm default="oilimis" mood="Imper" person="Pl1" />
+  <moodForm default="oiligí" mood="Imper" person="Pl2" />
+  <moodForm default="oilidís" mood="Imper" person="Pl3" />
+  <moodForm default="oiltear" mood="Imper" person="Auto" />
+  <moodForm default="oile" mood="Subj" person="Base" />
+  <moodForm default="oilimid" mood="Subj" person="Pl1" />
+  <moodForm default="oiltear" mood="Subj" person="Auto" />
+</verb>

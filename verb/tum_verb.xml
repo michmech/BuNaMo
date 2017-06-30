@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tum" disambig="">
+  <verbalNoun default="tumadh" />
+  <verbalAdjective default="tumtha" />
+  <tenseForm default="tum" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tumamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tumadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tum" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tumamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tumadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tumadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tumainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tumtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tumaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tumaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tumtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tumadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tumainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tumtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tumaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tumaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tumtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tumann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tumaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tumaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tumtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tumann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tumaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tumaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tumtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tumfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tumfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tumfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tumfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tumfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tumfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tumfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tumfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tumfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tumfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tumfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tumfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tumfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tumfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tumfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tumfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tumfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tumfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tumadh" mood="Imper" person="Base" />
+  <moodForm default="tumaim" mood="Imper" person="Sg1" />
+  <moodForm default="tum" mood="Imper" person="Sg2" />
+  <moodForm default="tumaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tumaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tumaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tumtar" mood="Imper" person="Auto" />
+  <moodForm default="tuma" mood="Subj" person="Base" />
+  <moodForm default="tumaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tumtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="féach" disambig="">
+  <verbalNoun default="féachaint" />
+  <verbalAdjective default="féachta" />
+  <tenseForm default="féach" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="féachamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="féachadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="féachadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="féach" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="féachamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="féachadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="féachadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="féachadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="féachainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="féachtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="féachaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="féachaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="féachtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="féachadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="féachainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="féachtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="féachaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="féachaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="féachtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="féachann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="féachaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="féachaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="féachtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="féachann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="féachaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="féachaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="féachtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="féachfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="féachfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="féachfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="féachfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="féachfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="féachfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="féachfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="féachfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="féachfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="féachfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="féachfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="féachfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="féachfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="féachfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="féachfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="féachfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="féachfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="féachfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="féachadh" mood="Imper" person="Base" />
+  <moodForm default="féachaim" mood="Imper" person="Sg1" />
+  <moodForm default="féach" mood="Imper" person="Sg2" />
+  <moodForm default="féachaimis" mood="Imper" person="Pl1" />
+  <moodForm default="féachaigí" mood="Imper" person="Pl2" />
+  <moodForm default="féachaidís" mood="Imper" person="Pl3" />
+  <moodForm default="féachtar" mood="Imper" person="Auto" />
+  <moodForm default="féacha" mood="Subj" person="Base" />
+  <moodForm default="féachaimid" mood="Subj" person="Pl1" />
+  <moodForm default="féachtar" mood="Subj" person="Auto" />
+</verb>

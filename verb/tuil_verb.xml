@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tuil" disambig="">
+  <verbalNoun default="tuile" />
+  <verbalAdjective default="tuilte" />
+  <tenseForm default="tuil" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tuileamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuileadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuileadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tuil" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tuileamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuileadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuileadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tuileadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuilinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuilteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuilimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuilidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuiltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuileadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuilinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuilteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuilimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuilidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuiltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuileann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tuilim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuilimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuiltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tuileann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tuilim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuilimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuiltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tuilfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tuilfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuilfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tuilfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tuilfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuilfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tuilfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tuilfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tuilfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tuilfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tuilfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tuilfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tuilfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tuilfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tuilfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tuilfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tuilfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tuilfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tuileadh" mood="Imper" person="Base" />
+  <moodForm default="tuilim" mood="Imper" person="Sg1" />
+  <moodForm default="tuil" mood="Imper" person="Sg2" />
+  <moodForm default="tuilimis" mood="Imper" person="Pl1" />
+  <moodForm default="tuiligí" mood="Imper" person="Pl2" />
+  <moodForm default="tuilidís" mood="Imper" person="Pl3" />
+  <moodForm default="tuiltear" mood="Imper" person="Auto" />
+  <moodForm default="tuile" mood="Subj" person="Base" />
+  <moodForm default="tuilimid" mood="Subj" person="Pl1" />
+  <moodForm default="tuiltear" mood="Subj" person="Auto" />
+</verb>

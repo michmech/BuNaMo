@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="grinneall" disambig="">
+  <verbalNoun default="grinnealladh" />
+  <verbalAdjective default="grinneallta" />
+  <tenseForm default="grinneall" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="grinneallamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="grinnealladar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="grinnealladh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="grinneall" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="grinneallamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="grinnealladar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="grinnealladh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="grinnealladh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="grinneallainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="grinnealltá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="grinneallaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="grinneallaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="grinnealltaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="grinnealladh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="grinneallainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="grinnealltá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="grinneallaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="grinneallaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="grinnealltaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="grinneallann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="grinneallaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="grinneallaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="grinnealltar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="grinneallann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="grinneallaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="grinneallaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="grinnealltar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="grinneallfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="grinneallfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="grinneallfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="grinneallfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="grinneallfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="grinneallfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="grinneallfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="grinneallfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="grinneallfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="grinneallfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="grinneallfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="grinneallfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="grinneallfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="grinneallfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="grinneallfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="grinneallfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="grinneallfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="grinneallfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="grinnealladh" mood="Imper" person="Base" />
+  <moodForm default="grinneallaim" mood="Imper" person="Sg1" />
+  <moodForm default="grinneall" mood="Imper" person="Sg2" />
+  <moodForm default="grinneallaimis" mood="Imper" person="Pl1" />
+  <moodForm default="grinneallaigí" mood="Imper" person="Pl2" />
+  <moodForm default="grinneallaidís" mood="Imper" person="Pl3" />
+  <moodForm default="grinnealltar" mood="Imper" person="Auto" />
+  <moodForm default="grinnealla" mood="Subj" person="Base" />
+  <moodForm default="grinneallaimid" mood="Subj" person="Pl1" />
+  <moodForm default="grinnealltar" mood="Subj" person="Auto" />
+</verb>

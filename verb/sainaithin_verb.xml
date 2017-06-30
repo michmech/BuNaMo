@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sainaithin" disambig="">
+  <verbalNoun default="sainaithint" />
+  <verbalAdjective default="sainaitheanta" />
+  <tenseForm default="sainaithin" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sainaithníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sainaithníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sainaithníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sainaithin" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sainaithníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sainaithníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sainaithníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sainaithníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sainaithnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sainaithníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sainaithnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sainaithnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sainaithnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sainaithníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sainaithnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sainaithníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sainaithnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sainaithnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sainaithnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sainaithníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sainaithním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sainaithnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sainaithnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sainaithníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sainaithním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sainaithnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sainaithnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sainaithneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sainaithneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sainaithneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sainaithneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sainaithneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sainaithneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sainaithneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sainaithneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sainaithneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sainaithneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sainaithneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sainaithneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sainaithneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sainaithneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sainaithneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sainaithneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sainaithneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sainaithneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sainaithníodh" mood="Imper" person="Base" />
+  <moodForm default="sainaithním" mood="Imper" person="Sg1" />
+  <moodForm default="sainaithin" mood="Imper" person="Sg2" />
+  <moodForm default="sainaithnímis" mood="Imper" person="Pl1" />
+  <moodForm default="sainaithnígí" mood="Imper" person="Pl2" />
+  <moodForm default="sainaithnídís" mood="Imper" person="Pl3" />
+  <moodForm default="sainaithnítear" mood="Imper" person="Auto" />
+  <moodForm default="sainaithní" mood="Subj" person="Base" />
+  <moodForm default="sainaithnímid" mood="Subj" person="Pl1" />
+  <moodForm default="sainaithnítear" mood="Subj" person="Auto" />
+</verb>

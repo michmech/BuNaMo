@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="urchoill" disambig="">
+  <verbalNoun default="urchoilleadh" />
+  <verbalAdjective default="urchoillte" />
+  <tenseForm default="urchoill" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="urchoilleamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="urchoilleadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="urchoilleadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="urchoill" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="urchoilleamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="urchoilleadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="urchoilleadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="urchoilleadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="urchoillinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urchoillteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="urchoillimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urchoillidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="urchoilltí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urchoilleadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="urchoillinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urchoillteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="urchoillimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urchoillidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="urchoilltí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urchoilleann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="urchoillim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="urchoillimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="urchoilltear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="urchoilleann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="urchoillim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="urchoillimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="urchoilltear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="urchoillfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="urchoillfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="urchoillfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="urchoillfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="urchoillfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="urchoillfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="urchoillfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="urchoillfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="urchoillfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="urchoillfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="urchoillfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="urchoillfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="urchoillfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="urchoillfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="urchoillfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="urchoillfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="urchoillfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="urchoillfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="urchoilleadh" mood="Imper" person="Base" />
+  <moodForm default="urchoillim" mood="Imper" person="Sg1" />
+  <moodForm default="urchoill" mood="Imper" person="Sg2" />
+  <moodForm default="urchoillimis" mood="Imper" person="Pl1" />
+  <moodForm default="urchoilligí" mood="Imper" person="Pl2" />
+  <moodForm default="urchoillidís" mood="Imper" person="Pl3" />
+  <moodForm default="urchoilltear" mood="Imper" person="Auto" />
+  <moodForm default="urchoille" mood="Subj" person="Base" />
+  <moodForm default="urchoillimid" mood="Subj" person="Pl1" />
+  <moodForm default="urchoilltear" mood="Subj" person="Auto" />
+</verb>

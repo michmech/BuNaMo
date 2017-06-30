@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="cros" disambig="">
+  <verbalNoun default="crosadh" />
+  <verbalAdjective default="crosta" />
+  <tenseForm default="cros" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="crosamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="crosadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="crosadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="cros" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="crosamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="crosadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="crosadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="crosadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="crosainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crostá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="crosaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crosaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="crostaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crosadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="crosainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crostá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="crosaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crosaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="crostaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crosann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="crosaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="crosaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="crostar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="crosann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="crosaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="crosaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="crostar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="crosfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="crosfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="crosfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="crosfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="crosfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="crosfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="crosfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="crosfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="crosfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="crosfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="crosfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="crosfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="crosfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="crosfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="crosfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="crosfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="crosfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="crosfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="crosadh" mood="Imper" person="Base" />
+  <moodForm default="crosaim" mood="Imper" person="Sg1" />
+  <moodForm default="cros" mood="Imper" person="Sg2" />
+  <moodForm default="crosaimis" mood="Imper" person="Pl1" />
+  <moodForm default="crosaigí" mood="Imper" person="Pl2" />
+  <moodForm default="crosaidís" mood="Imper" person="Pl3" />
+  <moodForm default="crostar" mood="Imper" person="Auto" />
+  <moodForm default="crosa" mood="Subj" person="Base" />
+  <moodForm default="crosaimid" mood="Subj" person="Pl1" />
+  <moodForm default="crostar" mood="Subj" person="Auto" />
+</verb>

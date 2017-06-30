@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="máistrigh" disambig="">
+  <verbalNoun default="máistreacht" />
+  <verbalAdjective default="máistrithe" />
+  <tenseForm default="máistrigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="máistríomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="máistríodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="máistríodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="máistrigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="máistríomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="máistríodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="máistríodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="máistríodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="máistrínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="máistríteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="máistrímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="máistrídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="máistrítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="máistríodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="máistrínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="máistríteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="máistrímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="máistrídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="máistrítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="máistríonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="máistrím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="máistrímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="máistrítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="máistríonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="máistrím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="máistrímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="máistrítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="máistreoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="máistreoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="máistreofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="máistreoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="máistreoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="máistreofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="máistreodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="máistreoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="máistreofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="máistreoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="máistreoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="máistreofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="máistreodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="máistreoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="máistreofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="máistreoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="máistreoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="máistreofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="máistríodh" mood="Imper" person="Base" />
+  <moodForm default="máistrím" mood="Imper" person="Sg1" />
+  <moodForm default="máistrigh" mood="Imper" person="Sg2" />
+  <moodForm default="máistrímis" mood="Imper" person="Pl1" />
+  <moodForm default="máistrígí" mood="Imper" person="Pl2" />
+  <moodForm default="máistrídís" mood="Imper" person="Pl3" />
+  <moodForm default="máistrítear" mood="Imper" person="Auto" />
+  <moodForm default="máistrí" mood="Subj" person="Base" />
+  <moodForm default="máistrímid" mood="Subj" person="Pl1" />
+  <moodForm default="máistrítear" mood="Subj" person="Auto" />
+</verb>

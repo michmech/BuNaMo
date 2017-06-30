@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="spairn" disambig="">
+  <verbalNoun default="spairneadh" />
+  <verbalAdjective default="spairnthe" />
+  <tenseForm default="spairn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="spairneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="spairneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="spairneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="spairn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="spairneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="spairneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="spairneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="spairneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="spairninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spairnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="spairnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spairnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="spairntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spairneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="spairninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spairnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="spairnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spairnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="spairntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spairneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="spairnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="spairnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="spairntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="spairneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="spairnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="spairnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="spairntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="spairnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="spairnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="spairnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="spairnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="spairnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="spairnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="spairnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="spairnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="spairnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="spairnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="spairnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="spairnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="spairnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="spairnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="spairnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="spairnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="spairnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="spairnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="spairneadh" mood="Imper" person="Base" />
+  <moodForm default="spairnim" mood="Imper" person="Sg1" />
+  <moodForm default="spairn" mood="Imper" person="Sg2" />
+  <moodForm default="spairnimis" mood="Imper" person="Pl1" />
+  <moodForm default="spairnigí" mood="Imper" person="Pl2" />
+  <moodForm default="spairnidís" mood="Imper" person="Pl3" />
+  <moodForm default="spairntear" mood="Imper" person="Auto" />
+  <moodForm default="spairne" mood="Subj" person="Base" />
+  <moodForm default="spairnimid" mood="Subj" person="Pl1" />
+  <moodForm default="spairntear" mood="Subj" person="Auto" />
+</verb>

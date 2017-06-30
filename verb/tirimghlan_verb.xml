@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tirimghlan" disambig="">
+  <verbalNoun default="tirimghlanadh" />
+  <verbalAdjective default="tirimghlanta" />
+  <tenseForm default="tirimghlan" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tirimghlanamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tirimghlanadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tirimghlanadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tirimghlan" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tirimghlanamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tirimghlanadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tirimghlanadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tirimghlanadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tirimghlanainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tirimghlantá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tirimghlanaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tirimghlanaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tirimghlantaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tirimghlanadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tirimghlanainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tirimghlantá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tirimghlanaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tirimghlanaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tirimghlantaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tirimghlanann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tirimghlanaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tirimghlanaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tirimghlantar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tirimghlanann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tirimghlanaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tirimghlanaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tirimghlantar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tirimghlanfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tirimghlanfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tirimghlanfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tirimghlanfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tirimghlanfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tirimghlanfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tirimghlanfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tirimghlanfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tirimghlanfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tirimghlanfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tirimghlanfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tirimghlanfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tirimghlanfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tirimghlanfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tirimghlanfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tirimghlanfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tirimghlanfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tirimghlanfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tirimghlanadh" mood="Imper" person="Base" />
+  <moodForm default="tirimghlanaim" mood="Imper" person="Sg1" />
+  <moodForm default="tirimghlan" mood="Imper" person="Sg2" />
+  <moodForm default="tirimghlanaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tirimghlanaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tirimghlanaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tirimghlantar" mood="Imper" person="Auto" />
+  <moodForm default="tirimghlana" mood="Subj" person="Base" />
+  <moodForm default="tirimghlanaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tirimghlantar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="claidh" disambig="">
+  <verbalNoun default="claidhe" />
+  <verbalAdjective default="claidhte" />
+  <tenseForm default="claidh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="claidheamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="claidheadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="claidheadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="claidh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="claidheamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="claidheadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="claidheadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="claidheadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="claidhinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="claidhteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="claidhimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="claidhidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="claidhtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="claidheadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="claidhinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="claidhteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="claidhimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="claidhidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="claidhtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="claidheann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="claidhim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="claidhimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="claidhtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="claidheann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="claidhim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="claidhimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="claidhtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="claidhfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="claidhfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="claidhfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="claidhfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="claidhfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="claidhfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="claidhfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="claidhfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="claidhfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="claidhfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="claidhfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="claidhfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="claidhfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="claidhfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="claidhfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="claidhfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="claidhfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="claidhfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="claidheadh" mood="Imper" person="Base" />
+  <moodForm default="claidhim" mood="Imper" person="Sg1" />
+  <moodForm default="claidh" mood="Imper" person="Sg2" />
+  <moodForm default="claidhimis" mood="Imper" person="Pl1" />
+  <moodForm default="claidhigí" mood="Imper" person="Pl2" />
+  <moodForm default="claidhidís" mood="Imper" person="Pl3" />
+  <moodForm default="claidhtear" mood="Imper" person="Auto" />
+  <moodForm default="claidhe" mood="Subj" person="Base" />
+  <moodForm default="claidhimid" mood="Subj" person="Pl1" />
+  <moodForm default="claidhtear" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="dí-eaglaisigh" disambig="">
+  <verbalNoun default="dí-eaglaisiú" />
+  <verbalAdjective default="dí-eaglaisithe" />
+  <tenseForm default="dí-eaglaisigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="dí-eaglaisíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-eaglaisíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="dí-eaglaisíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-eaglaisigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="dí-eaglaisíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-eaglaisíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="dí-eaglaisíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-eaglaisíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="dí-eaglaisínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dí-eaglaisíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="dí-eaglaisímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-eaglaisídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="dí-eaglaisítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-eaglaisíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="dí-eaglaisínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dí-eaglaisíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="dí-eaglaisímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-eaglaisídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="dí-eaglaisítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-eaglaisíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="dí-eaglaisím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="dí-eaglaisímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-eaglaisítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-eaglaisíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="dí-eaglaisím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="dí-eaglaisímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-eaglaisítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-eaglaiseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="dí-eaglaiseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-eaglaiseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-eaglaiseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="dí-eaglaiseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-eaglaiseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="dí-eaglaiseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="dí-eaglaiseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="dí-eaglaiseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="dí-eaglaiseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="dí-eaglaiseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="dí-eaglaiseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="dí-eaglaiseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="dí-eaglaiseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="dí-eaglaiseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="dí-eaglaiseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="dí-eaglaiseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="dí-eaglaiseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="dí-eaglaisíodh" mood="Imper" person="Base" />
+  <moodForm default="dí-eaglaisím" mood="Imper" person="Sg1" />
+  <moodForm default="dí-eaglaisigh" mood="Imper" person="Sg2" />
+  <moodForm default="dí-eaglaisímis" mood="Imper" person="Pl1" />
+  <moodForm default="dí-eaglaisígí" mood="Imper" person="Pl2" />
+  <moodForm default="dí-eaglaisídís" mood="Imper" person="Pl3" />
+  <moodForm default="dí-eaglaisítear" mood="Imper" person="Auto" />
+  <moodForm default="dí-eaglaisí" mood="Subj" person="Base" />
+  <moodForm default="dí-eaglaisímid" mood="Subj" person="Pl1" />
+  <moodForm default="dí-eaglaisítear" mood="Subj" person="Auto" />
+</verb>

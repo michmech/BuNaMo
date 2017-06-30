@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="idirleath" disambig="">
+  <verbalNoun default="idirleathadh" />
+  <verbalAdjective default="idirleata" />
+  <tenseForm default="idirleath" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="idirleathamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="idirleathadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="idirleathadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="idirleath" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="idirleathamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="idirleathadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="idirleathadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="idirleathadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="idirleathainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idirleatá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="idirleathaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idirleathaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="idirleataí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idirleathadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="idirleathainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idirleatá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="idirleathaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idirleathaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="idirleataí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idirleathann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="idirleathaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="idirleathaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="idirleatar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="idirleathann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="idirleathaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="idirleathaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="idirleatar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="idirleathfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="idirleathfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="idirleathfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="idirleathfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="idirleathfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="idirleathfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="idirleathfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="idirleathfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="idirleathfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="idirleathfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="idirleathfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="idirleathfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="idirleathfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="idirleathfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="idirleathfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="idirleathfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="idirleathfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="idirleathfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="idirleathadh" mood="Imper" person="Base" />
+  <moodForm default="idirleathaim" mood="Imper" person="Sg1" />
+  <moodForm default="idirleath" mood="Imper" person="Sg2" />
+  <moodForm default="idirleathaimis" mood="Imper" person="Pl1" />
+  <moodForm default="idirleathaigí" mood="Imper" person="Pl2" />
+  <moodForm default="idirleathaidís" mood="Imper" person="Pl3" />
+  <moodForm default="idirleatar" mood="Imper" person="Auto" />
+  <moodForm default="idirleatha" mood="Subj" person="Base" />
+  <moodForm default="idirleathaimid" mood="Subj" person="Pl1" />
+  <moodForm default="idirleatar" mood="Subj" person="Auto" />
+</verb>

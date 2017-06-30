@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="seinn" disambig="">
+  <verbalNoun default="seinm" />
+  <verbalAdjective default="seinnte" />
+  <tenseForm default="seinn" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="seinneamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="seinneadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="seinneadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="seinn" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="seinneamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="seinneadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="seinneadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="seinneadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="seinninn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seinnteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="seinnimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seinnidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="seinntí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seinneadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="seinninn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seinnteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="seinnimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seinnidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="seinntí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seinneann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="seinnim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="seinnimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="seinntear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="seinneann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="seinnim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="seinnimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="seinntear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="seinnfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="seinnfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="seinnfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="seinnfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="seinnfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="seinnfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="seinnfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="seinnfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="seinnfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="seinnfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="seinnfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="seinnfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="seinnfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="seinnfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="seinnfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="seinnfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="seinnfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="seinnfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="seinneadh" mood="Imper" person="Base" />
+  <moodForm default="seinnim" mood="Imper" person="Sg1" />
+  <moodForm default="seinn" mood="Imper" person="Sg2" />
+  <moodForm default="seinnimis" mood="Imper" person="Pl1" />
+  <moodForm default="seinnigí" mood="Imper" person="Pl2" />
+  <moodForm default="seinnidís" mood="Imper" person="Pl3" />
+  <moodForm default="seinntear" mood="Imper" person="Auto" />
+  <moodForm default="seinne" mood="Subj" person="Base" />
+  <moodForm default="seinnimid" mood="Subj" person="Pl1" />
+  <moodForm default="seinntear" mood="Subj" person="Auto" />
+</verb>

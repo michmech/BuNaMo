@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="comhair" disambig="">
+  <verbalNoun default="comhaireamh" />
+  <verbalAdjective default="comhairthe" />
+  <tenseForm default="comhair" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="comhaireamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhaireadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhaireadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="comhair" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="comhaireamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhaireadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhaireadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="comhaireadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhairinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhairteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhairimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhairidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhairtí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhaireadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhairinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhairteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhairimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhairidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhairtí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhaireann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="comhairim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhairimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhairtear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="comhaireann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="comhairim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhairimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhairtear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="comhairfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="comhairfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhairfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="comhairfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="comhairfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhairfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="comhairfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="comhairfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="comhairfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="comhairfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="comhairfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="comhairfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="comhairfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="comhairfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="comhairfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="comhairfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="comhairfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="comhairfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="comhaireadh" mood="Imper" person="Base" />
+  <moodForm default="comhairim" mood="Imper" person="Sg1" />
+  <moodForm default="comhair" mood="Imper" person="Sg2" />
+  <moodForm default="comhairimis" mood="Imper" person="Pl1" />
+  <moodForm default="comhairigí" mood="Imper" person="Pl2" />
+  <moodForm default="comhairidís" mood="Imper" person="Pl3" />
+  <moodForm default="comhairtear" mood="Imper" person="Auto" />
+  <moodForm default="comhaire" mood="Subj" person="Base" />
+  <moodForm default="comhairimid" mood="Subj" person="Pl1" />
+  <moodForm default="comhairtear" mood="Subj" person="Auto" />
+</verb>

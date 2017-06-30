@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="gríosc" disambig="">
+  <verbalNoun default="gríoscadh" />
+  <verbalAdjective default="gríosctha" />
+  <tenseForm default="gríosc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="gríoscamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="gríoscadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="gríoscadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="gríosc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="gríoscamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="gríoscadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="gríoscadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="gríoscadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="gríoscainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gríosctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="gríoscaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gríoscaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="gríosctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gríoscadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="gríoscainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gríosctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="gríoscaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gríoscaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="gríosctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gríoscann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="gríoscaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="gríoscaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="gríosctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="gríoscann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="gríoscaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="gríoscaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="gríosctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="gríoscfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="gríoscfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="gríoscfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="gríoscfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="gríoscfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="gríoscfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="gríoscfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="gríoscfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="gríoscfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="gríoscfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="gríoscfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="gríoscfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="gríoscfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="gríoscfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="gríoscfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="gríoscfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="gríoscfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="gríoscfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="gríoscadh" mood="Imper" person="Base" />
+  <moodForm default="gríoscaim" mood="Imper" person="Sg1" />
+  <moodForm default="gríosc" mood="Imper" person="Sg2" />
+  <moodForm default="gríoscaimis" mood="Imper" person="Pl1" />
+  <moodForm default="gríoscaigí" mood="Imper" person="Pl2" />
+  <moodForm default="gríoscaidís" mood="Imper" person="Pl3" />
+  <moodForm default="gríosctar" mood="Imper" person="Auto" />
+  <moodForm default="gríosca" mood="Subj" person="Base" />
+  <moodForm default="gríoscaimid" mood="Subj" person="Pl1" />
+  <moodForm default="gríosctar" mood="Subj" person="Auto" />
+</verb>

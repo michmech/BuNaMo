@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="athlas" disambig="">
+  <verbalNoun default="athlasadh" />
+  <verbalAdjective default="athlasta" />
+  <tenseForm default="athlas" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="athlasamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="athlasadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="athlasadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="athlas" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="athlasamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="athlasadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="athlasadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="athlasadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="athlasainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athlastá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="athlasaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athlasaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="athlastaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athlasadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="athlasainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athlastá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="athlasaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athlasaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="athlastaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athlasann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="athlasaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="athlasaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="athlastar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="athlasann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="athlasaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="athlasaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="athlastar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="athlasfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="athlasfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="athlasfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="athlasfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="athlasfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="athlasfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="athlasfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="athlasfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="athlasfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="athlasfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="athlasfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="athlasfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="athlasfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="athlasfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="athlasfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="athlasfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="athlasfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="athlasfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="athlasadh" mood="Imper" person="Base" />
+  <moodForm default="athlasaim" mood="Imper" person="Sg1" />
+  <moodForm default="athlas" mood="Imper" person="Sg2" />
+  <moodForm default="athlasaimis" mood="Imper" person="Pl1" />
+  <moodForm default="athlasaigí" mood="Imper" person="Pl2" />
+  <moodForm default="athlasaidís" mood="Imper" person="Pl3" />
+  <moodForm default="athlastar" mood="Imper" person="Auto" />
+  <moodForm default="athlasa" mood="Subj" person="Base" />
+  <moodForm default="athlasaimid" mood="Subj" person="Pl1" />
+  <moodForm default="athlastar" mood="Subj" person="Auto" />
+</verb>

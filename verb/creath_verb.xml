@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="creath" disambig="">
+  <verbalNoun default="creathadh" />
+  <verbalAdjective default="creata" />
+  <tenseForm default="creath" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="creathamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="creathadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="creathadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="creath" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="creathamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="creathadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="creathadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="creathadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="creathainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creatá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="creathaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creathaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="creataí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creathadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="creathainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creatá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="creathaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creathaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="creataí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creathann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="creathaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="creathaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="creatar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="creathann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="creathaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="creathaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="creatar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="creathfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="creathfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="creathfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="creathfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="creathfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="creathfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="creathfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="creathfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="creathfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="creathfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="creathfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="creathfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="creathfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="creathfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="creathfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="creathfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="creathfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="creathfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="creathadh" mood="Imper" person="Base" />
+  <moodForm default="creathaim" mood="Imper" person="Sg1" />
+  <moodForm default="creath" mood="Imper" person="Sg2" />
+  <moodForm default="creathaimis" mood="Imper" person="Pl1" />
+  <moodForm default="creathaigí" mood="Imper" person="Pl2" />
+  <moodForm default="creathaidís" mood="Imper" person="Pl3" />
+  <moodForm default="creatar" mood="Imper" person="Auto" />
+  <moodForm default="creatha" mood="Subj" person="Base" />
+  <moodForm default="creathaimid" mood="Subj" person="Pl1" />
+  <moodForm default="creatar" mood="Subj" person="Auto" />
+</verb>

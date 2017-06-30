@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="soilsigh" disambig="">
+  <verbalNoun default="soilsiú" />
+  <verbalAdjective default="soilsithe" />
+  <tenseForm default="soilsigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="soilsíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="soilsíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="soilsíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="soilsigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="soilsíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="soilsíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="soilsíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="soilsíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="soilsínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="soilsíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="soilsímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="soilsídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="soilsítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="soilsíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="soilsínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="soilsíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="soilsímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="soilsídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="soilsítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="soilsíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="soilsím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="soilsímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="soilsítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="soilsíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="soilsím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="soilsímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="soilsítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="soilseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="soilseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="soilseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="soilseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="soilseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="soilseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="soilseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="soilseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="soilseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="soilseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="soilseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="soilseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="soilseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="soilseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="soilseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="soilseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="soilseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="soilseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="soilsíodh" mood="Imper" person="Base" />
+  <moodForm default="soilsím" mood="Imper" person="Sg1" />
+  <moodForm default="soilsigh" mood="Imper" person="Sg2" />
+  <moodForm default="soilsímis" mood="Imper" person="Pl1" />
+  <moodForm default="soilsígí" mood="Imper" person="Pl2" />
+  <moodForm default="soilsídís" mood="Imper" person="Pl3" />
+  <moodForm default="soilsítear" mood="Imper" person="Auto" />
+  <moodForm default="soilsí" mood="Subj" person="Base" />
+  <moodForm default="soilsímid" mood="Subj" person="Pl1" />
+  <moodForm default="soilsítear" mood="Subj" person="Auto" />
+</verb>

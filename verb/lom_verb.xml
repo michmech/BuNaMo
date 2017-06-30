@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="lom" disambig="">
+  <verbalNoun default="lomadh" />
+  <verbalAdjective default="lomtha" />
+  <tenseForm default="lomadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="lomadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="lom" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="lomamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="lomadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="lom" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="lomamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="lomadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="lomadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="lomainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lomtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="lomaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lomaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="lomtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lomadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="lomainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lomtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="lomaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lomaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="lomtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lomann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="lomaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="lomaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="lomtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="lomann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="lomaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="lomaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="lomtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="lomfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="lomfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="lomfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="lomfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="lomfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="lomfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="lomfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="lomfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="lomfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="lomfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="lomfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="lomfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="lomfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="lomfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="lomfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="lomfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="lomfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="lomfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="lomadh" mood="Imper" person="Base" />
+  <moodForm default="lomaim" mood="Imper" person="Sg1" />
+  <moodForm default="lom" mood="Imper" person="Sg2" />
+  <moodForm default="lomaimis" mood="Imper" person="Pl1" />
+  <moodForm default="lomaigí" mood="Imper" person="Pl2" />
+  <moodForm default="lomaidís" mood="Imper" person="Pl3" />
+  <moodForm default="lomtar" mood="Imper" person="Auto" />
+  <moodForm default="loma" mood="Subj" person="Base" />
+  <moodForm default="lomaimid" mood="Subj" person="Pl1" />
+  <moodForm default="lomtar" mood="Subj" person="Auto" />
+</verb>

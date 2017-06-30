@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="corb" disambig="">
+  <verbalNoun default="corbadh" />
+  <verbalAdjective default="corbtha" />
+  <tenseForm default="corb" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="corbamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="corbadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="corbadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="corb" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="corbamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="corbadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="corbadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="corbadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="corbainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="corbtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="corbaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="corbaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="corbtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="corbadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="corbainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="corbtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="corbaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="corbaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="corbtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corbann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="corbaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="corbaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="corbtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="corbann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="corbaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="corbaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="corbtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="corbfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="corbfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="corbfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="corbfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="corbfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="corbfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="corbfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="corbfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="corbfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="corbfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="corbfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="corbfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="corbfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="corbfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="corbfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="corbfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="corbfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="corbfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="corbadh" mood="Imper" person="Base" />
+  <moodForm default="corbaim" mood="Imper" person="Sg1" />
+  <moodForm default="corb" mood="Imper" person="Sg2" />
+  <moodForm default="corbaimis" mood="Imper" person="Pl1" />
+  <moodForm default="corbaigí" mood="Imper" person="Pl2" />
+  <moodForm default="corbaidís" mood="Imper" person="Pl3" />
+  <moodForm default="corbtar" mood="Imper" person="Auto" />
+  <moodForm default="corba" mood="Subj" person="Base" />
+  <moodForm default="corbaimid" mood="Subj" person="Pl1" />
+  <moodForm default="corbtar" mood="Subj" person="Auto" />
+</verb>

@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="forloisc" disambig="">
+  <verbalNoun default="forloscadh" />
+  <verbalAdjective default="forloiscthe" />
+  <tenseForm default="forloisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="forloisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="forloisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="forloisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="forloisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="forloisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="forloisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="forloisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="forloisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="forloiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forloiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="forloiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forloiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="forloisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forloisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="forloiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forloiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="forloiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forloiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="forloisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forloisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="forloiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="forloiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="forloisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="forloisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="forloiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="forloiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="forloisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="forloiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="forloiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="forloiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="forloiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="forloiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="forloiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="forloiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="forloiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="forloiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="forloiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="forloiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="forloiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="forloiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="forloiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="forloiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="forloiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="forloiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="forloiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="forloisceadh" mood="Imper" person="Base" />
+  <moodForm default="forloiscim" mood="Imper" person="Sg1" />
+  <moodForm default="forloisc" mood="Imper" person="Sg2" />
+  <moodForm default="forloiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="forloiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="forloiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="forloisctear" mood="Imper" person="Auto" />
+  <moodForm default="forloisce" mood="Subj" person="Base" />
+  <moodForm default="forloiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="forloisctear" mood="Subj" person="Auto" />
+</verb>

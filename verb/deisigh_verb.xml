@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="deisigh" disambig="">
+  <verbalNoun default="deisiú" />
+  <verbalAdjective default="deisithe" />
+  <tenseForm default="deisigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="deisíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="deisíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="deisíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="deisigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="deisíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="deisíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="deisíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="deisíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="deisínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deisíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="deisímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deisídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="deisítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deisíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="deisínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deisíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="deisímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deisídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="deisítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deisíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="deisím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="deisímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="deisítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="deisíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="deisím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="deisímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="deisítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="deiseoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="deiseoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="deiseofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="deiseoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="deiseoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="deiseofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="deiseodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="deiseoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="deiseofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="deiseoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="deiseoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="deiseofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="deiseodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="deiseoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="deiseofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="deiseoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="deiseoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="deiseofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="deisíodh" mood="Imper" person="Base" />
+  <moodForm default="deisím" mood="Imper" person="Sg1" />
+  <moodForm default="deisigh" mood="Imper" person="Sg2" />
+  <moodForm default="deisímis" mood="Imper" person="Pl1" />
+  <moodForm default="deisígí" mood="Imper" person="Pl2" />
+  <moodForm default="deisídís" mood="Imper" person="Pl3" />
+  <moodForm default="deisítear" mood="Imper" person="Auto" />
+  <moodForm default="deisí" mood="Subj" person="Base" />
+  <moodForm default="deisímid" mood="Subj" person="Pl1" />
+  <moodForm default="deisítear" mood="Subj" person="Auto" />
+</verb>

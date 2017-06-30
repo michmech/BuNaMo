@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="roc" disambig="">
+  <verbalNoun default="rocadh" />
+  <verbalAdjective default="roctha" />
+  <tenseForm default="roc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="rocamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="rocadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="rocadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="roc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="rocamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="rocadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="rocadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="rocadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="rocainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="roctá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="rocaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="rocaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="roctaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rocadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="rocainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="roctá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="rocaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="rocaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="roctaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rocann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="rocaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="rocaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="roctar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="rocann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="rocaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="rocaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="roctar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="rocfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="rocfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="rocfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="rocfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="rocfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="rocfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="rocfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="rocfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="rocfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="rocfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="rocfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="rocfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="rocfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="rocfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="rocfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="rocfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="rocfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="rocfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="rocadh" mood="Imper" person="Base" />
+  <moodForm default="rocaim" mood="Imper" person="Sg1" />
+  <moodForm default="roc" mood="Imper" person="Sg2" />
+  <moodForm default="rocaimis" mood="Imper" person="Pl1" />
+  <moodForm default="rocaigí" mood="Imper" person="Pl2" />
+  <moodForm default="rocaidís" mood="Imper" person="Pl3" />
+  <moodForm default="roctar" mood="Imper" person="Auto" />
+  <moodForm default="roca" mood="Subj" person="Base" />
+  <moodForm default="rocaimid" mood="Subj" person="Pl1" />
+  <moodForm default="roctar" mood="Subj" person="Auto" />
+</verb>

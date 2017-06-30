@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="leamhsháinnigh" disambig="">
+  <verbalNoun default="leamhsháinniú" />
+  <verbalAdjective default="leamhsháinnithe" />
+  <tenseForm default="leamhsháinnigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="leamhsháinníomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="leamhsháinníodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="leamhsháinníodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="leamhsháinnigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="leamhsháinníomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="leamhsháinníodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="leamhsháinníodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="leamhsháinníodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="leamhsháinnínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leamhsháinníteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="leamhsháinnímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leamhsháinnídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="leamhsháinnítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leamhsháinníodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="leamhsháinnínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leamhsháinníteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="leamhsháinnímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leamhsháinnídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="leamhsháinnítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leamhsháinníonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="leamhsháinním" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="leamhsháinnímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="leamhsháinnítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="leamhsháinníonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="leamhsháinním" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="leamhsháinnímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="leamhsháinnítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="leamhsháinneoidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="leamhsháinneoimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="leamhsháinneofar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="leamhsháinneoidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="leamhsháinneoimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="leamhsháinneofar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="leamhsháinneodh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="leamhsháinneoinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="leamhsháinneofá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="leamhsháinneoimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="leamhsháinneoidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="leamhsháinneofaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="leamhsháinneodh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="leamhsháinneoinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="leamhsháinneofá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="leamhsháinneoimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="leamhsháinneoidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="leamhsháinneofaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="leamhsháinníodh" mood="Imper" person="Base" />
+  <moodForm default="leamhsháinním" mood="Imper" person="Sg1" />
+  <moodForm default="leamhsháinnigh" mood="Imper" person="Sg2" />
+  <moodForm default="leamhsháinnímis" mood="Imper" person="Pl1" />
+  <moodForm default="leamhsháinnígí" mood="Imper" person="Pl2" />
+  <moodForm default="leamhsháinnídís" mood="Imper" person="Pl3" />
+  <moodForm default="leamhsháinnítear" mood="Imper" person="Auto" />
+  <moodForm default="leamhsháinní" mood="Subj" person="Base" />
+  <moodForm default="leamhsháinnímid" mood="Subj" person="Pl1" />
+  <moodForm default="leamhsháinnítear" mood="Subj" person="Auto" />
+</verb>

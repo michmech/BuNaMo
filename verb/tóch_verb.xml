@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="tóch" disambig="">
+  <verbalNoun default="tóch" />
+  <verbalAdjective default="tóchta" />
+  <tenseForm default="tóch" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="tóchamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="tóchadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="tóchadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="tóch" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="tóchamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="tóchadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="tóchadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="tóchadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="tóchainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tóchtá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="tóchaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tóchaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="tóchtaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tóchadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="tóchainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tóchtá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="tóchaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tóchaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="tóchtaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tóchann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="tóchaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="tóchaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="tóchtar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="tóchann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="tóchaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="tóchaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="tóchtar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="tóchfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="tóchfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="tóchfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="tóchfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="tóchfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="tóchfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="tóchfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="tóchfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="tóchfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="tóchfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="tóchfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="tóchfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="tóchfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="tóchfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="tóchfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="tóchfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="tóchfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="tóchfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="tóchadh" mood="Imper" person="Base" />
+  <moodForm default="tóchaim" mood="Imper" person="Sg1" />
+  <moodForm default="tóch" mood="Imper" person="Sg2" />
+  <moodForm default="tóchaimis" mood="Imper" person="Pl1" />
+  <moodForm default="tóchaigí" mood="Imper" person="Pl2" />
+  <moodForm default="tóchaidís" mood="Imper" person="Pl3" />
+  <moodForm default="tóchtar" mood="Imper" person="Auto" />
+  <moodForm default="tócha" mood="Subj" person="Base" />
+  <moodForm default="tóchaimid" mood="Subj" person="Pl1" />
+  <moodForm default="tóchtar" mood="Subj" person="Auto" />
+</verb>

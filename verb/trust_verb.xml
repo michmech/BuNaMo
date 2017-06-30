@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="trust" disambig="">
+  <verbalNoun default="trust" />
+  <verbalAdjective default="trusta" />
+  <tenseForm default="trust" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="trustamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="trustadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="trustadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="trust" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="trustamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="trustadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="trustadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="trustadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="trustainn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="trustá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="trustaimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="trustaidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="trustaí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="trustadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="trustainn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="trustá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="trustaimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="trustaidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="trustaí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="trustann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="trustaim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="trustaimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="trustar" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="trustann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="trustaim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="trustaimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="trustar" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="trustfaidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="trustfaimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="trustfar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="trustfaidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="trustfaimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="trustfar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="trustfadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="trustfainn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="trustfá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="trustfaimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="trustfaidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="trustfaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="trustfadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="trustfainn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="trustfá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="trustfaimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="trustfaidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="trustfaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="trustadh" mood="Imper" person="Base" />
+  <moodForm default="trustaim" mood="Imper" person="Sg1" />
+  <moodForm default="trust" mood="Imper" person="Sg2" />
+  <moodForm default="trustaimis" mood="Imper" person="Pl1" />
+  <moodForm default="trustaigí" mood="Imper" person="Pl2" />
+  <moodForm default="trustaidís" mood="Imper" person="Pl3" />
+  <moodForm default="trustar" mood="Imper" person="Auto" />
+  <moodForm default="trusta" mood="Subj" person="Base" />
+  <moodForm default="trustaimid" mood="Subj" person="Pl1" />
+  <moodForm default="trustar" mood="Subj" person="Auto" />
+</verb>

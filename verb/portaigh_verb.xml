@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="portaigh" disambig="">
+  <verbalNoun default="portú" />
+  <verbalAdjective default="portaithe" />
+  <tenseForm default="portaigh" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="portaíomar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="portaíodar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="portaíodh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="portaigh" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="portaíomar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="portaíodar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="portaíodh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="portaíodh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="portaínn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="portaíteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="portaímis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="portaídís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="portaítí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="portaíodh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="portaínn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="portaíteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="portaímis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="portaídís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="portaítí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="portaíonn" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="portaím" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="portaímid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="portaítear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="portaíonn" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="portaím" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="portaímid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="portaítear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="portóidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="portóimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="portófar" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="portóidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="portóimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="portófar" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="portódh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="portóinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="portófá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="portóimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="portóidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="portófaí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="portódh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="portóinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="portófá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="portóimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="portóidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="portófaí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="portaíodh" mood="Imper" person="Base" />
+  <moodForm default="portaím" mood="Imper" person="Sg1" />
+  <moodForm default="portaigh" mood="Imper" person="Sg2" />
+  <moodForm default="portaímis" mood="Imper" person="Pl1" />
+  <moodForm default="portaígí" mood="Imper" person="Pl2" />
+  <moodForm default="portaídís" mood="Imper" person="Pl3" />
+  <moodForm default="portaítear" mood="Imper" person="Auto" />
+  <moodForm default="portaí" mood="Subj" person="Base" />
+  <moodForm default="portaímid" mood="Subj" person="Pl1" />
+  <moodForm default="portaítear" mood="Subj" person="Auto" />
+</verb>
